@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
 
 @Component({
@@ -8,7 +8,7 @@ import {ActivatedRoute, Router} from "@angular/router";
   templateUrl: './songs-of-the-week.component.html',
   styleUrl: './songs-of-the-week.component.scss'
 })
-export class SongsOfTheWeekComponent {
+export class SongsOfTheWeekComponent implements OnInit {
 
   activeWeek? : string;
   activeYear? : string;
