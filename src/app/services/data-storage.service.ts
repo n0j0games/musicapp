@@ -33,7 +33,7 @@ export class DataStorageService {
     ).pipe(
         tap((value : SotwItem) => {
           if (value != null) {
-            console.log("Requested SOTW item")
+            console.log("Requested SOTW item", value)
             this.sotwService.setSongsOfTheWeek(value);
           }
         })

@@ -1,6 +1,6 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {Song} from "../../models/song";
-import {NgOptimizedImage} from "@angular/common";
+import {NgIf, NgOptimizedImage} from "@angular/common";
 import {RatingComponent} from "../../common/rating/rating.component";
 
 @Component({
@@ -8,7 +8,8 @@ import {RatingComponent} from "../../common/rating/rating.component";
   standalone: true,
     imports: [
         NgOptimizedImage,
-        RatingComponent
+        RatingComponent,
+        NgIf
     ],
   templateUrl: './song-detail.component.html',
   styleUrl: './song-detail.component.scss'

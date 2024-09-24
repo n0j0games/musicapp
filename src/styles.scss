@@ -28,8 +28,14 @@
   src: url(assets/font/PlusJakartaSans-MediumItalic.ttf) format("truetype");
 }
 
+$accent-color: #FFBA00;
+$background-accent-color: #BB8A52;
+$primary-color: #0C3B2E;
+$secondary-color: #6D9773;
+
 body {
-  background: #131313;
+  background: $primary-color;
+  overflow-x: hidden;
 }
 
 p {
@@ -43,18 +49,22 @@ p, a {
   text-align: center;
 }
 
+.left-text {
+  text-align: left;
+}
+
 .text-margin {
   margin: 0 7px;
 }
 
 a {
-  color: white;
+  color: $background-accent-color;
   outline: none;
   text-decoration: none;
 }
 
 a:hover {
-  color: #F68187;
+  color: $accent-color;
   cursor: pointer;
 }
 
@@ -136,4 +146,29 @@ body {
 
 .title-gap-b {
   margin-bottom: 40px;
+}
+
+/**
+  Scrollbar
+ */
+
+/*
+    Scrollbar
+ */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #131313;
+  background-size: 400% 100%;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3a3a3a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d87272;
 }

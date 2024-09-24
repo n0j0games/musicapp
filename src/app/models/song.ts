@@ -7,7 +7,8 @@ export class Song {
               public url : string,
               public imgUrl : string,
               public previewUrl : string,
-              public rating : number) {
+              public rating : number,
+              public album? : string) {
   }
 
 }

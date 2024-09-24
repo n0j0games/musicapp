@@ -8,9 +8,11 @@
 }
 
 app-header {
+  position: fixed;
+  top: 0;
   width: 100%;
 }
 
 .main-content {
-  margin: 50px 40px 0 40px;
+  margin: 150px 40px 50px 40px;
 }

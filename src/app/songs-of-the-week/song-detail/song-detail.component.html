@@ -1,8 +1,9 @@
 <div class="flex-row align-center gap-l">
     <img class="cover" src="{{song.imgUrl}}" alt="">
     <div class="flex-column align-start">
-        <p class="p-b-i fs-l">{{ song.artist }}</p>
-        <a class="p-b-i fs-xl fake-gap-b" href="{{song.url}}" target="_blank" >{{ song.title }}</a>
-        <app-rating [rating]="song.rating"></app-rating>
+        <p class="p-b-i fs-l left-text">{{ song.artist }}</p>
+        <a class="p-b-i fs-xl left-text fake-gap-b" href="{{song.url}}" target="_blank" >{{ song.title }}</a>
+        <p *ngIf="song.album !== undefined">Album: {{ song.album }}</p>
+        <!--<app-rating [rating]="song.rating"></app-rating>-->
     </div>
 </div>
