@@ -3,6 +3,7 @@ import {NgForOf} from "@angular/common";
 import {RouterLink} from "@angular/router";
 import {SotwService} from "../services/sotw.service";
 import {SotwList} from "../models/sotw-list";
+import {WeekHelper} from "../common/week-helper";
 
 @Component({
   selector: 'app-home',
@@ -19,6 +20,8 @@ export class HomeComponent implements OnInit {
   sotwList! : SotwList | null;
 
   constructor(private sotwService: SotwService) {}
+
+  weekHelper = new WeekHelper();
 
   ngOnInit() {
     this.sotwList = this.sotwService.getSotwList();

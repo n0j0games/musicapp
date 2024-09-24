@@ -27,4 +27,14 @@ export class WeekHelper {
         return 1 + Math.ceil((firstThursday - tempDate.valueOf()) / 604800000); // 604800000 = number of milliseconds in a week
     }
 
+
+    public getFridayOfWeek(week : number | undefined, year : number | undefined) {
+        if (week === undefined || year === undefined) {
+            return Date.now().toLocaleString("de-DE");
+        }
+        const dayOfYear : number = (1 + (week - 1) * 7); // 1st of January + 7 days for each week
+        const friday : Date = new Date(year, 0, dayOfYear + 4);
+        return friday.toLocaleDateString("de-DE");
+    }
+
 }

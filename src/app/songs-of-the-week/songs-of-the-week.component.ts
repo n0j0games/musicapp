@@ -4,6 +4,7 @@ import {SotwService} from "../services/sotw.service";
 import {SongDetailComponent} from "./song-detail/song-detail.component";
 import {NgForOf, NgIf} from "@angular/common";
 import {SotwItem} from "../models/sotw-item";
+import {WeekHelper} from "../common/week-helper";
 
 @Component({
   selector: 'app-songs-of-the-week',
@@ -22,6 +23,8 @@ export class SongsOfTheWeekComponent implements OnInit {
   activeYear : number = 0;
 
   songsOfTheWeek! : SotwItem | null;
+
+  weekHelper = new WeekHelper();
 
   constructor(private route: ActivatedRoute, private router: Router, private sotwService : SotwService) {}
 

@@ -6,7 +6,7 @@
                 *ngFor="let item of sotwList?.items"
                 [routerLink]="['/sotw', item.year + item.week]"
         >
-            week <b class="p-b">#{{ item.week }}</b> of <b class="p-b">{{ item.year }}</b>
+            <b class="p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</b> (week #{{ item.week }})
         </a>
     </div>
 </div>
