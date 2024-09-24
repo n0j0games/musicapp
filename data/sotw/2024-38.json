@@ -24,7 +24,8 @@
       "previewUrl" : "",
       "url" : "https://open.spotify.com/track/10UojyIuYmx1wX2SdD10I2?si=be01f71ed04a4200",
       "imgUrl" : "https://i.scdn.co/image/ab67616d00001e02831d791839a8fd0346509a2d",
-      "rating" : 10
+      "rating" : 10,
+      "album" : "Kinder können fies sein"
     },
     {
       "artist" : "Lecrae",
@@ -79,7 +80,8 @@
       "previewUrl" : "",
       "url" : "https://open.spotify.com/intl-de/track/0pMj03SiaZ9bkFlXQWNhtZ?si=a5e813b0c67044aa",
       "imgUrl" : "https://i.scdn.co/image/ab67616d00001e023126a95bb7ed4146a80c7fc6",
-      "rating" : 9
+      "rating" : 9,
+      "album" : "In Waves"
     }
   ]
 }
