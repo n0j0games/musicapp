@@ -5,18 +5,18 @@
     {
       "artist" : "Bad Bunny",
       "title" : "Una Velita",
-      "preview-url" : "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=cfe923b2d660439caf2b557b21f31221",
+      "previewUrl" : "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=cfe923b2d660439caf2b557b21f31221",
       "url" : "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF?si=45b99ad3fba042de",
-      "img-url" : "https://upload.wikimedia.org/wikipedia/en/5/58/Bad_Bunny_-_Una_Velita.png",
+      "imgUrl" : "https://upload.wikimedia.org/wikipedia/en/5/58/Bad_Bunny_-_Una_Velita.png",
       "rating" : 8
     },
     {
       "artist" : "RIN",
       "title" : "1994",
-      "preview-url" : "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=cfe923b2d660439caf2b557b21f31221",
+      "previewUrl" : "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=cfe923b2d660439caf2b557b21f31221",
       "url" : "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX?si=dad1b77a463f462c",
-      "img-url" : "https://i.scdn.co/image/ab67616d00001e02ee0959223e5e754f52573ffe",
-      "rating" : 8
+      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e02ee0959223e5e754f52573ffe",
+      "rating" : 9
     }
   ]
 }
