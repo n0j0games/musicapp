@@ -1,5 +1,5 @@
 <div class="body">
-  <p class="p-b-i title">rate now cry later</p>
-  <p>songs of the week</p>
-  <p>albums of the year</p>
+    <a class="p-b-i title" [routerLink]="['/home']">rate now cry later</a>
+    <a class="text-margin" [routerLink]="['/sotw', currentYear.toString() + currentWeek.toString()]">fav songs from this week</a>
+    <a class="text-margin">albums of the year so far</a>
 </div>

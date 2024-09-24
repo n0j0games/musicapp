@@ -28,10 +28,34 @@
   src: url(assets/font/PlusJakartaSans-MediumItalic.ttf) format("truetype");
 }
 
+body {
+  background: #131313;
+}
+
+p {
+  color: white;
+}
+
 p, a {
   font-family: "Plus Jakarta Sans Medium", serif;
   font-size: 14px;
+  margin: 0;
+  text-align: center;
+}
+
+.text-margin {
   margin: 0 7px;
+}
+
+a {
+  color: white;
+  outline: none;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F68187;
+  cursor: pointer;
 }
 
 .p-b {
@@ -56,4 +80,60 @@ p, a {
 
 body {
   margin: 0;
+}
+
+.fs-s {
+  font-size: 12px;
+}
+
+.fs-m {
+  font-size: 14px;
+}
+
+.fs-l {
+  font-size: 16px;
+}
+
+.fs-xl {
+  font-size: 20px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.gap-l {
+  gap: 15px;
+}
+
+.fake-gap-b {
+  margin-bottom: 15px;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.align-start {
+  align-items: flex-start;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.title-gap-b {
+  margin-bottom: 40px;
 }
