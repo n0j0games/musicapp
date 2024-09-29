@@ -1,87 +1,95 @@
 {
-  "year" : 2024,
-  "week" : 38,
-  "songs" : [
+  "year": 2024,
+  "week": 38,
+  "songs": [
     {
-      "artist" : "Bad Bunny",
-      "title" : "Una Velita",
-      "previewUrl" : "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=cfe923b2d660439caf2b557b21f31221",
-      "url" : "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF?si=45b99ad3fba042de",
-      "imgUrl" : "https://upload.wikimedia.org/wikipedia/en/5/58/Bad_Bunny_-_Una_Velita.png",
-      "rating" : 8
+      "previewUrl": "https://p.scdn.co/mp3-preview/1a54b75adbf10b511a794d0bd32d6ee41ab3247f?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730e8bd730b263fe1f382e642d",
+      "title": "Die For The Party",
+      "artist": "Lecrae",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41"
     },
     {
-      "artist" : "RIN",
-      "title" : "1994",
-      "previewUrl" : "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=cfe923b2d660439caf2b557b21f31221",
-      "url" : "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX?si=dad1b77a463f462c",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e02ee0959223e5e754f52573ffe",
-      "rating" : 8
+      "previewUrl": "https://p.scdn.co/mp3-preview/b670cf6926060ed00ee5cfb2b1a6c84cdb244fd3?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ee0959223e5e754f52573ffe",
+      "title": "1994",
+      "artist": "RIN",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
     },
     {
-      "artist" : "Jassin",
-      "title" : "Kinder können fies sein",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/track/10UojyIuYmx1wX2SdD10I2?si=be01f71ed04a4200",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e02831d791839a8fd0346509a2d",
-      "rating" : 10,
-      "album" : "Kinder können fies sein"
+      "previewUrl": "https://p.scdn.co/mp3-preview/261bc3bd3192ef4158b1ca42e95262113241a326?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733126a95bb7ed4146a80c7fc6",
+      "title": "Life",
+      "artist": "Jamie xx, Robyn",
+      "rating": 0,
+      "album": "In Waves",
+      "url": "https://open.spotify.com/track/0pMj03SiaZ9bkFlXQWNhtZ"
     },
     {
-      "artist" : "Lecrae",
-      "title" : "Die For The Party",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/1JvV2nnstVEGe8rZ85EM41?si=7478fe1caacd4513",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e020e8bd730b263fe1f382e642d",
-      "rating" : 8
-    },{
-      "artist" : "$OHO BANI, Ericson, Apsilon",
-      "title" : "perfekt(er)",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/7s9R9Trgu0rM9ZF1lKb5Vo?si=ec5da86097214992",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e02c240387a48237c053712568a",
-      "rating" : 9
+      "previewUrl": "https://p.scdn.co/mp3-preview/8bc515db004c7390c6f66e2fd7ca7207ff88a529?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273eb5efee120bead72cefb2f0d",
+      "title": "Una Velita",
+      "artist": "Bad Bunny",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF"
     },
     {
-      "artist" : "Verifiziert",
-      "title" : "fliegen",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/4Or1AiWX58dlO8mIfUTh2p?si=02104d1f40784082",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e024cb330cb9f150955284cc3cc",
-      "rating" : 8
+      "previewUrl": "https://p.scdn.co/mp3-preview/02c770f024e189fd366fc65504f55add73473571?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c240387a48237c053712568a",
+      "title": "perfekt(er)",
+      "artist": "$OHO BANI, Ericson, Apsilon",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/7s9R9Trgu0rM9ZF1lKb5Vo"
     },
     {
-      "artist" : "Schmyt",
-      "title" : "Ich lieb dich kaputt",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/4Ofqdvr2QPmbbJQNfOJFwV?si=4fc8499aef674c05",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e028d584fa8f9afe0166ec9e4c4",
-      "rating" : 8
+      "previewUrl": "https://p.scdn.co/mp3-preview/9bf2ad609096a8da93b57a0e7b18fd69fc98a35d?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734cb330cb9f150955284cc3cc",
+      "title": "fliegen",
+      "artist": "Verifiziert",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p"
     },
     {
-      "artist" : "Jean Dawson",
-      "title" : "Houston",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/4d9O0gY7JmTXRHNmv4It66?si=e29d0512819b4564",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e021de400f2fefd0de5bfc5c9cf",
-      "rating" : 7
+      "previewUrl": "https://p.scdn.co/mp3-preview/67bfb1743b72f54b640b239a39201efb4ff988c9?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738d584fa8f9afe0166ec9e4c4",
+      "title": "Ich lieb dich kaputt",
+      "artist": "Schmyt",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/4Ofqdvr2QPmbbJQNfOJFwV"
     },
     {
-      "artist" : "Ufo361, Paula Hartmann",
-      "title" : "Red Cups",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/4MQEO1kn7nPytvAImsLyzs?si=ec973ce15fb64fdb",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e025ae33af1a2be45bf61d85fc7",
-      "rating" : 7
+      "previewUrl": "https://p.scdn.co/mp3-preview/683dbdd7a29a1916b30d6edb52aa812f0fd71244?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731de400f2fefd0de5bfc5c9cf",
+      "title": "Houston",
+      "artist": "Jean Dawson",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
     },
     {
-      "artist" : "Jaime xx, Robyn",
-      "title" : "Life",
-      "previewUrl" : "",
-      "url" : "https://open.spotify.com/intl-de/track/0pMj03SiaZ9bkFlXQWNhtZ?si=a5e813b0c67044aa",
-      "imgUrl" : "https://i.scdn.co/image/ab67616d00001e023126a95bb7ed4146a80c7fc6",
-      "rating" : 9,
-      "album" : "In Waves"
+      "previewUrl": "https://p.scdn.co/mp3-preview/069cb68e6ce2641296e37261762ca8458e891796?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735ae33af1a2be45bf61d85fc7",
+      "title": "RED CUPS (feat. Paula Hartmann)",
+      "artist": "Ufo361, Paula Hartmann",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/cd0a9009ee990af4df1ee8e51581c9e1b3e3e59c?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273831d791839a8fd0346509a2d",
+      "title": "Kinder können fies sein",
+      "artist": "Jassin",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/10UojyIuYmx1wX2SdD10I2"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5722e22b98748f355d073bbe757311ad41862800?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27382e856e42426e69b8bb43461",
+      "title": "Nightcall",
+      "artist": "Kavinsky, Angèle, Phoenix",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
     }
   ]
 }
