@@ -28,10 +28,10 @@
   src: url(assets/font/PlusJakartaSans-MediumItalic.ttf) format("truetype");
 }
 
-$accent-color: #FFBA00;
-$background-accent-color: #BB8A52;
-$primary-color: #0C3B2E;
-$secondary-color: #6D9773;
+$accent-color: #00995E;
+$primary-color: white;
+$secondary-color: #FFC567;
+$text-color: black;
 
 body {
   background: $primary-color;
@@ -39,7 +39,7 @@ body {
 }
 
 p {
-  color: white;
+  color: $text-color;
 }
 
 p, a {
@@ -58,7 +58,7 @@ p, a {
 }
 
 a {
-  color: $background-accent-color;
+  color: $accent-color;
   outline: none;
   text-decoration: none;
 }
@@ -114,6 +114,10 @@ body {
   gap: 5px;
 }
 
+.gap-s {
+  gap: 7px;
+}
+
 .gap-l {
   gap: 15px;
 }
@@ -146,6 +150,17 @@ body {
 
 .title-gap-b {
   margin-bottom: 40px;
+}
+
+.play {
+  font-size: 20px;
+  width: 25px;
+  height: 25px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: $accent-color;;
+  text-decoration: none;
 }
 
 /**

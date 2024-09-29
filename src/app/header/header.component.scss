@@ -1,14 +1,11 @@
-$accent-color: #FFBA00;
-$background-accent-color: #BB8A52;
-$primary-color: #0C3B2E;
-$secondary-color: rgba(109, 151, 115, 0.45);
+$accent-color: #00995E;
+$primary-color: #FB7DA8;
 
 .body {
-  background: $secondary-color;
+  background: $accent-color;
   display: flex;
   flex-direction: row;
   padding: 20px 40px;
-  backdrop-filter: blur(10px);
 }
 
 .title {
@@ -17,9 +14,9 @@ $secondary-color: rgba(109, 151, 115, 0.45);
 }
 
 a {
-  color: $accent-color;
+  color: $primary-color;
 }
 
 a:hover {
-  color: $primary-color;
+  color: white;
 }
