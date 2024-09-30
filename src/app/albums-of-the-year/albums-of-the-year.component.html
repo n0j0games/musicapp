@@ -3,7 +3,7 @@
     <app-album-detail
             *ngFor="let album of albumsOfTheYear.albums; index as i"
             [album]="album"
-            [index]="i"
+            [index]="i+1"
     ></app-album-detail>
 </div>
 <div *ngIf="albumsOfTheYear === null">
