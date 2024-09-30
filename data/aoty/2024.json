@@ -1,0 +1,86 @@
+{
+  "year": 2024,
+  "albums": [
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/887267-brat_141745.jpg",
+      "title": "BRAT",
+      "artist": "Charli xcx",
+      "rating": 9,
+      "url": "https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php",
+      "songs" : ["365","Von dutch","Club classics","Rewind","Girl, so confusing"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/965192-charm_160348.jpg",
+      "title": "Charm",
+      "artist": "Clairo",
+      "rating": 9,
+      "url": "https://www.albumoftheyear.org/album/965192-clairo-charm.php",
+      "songs" : ["Nomad","Juna","Sexy to Someone","Second Nature","Slow Dance"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/873803-cowboy-carter_012650.jpg",
+      "title": "COWBOY CARTER",
+      "artist": "Beyoncé",
+      "rating": 9,
+      "url": "https://www.albumoftheyear.org/album/873803-beyonce-cowboy-carter.php",
+      "songs" : ["AMERIICAN REQUIEM","DAUGHTER","YA YA","TYRANT","SWEET HONEY BUCKIIN'"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/976637-in-waves_195712.jpg",
+      "title": "In Waves",
+      "artist": "Jaime xx",
+      "rating": 8,
+      "url": "https://www.albumoftheyear.org/album/976637-jamie-xx-in-waves.php",
+      "songs" : ["Life","Treat Each Other Right","All You Children","Waited All Night","Wanna"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/1080959-kinder-konnen-fies-sein_165037.jpg",
+      "title": "Kinder können fies sein",
+      "artist": "Jassin",
+      "rating": 8,
+      "url": "https://www.albumoftheyear.org/album/1080959-jassin-kinder-konnen-fies-sein.php",
+      "songs" : ["Kinder können fies sein","Venedig","schlechte Träume","Pretty Privilege"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/931219-romance_191815.jpg",
+      "title": "Romance",
+      "artist": "Fontaines D.C.",
+      "rating": 8,
+      "url": "https://www.albumoftheyear.org/album/931219-fontaines-dc-romance.php",
+      "songs" : []
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/887094-assisted-memories_200640.jpg",
+      "title": "assisted memories",
+      "artist": "Night Tapes",
+      "rating": 8,
+      "url": "https://www.albumoftheyear.org/album/887094-night-tapes-assisted-memories.php",
+      "songs" : ["drifting","loner","easy time to be alive","projections","every day is a game"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/882149-submarine_182732.jpg",
+      "title": "Submarine",
+      "artist": "The Marías",
+      "rating": 8,
+      "url": "https://www.albumoftheyear.org/album/882149-the-marias-submarine.php",
+      "songs" : ["Echo","Run Your Mouth","Real Life","Lejos de Ti","No One Noticed"]
+    },
+    {
+      "previewUrl": "",
+      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/924853-hit-me-hard-and-soft_035010.jpg",
+      "title": "HIT ME HARD AND SOFT",
+      "artist": "Billie Eilish",
+      "rating": 8,
+      "url": "https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php",
+      "songs" : ["Chihiro","Skinny","Birds of a Feather","Wildflower","The Greatest"]
+    }
+  ]
+}
