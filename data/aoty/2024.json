@@ -2,13 +2,19 @@
   "year": 2024,
   "albums": [
     {
-      "previewUrl": "",
-      "imgUrl": "https://cdn2.albumoftheyear.org/200x/album/887267-brat_141745.jpg",
+      "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
       "title": "BRAT",
       "artist": "Charli xcx",
-      "rating": 9,
-      "url": "https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php",
-      "songs" : ["365","Von dutch","Club classics","Rewind","Girl, so confusing"]
+      "previewUrl": "https://p.scdn.co/mp3-preview/34231118fa980913824d4ccf78be931e999f69f1?cid=941103e4872f4d3fad60066c677df34f",
+      "songs": [
+        "Club classics",
+        "Von dutch",
+        "Girl, so confusing",
+        "Mean girls",
+        "365"
+      ],
+      "rating": 9
     },
     {
       "previewUrl": "",

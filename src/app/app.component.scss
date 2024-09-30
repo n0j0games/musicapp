@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100vw;
+  width: 100%;
 }
 
 app-header {
@@ -14,5 +14,11 @@ app-header {
 }
 
 .main-content {
-  margin: 150px 40px 50px 40px;
+  margin: 150px 40px 100px 40px;
+}
+
+@media (width < 500px) {
+  .main-content {
+    margin: 120px 10px 100px 10px;
+  }
 }

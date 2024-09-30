@@ -14,8 +14,7 @@ import {WeekHelper} from "../common/week-helper";
     NgForOf,
     NgIf
   ],
-  templateUrl: './songs-of-the-week.component.html',
-  styleUrl: './songs-of-the-week.component.scss'
+  templateUrl: './songs-of-the-week.component.html'
 })
 export class SongsOfTheWeekComponent implements OnInit {
 

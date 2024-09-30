@@ -2,12 +2,12 @@
     <img class="cover" src="{{song.imgUrl}}" alt="">
     <div class="flex-column align-start gap-s">
         <p class="p-b-i fs-l left-text">{{ song.artist }}</p>
-        <div class="flex-row align-center gap-s fake-gap-b justify-center">
+        <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
             <a class="p-b-i fs-xl left-text" href="{{song.url}}" target="_blank" >{{ song.title }}</a>
-            <button class="play flex-column align-center justify-center" (click)="playAudio()">
-                <i *ngIf="!isPlaying" class="fa-solid fa-play"></i>
-                <i *ngIf="isPlaying" class="fa-solid fa-pause"></i>
-            </button>
+            <app-play-button
+                    [url]="song.previewUrl"
+                    [isPlaying]="isPlaying"
+            ></app-play-button>
         </div>
         <p *ngIf="song.album !== undefined">Album: {{ song.album }}</p>
         <!--<app-rating [rating]="song.rating"></app-rating>-->

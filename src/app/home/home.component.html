@@ -9,4 +9,14 @@
             <b class="p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</b> (week #{{ item.week }})
         </a>
     </div>
+    <p class="p-b-i fs-xl">my fav albums of each year</p>
+    <div class="list">
+        <a
+                class="fs-l"
+                *ngFor="let item of aotyList?.items"
+                [routerLink]="['/aoty', item.toString()]"
+        >
+            <b class="p-b">{{ item }}</b>
+        </a>
+    </div>
 </div>

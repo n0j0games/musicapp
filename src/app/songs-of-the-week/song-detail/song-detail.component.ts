@@ -3,6 +3,7 @@ import {Song} from "../../models/song";
 import {NgIf, NgOptimizedImage} from "@angular/common";
 import {RatingComponent} from "../../common/rating/rating.component";
 import {AudioService} from "../../services/audio.service";
+import {PlayButtonComponent} from "../../common/play-button/play-button.component";
 
 @Component({
   selector: 'app-song-detail',
@@ -10,14 +11,16 @@ import {AudioService} from "../../services/audio.service";
     imports: [
         NgOptimizedImage,
         RatingComponent,
-        NgIf
+        NgIf,
+        PlayButtonComponent
     ],
-  templateUrl: './song-detail.component.html',
-  styleUrl: './song-detail.component.scss'
+  templateUrl: './song-detail.component.html'
 })
-export class SongDetailComponent implements OnInit, OnDestroy {
+export class SongDetailComponent implements OnInit {
 
     isPlaying = false;
+
+    @Input() song! : Song;
 
     constructor(private audioService : AudioService) {
     }
@@ -26,16 +29,6 @@ export class SongDetailComponent implements OnInit, OnDestroy {
         this.audioService.playStatusChanged$.subscribe(status => {
             this.isPlaying = status !== null && status === this.song.previewUrl
         })
-    }
-
-    ngOnDestroy() {
-        this.audioService.stopAudio();
-    }
-
-    @Input() song! : Song;
-
-    playAudio() {
-        this.audioService.playAudio(this.song.previewUrl)
     }
 
 }

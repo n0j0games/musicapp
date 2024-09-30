@@ -1,5 +1,5 @@
 <p class="p-i fs-xl title-gap-b"><b class="p-b-i"> my fav songs from {{ weekHelper.getFridayOfWeek(songsOfTheWeek?.week, songsOfTheWeek?.year )}}</b> (week #{{songsOfTheWeek?.week}})</p>
-<div *ngIf="songsOfTheWeek !== null" class="list gap-l">
+<div *ngIf="songsOfTheWeek !== null" class="list gap-xl">
     <app-song-detail
             *ngFor="let song of songsOfTheWeek.songs"
             [song]="song"

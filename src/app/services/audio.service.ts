@@ -17,6 +17,7 @@ export class AudioService {
             this.playStatusChanged$.next(null);
         }
         if (this.previewUrl === previewUrl) {
+            this.previewUrl = "";
             return;
         }
         this.previewUrl = previewUrl;

@@ -4,6 +4,7 @@ import {RouterLink} from "@angular/router";
 import {SotwService} from "../services/sotw.service";
 import {SotwList} from "../models/sotw-list";
 import {WeekHelper} from "../common/week-helper";
+import {AotyService} from "../services/aoty.service";
 
 @Component({
   selector: 'app-home',
@@ -18,12 +19,19 @@ import {WeekHelper} from "../common/week-helper";
 export class HomeComponent implements OnInit {
 
   sotwList! : SotwList | null;
+  aotyList! : { items? : number[] } | null;
 
-  constructor(private sotwService: SotwService) {}
+  constructor(private sotwService: SotwService,
+              private aotyService: AotyService) {}
 
   weekHelper = new WeekHelper();
 
   ngOnInit() {
+    this.setSotyList();
+    this.setAotyList();
+  }
+
+  private setSotyList() {
     this.sotwList = this.sotwService.getSotwList();
     if (this.sotwList === null || this.sotwList.items === undefined) {
       console.error("SotwList was undefined, try to wait for list change")
@@ -39,6 +47,24 @@ export class HomeComponent implements OnInit {
       return;
     }
     this.sotwList.items = this.sotwList.items.sort((a, b) => b.week - a.week);
+  }
+
+  private setAotyList() {
+    this.aotyList = this.aotyService.getAotyList();
+    if (this.aotyList === null || this.aotyList.items === undefined) {
+      console.error("AotyList was undefined, try to wait for list change")
+      this.aotyService.aotyListChanged$.subscribe({
+        next: (v) => {
+          this.aotyList = v
+          if (this.aotyList.items !== undefined) {
+            this.aotyList.items = this.aotyList.items.sort((a, b) => b - a);
+          }
+        },
+        error: (e) => console.log(e)
+      })
+      return;
+    }
+    this.aotyList.items = this.aotyList.items.sort((a, b) => b - a);
   }
 
 }
