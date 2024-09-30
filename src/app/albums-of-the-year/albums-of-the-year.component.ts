@@ -23,6 +23,7 @@ import {AlbumDetailComponent} from "./album-detail/album-detail.component";
 export class AlbumsOfTheYearComponent implements OnInit {
 
   activeYear : number = 0;
+  thisYear = new Date().getFullYear();
 
   albumsOfTheYear! : AotyItem | null;
 
