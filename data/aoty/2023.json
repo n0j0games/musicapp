@@ -1,278 +1,180 @@
 {
-  "year": 2023,
+  "year" : 2023,
   "albums": [
     {
-      "url": "https://open.spotify.com/album/1T5Io9YOcBoLJQIBJ7WsOa",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27308b00a823962cc73d8ee5bbb",
-      "title": "Sandstorm exuleD",
+      "url": "https://open.spotify.com/album/3xIGEJmkjHStjXHnY5Kh4U",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec8ae91e5415cbb3664d6b18",
+      "title": "Sandstorm",
       "artist": "TYM",
-      "previewUrl": "https://p.scdn.co/mp3-preview/a7f4272769bdd3a08be0607eb832e845cd5c9b28?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "Allemeinefreundesindamsee",
-        "Kennmeinnamen",
-        "Htsjgljtd",
-        "Ivebeenlookinforsomething",
-        "Safespace",
-        "Summertymisvorbei",
-        "Wirsindziemlichslay",
-        "Kippenachdemsex",
-        "Buchstabensuppe",
-        "Atlantis",
-        "Warumfühlichwienobodyelse",
-        "Sweetwieeinbuenobabyvielleichtwollnwirkindermachen",
-        "Iwillstaythesame",
-        "Ferngesteuert",
-        "Tbh",
-        "Zsazsimyself",
-        "Babyimurs",
-        "Intergallactic",
-        "Standby"
+        {
+          "title": "ROSEN",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e3c7f4579a812b20ae87f94053a29d465ab535e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LIMONADE",
+          "preview_url": "https://p.scdn.co/mp3-preview/20fe7b8ddab4e953841b6e6cde6e5787083a4513?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ICONIC",
+          "preview_url": "https://p.scdn.co/mp3-preview/17fcce6a3be2fcbb72ce16988e87af1d07c971e2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "/iˈlek.trɪ.faɪ/",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6e467097f3b79ef6aa8ca45ecf9f1777bf9a529?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Gut und schlecht",
+          "preview_url": "https://p.scdn.co/mp3-preview/039b44edc881513ea478a8341820dfc24f42fd90?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cec31736d4e88743ce5bb414",
-      "title": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
-      "artist": "Yves Tumor",
-      "previewUrl": "https://p.scdn.co/mp3-preview/baee62356568d9909a5eaa7d891a33df8bbc6bd6?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "God Is a Circle",
-        "Lovely Sewer",
-        "Meteora Blues",
-        "Interlude",
-        "Parody",
-        "Heaven Surrounds Us Like a Hood",
-        "Operator",
-        "In Spite of War",
-        "Echolalia",
-        "Fear Evil Like Fire",
-        "Purified By the Fire",
-        "Ebony Eye"
-      ],
-      "rating": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
-      "title": "My 21st Century Blues",
-      "artist": "RAYE",
-      "previewUrl": "https://p.scdn.co/mp3-preview/002bee006f07e71569b6668404a8087b3db63b68?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Introduction.",
-        "Oscar Winning Tears.",
-        "Hard Out Here.",
-        "Black Mascara.",
-        "Escapism.",
-        "Mary Jane.",
-        "The Thrill Is Gone.",
-        "Ice Cream Man.",
-        "Flip A Switch.",
-        "Body Dysmorphia.",
-        "Environmental Anxiety.",
-        "Five Star Hotels. (feat. Mahalia)",
-        "Worth It.",
-        "Buss It Down.",
-        "Fin."
-      ],
-      "rating": 0
+      "rating": 8
     },
     {
       "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27316025492336e8584d8b77768",
       "title": "softscars",
       "artist": "yeule",
-      "previewUrl": "https://p.scdn.co/mp3-preview/c8912fe8a238c8bf900fbd17998fca8902456f83?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "x w x",
-        "sulky baby",
-        "softscars",
-        "4ui12",
-        "ghosts",
-        "dazies",
-        "fish in the pool",
-        "software update",
-        "inferno",
-        "bloodbunny",
-        "cyber meat",
-        "aphex twin flame"
+        {
+          "title": "sulky baby",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb0302bd077af2f60535227961ea97bf93b039e5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "softscars",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d060237b6c68706e2d847a7d79df43fe3fd6c4b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "software update",
+          "preview_url": "https://p.scdn.co/mp3-preview/e15a58b3c3b5d9b5ed89d1e14a3bf6372ec2716e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "bloodbunny",
+          "preview_url": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "aphex twin flame",
+          "preview_url": "https://p.scdn.co/mp3-preview/bfbdf070f8352ff96789a640bd3c61e1c38bf56f?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 9.9
     },
     {
-      "url": "https://open.spotify.com/album/3xIGEJmkjHStjXHnY5Kh4U",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec8ae91e5415cbb3664d6b18",
-      "title": "Sandstorm",
+      "url": "https://open.spotify.com/album/1T5Io9YOcBoLJQIBJ7WsOa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27308b00a823962cc73d8ee5bbb",
+      "title": "Sandstorm exuleD",
       "artist": "TYM",
-      "previewUrl": "https://p.scdn.co/mp3-preview/2e3c7f4579a812b20ae87f94053a29d465ab535e?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "ROSEN",
-        "DU WAYST",
-        "KANNST DU MICH",
-        "SOMMERTAGE",
-        "LIMONADE",
-        "KLEEBLATT",
-        "Gut und schlecht - Live Version",
-        "Raue Zärtlichkeit",
-        "Bubble Tea System",
-        "Was Glück ist",
-        "Hinterhof",
-        "Ready 2 Die",
-        "Skit",
-        "NAJA",
-        "ICONIC",
-        "/iˈlek.trɪ.faɪ/",
-        "LIE 2 ME",
-        "ZUCKER - Remix",
-        "CUTE",
-        "200",
-        "DAMALS",
-        "Gut und schlecht",
-        "WEEDSMOKE"
+        {
+          "title": "Allemeinefreundesindamsee",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7f4272769bdd3a08be0607eb832e845cd5c9b28?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Summertymisvorbei",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e1ff372f9e7be10c550d0907f32bde7b1693fdb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wirsindziemlichslay",
+          "preview_url": "https://p.scdn.co/mp3-preview/237418ebb8d65bc9604e9de22d15247570f61cee?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kippenachdemsex",
+          "preview_url": "https://p.scdn.co/mp3-preview/8390da6c04790dfca119dc5746249255e736215d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Buchstabensuppe",
+          "preview_url": "https://p.scdn.co/mp3-preview/06265433acc619659077e1cddd34170e0128585e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Zsazsimyself",
+          "preview_url": "https://p.scdn.co/mp3-preview/cce825a4b5140a4adb659f10add4111cd2e3d83e?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 9
     },
     {
-      "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
-      "title": "Did you know that there's a tunnel under Ocean Blvd",
-      "artist": "Lana Del Rey",
-      "previewUrl": "https://p.scdn.co/mp3-preview/f516623860c65a14631973be9c0d11dc3c279def?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+      "title": "My 21st Century Blues",
+      "artist": "RAYE",
       "songs": [
-        "The Grants",
-        "Did you know that there's a tunnel under Ocean Blvd",
-        "Sweet",
-        "A&W",
-        "Judah Smith Interlude",
-        "Candy Necklace (feat. Jon Batiste)",
-        "Jon Batiste Interlude",
-        "Kintsugi",
-        "Fingertips",
-        "Paris, Texas (feat. SYML)",
-        "Grandfather please stand on the shoulders of my father while he's deep-sea fishing (feat. RIOPY)",
-        "Let The Light In (feat. Father John Misty)",
-        "Margaret (feat. Bleachers)",
-        "Fishtail",
-        "Peppers (feat. Tommy Genesis)",
-        "Taco Truck x VB"
+        {
+          "title": "Oscar Winning Tears.",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd7c83023844599dafe1c963b8b803e6cabc5772?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Black Mascara.",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a8b2d119792e0080c836d2821913dad76f146ed?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Escapism.",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a8fcaf9ddf050562048d1632ddc880c9ce7c972?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mary Jane.",
+          "preview_url": "https://p.scdn.co/mp3-preview/b7d4b16edb1b83eaa604a512c768444b02c4cd97?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Flip A Switch.",
+          "preview_url": "https://p.scdn.co/mp3-preview/9a0dbd0867d4367aa326ef4d796dd0c36c14de73?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 8
     },
     {
-      "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f3a0088f5fc645693815c8ef",
-      "title": "That! Feels Good!",
-      "artist": "Jessie Ware",
-      "previewUrl": "https://p.scdn.co/mp3-preview/c8708ef270287d8a77d38c965fcd42a6a5788ebb?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cec31736d4e88743ce5bb414",
+      "title": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
+      "artist": "Yves Tumor",
       "songs": [
-        "That! Feels Good!",
-        "Free Yourself",
-        "Pearls",
-        "Hello Love",
-        "Begin Again",
-        "Beautiful People",
-        "Freak Me Now",
-        "Shake The Bottle",
-        "Lightning",
-        "These Lips"
-      ],
-      "rating": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
-      "title": "UTOPIA",
-      "artist": "Travis Scott",
-      "previewUrl": "https://p.scdn.co/mp3-preview/966e20875b66ea22371fa9383d31b1cdc445baf1?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "HYAENA",
-        "THANK GOD",
-        "MODERN JAM (feat. Teezo Touchdown)",
-        "MY EYES",
-        "GOD'S COUNTRY",
-        "SIRENS",
-        "MELTDOWN (feat. Drake)",
-        "FE!N (feat. Playboi Carti)",
-        "DELRESTO (ECHOES) (feat. Beyoncé)",
-        "I KNOW ?",
-        "TOPIA TWINS (feat. Rob49 & 21 Savage)",
-        "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
-        "PARASAIL (feat. Yung Lean & Dave Chappelle)",
-        "SKITZO (feat. Young Thug)",
-        "LOST FOREVER (feat. Westside Gunn)",
-        "LOOOVE (feat. Kid Cudi)",
-        "K-POP (feat. Bad Bunny & The Weeknd)",
-        "TELEKINESIS (feat. SZA & Future)",
-        "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)"
-      ],
-      "rating": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27332a8498ea892ccd4fcf3f6cf",
-      "title": "Javelin",
-      "artist": "Sufjan Stevens",
-      "previewUrl": "https://p.scdn.co/mp3-preview/ec5edbefc34a5971369f79ba2d2d31f1cf15fdd5?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Goodbye Evergreen",
-        "A Running Start",
-        "Will Anybody Ever Love Me?",
-        "Everything That Rises",
-        "Genuflecting Ghost",
-        "My Red Little Fox",
-        "So You Are Tired",
-        "Javelin (To Have And To Hold)",
-        "Shit Talk",
-        "There's A World"
-      ],
-      "rating": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17",
-      "title": "Red Moon In Venus",
-      "artist": "Kali Uchis",
-      "previewUrl": "https://p.scdn.co/mp3-preview/9f9bc4098e434b4d3b158582ada7c68286390ffb?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "in My Garden...",
-        "I Wish you Roses",
-        "Worth the Wait (feat. Omar Apollo)",
-        "Love Between...",
-        "All Mine",
-        "Fantasy (feat. Don Toliver)",
-        "Como Te Quiero Yo",
-        "Hasta Cuando",
-        "Endlessly",
-        "Moral Conscience",
-        "Not Too Late (interlude)",
-        "Blue",
-        "Deserve Me (with Summer Walker)",
-        "Moonlight",
-        "Happy Now"
-      ],
-      "rating": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
-      "title": "Let’s Start Here.",
-      "artist": "Lil Yachty",
-      "previewUrl": "https://p.scdn.co/mp3-preview/ac9e159b00ae870ee2d66c5863d1cf5dd004921e?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "the BLACK seminole.",
-        "the ride-",
-        "running out of time",
-        "pRETTy",
-        ":(failure(:",
-        "THE zone~",
-        "WE SAW THE SUN!",
-        "drive ME crazy!",
-        "IVE OFFICIALLY LOST ViSiON!!!!",
-        "sAy sOMETHINg",
-        "paint THE sky",
-        "sHouLd i B?",
-        "The Alchemist.",
-        "REACH THE SUNSHINE."
+        {
+          "title": "God Is a Circle",
+          "preview_url": "https://p.scdn.co/mp3-preview/baee62356568d9909a5eaa7d891a33df8bbc6bd6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lovely Sewer",
+          "preview_url": "https://p.scdn.co/mp3-preview/1b6e98395a5b253b04549c04695cac7a947ec605?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Meteora Blues",
+          "preview_url": "https://p.scdn.co/mp3-preview/a841cc487a34d1aece82f3969b1c0fb6e79c5448?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Interlude",
+          "preview_url": "https://p.scdn.co/mp3-preview/57ccb4b69acd597296202dceb083077bf8b3f87f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Parody",
+          "preview_url": "https://p.scdn.co/mp3-preview/0dabac4811a25d9dde8512ea4ad512ce57498976?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Heaven Surrounds Us Like a Hood",
+          "preview_url": "https://p.scdn.co/mp3-preview/b1c0d22d2cc423e92c750af4bc7f6991e8051995?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Operator",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e47cbc174266d05052e2099ba1f260e8dc1bd54?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In Spite of War",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c14c7d3f8d6b81e46fcc25e2e1b8f0b657ae362?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Echolalia",
+          "preview_url": "https://p.scdn.co/mp3-preview/f05c0c76f1e0c5fa652c30ce77ec6d34911e3e9a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fear Evil Like Fire",
+          "preview_url": "https://p.scdn.co/mp3-preview/8afe86776d0e002da857e98763e94ccf6ad31d18?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Purified By the Fire",
+          "preview_url": "https://p.scdn.co/mp3-preview/ce4f612b3cb9c95a42fc8de30a3070dedf242d66?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ebony Eye",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b03385c48bc2ad1e339c6ecb886d23a911eb989?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
       "rating": 0
     },
@@ -281,101 +183,294 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731f3a5e93e680f68af906ce90",
       "title": "Wiener Schickeria",
       "artist": "BIBIZA",
-      "previewUrl": "https://p.scdn.co/mp3-preview/94a6377854b09d95fa7a01e5c1b4a75d98411290?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "Guten Morgen",
-        "Opernring Blues",
-        "Schick mit Scheck",
-        "Eine Ode an Wien",
-        "Ballern am Balkon",
-        "Eine Ode an Bibiza",
-        "Alkoholiker",
-        "Stadtpark Insomnia",
-        "KiK (Skit)",
-        "Blau",
-        "Hautevolee",
-        "Schöne Dame",
-        "Akademie der bildenden Künste",
-        "Marie",
-        "Femme fatale",
-        "Höhenstraße",
-        "Mr. Pessimist",
-        "Wer leidet mit mir?",
-        "Am Weg in die Villa",
-        "Babylon Freestyle",
-        "Regen"
+        {
+          "title": "Opernring Blues",
+          "preview_url": "https://p.scdn.co/mp3-preview/e56565c792cfe684c7d884aa563ab1dd039f8f2e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Schick mit Scheck",
+          "preview_url": "https://p.scdn.co/mp3-preview/09b767e799536dbd326642f5b8f39b72ba0a3c71?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Alkoholiker",
+          "preview_url": "https://p.scdn.co/mp3-preview/f87395d4677695ac6b25cee750a8c9a39554ba6e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Stadtpark Insomnia",
+          "preview_url": "https://p.scdn.co/mp3-preview/49a2e632a2eb725e742faf660b39cb5525e55ede?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Femme fatale",
+          "preview_url": "https://p.scdn.co/mp3-preview/40c21dd9a6e9107f2d78cbb5ae857c8cff94c835?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 8
     },
     {
-      "url": "https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273135bfc30792bb5613f3c154f",
-      "title": "Gag Order",
-      "artist": "Kesha",
-      "previewUrl": "https://p.scdn.co/mp3-preview/a095f906396321a545c367c509f1f53cdbbe7c9b?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17",
+      "title": "Red Moon In Venus",
+      "artist": "Kali Uchis",
       "songs": [
-        "Something To Believe In",
-        "Eat The Acid",
-        "Living In My Head",
-        "Fine Line",
-        "Only Love Can Save Us Now",
-        "All I Need Is You",
-        "The Drama",
-        "Ram Dass Interlude",
-        "Too Far Gone",
-        "Peace & Quiet",
-        "Only Love Reprise",
-        "Hate Me Harder",
-        "Happy"
+        {
+          "title": "I Wish you Roses",
+          "preview_url": "https://p.scdn.co/mp3-preview/d7ee9fbc935b30626d48d3b8a5884a42d5aef809?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Worth the Wait (feat. Omar Apollo)",
+          "preview_url": "https://p.scdn.co/mp3-preview/08d5e2ee63c1f50c80718551cab3dd3bac82935e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fantasy (feat. Don Toliver)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fc284d887206b7dda795a886d39b23d5ef6963a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Como Te Quiero Yo",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ade0ed54fb5eab264347593356b73b155b5221e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Moonlight",
+          "preview_url": "https://p.scdn.co/mp3-preview/786606c3207fabbeb2a80f17d87570e58d3d8e1f?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27332a8498ea892ccd4fcf3f6cf",
+      "title": "Javelin",
+      "artist": "Sufjan Stevens",
+      "songs": [
+        {
+          "title": "Goodbye Evergreen",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec5edbefc34a5971369f79ba2d2d31f1cf15fdd5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Will Anybody Ever Love Me?",
+          "preview_url": "https://p.scdn.co/mp3-preview/84c1d098ee9156918b4259535fad13a2bd621b46?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Genuflecting Ghost",
+          "preview_url": "https://p.scdn.co/mp3-preview/e412caf64b4c93b63021486e43d06dc94a246045?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Javelin (To Have And To Hold)",
+          "preview_url": "https://p.scdn.co/mp3-preview/6594330efcc131e0f862beb7bd29e4bc3b7d8cfb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Shit Talk",
+          "preview_url": "https://p.scdn.co/mp3-preview/19158ae7b1c1afed9f6572fe14148bf170a340d5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9
+    },
+    {
+      "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "title": "Did you know that there's a tunnel under Ocean Blvd",
+      "artist": "Lana Del Rey",
+      "songs": [
+        {
+          "title": "The Grants",
+          "preview_url": "https://p.scdn.co/mp3-preview/f516623860c65a14631973be9c0d11dc3c279def?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Did you know that there's a tunnel under Ocean Blvd",
+          "preview_url": "https://p.scdn.co/mp3-preview/ebc8c1cd4ef9267be56400793fdfe122c5ea78ec?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "A&W",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ed5f66269d2f0aec2e176002086b1fc13a7d764?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Candy Necklace (feat. Jon Batiste)",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a3be83f2522f82fc61457bccb134005356fc3b2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Peppers (feat. Tommy Genesis)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ae5de6f46837760b17fe7a97cf475955440ca68?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9
     },
     {
       "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734b0ddebba0d5b34f2a2f07a4",
       "title": "Cracker Island",
       "artist": "Gorillaz",
-      "previewUrl": "https://p.scdn.co/mp3-preview/55826ae2afabe7ab78057c87030f86e154759a20?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "Cracker Island (feat. Thundercat)",
-        "Oil (feat. Stevie Nicks)",
-        "The Tired Influencer",
-        "Silent Running (feat. Adeleye Omotayo)",
-        "New Gold (feat. Tame Impala and Bootie Brown)",
-        "Baby Queen",
-        "Tarantula",
-        "Tormenta (feat. Bad Bunny)",
-        "Skinny Ape",
-        "Possession Island (feat. Beck)"
+        {
+          "title": "Cracker Island (feat. Thundercat)",
+          "preview_url": "https://p.scdn.co/mp3-preview/55826ae2afabe7ab78057c87030f86e154759a20?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Silent Running (feat. Adeleye Omotayo)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3bd975bfcf60c5509c623795f3e04b15bf7303d0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Gold (feat. Tame Impala and Bootie Brown)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4740cf77950ce638656b3e350b13a1c6e91a1580?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tarantula",
+          "preview_url": "https://p.scdn.co/mp3-preview/af9b0f5b63116ec4a427dd8310264b2a4fb8775c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tormenta (feat. Bad Bunny)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f89a1c3ec527e23fdefdd03da7797b83eb6e14f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Skinny Ape",
+          "preview_url": "https://p.scdn.co/mp3-preview/49d012fd6de69a542c0670904909600d73797f3c?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+      "title": "UTOPIA",
+      "artist": "Travis Scott",
+      "songs": [
+        {
+          "title": "HYAENA",
+          "preview_url": "https://p.scdn.co/mp3-preview/966e20875b66ea22371fa9383d31b1cdc445baf1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "MY EYES",
+          "preview_url": "https://p.scdn.co/mp3-preview/b52f66d1d36c1253c12a96b673fca7f69f62b4ab?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SIRENS",
+          "preview_url": "https://p.scdn.co/mp3-preview/d84c2f840d50a58c4f6acef39394233a7ecbf16b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LOST FOREVER (feat. Westside Gunn)",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe8ae73a293f680653d541bfb24fa7dbe681df66?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.5
     },
     {
       "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27384b0f86a83fa8c6154438d49",
       "title": "How Do You Sleep At Night? With You",
       "artist": "Teezo Touchdown",
-      "previewUrl": "https://p.scdn.co/mp3-preview/de4315ec79bff1ef6d8a21a4a7e4c6cd1c3f997c?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "OK",
-        "You Thought (feat. Janelle Monáe)",
-        "UUHH",
-        "Sweet (feat. Fousheé)",
-        "Impossible",
-        "Neighborhood",
-        "Mood Swings",
-        "Too Easy (feat. Isaiah Rusk)",
-        "Familiarity",
-        "I Don't Think U C Me (feat. Isaiah Rusk)",
-        "Daddy Mama Drama",
-        "Nu Nay",
-        "Stranger",
-        "The Original Was Better",
-        "Up And Down",
-        "Out of Respect",
-        "Third Coast"
+        {
+          "title": "OK",
+          "preview_url": "https://p.scdn.co/mp3-preview/de4315ec79bff1ef6d8a21a4a7e4c6cd1c3f997c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sweet (feat. Fousheé)",
+          "preview_url": "https://p.scdn.co/mp3-preview/6779ab845dc2ebe8417a6fb529b51531b8142ea8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Impossible",
+          "preview_url": "https://p.scdn.co/mp3-preview/10f167193483ab8c856dc16f4b1c23baf85120ff?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Neighborhood",
+          "preview_url": "https://p.scdn.co/mp3-preview/ac91c91d309326b8e6e04139106ce68d013a285d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Stranger",
+          "preview_url": "https://p.scdn.co/mp3-preview/11dd2f51cf64cf91c2ef3c6955ca0c5cab05b48e?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 0
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273135bfc30792bb5613f3c154f",
+      "title": "Gag Order",
+      "artist": "Kesha",
+      "songs": [
+        {
+          "title": "Something To Believe In",
+          "preview_url": "https://p.scdn.co/mp3-preview/a095f906396321a545c367c509f1f53cdbbe7c9b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Eat The Acid",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb8aa4af01347cf1c6483df07008ef3571857d59?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fine Line",
+          "preview_url": "https://p.scdn.co/mp3-preview/b1b19f30bc99539bdd9d6815249a595cc98ea907?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Only Love Can Save Us Now",
+          "preview_url": "https://p.scdn.co/mp3-preview/de20d1c6fff2b5269e69317fe18babeb89d38298?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hate Me Harder",
+          "preview_url": "https://p.scdn.co/mp3-preview/2849cf567a2638230c41c10154093ea6308a4317?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
+      "title": "Let’s Start Here.",
+      "artist": "Lil Yachty",
+      "songs": [
+        {
+          "title": "the BLACK seminole.",
+          "preview_url": "https://p.scdn.co/mp3-preview/ac9e159b00ae870ee2d66c5863d1cf5dd004921e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "the ride-",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d8e72f8b0b90b923cb0438e695376264589a961?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "WE SAW THE SUN!",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5bb36eaf1eb03984c26c7d04eaa6708ad7ec3d0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "IVE OFFICIALLY LOST ViSiON!!!!",
+          "preview_url": "https://p.scdn.co/mp3-preview/f876d0b9c753ed6232a9455dcfa70fef460d9feb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "REACH THE SUNSHINE.",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d64f7ba5d320e4beedad11e1d831140b71d926f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    },
+    {
+      "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f3a0088f5fc645693815c8ef",
+      "title": "That! Feels Good!",
+      "artist": "Jessie Ware",
+      "songs": [
+        {
+          "title": "That! Feels Good!",
+          "preview_url": "https://p.scdn.co/mp3-preview/c8708ef270287d8a77d38c965fcd42a6a5788ebb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Free Yourself",
+          "preview_url": "https://p.scdn.co/mp3-preview/c937396f378f0d014537a99f364cd714d27b5d03?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pearls",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f20ade637cbd084923f3d9ce99e70c5e5d28d77?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Begin Again",
+          "preview_url": "https://p.scdn.co/mp3-preview/fcbb40d068ea448dbe016a0b28474dfcea2fe6f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Freak Me Now",
+          "preview_url": "https://p.scdn.co/mp3-preview/8f3a926f1527d71d7cbe23d557a3245fd77942b6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
     }
   ]
 }
