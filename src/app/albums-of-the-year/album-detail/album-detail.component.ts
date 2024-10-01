@@ -19,6 +19,8 @@ export class AlbumDetailComponent implements OnInit {
 
   isPlaying = false;
 
+  previewUrls : string[] = [];
+
   @Input() album! : Album;
   @Input() index! : number;
 
@@ -26,9 +28,18 @@ export class AlbumDetailComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.previewUrls = this.album.songs!.map(song => song.preview_url);
     this.audioService.playStatusChanged$.subscribe(status => {
-      this.isPlaying = status !== null && status === this.album.previewUrl
+      this.isPlaying = status !== null && this.previewUrls.includes(status);
     })
+  }
+
+  getAlbumNames() {
+    const songs = this.album.songs;
+    if (songs === undefined) {
+      return undefined;
+    }
+    return songs.map(a => a.title).join(", ")
   }
 
 }

@@ -1,4 +1,4 @@
-import {Component, Input, OnDestroy} from '@angular/core';
+import {Component, Input, OnDestroy, OnInit} from '@angular/core';
 import {NgIf} from "@angular/common";
 import {AudioService} from "../../services/audio.service";
 
@@ -13,13 +13,20 @@ import {AudioService} from "../../services/audio.service";
 export class PlayButtonComponent implements OnDestroy {
 
   @Input() isPlaying! : boolean;
-  @Input() url! : string;
+  @Input() url! : string | string[];
 
   constructor(private audioService: AudioService) {
   }
 
   playAudio() {
-    this.audioService.playAudio(this.url);
+    if (this.isPlaying) {
+      this.audioService.stopAudio();
+    } else if (typeof this.url === "string") {
+      this.audioService.playAudio(this.url);
+    } else {
+      this.audioService.playAudioFromList(this.url);
+    }
+
   }
 
   ngOnDestroy() {

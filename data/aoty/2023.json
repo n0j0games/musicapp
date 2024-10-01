@@ -37,6 +37,10 @@
       "artist": "yeule",
       "songs": [
         {
+          "title": "bloodbunny",
+          "preview_url": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "sulky baby",
           "preview_url": "https://p.scdn.co/mp3-preview/bb0302bd077af2f60535227961ea97bf93b039e5?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -47,10 +51,6 @@
         {
           "title": "software update",
           "preview_url": "https://p.scdn.co/mp3-preview/e15a58b3c3b5d9b5ed89d1e14a3bf6372ec2716e?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "bloodbunny",
-          "preview_url": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "aphex twin flame",
@@ -119,7 +119,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9a0dbd0867d4367aa326ef4d796dd0c36c14de73?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8
+      "rating": 8.6
     },
     {
       "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC",
@@ -128,36 +128,12 @@
       "artist": "Yves Tumor",
       "songs": [
         {
-          "title": "God Is a Circle",
-          "preview_url": "https://p.scdn.co/mp3-preview/baee62356568d9909a5eaa7d891a33df8bbc6bd6?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Lovely Sewer",
-          "preview_url": "https://p.scdn.co/mp3-preview/1b6e98395a5b253b04549c04695cac7a947ec605?cid=941103e4872f4d3fad60066c677df34f"
+          "title": "Ebony Eye",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b03385c48bc2ad1e339c6ecb886d23a911eb989?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Meteora Blues",
           "preview_url": "https://p.scdn.co/mp3-preview/a841cc487a34d1aece82f3969b1c0fb6e79c5448?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Interlude",
-          "preview_url": "https://p.scdn.co/mp3-preview/57ccb4b69acd597296202dceb083077bf8b3f87f?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Parody",
-          "preview_url": "https://p.scdn.co/mp3-preview/0dabac4811a25d9dde8512ea4ad512ce57498976?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Heaven Surrounds Us Like a Hood",
-          "preview_url": "https://p.scdn.co/mp3-preview/b1c0d22d2cc423e92c750af4bc7f6991e8051995?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Operator",
-          "preview_url": "https://p.scdn.co/mp3-preview/1e47cbc174266d05052e2099ba1f260e8dc1bd54?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "In Spite of War",
-          "preview_url": "https://p.scdn.co/mp3-preview/5c14c7d3f8d6b81e46fcc25e2e1b8f0b657ae362?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Echolalia",
@@ -170,13 +146,9 @@
         {
           "title": "Purified By the Fire",
           "preview_url": "https://p.scdn.co/mp3-preview/ce4f612b3cb9c95a42fc8de30a3070dedf242d66?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Ebony Eye",
-          "preview_url": "https://p.scdn.co/mp3-preview/2b03385c48bc2ad1e339c6ecb886d23a911eb989?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 0
+      "rating": 8
     },
     {
       "url": "https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ",
@@ -205,7 +177,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/40c21dd9a6e9107f2d78cbb5ae857c8cff94c835?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8
+      "rating": 8.5
     },
     {
       "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br",
@@ -234,7 +206,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/786606c3207fabbeb2a80f17d87570e58d3d8e1f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8
+      "rating": 8.1
     },
     {
       "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs",
@@ -263,7 +235,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/19158ae7b1c1afed9f6572fe14148bf170a340d5?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9
+      "rating": 9.1
     },
     {
       "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ",
@@ -292,7 +264,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1ae5de6f46837760b17fe7a97cf475955440ca68?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9
+      "rating": 9.2
     },
     {
       "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan",
@@ -470,7 +442,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8f3a926f1527d71d7cbe23d557a3245fd77942b6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8
+      "rating": 8.4
     }
   ]
 }

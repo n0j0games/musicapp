@@ -6,11 +6,11 @@
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
             <a class="p-b-i fs-xl left-text" href="{{album.url}}" target="_blank" >{{ album.title }}</a>
             <app-play-button
-                    [url]="album.previewUrl"
+                    [url]="previewUrls"
                     [isPlaying]="isPlaying"
             ></app-play-button>
         </div>
-        <p class="left-text" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <b class="p-b-i">{{ album.songs.join(", ") }}</b></p>
+        <p class="left-text" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <b class="p-b-i">{{ getAlbumNames() }}</b></p>
         <app-rating [rating]="album.rating"></app-rating>
     </div>
 </div>
