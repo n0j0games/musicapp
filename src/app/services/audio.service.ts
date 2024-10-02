@@ -38,11 +38,11 @@ export class AudioService {
     }
 
     stopAudio() {
+        this.playlist = [];
         if (!this.audio.paused) {
-            this.playlist = [];
-            this.playStatusChanged$.next(null);
             this.audio.pause();
         }
+        this.playStatusChanged$.next(null);
     }
 
     private onSongEnded(context : AudioService) {
