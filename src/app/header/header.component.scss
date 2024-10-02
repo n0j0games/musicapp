@@ -8,6 +8,10 @@ $primary-color: #FB7DA8;
   padding: 20px 40px;
 }
 
+.m-body {
+  display: none;
+}
+
 .title {
   flex-grow: 2;
   text-align: start;
@@ -19,4 +23,25 @@ a {
 
 a:hover {
   color: white;
+}
+
+@media (width < 600px) {
+
+  .body {
+    display: none;
+  }
+
+  .m-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $accent-color;
+    padding: 20px 40px;
+  }
+
+  .title {
+    flex-grow: 1;
+    text-align: center;
+  }
+
 }

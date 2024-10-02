@@ -2,7 +2,7 @@
     <p class="p-b-i fs-xl counter">{{ index }}</p>
     <img class="cover" src="{{album.imgUrl}}" alt="">
     <div class="flex-column align-start gap-s">
-        <p class="p-b-i fs-l left-text">{{ album.artist }}</p>
+        <p class="p-b-i fs-l left-text"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</p>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
             <a class="p-b-i fs-xl left-text" href="{{album.url}}" target="_blank" >{{ album.title }}</a>
             <app-play-button

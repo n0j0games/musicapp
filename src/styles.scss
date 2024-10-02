@@ -130,6 +130,10 @@ body {
   gap: 25px;
 }
 
+.gap-xxl {
+  gap: 50px;
+}
+
 .fake-gap-b {
   margin-bottom: 15px;
 }
@@ -186,10 +190,19 @@ img {
   min-width: 50px;
 }
 
+.m-counter {
+  display: none;
+}
+
 @media (width < 600px) {
   img {
     width: 80px;
     height: 80px;
+  }
+
+  .m-flex-column {
+    display: flex;
+    flex-direction: column;
   }
 
   .m-flex-wrap {
@@ -226,6 +239,10 @@ img {
 
   .counter {
     display: none;
+  }
+
+  .m-counter {
+    display: inline;
   }
 
 }
