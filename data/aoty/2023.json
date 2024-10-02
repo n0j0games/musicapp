@@ -190,11 +190,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d7ee9fbc935b30626d48d3b8a5884a42d5aef809?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Worth the Wait (feat. Omar Apollo)",
+          "title": "Worth the Wait",
           "preview_url": "https://p.scdn.co/mp3-preview/08d5e2ee63c1f50c80718551cab3dd3bac82935e?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Fantasy (feat. Don Toliver)",
+          "title": "Fantasy",
           "preview_url": "https://p.scdn.co/mp3-preview/4fc284d887206b7dda795a886d39b23d5ef6963a?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
@@ -248,7 +248,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f516623860c65a14631973be9c0d11dc3c279def?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Did you know that there's a tunnel under Ocean Blvd",
+          "title": "Did you know that...",
           "preview_url": "https://p.scdn.co/mp3-preview/ebc8c1cd4ef9267be56400793fdfe122c5ea78ec?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
@@ -273,15 +273,15 @@
       "artist": "Gorillaz",
       "songs": [
         {
-          "title": "Cracker Island (feat. Thundercat)",
-          "preview_url": "https://p.scdn.co/mp3-preview/55826ae2afabe7ab78057c87030f86e154759a20?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Silent Running (feat. Adeleye Omotayo)",
+          "title": "Silent Running",
           "preview_url": "https://p.scdn.co/mp3-preview/3bd975bfcf60c5509c623795f3e04b15bf7303d0?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "New Gold (feat. Tame Impala and Bootie Brown)",
+          "title": "Cracker Island",
+          "preview_url": "https://p.scdn.co/mp3-preview/55826ae2afabe7ab78057c87030f86e154759a20?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Gold",
           "preview_url": "https://p.scdn.co/mp3-preview/4740cf77950ce638656b3e350b13a1c6e91a1580?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
@@ -289,7 +289,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/af9b0f5b63116ec4a427dd8310264b2a4fb8775c?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Tormenta (feat. Bad Bunny)",
+          "title": "Tormenta",
           "preview_url": "https://p.scdn.co/mp3-preview/3f89a1c3ec527e23fdefdd03da7797b83eb6e14f?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
@@ -306,6 +306,10 @@
       "artist": "Travis Scott",
       "songs": [
         {
+          "title": "TIL FURTHER NOTICE",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "HYAENA",
           "preview_url": "https://p.scdn.co/mp3-preview/966e20875b66ea22371fa9383d31b1cdc445baf1?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -318,12 +322,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d84c2f840d50a58c4f6acef39394233a7ecbf16b?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "LOST FOREVER (feat. Westside Gunn)",
+          "title": "LOST FOREVER",
           "preview_url": "https://p.scdn.co/mp3-preview/fe8ae73a293f680653d541bfb24fa7dbe681df66?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
-          "preview_url": "https://p.scdn.co/mp3-preview/fb6ed2aac94b5f412d6e407317df02d2ede71534?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9.5
@@ -339,7 +339,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/de4315ec79bff1ef6d8a21a4a7e4c6cd1c3f997c?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Sweet (feat. Fousheé)",
+          "title": "Sweet",
           "preview_url": "https://p.scdn.co/mp3-preview/6779ab845dc2ebe8417a6fb529b51531b8142ea8?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
@@ -467,7 +467,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/09ae4373a0abebd068c5dee5a40953d00f3ea432?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.9
     },
     {
       "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6",
@@ -492,7 +492,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/157091e411ac32604ea8823536000969301a59bf?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.5
     },
     {
       "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja",
@@ -501,12 +501,12 @@
       "artist": "midwxst",
       "songs": [
         {
-          "title": "lost",
-          "preview_url": "https://p.scdn.co/mp3-preview/473c48d307ab8c153c0cb60ac66b5e5e5013b51d?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "pretty girls",
           "preview_url": "https://p.scdn.co/mp3-preview/aecb3574d69e4260c0b0f34d07fc957dd463fca4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "lost",
+          "preview_url": "https://p.scdn.co/mp3-preview/473c48d307ab8c153c0cb60ac66b5e5e5013b51d?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "warning",
@@ -517,7 +517,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d37c3d9eea9b8f2b25d42357d61ade8734ee87d0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.5
     },
     {
       "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv",
@@ -542,7 +542,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/94f47f194f773fade279e765b91d4c908e871bd6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.7
     },
     {
       "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92",
@@ -551,27 +551,27 @@
       "artist": "The Weeknd",
       "songs": [
         {
-          "title": "Hurricane - Live",
-          "preview_url": "https://p.scdn.co/mp3-preview/47405c7dae46da1c353b51c2abe043ffcc5b6cc6?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Party Monster - Live",
-          "preview_url": "https://p.scdn.co/mp3-preview/87a6f5ed7ea3119ab2dae438ab18025118a5fcc8?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "After Hours - Live",
-          "preview_url": "https://p.scdn.co/mp3-preview/d59a1779c614dadf6b2138ad285ac61466aab604?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Wicked Games - Live",
+          "title": "Wicked Games",
           "preview_url": "https://p.scdn.co/mp3-preview/305f07ad054fcaa7827c098babf6396412d48eed?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Call Out My Name - Live",
+          "title": "Hurricane",
+          "preview_url": "https://p.scdn.co/mp3-preview/47405c7dae46da1c353b51c2abe043ffcc5b6cc6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Party Monster",
+          "preview_url": "https://p.scdn.co/mp3-preview/87a6f5ed7ea3119ab2dae438ab18025118a5fcc8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "After Hours",
+          "preview_url": "https://p.scdn.co/mp3-preview/d59a1779c614dadf6b2138ad285ac61466aab604?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Call Out My Name",
           "preview_url": "https://p.scdn.co/mp3-preview/473dca9c1eb430d245f04688648051a878056fbd?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.1
     },
     {
       "url": "https://open.spotify.com/album/6ITKFwyXdI2S8JKsWPfJtq",
@@ -596,7 +596,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/212247e26a100956ebec180b41bddfcbebb6984f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.7
     },
     {
       "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI",
@@ -621,7 +621,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/fc089ff287ef7876fc0efb60eb8f46f45b032529?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.8
     },
     {
       "url": "https://open.spotify.com/album/0xJEL0q2jaHqIOamFxE7yq",
@@ -646,7 +646,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72a05b0cfabb8ed85bfe630b8606487d098f6d82?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.6
     },
     {
       "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3",
@@ -655,12 +655,12 @@
       "artist": "Sampha",
       "songs": [
         {
-          "title": "Spirit 2.0",
-          "preview_url": "https://p.scdn.co/mp3-preview/cbbff3e555cc24959378e6b9e53d02558f1d0830?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Dancing Circles",
           "preview_url": "https://p.scdn.co/mp3-preview/d6e55956e8c8a7dd9b48d1b42e7d5ce3fb133dfa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Spirit 2.0",
+          "preview_url": "https://p.scdn.co/mp3-preview/cbbff3e555cc24959378e6b9e53d02558f1d0830?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Suspended",
@@ -671,7 +671,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e10ae9d6573f53b6fbe94fcd6971b0bf37601c12?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.9
     },
     {
       "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs",
@@ -680,16 +680,16 @@
       "artist": "slowthai",
       "songs": [
         {
-          "title": "Selfish",
-          "preview_url": "https://p.scdn.co/mp3-preview/379d4991e54a4a3f01000c07284487a479420a31?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "HAPPY",
           "preview_url": "https://p.scdn.co/mp3-preview/f03f2f618ecf4d6b63cfbdec3c224758f148c96d?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "UGLY",
           "preview_url": "https://p.scdn.co/mp3-preview/2c8378deffcff7a0a05b2d73722e999ec6751444?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Selfish",
+          "preview_url": "https://p.scdn.co/mp3-preview/379d4991e54a4a3f01000c07284487a479420a31?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "25% Club",
@@ -705,23 +705,23 @@
       "artist": "Daniel Caesar",
       "songs": [
         {
+          "title": "Toronto 2014",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ee4af9131391a41a5ce8d7b01713dc4a0cbf847?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Valentina",
           "preview_url": "https://p.scdn.co/mp3-preview/dc65bce06c7deed82219bb4250a37667e6a6cfbe?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Toronto 2014 (with Mustafa)",
-          "preview_url": "https://p.scdn.co/mp3-preview/5ee4af9131391a41a5ce8d7b01713dc4a0cbf847?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Disillusioned (with serpentwithfeet)",
+          "title": "Disillusioned",
           "preview_url": "https://p.scdn.co/mp3-preview/74f6e8cd2ef763bcd9e4febc745716366993b60c?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Buyer's Remorse (feat. Omar Apollo)",
+          "title": "Buyer's Remorse",
           "preview_url": "https://p.scdn.co/mp3-preview/7e6be851d7a8c0db2aee68221f8cc302d7641730?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.4
     },
     {
       "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT",
@@ -746,7 +746,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5b22460344c6c31e313da0bfecaca5634fcda67e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.8
     },
     {
       "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW",
@@ -755,23 +755,23 @@
       "artist": "Black Country, New Road",
       "songs": [
         {
-          "title": "Turbines/Pigs - Live at Bush Hall",
+          "title": "Turbines/Pigs",
           "preview_url": "https://p.scdn.co/mp3-preview/2109e0a16afb7691a5f6dd74db0c5503c7b2dc9a?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "The Boy - Live at Bush Hall",
+          "title": "The Boy",
           "preview_url": "https://p.scdn.co/mp3-preview/fd69da72878588b4983e5b676760c72c12e21ef9?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "I Won’t Always Love You - Live at Bush Hall",
+          "title": "I Won’t Always Love You",
           "preview_url": "https://p.scdn.co/mp3-preview/de01dc89f6de950087923e5a78f473757d2eaea9?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Across The Pond Friend - Live at Bush Hall",
+          "title": "Across The Pond Friend ",
           "preview_url": "https://p.scdn.co/mp3-preview/bb20509c9391c7ed6803150e9599cb0654b95496?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.6
     },
     {
       "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq",
@@ -796,7 +796,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0279a50d8dea793eeafa23e60247e08d18b2ee71?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.6
     },
     {
       "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y",
@@ -805,12 +805,12 @@
       "artist": "Ufo361",
       "songs": [
         {
-          "title": "BRODIES",
-          "preview_url": "https://p.scdn.co/mp3-preview/225687467b7e1f77dbb938a5f98ad0c4630a27ae?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "LOVE MY LIFE",
           "preview_url": "https://p.scdn.co/mp3-preview/e1408d2a41a2ea5cf9e828435c2bb26140dfee5a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "BRODIES",
+          "preview_url": "https://p.scdn.co/mp3-preview/225687467b7e1f77dbb938a5f98ad0c4630a27ae?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "TOKYO",
@@ -821,7 +821,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/beefd4f75b487aadc75f42da904883368aacf25d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.5
     },
     {
       "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q",
@@ -846,7 +846,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e4c23ca96fc97773b12dcc34e0e15349b58dad1c?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.8
     },
     {
       "url": "https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx",
@@ -871,7 +871,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3448254c2da9866103aa8413a2e54a7c1f4d8c35?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.6
     },
     {
       "url": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx",
@@ -880,23 +880,23 @@
       "artist": "KayCyy",
       "songs": [
         {
-          "title": "ROLL THE DICE (Prod. Gesaffelstein)",
+          "title": "ROLL THE DICE",
           "preview_url": "https://p.scdn.co/mp3-preview/729254652c26ae04d3e9477eff5b9e9ed94f14ce?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "TIMELESS (Prod. Gesaffelstein)",
+          "title": "TIMELESS",
           "preview_url": "https://p.scdn.co/mp3-preview/87742344fe5bf4f6d396fda5a0b26cedc787b90e?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "OKAY! (Prod. Gesaffelstein)",
+          "title": "OKAY!",
           "preview_url": "https://p.scdn.co/mp3-preview/af9c781f8fdd3f382f8e1eaad4173c82597c9a74?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "THE SUN (Prod. Gesaffelstein)",
+          "title": "THE SUN",
           "preview_url": "https://p.scdn.co/mp3-preview/d70455150a366af12f7b782e6897862b6b5c2e42?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.2
     },
     {
       "url": "https://open.spotify.com/album/2e8OKkHsD0az8l9toegEG4",
@@ -921,7 +921,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9c2c6c58419e8d393a3d573110af86858844b1e5?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.1
     },
     {
       "url": "https://open.spotify.com/album/2TcqbzHpbEbqScwUOTKRmi",
@@ -946,7 +946,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3fce99902857703b6dff59884b08a539debad23d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.8
     },
     {
       "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn",
@@ -971,7 +971,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4d78ba2cc1b602644afb258ffe522bafd09b21e1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.5
     },
     {
       "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM",
@@ -996,7 +996,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/971b6ebe9888ea7fc100d3f80fc2343d2fc64b92?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.2
     },
     {
       "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu",
@@ -1021,7 +1021,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e41dc20887a8da7c9946f1fa59b05c8f46084347?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.7
     },
     {
       "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0",
@@ -1030,23 +1030,23 @@
       "artist": "PinkPantheress",
       "songs": [
         {
+          "title": "Another life",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e0a6907be06060f8ab915bbeee094a932242338?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Boy's a liar Pt. 2",
           "preview_url": "https://p.scdn.co/mp3-preview/543d8d09a5530a1ab94dd0c6f83fc4ee3e0d7f96?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Another life (feat. Rema)",
-          "preview_url": "https://p.scdn.co/mp3-preview/0e0a6907be06060f8ab915bbeee094a932242338?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Nice to meet you (feat. Central Cee)",
+          "title": "Nice to meet you",
           "preview_url": "https://p.scdn.co/mp3-preview/97b30f8ac5bc7cf7b3c9908a6b69f7402857bfe1?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Bury me (feat. Kelela)",
+          "title": "Bury me",
           "preview_url": "https://p.scdn.co/mp3-preview/593315485efd8ec26ca88c55ea59975f6df57362?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.6
     },
     {
       "url": "https://open.spotify.com/album/6SiGiwZ6Ylwah87qJ23KTN",
@@ -1071,7 +1071,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/39cdb8200f64c51adffe2c677a5229209930b15e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7
+      "rating": 7.5
     }
   ]
 }

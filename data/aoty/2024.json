@@ -1,624 +1,1047 @@
 {
-  "year": 2024,
   "albums": [
-    {
-      "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273202c4fbb9f05eb6301f9ec25",
-      "title": "kleine Feuer",
-      "artist": "Paula Hartmann",
-      "previewUrl": "https://p.scdn.co/mp3-preview/9bd9a81f665b38c75cdcb131710b7829edd2628c?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "7 Mädchen",
-        "schwarze SUVs",
-        "gebrochenes Glas",
-        "sag was",
-        "Snoopy"
-      ],
-      "rating": 8.9
-    },
-    {
-      "url": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731fd336bd388a632180e721d8",
-      "title": "Loss Of Life",
-      "artist": "MGMT",
-      "previewUrl": "https://p.scdn.co/mp3-preview/48f0fac7c131ff2951635df599672598d6609783?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Mother Nature",
-        "People In The Streets",
-        "Bubblegum Dog",
-        "Nothing To Declare",
-        "Loss Of Life"
-      ],
-      "rating": 8.6
-    },
-    {
-      "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735a2ff617de4e51a9a214b56a",
-      "title": "Imaginal Disk",
-      "artist": "Magdalena Bay",
-      "previewUrl": "https://p.scdn.co/mp3-preview/7ac29dafe865de022c593e58d797f83e43e4b618?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Killing Time",
-        "Image",
-        "Vampire in the Corner",
-        "That's My Floor",
-        "Cry for Me"
-      ],
-      "rating": 7.9
-    },
-    {
-      "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733126a95bb7ed4146a80c7fc6",
-      "title": "In Waves",
-      "artist": "Jamie xx",
-      "previewUrl": "https://p.scdn.co/mp3-preview/fc112f83fe770b09e4c1bd586e5b9c144e384bd7?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Wanna",
-        "Treat Each Other Right",
-        "Waited All Night",
-        "Life",
-        "Falling Together"
-      ],
-      "rating": 8.5
-    },
-    {
-      "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736c16c2ee3db5cadc47975ecc",
-      "title": "MADRA",
-      "artist": "NewDad",
-      "previewUrl": "https://p.scdn.co/mp3-preview/e14164dcc3e65ccc7b6668f3ba567b3b845bf4aa?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Angel",
-        "Sickly Sweet",
-        "Where I Go",
-        "Nosebleed",
-        "White Ribbons"
-      ],
-      "rating": 8.6
-    },
-    {
-      "url": "https://open.spotify.com/album/0CDJRywET2yNxEEl4R6cNq",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738b4f06f3bc11e39b23d2a158",
-      "title": "Junior Varsity",
-      "artist": "Javi Vera",
-      "previewUrl": "https://p.scdn.co/mp3-preview/ee1d21f103c2f9fc87f5ed50b4544d1c71a8a6da?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "SORRYPRINCESS",
-        "JUSTAPIECE",
-        "SOFALOVE",
-        "GOODLUCK",
-        "EXCUSEMEMADAME"
-      ],
-      "rating": 7.8
-    },
-    {
-      "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
-      "title": "HIT ME HARD AND SOFT",
-      "artist": "Billie Eilish",
-      "previewUrl": "https://p.scdn.co/mp3-preview/862fd30d45e96c66e49069e3f957171fbb58c7c3?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "SKINNY",
-        "LUNCH",
-        "CHIHIRO",
-        "BIRDS OF A FEATHER",
-        "WILDFLOWER"
-      ],
-      "rating": 8.7
-    },
-    {
-      "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85",
-      "title": "Submarine",
-      "artist": "The Marías",
-      "previewUrl": "https://p.scdn.co/mp3-preview/1aafbd8a1e6feb4d34020c4e9b3264d4b36eedbf?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Echo",
-        "Run Your Mouth",
-        "Real Life",
-        "Lejos de Ti",
-        "No One Noticed"
-      ],
-      "rating": 8.5
-    },
-    {
-      "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737dc0c596be434c20d81970c5",
-      "title": "Born in the Wild",
-      "artist": "Tems",
-      "previewUrl": "https://p.scdn.co/mp3-preview/73061c98d31590c8090286af1317d6c5f4beb2c1?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Wickedest",
-        "Get it Right (feat. Asake)",
-        "Free Fall (feat. J. Cole)"
-      ],
-      "rating": 7.4
-    },
-    {
-      "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738fe69d8df304ff053693653e",
-      "title": "yustyna",
-      "artist": "Artemas",
-      "previewUrl": "https://p.scdn.co/mp3-preview/6ce9233edb212fe7cf02273f4369d2c60c28e887?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "i like the way you kiss me",
-        "i always kinda knew you’d be the death of me",
-        "caroline"
-      ],
-      "rating": 7.3
-    },
-    {
-      "url": "https://open.spotify.com/album/2uoD60Oip7rq3vjXxZ2VaD",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f07737652b6102890b4b840d",
-      "title": "SCRAPYARD",
-      "artist": "Quadeca",
-      "previewUrl": "https://p.scdn.co/mp3-preview/509980d440a2c91013e7c20e9545203eb8ed8f1f?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "DUSTCUTTER",
-        "A LA CARTE",
-        "PRETTY PRIVILEGE",
-        "I MAKE IT LOOK EFFORTLESS",
-        "UNDER MY SKIN",
-        "TEXAS BLUE"
-      ],
-      "rating": 8.3
-    },
-    {
-      "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f9ee2021e4ce4ce4c06282b9",
-      "title": "GRASA",
-      "artist": "NATHY PELUSO",
-      "previewUrl": "https://p.scdn.co/mp3-preview/d52dea17987cf2325160698b8fe13401533a7f90?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "CORLEONE",
-        "LEGENDARIO",
-        "IDEAS RADICALES"
-      ],
-      "rating": 7.3
-    },
-    {
-      "url": "https://open.spotify.com/album/7dGH4nr5sFVyGJQ2f6D3jl",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27396283603e80fcea04f93e16c",
-      "title": "Fieber",
-      "artist": "OG Keemo",
-      "previewUrl": "https://p.scdn.co/mp3-preview/5d1cb35670d3c8ea0ec6a520bec226a4e1979c15?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Tasche",
-        "OKAY!",
-        "Tórshavn",
-        "Bee Gees",
-        "Süden"
-      ],
-      "rating": 7.7
-    },
-    {
-      "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d",
-      "title": "Prelude to Ecstasy",
-      "artist": "The Last Dinner Party",
-      "previewUrl": "https://p.scdn.co/mp3-preview/e5a8528fc0cda4e42a57a5abb26d12e0b9a01aad?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Prelude To Ecstasy",
-        "Burn Alive",
-        "The Feminine Urge"
-      ],
-      "rating": 7.5
-    },
-    {
-      "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273613f62075c85e0b853318026",
-      "title": "Romance",
-      "artist": "Fontaines D.C.",
-      "previewUrl": "https://p.scdn.co/mp3-preview/120252de8eae906586dc3edba452e235d6389f40?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Romance",
-        "Starburster",
-        "Desire",
-        "In The Modern World",
-        "Bug",
-        "Favourite"
-      ],
-      "rating": 8.4
-    },
     {
       "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
       "title": "BRAT",
       "artist": "Charli xcx",
-      "previewUrl": "https://p.scdn.co/mp3-preview/34231118fa980913824d4ccf78be931e999f69f1?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "Club classics",
-        "Talk talk",
-        "Von dutch",
-        "Girl, so confusing",
-        "365"
+        {
+          "title": "365",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d142964f88c64d9e53d8c41a7df85bbb19ecc79?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Club classics",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6cf2eac7569e8c890121f3fbe40364013b0107b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Von dutch",
+          "preview_url": "https://p.scdn.co/mp3-preview/7faf86e041f0fc977545aadc2b4f852eb5f145d4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Girl, so confusing",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e487ac2f3ae920f009d6eab3315d2130af367fa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "B2b",
+          "preview_url": "https://p.scdn.co/mp3-preview/5dc202f078d5351424ca63c2d0751031f1106ba8?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
       "rating": 9.9
-    },
-    {
-      "url": "https://open.spotify.com/album/3Vo6p72T0ffD4SHmpuPenP",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27394150416dcbc18d273dbe94a",
-      "title": "assisted memories",
-      "artist": "Night Tapes",
-      "previewUrl": "https://p.scdn.co/mp3-preview/04f685cde52f294ba4afb09309be4cd6a43ad2d7?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "drifting",
-        "loner",
-        "projections",
-        "waterfall",
-        "every day is a game"
-      ],
-      "rating": 8.4
-    },
-    {
-      "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e5bd8e6421836818cddeb2d6",
-      "title": "Fearless Movement",
-      "artist": "Kamasi Washington",
-      "previewUrl": "https://p.scdn.co/mp3-preview/ed51ffe7861387af4c5f4dc41af155d82bd7e8b5?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Asha The First",
-        "Computer Love",
-        "Road to Self (KO)",
-        "Lines in the Sand",
-        "Prologue"
-      ],
-      "rating": 8.5
-    },
-    {
-      "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273902e9fffc3787dd4fe7678e7",
-      "title": "All Born Screaming",
-      "artist": "St. Vincent",
-      "previewUrl": "https://p.scdn.co/mp3-preview/f29b78be5c92601a52e6021ebcbf1e129f6aa91e?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Hell Is Near",
-        "Reckless",
-        "Broken Man",
-        "Violent Times",
-        "The Power's Out"
-      ],
-      "rating": 8
-    },
-    {
-      "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec5757cdfeb9a29df135c96d",
-      "title": "Wall Of Eyes",
-      "artist": "The Smile",
-      "previewUrl": "https://p.scdn.co/mp3-preview/1f9cfe0e3d9b77252afbccadf2a1fa7921992c05?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Wall Of Eyes",
-        "Under Our Pillows",
-        "Friend Of A Friend"
-      ],
-      "rating": 7.6
-    },
-    {
-      "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731f4e2d002b9d1920339a5109",
-      "title": "Only God Was Above Us",
-      "artist": "Vampire Weekend",
-      "previewUrl": "https://p.scdn.co/mp3-preview/ccaa2193e439fa69a5949a90d400ec8b97b35397?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Ice Cream Piano",
-        "Classical",
-        "Capricorn",
-        "Connect",
-        "Mary Boone"
-      ],
-      "rating": 8.4
-    },
-    {
-      "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
-      "title": "Charm",
-      "artist": "Clairo",
-      "previewUrl": "https://p.scdn.co/mp3-preview/d7f0b59404db6116ceb4795b7805686b53290bc0?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Nomad",
-        "Sexy to Someone",
-        "Second Nature",
-        "Slow Dance",
-        "Juna"
-      ],
-      "rating": 9.0
-    },
-    {
-      "url": "https://open.spotify.com/album/2ej3ZX7h1N7noej8defaj1",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea36aa177d2d07a1c85c1023",
-      "title": "Addio",
-      "artist": "Faber",
-      "previewUrl": "https://p.scdn.co/mp3-preview/247148f34c91d7e26efe7439419076977ca53075?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Du kriegst mich nicht zurück",
-        "Sie ist wieder in der Stadt",
-        "Temptation Island",
-        "Leon",
-        "Ihr habt meinen Segen Pt.2"
-      ],
-      "rating": 7.8
-    },
-    {
-      "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732b8cf37c61042460df8b9bb5",
-      "title": "NO HANDS",
-      "artist": "Joey Valence & Brae",
-      "previewUrl": "https://p.scdn.co/mp3-preview/421c1d412484eec6bdcb13e0a0ba1aff3ba95294?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "BUSSIT",
-        "PACKAPUNCH (feat. Danny Brown)",
-        "NO HANDS (feat. Z-Trip)",
-        "THE BADDEST",
-        "OK"
-      ],
-      "rating": 8.8
-    },
-    {
-      "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f6ba7085174586aed75935bc",
-      "title": "God Said No",
-      "artist": "Omar Apollo",
-      "previewUrl": "https://p.scdn.co/mp3-preview/be9ebc49ae3f8e283b52e599f6d238aa942500c3?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Be Careful With Me",
-        "Spite",
-        "Glow"
-      ],
-      "rating": 7.4
-    },
-    {
-      "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273245812a395ea6eee58f01ffd",
-      "title": "Girl With No Face",
-      "artist": "Allie X",
-      "previewUrl": "https://p.scdn.co/mp3-preview/04b62c4cfb3f6fe11b4be089c248b8ebc08cbee1?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Weird World",
-        "Girl With No Face",
-        "Off With Her Tits"
-      ],
-      "rating": 7.8
-    },
-    {
-      "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733fb9700186c245ff1f85b0fc",
-      "title": "King Of The Mischievous South Vol. 2",
-      "artist": "Denzel Curry",
-      "previewUrl": "https://p.scdn.co/mp3-preview/afdff781677ec90c26ee581570e61e125df857ce?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "BLACK FLAG FREESTYLE (with That Mexican OT)",
-        "SKED (with Kenny Mason& Project Pat)",
-        "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)"
-      ],
-      "rating": 7.6
-    },
-    {
-      "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3",
-      "title": "ORQUÍDEAS",
-      "artist": "Kali Uchis",
-      "previewUrl": "https://p.scdn.co/mp3-preview/087dd5d812096f900d88a6e510d921de1e0cf998?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "¿Cómo Así?",
-        "Diosa",
-        "Muñekita (with El Alfa & JT)",
-        "No Hay Ley Parte 2 (with Rauw Alejandro)",
-        "Dame Beso // Muévete"
-      ],
-      "rating": 8.6
-    },
-    {
-      "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a9afb2484111b87abc2b4a80",
-      "title": "Atavista",
-      "artist": "Childish Gambino",
-      "previewUrl": "https://p.scdn.co/mp3-preview/19bbe59b20aa05aaf05aa0d15a24c6e211958f49?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Time (feat. Ariana Grande)",
-        "Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)",
-        "Little Foot Big Foot (feat. Young Nudy)"
-      ],
-      "rating": 7.4
-    },
-    {
-      "url": "https://open.spotify.com/album/2ckeH7Z3E0VCnhphABLYFg",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27334d88fc3df2b2c80446f53a9",
-      "title": "Wondrous Strange",
-      "artist": "Jack Peñate",
-      "previewUrl": "https://p.scdn.co/mp3-preview/17e7acf970966576053832cfd2ec1ef3a0a81894?cid=941103e4872f4d3fad60066c677df34f",
-      "songs": [
-        "Wondrous",
-        "Wing",
-        "Autumn"
-      ],
-      "rating": 7.5
     },
     {
       "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599",
       "title": "COWBOY CARTER",
       "artist": "Beyoncé",
-      "previewUrl": "https://p.scdn.co/mp3-preview/665d867f8417057b9b695424237d14e175c9a140?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "AMERIICAN REQUIEM",
-        "BLACKBIIRD",
-        "DAUGHTER",
-        "YA YA",
-        "SWEET ★ HONEY ★ BUCKIIN'"
+        {
+          "title": "AMERIICAN REQUIEM",
+          "preview_url": "https://p.scdn.co/mp3-preview/665d867f8417057b9b695424237d14e175c9a140?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "BLACKBIIRD",
+          "preview_url": "https://p.scdn.co/mp3-preview/569702d926c912a5965d8fe1869dfc716ca7fad1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DAUGHTER",
+          "preview_url": "https://p.scdn.co/mp3-preview/652fc2fe08f02327124d3a3f438f1e9c89463528?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "YA YA",
+          "preview_url": "https://p.scdn.co/mp3-preview/25e992dea95d98cbfe3d27799705dd324a392575?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SWEET ★ HONEY ★ BUCKIIN'",
+          "preview_url": "https://p.scdn.co/mp3-preview/24201038f84362ecafd1be4bbb9c4de53581cf9f?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 9.3
+      "rating": 9.5
     },
     {
-      "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732129eda0ae3c8426c3d4dc7d",
-      "title": "Dark Times",
-      "artist": "Vince Staples",
-      "previewUrl": "https://p.scdn.co/mp3-preview/5b2c7137a5f56fb435f510036f746224d58b4498?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
+      "title": "Charm",
+      "artist": "Clairo",
       "songs": [
-        "Black&Blue",
-        "Government Cheese",
-        "Étouffée"
+        {
+          "title": "Nomad",
+          "preview_url": "https://p.scdn.co/mp3-preview/d7f0b59404db6116ceb4795b7805686b53290bc0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sexy to Someone",
+          "preview_url": "https://p.scdn.co/mp3-preview/fd77356af12fe7e2689ff72fb452dbda1d14f672?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Second Nature",
+          "preview_url": "https://p.scdn.co/mp3-preview/811adc83124d3dce5657ce91bef3055281bd4680?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Juna",
+          "preview_url": "https://p.scdn.co/mp3-preview/e0cacf9faae5ba4d910170a4905549bb26adf860?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Echo",
+          "preview_url": "https://p.scdn.co/mp3-preview/a616bb02acc1940c11c9e6c2b2036af0dfb79ee7?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.7
+      "rating": 9.0
     },
     {
-      "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273454a4fb74aa36c7cb57b9153",
-      "title": "BLUE LIPS",
-      "artist": "ScHoolboy Q",
-      "previewUrl": "https://p.scdn.co/mp3-preview/461e0b76e9336f37b8ad6e62db36ed2d3c1cc6ef?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273202c4fbb9f05eb6301f9ec25",
+      "title": "kleine Feuer",
+      "artist": "Paula Hartmann",
       "songs": [
-        "Pop (feat. Rico Nasty)",
-        "THank god 4 me",
-        "Blueslides"
+        {
+          "title": "schwarze SUVs",
+          "preview_url": "https://p.scdn.co/mp3-preview/0b2b4c81729715e777956e0335d1ecd703cd10aa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "gebrochenes Glas",
+          "preview_url": "https://p.scdn.co/mp3-preview/574d8b36bd9c5bb43413ffa4e9a4c18b95c3ed98?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "sag was",
+          "preview_url": "https://p.scdn.co/mp3-preview/d265c70c01c7a6ac01992e4bf7d825d4a752fd65?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "kleine Feuer",
+          "preview_url": "https://p.scdn.co/mp3-preview/6f64a2a0fae1cc6a798efccac20de8aa496f8cbf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Snoopy",
+          "preview_url": "https://p.scdn.co/mp3-preview/b44d240ed53434af512d30d17d2814a1e20be658?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.2
+      "rating": 8.9
     },
     {
-      "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735290f7a7c65d9b5d61d99d2b",
-      "title": "Bad Cameo",
-      "artist": "James Blake, Lil Yachty",
-      "previewUrl": "https://p.scdn.co/mp3-preview/e5ea70346ac68d66c9eecbc8a703a435194c0bd4?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732b8cf37c61042460df8b9bb5",
+      "title": "NO HANDS",
+      "artist": "Joey Valence & Brae",
       "songs": [
-        "Save The Savior",
-        "In Grey",
-        "Red Carpet"
+        {
+          "title": "BUSSIT",
+          "preview_url": "https://p.scdn.co/mp3-preview/421c1d412484eec6bdcb13e0a0ba1aff3ba95294?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "PACKAPUNCH",
+          "preview_url": "https://p.scdn.co/mp3-preview/5cbb589ec85da0b74b5b3f103a62e563106a03be?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "NO HANDS",
+          "preview_url": "https://p.scdn.co/mp3-preview/860d173027ff8fc72207f320588a8d53392c2dfb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "OK",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a233789211ad329beba2d92b1aedd9a450f8592?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "OMNITRIX",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a1005779ab18c6866a03316b4d9abfe452fadee?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.7
+      "rating": 8.8
     },
     {
-      "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739567b80f50a5b9f0178ae993",
-      "title": "2093",
-      "artist": "Yeat",
-      "previewUrl": "https://p.scdn.co/mp3-preview/87b0fb62334d66be24172881c9d316de852f057f?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+      "title": "HIT ME HARD AND SOFT",
+      "artist": "Billie Eilish",
       "songs": [
-        "Psycho CEO",
-        "Breathe",
-        "Shade"
+        {
+          "title": "CHIHIRO",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SKINNY",
+          "preview_url": "https://p.scdn.co/mp3-preview/862fd30d45e96c66e49069e3f957171fbb58c7c3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "BIRDS OF A FEATHER",
+          "preview_url": "https://p.scdn.co/mp3-preview/2899f0275fc029d456d924a60ae6f747bda1ed80?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "WILDFLOWER",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab7acea907be9cbe03bba9964765aa889f53d238?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "THE GREATEST",
+          "preview_url": "https://p.scdn.co/mp3-preview/7bc36fe41306df91a552a41305af3d53bb5a9d84?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.3
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3",
+      "title": "ORQUÍDEAS",
+      "artist": "Kali Uchis",
+      "songs": [
+        {
+          "title": "Dame Beso // Muévete",
+          "preview_url": "https://p.scdn.co/mp3-preview/52e776cb6306d8b366e83f2e980bbf966bb32110?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "¿Cómo Así?",
+          "preview_url": "https://p.scdn.co/mp3-preview/087dd5d812096f900d88a6e510d921de1e0cf998?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Te Mata",
+          "preview_url": "https://p.scdn.co/mp3-preview/fbaff949bdcf122f8e2f671b0173eff047e48100?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Muñekita (with El Alfa & JT)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d57b3279a264f750211c8ab23f9311ad9361705?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No Hay Ley Parte 2 (with Rauw Alejandro)",
+          "preview_url": "https://p.scdn.co/mp3-preview/242480f825744c1f6beae304ace75810962f1bae?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731fd336bd388a632180e721d8",
+      "title": "Loss Of Life",
+      "artist": "MGMT",
+      "songs": [
+        {
+          "title": "Loss Of Life (part 2)",
+          "preview_url": "https://p.scdn.co/mp3-preview/48f0fac7c131ff2951635df599672598d6609783?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mother Nature",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d1e9a3cda798746a3e042b06dc200047e8a6b18?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dancing In Babylon (feat. Christine and the Queens)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ffa21b1208b9972b0637bb68911eb2c926355ff?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nothing To Declare",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe3c20c807d1ced729222020152c53b26cfc47b8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Loss Of Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3796686b48611aff7f1608e755edb6015c1b407?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
     },
     {
       "url": "https://open.spotify.com/album/013tXdkWpzhE8TQ8IJRmRw",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273831d791839a8fd0346509a2d",
       "title": "Kinder können fies sein",
       "artist": "Jassin",
-      "previewUrl": "https://p.scdn.co/mp3-preview/cd0a9009ee990af4df1ee8e51581c9e1b3e3e59c?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "Kinder können fies sein",
-        "Pretty Privilege",
-        "Venedig",
-        "2oder10",
-        "schlechte Träume"
+        {
+          "title": "Kinder können fies sein",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd0a9009ee990af4df1ee8e51581c9e1b3e3e59c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pretty Privilege",
+          "preview_url": "https://p.scdn.co/mp3-preview/f89a3a05f4fe32b42de9be8d9fd77534474a5b6d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Venedig",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d7a3a896032cb556da8b6478a96f9e19a72ce3f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Duftkerzen",
+          "preview_url": "https://p.scdn.co/mp3-preview/591a3f9a7a3d4e1c00da841e77a49af59adea9ed?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "schlechte Träume",
+          "preview_url": "https://p.scdn.co/mp3-preview/72b0fd0cbec5bf5732ac9a424cf3b0940710cfe9?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
       "rating": 8
     },
     {
-      "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27380ae53ba911b9f4ac50ce714",
-      "title": "ICKE",
-      "artist": "Filow",
-      "previewUrl": "https://p.scdn.co/mp3-preview/47a7eaf21afb2945bb5b4efad982638b0edda90d?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273902e9fffc3787dd4fe7678e7",
+      "title": "All Born Screaming",
+      "artist": "St. Vincent",
       "songs": [
-        "Lieber Gott",
-        "Rasenschach",
-        "Tante Emma"
+        {
+          "title": "The Power's Out",
+          "preview_url": "https://p.scdn.co/mp3-preview/dbf8e63c907a16d129867a56f03a0ba45bb29757?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Reckless",
+          "preview_url": "https://p.scdn.co/mp3-preview/d0ec9968154bf6942acbf2cc79567a7af3b5c8d8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Broken Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/b2fa40a0245f0cf570faae3e9dfcccc41be5822c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Violent Times",
+          "preview_url": "https://p.scdn.co/mp3-preview/a601470cfc8b2843f6af4026c9ef9cddd56e7877?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "All Born Screaming",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3acfa0f749f96e81e645748c0d7f2aad0eda116?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.2
+      "rating": 8
     },
     {
-      "url": "https://open.spotify.com/album/3CwJLj0pRWUrdKNcuaETfX",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d17ddc65da5e1094ccc0d4c7",
-      "title": "COBALT",
-      "artist": "Ramzey",
-      "previewUrl": "https://p.scdn.co/mp3-preview/c37704dc14d8d0d45d95a422dca5c76004c3a7c8?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736c16c2ee3db5cadc47975ecc",
+      "title": "MADRA",
+      "artist": "NewDad",
       "songs": [
-        "UNTER EINER SONNE",
-        "LALA LAND",
-        "BLAU",
-        "RAMMBOCK"
+        {
+          "title": "Angel",
+          "preview_url": "https://p.scdn.co/mp3-preview/e14164dcc3e65ccc7b6668f3ba567b3b845bf4aa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sickly Sweet",
+          "preview_url": "https://p.scdn.co/mp3-preview/0063436d20155495a430a388d935d2e32684904c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Where I Go",
+          "preview_url": "https://p.scdn.co/mp3-preview/032102e69b95134716278986a122e355cb6c6fa2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nosebleed",
+          "preview_url": "https://p.scdn.co/mp3-preview/32cc91df351d0b10ade8b32e69f22727c39cdf8f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "White Ribbons",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d0839be99decf412993e130df6e0d9fec1c16bb?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.5
+      "rating": 8
     },
     {
-      "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a3314be7ae643fefa32fbe08",
-      "title": "I LAY DOWN MY LIFE FOR YOU",
-      "artist": "JPEGMAFIA",
-      "previewUrl": "https://p.scdn.co/mp3-preview/447312d83faf1754d67ee942b90a6ea06b85898f?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733126a95bb7ed4146a80c7fc6",
+      "title": "In Waves",
+      "artist": "Jamie xx",
       "songs": [
-        "SIN MIEDO",
-        "Exmilitary",
-        "JPEGULTRA! (feat. Denzel Curry)"
+        {
+          "title": "Treat Each Other Right",
+          "preview_url": "https://p.scdn.co/mp3-preview/a518fdb34284daa9a2298fd5491d6cede24a3e01?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Waited All Night",
+          "preview_url": "https://p.scdn.co/mp3-preview/b7820ac10349ca374242240f69887c073a4980f2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/261bc3bd3192ef4158b1ca42e95262113241a326?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Every Single Weekend - Interlude",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c46e4cea66da846807b70c7974d19b7837eba52?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Falling Together",
+          "preview_url": "https://p.scdn.co/mp3-preview/2fa5fc5e733495719170f672a07b172bf678a89f?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.3
+      "rating": 8
     },
     {
-      "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738f4b5df3a6ee2abb733080a9",
-      "title": "Hyperdrama",
-      "artist": "Justice",
-      "previewUrl": "https://p.scdn.co/mp3-preview/8314f126a5acedf146ff74f745b15859e6bb847f?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85",
+      "title": "Submarine",
+      "artist": "The Marías",
       "songs": [
-        "Neverender",
-        "One Night/All Night",
-        "Saturnine"
+        {
+          "title": "Echo",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ed40b056b6cc97ea55c27c0f5ad8bb00e2b944d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Run Your Mouth",
+          "preview_url": "https://p.scdn.co/mp3-preview/808fd8690a5c025d151ef6aa1db992b3fe9a4120?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Real Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3f1eb6f36742d1672a53232475cb35a3ba3415a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No One Noticed",
+          "preview_url": "https://p.scdn.co/mp3-preview/178ed09818736eb0056e3d53ccd2162a7d8bf886?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.8
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e5bd8e6421836818cddeb2d6",
+      "title": "Fearless Movement",
+      "artist": "Kamasi Washington",
+      "songs": [
+        {
+          "title": "Asha The First",
+          "preview_url": "https://p.scdn.co/mp3-preview/070ebd097f758e045f002dc43da5e81159cdb613?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Computer Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/38b761e23f8e13c5ec1eb4e8112834293f85af75?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dream State",
+          "preview_url": "https://p.scdn.co/mp3-preview/1af6b659ca6b708c30375e53a9018c4738be9e27?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Road to Self (KO)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1912e90e7d2f966fed11e1ab648478bfd42048f7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Prologue",
+          "preview_url": "https://p.scdn.co/mp3-preview/4814f4a565c2e5dbfbdaeb5630e3afc885d28e97?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273613f62075c85e0b853318026",
+      "title": "Romance",
+      "artist": "Fontaines D.C.",
+      "songs": [
+        {
+          "title": "Romance",
+          "preview_url": "https://p.scdn.co/mp3-preview/120252de8eae906586dc3edba452e235d6389f40?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Starburster",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a120c2004c2969eaa5f87e7b49eb4a808d9ad4f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Here's The Thing",
+          "preview_url": "https://p.scdn.co/mp3-preview/da8695ac855fbe04d437c8b33a4f33f4acc73068?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Desire",
+          "preview_url": "https://p.scdn.co/mp3-preview/da1ae0ade98f78eae32f804156253a3a463a4318?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Favourite",
+          "preview_url": "https://p.scdn.co/mp3-preview/612f6712f5d4c51cf74ae578bb28cf899f9e8a48?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/3Vo6p72T0ffD4SHmpuPenP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27394150416dcbc18d273dbe94a",
+      "title": "assisted memories",
+      "artist": "Night Tapes",
+      "songs": [
+        {
+          "title": "drifting",
+          "preview_url": "https://p.scdn.co/mp3-preview/04f685cde52f294ba4afb09309be4cd6a43ad2d7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "loner",
+          "preview_url": "https://p.scdn.co/mp3-preview/f9722cdf0b5380d7f2d3e1d268a525b600dbc7d9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "projections",
+          "preview_url": "https://p.scdn.co/mp3-preview/7610c29272b55aa8e312e4c97eb158ef89804d41?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "waterfall",
+          "preview_url": "https://p.scdn.co/mp3-preview/e3152f8512da737770ab80209248005c70688bb1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "every day is a game",
+          "preview_url": "https://p.scdn.co/mp3-preview/b0586f1329a096ac47a89218898dc64d9474a5a6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731f4e2d002b9d1920339a5109",
+      "title": "Only God Was Above Us",
+      "artist": "Vampire Weekend",
+      "songs": [
+        {
+          "title": "Ice Cream Piano",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccaa2193e439fa69a5949a90d400ec8b97b35397?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Classical",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc6713caada8a67282f417214c0efd8efc63271c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Capricorn",
+          "preview_url": "https://p.scdn.co/mp3-preview/9742fae573fd3636928f078f87bee7c1e02b33fe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Connect",
+          "preview_url": "https://p.scdn.co/mp3-preview/4cacbbb57406a8e7f406e65db3879a5fb330262b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mary Boone",
+          "preview_url": "https://p.scdn.co/mp3-preview/7610d476539f0c846cc005043b18143d0587ac14?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/2uoD60Oip7rq3vjXxZ2VaD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f07737652b6102890b4b840d",
+      "title": "SCRAPYARD",
+      "artist": "Quadeca",
+      "songs": [
+        {
+          "title": "TEXAS BLUE",
+          "preview_url": "https://p.scdn.co/mp3-preview/ebb117c037a0d7589ac979da444e2e6e44da1b77?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DUSTCUTTER",
+          "preview_url": "https://p.scdn.co/mp3-preview/509980d440a2c91013e7c20e9545203eb8ed8f1f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "A LA CARTE",
+          "preview_url": "https://p.scdn.co/mp3-preview/69f1fd5423c177f3dc98a127586f30feb66f270a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "EASIER",
+          "preview_url": "https://p.scdn.co/mp3-preview/78e9c23bf623a2747cab81ebb275ef697c295732?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I MAKE IT LOOK EFFORTLESS",
+          "preview_url": "https://p.scdn.co/mp3-preview/eee5f94aa8cd605e1d3744d3e72406762b0e1824?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735a2ff617de4e51a9a214b56a",
+      "title": "Imaginal Disk",
+      "artist": "Magdalena Bay",
+      "songs": [
+        {
+          "title": "Image",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc27de27e4513edbcacddbc8078ee3542bdc8c81?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Vampire in the Corner",
+          "preview_url": "https://p.scdn.co/mp3-preview/f4c2b6acb957990e5e45694dc021de422a9bf6eb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "That's My Floor",
+          "preview_url": "https://p.scdn.co/mp3-preview/30922592ac307fae25c328beba07ab239e980f76?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cry for Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/01f58f75e473ed7e6919f1df3a6f33fb0f3baca6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0CDJRywET2yNxEEl4R6cNq",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738b4f06f3bc11e39b23d2a158",
+      "title": "Junior Varsity",
+      "artist": "Javi Vera",
+      "songs": [
+        {
+          "title": "SORRYPRINCESS",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee1d21f103c2f9fc87f5ed50b4544d1c71a8a6da?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "JUSTAPIECE",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ec99a39f8d5979c869eea85c88a3eb0a5c2c40e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "GOODLUCK",
+          "preview_url": "https://p.scdn.co/mp3-preview/4efd1e6135c6144924aba6aca611406cca1eb8be?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "EXCUSEMEMADAME",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ce34ab34963659449b843617f6fc051f52a890c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
     },
     {
       "url": "https://open.spotify.com/album/0G92BFcckQ8LKXhxmEvLat",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27340147797914bbfba4abb6c5c",
       "title": "A Lonely Sinner",
       "artist": "samlrc",
-      "previewUrl": "https://p.scdn.co/mp3-preview/42639e0733256f265dacd3d541c5a224fa239776?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "Philautia",
-        "Sinner",
-        "Storge"
+        {
+          "title": "Philautia",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c55aa28ae01f031e41d4f40f742b48b90b97c36?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sinner",
+          "preview_url": "https://p.scdn.co/mp3-preview/c585cea96ae5a229e66571697d8adf70b4de75d1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Storge",
+          "preview_url": "https://p.scdn.co/mp3-preview/66d9bf8403c8095f4d4c1340f987641276cdeb51?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "For M.",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d78554cfc5edc85a806328f5dfafea8ee9558dd?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.9
+      "rating": 0
     },
     {
-      "url": "https://open.spotify.com/album/6eoPGdVb2vSvEURaBOFk6O",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27309484f63bee64697c354cfc2",
-      "title": "424",
-      "artist": "MIKE DEAN",
-      "previewUrl": "https://p.scdn.co/mp3-preview/2d5ba43755e8559f0efb072594e586fc345acfa3?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273245812a395ea6eee58f01ffd",
+      "title": "Girl With No Face",
+      "artist": "Allie X",
       "songs": [
-        "IT’S IN THE WATER",
-        "DON’T FAST FORWARD LIFE",
-        "FAST FORWARD LIFE IN REWIND"
+        {
+          "title": "Weird World",
+          "preview_url": "https://p.scdn.co/mp3-preview/04b62c4cfb3f6fe11b4be089c248b8ebc08cbee1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Girl With No Face",
+          "preview_url": "https://p.scdn.co/mp3-preview/32b59c186a20b2cf039029877a0d57563670c898?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Off With Her Tits",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6c88b3432c473d8a154eec47a00d41cfc65b1af?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Black Eye",
+          "preview_url": "https://p.scdn.co/mp3-preview/5abb8c96f234106abc5f2002ed6d07368613973c?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.0
+      "rating": 0
     },
     {
-      "url": "https://open.spotify.com/album/3bHBja0WHDXuhZjFzWFImc",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345b408502b599fe9cd5a5508",
-      "title": "Radical Optimism",
-      "artist": "Dua Lipa",
-      "previewUrl": "https://p.scdn.co/mp3-preview/bd90499fa5ed23bebeaed5ae859f18ac7dd33ab2?cid=941103e4872f4d3fad60066c677df34f",
+      "url": "https://open.spotify.com/album/2ej3ZX7h1N7noej8defaj1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea36aa177d2d07a1c85c1023",
+      "title": "Addio",
+      "artist": "Faber",
       "songs": [
-        "Houdini",
-        "Training Season",
-        "These Walls"
+        {
+          "title": "Du kriegst mich nicht zurück",
+          "preview_url": "https://p.scdn.co/mp3-preview/3eb666e8b083eb7952344de73af9355ddc23bdf9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sie ist wieder in der Stadt",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c8aa4b713c0bc14ec60c3b43e70c5efa943df94?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Leon",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c2f709a0ce1a3623574142fa9015be4bbd904d8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ihr habt meinen Segen Pt.2",
+          "preview_url": "https://p.scdn.co/mp3-preview/216369c72cde915b0f7bfb106149b1a589a05417?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating": 7.0
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738f4b5df3a6ee2abb733080a9",
+      "title": "Hyperdrama",
+      "artist": "Justice",
+      "songs": [
+        {
+          "title": "Neverender",
+          "preview_url": "https://p.scdn.co/mp3-preview/8314f126a5acedf146ff74f745b15859e6bb847f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "One Night/All Night",
+          "preview_url": "https://p.scdn.co/mp3-preview/a8742ce4b1598a9c702bcb582ada7617dde41e6e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Saturnine",
+          "preview_url": "https://p.scdn.co/mp3-preview/b0aebaee50e68d1686f97e9e02edca19aea97a37?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The End",
+          "preview_url": "https://p.scdn.co/mp3-preview/00a5fc560212285f32d1782b84e8f2dfc2dcd69d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7dGH4nr5sFVyGJQ2f6D3jl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27396283603e80fcea04f93e16c",
+      "title": "Fieber",
+      "artist": "OG Keemo",
+      "songs": [
+        {
+          "title": "Tasche",
+          "preview_url": "https://p.scdn.co/mp3-preview/24077b4bf7c80bc2d7c412763894e0dce5e265fc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tórshavn",
+          "preview_url": "https://p.scdn.co/mp3-preview/45af055dc1052507348766ee06b3bf01ee81cd14?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bee Gees",
+          "preview_url": "https://p.scdn.co/mp3-preview/719466f5c06004e252586fe464d122c3ca45196c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Süden",
+          "preview_url": "https://p.scdn.co/mp3-preview/8c8464c466349a325078c92c07db6d73e161f9cc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732129eda0ae3c8426c3d4dc7d",
+      "title": "Dark Times",
+      "artist": "Vince Staples",
+      "songs": [
+        {
+          "title": "Black&Blue",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e04351190b429bed5c401d5dd4ae96796d83c1f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Étouffée",
+          "preview_url": "https://p.scdn.co/mp3-preview/c92ddb34f17efe6a7196ed5eaabbe2a162c9b468?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Little Homies",
+          "preview_url": "https://p.scdn.co/mp3-preview/de937f37945c5f64eac17231eb382e9c74d87872?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Why Won’t the Sun Come Out?",
+          "preview_url": "https://p.scdn.co/mp3-preview/860f23770ea2d9c0b37e17905408cfe23a58f779?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735290f7a7c65d9b5d61d99d2b",
+      "title": "Bad Cameo",
+      "artist": "James Blake,\nLil Yachty",
+      "songs": [
+        {
+          "title": "Save The Savior",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5ea70346ac68d66c9eecbc8a703a435194c0bd4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In Grey",
+          "preview_url": "https://p.scdn.co/mp3-preview/444d6329dd70daaac00488b73d37c9744c2bc2a0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Run Away From The Rabbit",
+          "preview_url": "https://p.scdn.co/mp3-preview/20f23b07139dedaf42a1c5d67ed4231ba39191df?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Red Carpet",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d3bb1d6b635b6d6d87c858531e632b45d4c427d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733fb9700186c245ff1f85b0fc",
+      "title": "King Of The Mischievous South Vol. 2",
+      "artist": "Denzel Curry",
+      "songs": [
+        {
+          "title": "HOT ONE (with TiaCorine & A$AP Ferg)",
+          "preview_url": "https://p.scdn.co/mp3-preview/b15cc3610c55924c5f6b0bc0325736c4647951bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "G’Z UP (with 2 Chainz, Mike Dimes)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4874a9d5e45515da6469fda2effd4ecc8cfe243e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SKED (with Kenny Mason & Project Pat)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0fa3c9147e23b6f86c8324eba95b877302976dc6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5c751bda071c87592abb3fc03de3d8a0fbc0f40?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f6ba7085174586aed75935bc",
+      "title": "God Said No",
+      "artist": "Omar Apollo",
+      "songs": [
+        {
+          "title": "Be Careful With Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/be9ebc49ae3f8e283b52e599f6d238aa942500c3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Spite",
+          "preview_url": "https://p.scdn.co/mp3-preview/21517a52fb4012e489d4c2edf3e7b1729086346f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Less of You",
+          "preview_url": "https://p.scdn.co/mp3-preview/c629d799235b2ed0e0496d9298281cc5391d283e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Plane Trees (feat. Mustafa)",
+          "preview_url": "https://p.scdn.co/mp3-preview/af1ed8736fef9baead588c3974573fe17274adba?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
     },
     {
       "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e967b5b4322899cd2f1ad1a6",
       "title": "JPEG RAW",
       "artist": "Gary Clark Jr.",
-      "previewUrl": "https://p.scdn.co/mp3-preview/345ef11a515563fb341e703ad4d812281802dc59?cid=941103e4872f4d3fad60066c677df34f",
       "songs": [
-        "JPEG RAW",
-        "Funk Witch U",
-        "What About The Children"
+        {
+          "title": "Maktub",
+          "preview_url": "https://p.scdn.co/mp3-preview/345ef11a515563fb341e703ad4d812281802dc59?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "JPEG RAW",
+          "preview_url": "https://p.scdn.co/mp3-preview/96a7bf7d98419ee7ee4f7ec7bcfb92032dbc8b3e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Alone Together (feat. Keyon Harrold)",
+          "preview_url": "https://p.scdn.co/mp3-preview/389e51d0f3717ac6f4f9409c3b6c7cf8c75d2d6a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "What About The Children",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fab1379a2d2b1ae33e12954d5fd54838a38e46d?cid=941103e4872f4d3fad60066c677df34f"
+        }
       ],
-      "rating" : 7.6
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a9afb2484111b87abc2b4a80",
+      "title": "Atavista",
+      "artist": "Childish Gambino",
+      "songs": [
+        {
+          "title": "Atavista",
+          "preview_url": "https://p.scdn.co/mp3-preview/19bbe59b20aa05aaf05aa0d15a24c6e211958f49?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sweet Thang (feat. Summer Walker)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9cc445a8b1655bb7adda19bd3337549f61accbd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Little Foot Big Foot (feat. Young Nudy)",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fae7fb2d94b7a18e56271e806ca9c77fefa33a5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Violence",
+          "preview_url": "https://p.scdn.co/mp3-preview/62e61581db66bacf5c32a13aeab180b1e0c12f21?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a3314be7ae643fefa32fbe08",
+      "title": "I LAY DOWN MY LIFE FOR YOU",
+      "artist": "JPEGMAFIA",
+      "songs": [
+        {
+          "title": "SIN MIEDO",
+          "preview_url": "https://p.scdn.co/mp3-preview/471632dcf96823b06c6900c1b7356534295e520a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Black History (feat. Vince Staples)",
+          "preview_url": "https://p.scdn.co/mp3-preview/406fb6a60cdc58a694d3cfa39d611a2292f0dfab?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Exmilitary",
+          "preview_url": "https://p.scdn.co/mp3-preview/96c06496d4d4419789c73204ae55f294fafa98d2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "JPEGULTRA! (feat. Denzel Curry)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ab18df6122de198fa05d48548eb615a2e9dced5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739567b80f50a5b9f0178ae993",
+      "title": "2093",
+      "artist": "Yeat",
+      "songs": [
+        {
+          "title": "Shade",
+          "preview_url": "https://p.scdn.co/mp3-preview/32b876af2332390915b4666196c8e7804d916c29?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Psycho CEO",
+          "preview_url": "https://p.scdn.co/mp3-preview/87b0fb62334d66be24172881c9d316de852f057f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Power Trip",
+          "preview_url": "https://p.scdn.co/mp3-preview/64555bf82ccffe44a24ee5d655c80ae803e06ef0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Keep Pushin",
+          "preview_url": "https://p.scdn.co/mp3-preview/7da0e490a884b6876592531a88c5160b178840ca?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738fe69d8df304ff053693653e",
+      "title": "yustyna",
+      "artist": "Artemas",
+      "songs": [
+        {
+          "title": "i like the way you kiss me",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ce9233edb212fe7cf02273f4369d2c60c28e887?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "i always kinda knew you’d be the death of me",
+          "preview_url": "https://p.scdn.co/mp3-preview/31880ed7039a319527d4b806420ca3e72ba19bad?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "caroline",
+          "preview_url": "https://p.scdn.co/mp3-preview/0b3a37847803bb197a0fb45136aaf62094690159?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "dirty little secret",
+          "preview_url": "https://p.scdn.co/mp3-preview/26b9425683ab768afe6908fdcaa26a8ca7da2a69?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f9ee2021e4ce4ce4c06282b9",
+      "title": "GRASA",
+      "artist": "NATHY PELUSO",
+      "songs": [
+        {
+          "title": "CORLEONE",
+          "preview_url": "https://p.scdn.co/mp3-preview/d52dea17987cf2325160698b8fe13401533a7f90?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LEGENDARIO",
+          "preview_url": "https://p.scdn.co/mp3-preview/b62683aa9077105b032dfed7c8cb26b67e30a512?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "IDEAS RADICALES",
+          "preview_url": "https://p.scdn.co/mp3-preview/d732f485b2f175436db81e935e0a80ec62d722db?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "MAMÁ",
+          "preview_url": "https://p.scdn.co/mp3-preview/b3f72dd6e86db685a1477bae22775c6c5839527e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27380ae53ba911b9f4ac50ce714",
+      "title": "ICKE",
+      "artist": "Filow",
+      "songs": [
+        {
+          "title": "Tante Emma",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e0bcf155bc518b04bfffb4c3ebef53d4a2aecfa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Atze seit Tag 1",
+          "preview_url": "https://p.scdn.co/mp3-preview/47a7eaf21afb2945bb5b4efad982638b0edda90d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lieber Gott",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f655c6df2fb5abf3a4fe8f5283e5190e2f42a98?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Rasenschach",
+          "preview_url": "https://p.scdn.co/mp3-preview/d08f7162c91d3fb97d663564d37c3748e78bf3fa?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273454a4fb74aa36c7cb57b9153",
+      "title": "BLUE LIPS",
+      "artist": "ScHoolboy Q",
+      "songs": [
+        {
+          "title": "Funny Guy",
+          "preview_url": "https://p.scdn.co/mp3-preview/461e0b76e9336f37b8ad6e62db36ed2d3c1cc6ef?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pop (feat. Rico Nasty)",
+          "preview_url": "https://p.scdn.co/mp3-preview/05c267ec329cf71177171abfe96122ebf01884e4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "THank god 4 me",
+          "preview_url": "https://p.scdn.co/mp3-preview/70c4bf71662d597a9c0e151174630128f7d8745f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Foux (feat. Ab-Soul)",
+          "preview_url": "https://p.scdn.co/mp3-preview/161a76f7545961b6500691a9fdecfc7ba108a244?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6eoPGdVb2vSvEURaBOFk6O",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27309484f63bee64697c354cfc2",
+      "title": "424",
+      "artist": "MIKE DEAN",
+      "songs": [
+        {
+          "title": "SUBDIVISION OF TIME",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d5ba43755e8559f0efb072594e586fc345acfa3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "3 AM",
+          "preview_url": "https://p.scdn.co/mp3-preview/caa65d0a4bea6690d0178251c703aa037f987768?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DON’T FAST FORWARD LIFE",
+          "preview_url": "https://p.scdn.co/mp3-preview/a715e2f80a1532f862dead78dc64e1437c9af2a7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FAST FORWARD LIFE IN REWIND",
+          "preview_url": "https://p.scdn.co/mp3-preview/897d57b54e790dbf9a694950c3fdfafc879ed97e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3bHBja0WHDXuhZjFzWFImc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345b408502b599fe9cd5a5508",
+      "title": "Radical Optimism",
+      "artist": "Dua Lipa",
+      "songs": [
+        {
+          "title": "Houdini",
+          "preview_url": "https://p.scdn.co/mp3-preview/f10afe790ee2047d201e98ec32c73207f200b973?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Training Season",
+          "preview_url": "https://p.scdn.co/mp3-preview/b1e7c82f332512aa7162af25f67b92c35017552a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "These Walls",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf340fbe3c069ff111d4ea6668e30b5a53432509?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Falling Forever",
+          "preview_url": "https://p.scdn.co/mp3-preview/23e097fb99c8b4b81cbe3c1bf27ddc2d5c5dd6d6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
     }
   ]
 }
