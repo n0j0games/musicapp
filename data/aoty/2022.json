@@ -1,0 +1,930 @@
+{
+  "year" : 2022,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7",
+      "title": "RENAISSANCE",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "CUFF IT",
+          "preview_url": "https://p.scdn.co/mp3-preview/1799de9ff42644af9773b6353358e54615696f19?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "COZY",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f4bcb6aa0f4ca5ec1c16525fc530315c5a34652?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ALIEN SUPERSTAR",
+          "preview_url": "https://p.scdn.co/mp3-preview/a5715e753ed35f47ec45920a54448b3b109bb39b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ENERGY (feat. Beam)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b0468d27f6d0c84113fdd973115fdea301109d0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "VIRGO'S GROOVE",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae4ae52e313377f6dd438dbf52162a2cb9aad809?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10
+    },
+    {
+      "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
+      "title": "The Forever Story (Extended Version)",
+      "artist": "JID",
+      "songs": [
+        {
+          "title": "Kody Blu 31",
+          "preview_url": "https://p.scdn.co/mp3-preview/71550ef227a38a275cdd9afd170d619ba3b2f157?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Raydar",
+          "preview_url": "https://p.scdn.co/mp3-preview/75c462045723f240659839b31a9429d50537b4da?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dance Now (feat. Kenny Mason)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3da83ad478d80e5d160d13f8d68d5f22cc0d0af?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sistanem",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c61fd5fe1ca8d59e941e345e8f1fc9ccf065d16?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Stars (feat. Yasiin Bey)",
+          "preview_url": "https://p.scdn.co/mp3-preview/631ffcbb45934c0fb36b987fb9d8dea0b02e3b62?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.9
+    },
+    {
+      "url": "https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+      "title": "I Didn't Mean To Haunt You",
+      "artist": "Quadeca",
+      "songs": [
+        {
+          "title": "sorry4dying",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6f6ce0c1bc42db317d87477f8156daa1b4eb034?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "tell me a joke",
+          "preview_url": "https://p.scdn.co/mp3-preview/fdac4ed7d3486bfb6909fcb341ddd3d035384dd4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "don't mind me",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d4cd1823b99619f63021588913de7991a08e2f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "born yesterday",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd24e2697761369374a60e8af954adeb91fa2d19?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "house settling",
+          "preview_url": "https://p.scdn.co/mp3-preview/d7ac9b05670b5b713a2e03858f2695b3f72ced24?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/6k02YcfRBdVlttVDPrjhkS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273870a6e8255f51d3ba275496c",
+      "title": "Mann Beisst Hund",
+      "artist": "OG Keemo",
+      "songs": [
+        {
+          "title": "Civic",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3e77ed3e8018bd2bea5c95b32aec69e0d76c2c6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Malik",
+          "preview_url": "https://p.scdn.co/mp3-preview/015a4c4034c5bc2adec04a40760c0c7755cdad84?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Petrichor",
+          "preview_url": "https://p.scdn.co/mp3-preview/3523972ef37d567abd248697e726c4c47cc7af80?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Vögel",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6440c207016cf6161fa40349d03b7d540eef4b6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Töle",
+          "preview_url": "https://p.scdn.co/mp3-preview/402643cfded93916b80cd3c413583de9f4578aa1?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.7
+    },
+    {
+      "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+      "title": "Dawn FM",
+      "artist": "The Weeknd",
+      "songs": [
+        {
+          "title": "Take My Breath",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffdab474b4b1ac69aefda585361fd12556f7aa58?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "How Do I Make You Love Me?",
+          "preview_url": "https://p.scdn.co/mp3-preview/58500725f6c32611cfef5501f42007fb50248199?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Out of Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/b097c97dade8d4acf6adf0653ae04f5b85dcf5f0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Starry Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/963a5049970b20fc322813388bdc5acb668d64c2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Don’t Break My Heart",
+          "preview_url": "https://p.scdn.co/mp3-preview/fea9352b436c804ae70997ddfd77fc25359e7d8a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.5
+    },
+    {
+      "url": "https://open.spotify.com/album/5dFqidhoMEed1Nx9gO9M71",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e0ef2f8616a889efa0aeca9",
+      "title": "Nie verliebt",
+      "artist": "Paula Hartmann",
+      "songs": [
+        {
+          "title": "Nie verliebt",
+          "preview_url": "https://p.scdn.co/mp3-preview/df3e707adf74b82af378486556184f5050e0536d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fahr uns nach Hause P1 & P2",
+          "preview_url": "https://p.scdn.co/mp3-preview/a315e253d39033b9ebda118e659048d439202e4d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Seidenkleid",
+          "preview_url": "https://p.scdn.co/mp3-preview/8231439c6a35b7ce2037ebfaf8a1c3cf8ef4071f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Truman Show Boot",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c2897694588ea7cfc6c11d0ec22664a6718cd40?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Babyblau",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e4ff164b4c68ca4ec006d62e2614693298fde00?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.4
+    },
+    {
+      "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+      "title": "Mr. Morale & The Big Steppers",
+      "artist": "Kendrick Lamar",
+      "songs": [
+        {
+          "title": "Die Hard",
+          "preview_url": "https://p.scdn.co/mp3-preview/663a18fd8558cddcf150a621b65b991052a3995d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Father Time (feat. Sampha)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0cfcb4ca4d0b39857028d7a243f459043312584e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Count Me Out",
+          "preview_url": "https://p.scdn.co/mp3-preview/b402ac68f8f32cac7c239dae38e6cf0ba219af80?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mother I Sober",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3b6c4c00e9dd1534285d2cc50fca4697d801548?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Heart Part 5",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa77ad53200cbfa6282ebc44aa3432d6b57be501?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.2
+    },
+    {
+      "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730c179967a265de0fc76382fe",
+      "title": "MOTOMAMI",
+      "artist": "ROSALÍA",
+      "songs": [
+        {
+          "title": "LA FAMA",
+          "preview_url": "https://p.scdn.co/mp3-preview/da91a4c518657ab68ed8a6c84e5372d56a31ca7f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SAOKO",
+          "preview_url": "https://p.scdn.co/mp3-preview/a310d38a9cc3dc227fa9b1cba91b53865f0eb4e7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "CANDY",
+          "preview_url": "https://p.scdn.co/mp3-preview/aaafd4c13bb9cba6d612beed3aa19e29ac309cf4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "HENTAI",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec39acb4ea235e6e8d8c6011fc86a1bd6f16f212?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SAKURA",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a8fa587f65b722b40b37a048ba6d8e3516c7175?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.0
+    },
+    {
+      "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27351a05f3b08484753682563e8",
+      "title": "Universum regelt",
+      "artist": "Schmyt",
+      "songs": [
+        {
+          "title": "Mach kaputt",
+          "preview_url": "https://p.scdn.co/mp3-preview/959a6e2b9fd7c9e8a5fd5d1afdc652bee45f3b77?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ich wünschte, du wärst verloren",
+          "preview_url": "https://p.scdn.co/mp3-preview/50f6556298a686ea3455ce6d687b743b71ade5e3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Medusa",
+          "preview_url": "https://p.scdn.co/mp3-preview/3562f7fcc6351fd84f43bee31b08f10779fb6d48?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Liebe verloren",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd399532253065df89b8ad2211146b7aae5dbe3c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Universum regelt",
+          "preview_url": "https://p.scdn.co/mp3-preview/291307c739720fa5ed79c02c9b470131e1327732?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Höhenangst",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf529ae7be96e3b6ec08ff821a9854210eff67fe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Proteinprodukte 2D Metaverse Skit",
+          "preview_url": "https://p.scdn.co/mp3-preview/b61573fe054d9e55e9674697bc614d2c4c1cc09e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bumms",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b25c49e78210d8287fae7356ee6baf5fa0ee3f3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    },
+    {
+      "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273af2d88c14cb157d6b851dbb3",
+      "title": "Ants From Up There",
+      "artist": "Black Country, New Road",
+      "songs": [
+        {
+          "title": "Chaos Space Marine",
+          "preview_url": "https://p.scdn.co/mp3-preview/aabdbc9a10406ecfd5e6c1e282a142041c20cd34?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Concorde",
+          "preview_url": "https://p.scdn.co/mp3-preview/c811602c0f220ebd8cb668931f4c5c7ddf127fbf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Place Where He Inserted the Blade",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e2c293d5c5cf94c1bd1850f6d56b790c428f172?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Snow Globes",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c1609516d26c0ec29822a59d6494c06d86528be?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Basketball Shoes",
+          "preview_url": "https://p.scdn.co/mp3-preview/e947ee4accc94852078f8058518fd8dec337df54?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+      "title": "HEROES & VILLAINS",
+      "artist": "Metro Boomin",
+      "songs": [
+        {
+          "title": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d56b40ee7d47268c533ac05ef88f1b152fef22e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Umbrella (with 21 Savage & Young Nudy)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a29fe242418be1dae414432a588c96cb8eb33733?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Trance (with Travis Scott & Young Thug)",
+          "preview_url": "https://p.scdn.co/mp3-preview/21a37a02779c9edc02d1b690d70779024f540793?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Creepin' (with The Weeknd & 21 Savage)",
+          "preview_url": "https://p.scdn.co/mp3-preview/adc5d059e4ccc40bbad75f3844eb03546d9ab05a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ea22e3b26eddac6f90adaa9b4d35b38e0c3b038?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+          "preview_url": "https://p.scdn.co/mp3-preview/10b03077a8864c13fe9fee59ae41266aa4d870c7?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ca0c528fd1b18e3f84431173",
+      "title": "Cheat Codes",
+      "artist": "Danger Mouse,\nBlack Thought",
+      "songs": [
+        {
+          "title": "Sometimes",
+          "preview_url": "https://p.scdn.co/mp3-preview/cfe38ce440580f327046b6f2e7f7aabef4f4cc8e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cheat Codes",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad3ba4659769e93f108376afc659272fa4b450ef?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Belize",
+          "preview_url": "https://p.scdn.co/mp3-preview/0af7ac1b9d5b06bb7f4c8e70c3be7dea7996a673?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Aquamarine",
+          "preview_url": "https://p.scdn.co/mp3-preview/42d568266ae51a32ebf774aa8ef734c9a587d15e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Strangers",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ff471f9121b162283c31863ee482db21737821a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a6dd9a81268761d323411303",
+      "title": "You Can’t Kill Me",
+      "artist": "070 Shake",
+      "songs": [
+        {
+          "title": "Web",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d334c7a22e945e1e21128686ad775d075d08c82?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Invited",
+          "preview_url": "https://p.scdn.co/mp3-preview/90f598163139279867c898a804da3f966dcaa859?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Blue Velvet",
+          "preview_url": "https://p.scdn.co/mp3-preview/f44e2d6dd101e9434a39d4efb7b1571f92f0d9ba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cocoon",
+          "preview_url": "https://p.scdn.co/mp3-preview/b824334466aa978ed11e587a9238eda60f946239?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Body",
+          "preview_url": "https://p.scdn.co/mp3-preview/506d1176e3bd2997b398ce99dfe2fd76909154cf?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735b924aa009b61b6b9d831eec",
+      "title": "Melt My Eyez See Your Future",
+      "artist": "Denzel Curry",
+      "songs": [
+        {
+          "title": "Walkin",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c18ab3467f5541c576193b5934a0b7445b072cc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Worst Comes To Worst",
+          "preview_url": "https://p.scdn.co/mp3-preview/20a234823155716ac092058535a94df3754cc3fe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ain't No Way",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b39ca1aab4c128fc498c2f9ca616a8a9fb5ed58?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "X-Wing",
+          "preview_url": "https://p.scdn.co/mp3-preview/189790f3d1bb462d75c78ddb9505a91335c3727b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sanjuro",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b24964d0e0b8ef63f6fff39357ce42520f04544?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739c351edcaee4de7d242e7aea",
+      "title": "Natural Brown Prom Queen",
+      "artist": "Sudan Archives",
+      "songs": [
+        {
+          "title": "Home Maker",
+          "preview_url": "https://p.scdn.co/mp3-preview/363923928a711c2ca770dc03ff79da8382ebbb29?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ciara",
+          "preview_url": "https://p.scdn.co/mp3-preview/f11f54f5c754a9f642eaad60d1f2ab7af5d699b8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Selfish Soul",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab3669e6869b2a45cb45f261e02cfbbef22dcf5d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ChevyS10",
+          "preview_url": "https://p.scdn.co/mp3-preview/fafb08be6244e84f34ed7149cb5c636f8911a0cb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "#513",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef63bc1c85832d9c7435077386958cd78c1cdc45?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d54c7c424d1b095611771530",
+      "title": "Reborn",
+      "artist": "Kavinsky",
+      "songs": [
+        {
+          "title": "Pulsar",
+          "preview_url": "https://p.scdn.co/mp3-preview/12b938f8a8a0369988b0ce365784d010ef0ab3d5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Reborn",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9496c3a211e048c8bcf9e769f4bca0fd3d1be95?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cameo",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb4bbeac4a7ce5333d302adcd1bbd18870ef2cea?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Vigilante",
+          "preview_url": "https://p.scdn.co/mp3-preview/a2bb0d607c0a72fd1b4378e66254fe7eed02f796?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Outsider",
+          "preview_url": "https://p.scdn.co/mp3-preview/f45e48c923d0604dec863f61803e1bd9070dd0f2?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+      "title": "Gemini Rights",
+      "artist": "Steve Lacy",
+      "songs": [
+        {
+          "title": "Static",
+          "preview_url": "https://p.scdn.co/mp3-preview/097e3e34df67fd23e0347456a54aecd2a783f4f0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Helmet",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a12bdde08a274d68b948fdb762eb6d26a5fd84c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mercury",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b728acddf8d587d9589d446037d9a2cfb422b42?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bad Habit",
+          "preview_url": "https://p.scdn.co/mp3-preview/efe7c2fdd8fa727a108a1270b114ebedabfd766c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sunshine (feat. Fousheé)",
+          "preview_url": "https://p.scdn.co/mp3-preview/909b6dd666c2070f382a5081e0bf3febad223e41?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735c2bbb4d4a66a70310705a26",
+      "title": "LOUIE",
+      "artist": "Kenny Beats",
+      "songs": [
+        {
+          "title": "Leonard",
+          "preview_url": "https://p.scdn.co/mp3-preview/309f7ee4583028107c17cebd2e94588ca8642324?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Parenthesis",
+          "preview_url": "https://p.scdn.co/mp3-preview/bfba4546b976744998e69d8343b05f8ec5185cd6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hold My Head",
+          "preview_url": "https://p.scdn.co/mp3-preview/43d34ae396c0bd852e1dfc1517431b352670ecac?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "So They Say",
+          "preview_url": "https://p.scdn.co/mp3-preview/62c125ef32d85e8517f17b7dab3514cd29da9af7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Family Tree",
+          "preview_url": "https://p.scdn.co/mp3-preview/d66d3fae62a697cbf09c4f2d4dfbaf6a555b9e90?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1",
+      "title": "SOS",
+      "artist": "SZA",
+      "songs": [
+        {
+          "title": "Kill Bill",
+          "preview_url": "https://p.scdn.co/mp3-preview/49dfe4ea78c5d3c5d2923d4a34c50fc4709855cb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Seek & Destroy",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a5d798429120b44f38d185bae23589f744ec444?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Gone Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b5380eb839673c896be8fda738cb590c99994b5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ghost in the Machine",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2ea708466b9417bf2cc2892fee910817b19ee21?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Open Arms",
+          "preview_url": "https://p.scdn.co/mp3-preview/13f76ff738fcb47ae54529c427d35bf4729db55e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+      "title": "It's Almost Dry",
+      "artist": "Pusha T",
+      "songs": [
+        {
+          "title": "Let The Smokers Shine The Coupes",
+          "preview_url": "https://p.scdn.co/mp3-preview/c3440ef415e567829818720190306af7f54ea490?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dreamin Of The Past",
+          "preview_url": "https://p.scdn.co/mp3-preview/c4e0449680eb937483478804bf60dbb00ac7f458?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Neck & Wrist",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e2bf45d4b745af0a20767e732b4f6fe35b9f7f8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Diet Coke",
+          "preview_url": "https://p.scdn.co/mp3-preview/42ffce9f481355fe26b5702d8da841a77b1c9707?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Rock N Roll",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ebab250ec7b72becf787be39637d11f743d1f35?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb",
+      "title": "SMITHEREENS",
+      "artist": "Joji",
+      "songs": [
+        {
+          "title": "Glimpse of Us",
+          "preview_url": "https://p.scdn.co/mp3-preview/12e4a7ef3f1051424e6e282dfba83fe8448e122f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Feeling Like The End",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e26d6bb9956583f4da90f508bb779995b3869dc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Die For You",
+          "preview_url": "https://p.scdn.co/mp3-preview/85d19ba2d8274ab29f474b3baf07b6ac6ba6d35a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Before The Day Is Over",
+          "preview_url": "https://p.scdn.co/mp3-preview/46a350e939333a6bef4298e4733db9aa1b24109a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dissolve",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b342f789ce591e5f0946c2a78c479f4e7cd3da2?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739f301e3a4d5f25d1888585b1",
+      "title": "$oul $old $eparately",
+      "artist": "Freddie Gibbs",
+      "songs": [
+        {
+          "title": "Gold Rings",
+          "preview_url": "https://p.scdn.co/mp3-preview/f9243104390cc3ebc9a13c37ea6c0a3b8ca97c12?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pain & Strife",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f5de92f90ff1cbe7b73e53320ba39f09ef557be?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Too Much",
+          "preview_url": "https://p.scdn.co/mp3-preview/8dc018a7eac2ee4affa44ddb23e86a2c7d37462f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lobster Omelette",
+          "preview_url": "https://p.scdn.co/mp3-preview/24bf6a0726383b9346e0dceec4ecd06fa25c8e3a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/0ErRszMCqF3rc0SLdGUTjG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739b24e9d30253e862232c8dbc",
+      "title": "Vices",
+      "artist": "Weiland",
+      "songs": [
+        {
+          "title": "Blaming Myself",
+          "preview_url": "https://p.scdn.co/mp3-preview/92130a359e1351a8879100569345107ca011f5b3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Better Place",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f285692b75c4140ba4dc2b3191d04938c2f1e6b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Slipping Into The Void",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b477ee3d59b98912f5f8e533bb8b808b88db1f4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Can't Save Her",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d104f740d1565b4daca33e2808b480931479fc0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d7bae4ad0b91f65e0dd910c8",
+      "title": "Luv 4 Rent",
+      "artist": "Smino",
+      "songs": [
+        {
+          "title": "4rm Da Source",
+          "preview_url": "https://p.scdn.co/mp3-preview/020c9f1b829711a578bc463dda5cfaba05a8691b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No L's",
+          "preview_url": "https://p.scdn.co/mp3-preview/27a0607719fc1b9f5feec802e0a9532f83d4e03c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "90 Proof",
+          "preview_url": "https://p.scdn.co/mp3-preview/229d07e3bab2912ef91c4fbe727f7331e9f541a0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Settle Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/e93b543468b9f9029c4bede00191521869af3d25?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.4
+    },
+    {
+      "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c08f68bdfd2f24e84acf7a2",
+      "title": "10",
+      "artist": "Westside Gunn",
+      "songs": [
+        {
+          "title": "Intro",
+          "preview_url": "https://p.scdn.co/mp3-preview/28061113efd7823b7207b9fe7e4015fd8bc39783?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FlyGod Jr",
+          "preview_url": "https://p.scdn.co/mp3-preview/b1c15263995e913d3c9953143965e1a1c823911d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Switches On Everything",
+          "preview_url": "https://p.scdn.co/mp3-preview/7658523594e163a3b4bdf5c35dbc7f035d924614?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Red Death",
+          "preview_url": "https://p.scdn.co/mp3-preview/b83981ec4d5b37c581baa4a14a2101f09fd72ce0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/02SRvzvwKNQJpqjdehWAif",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735cce9818bbdc469276b0d8a7",
+      "title": "Twelve Carat Toothache",
+      "artist": "Post Malone",
+      "songs": [
+        {
+          "title": "Reputation",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f4cc82e08eae21fd6beb6ab7f01b0c079266643?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lemon Tree",
+          "preview_url": "https://p.scdn.co/mp3-preview/06a29082f72cc70692c8b9763ce39d6c1bd38d34?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love/Hate Letter To Alcohol (with Fleet Foxes)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7747fc1900911dfc328c35e4470312bed76ee988?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Euthanasia",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c5330c98f4f17bb708f78f8b6e937b8b3079688?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2pOBRxQRaf5uArhBtvRjoj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730a97b3bca97edeea39dfd89d",
+      "title": "SOS",
+      "artist": "Eli Sostre",
+      "songs": [
+        {
+          "title": "New Edition",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3bbbb40233925ded15fa21bc5a912a8e969d425?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lonely Highway",
+          "preview_url": "https://p.scdn.co/mp3-preview/b490f98f049abc636fc6c4a60cb247694ef4651f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DYW",
+          "preview_url": "https://p.scdn.co/mp3-preview/e85190f331961df595f29dca97fffa67aef4a130?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Load Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/69ca891f8d72e711be3dff41f77dff2560203ed5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.1
+    },
+    {
+      "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732bdeda3cae04cb2e26b8ef63",
+      "title": "learn 2 swim",
+      "artist": "redveil",
+      "songs": [
+        {
+          "title": "pg baby",
+          "preview_url": "https://p.scdn.co/mp3-preview/423288969d53329d94053ac6a52da6ad47b45eb8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "together",
+          "preview_url": "https://p.scdn.co/mp3-preview/6069ebccef343173965faa5edb079f42c1f8a1dd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "diving board",
+          "preview_url": "https://p.scdn.co/mp3-preview/a96bfd7c2620667583a3f64955353ada98272fb0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "working on it",
+          "preview_url": "https://p.scdn.co/mp3-preview/72470ee09a9345ef14cda55ef491fecbdaa9a6de?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.4
+    },
+    {
+      "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aacc3ddf3bfa01f4bd44cacc",
+      "title": "2000",
+      "artist": "Joey Bada$$",
+      "songs": [
+        {
+          "title": "Brand New 911",
+          "preview_url": "https://p.scdn.co/mp3-preview/48c49726beea7c3fa25e92c5aeab4f22e32cd2a3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Show Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/abf38c0d65609df21b9c76d39e38ea5e049eee51?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wanna Be Loved",
+          "preview_url": "https://p.scdn.co/mp3-preview/99cad0bad0ec6b1b62f27f3168846f55cf4e72e2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Head High",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0f0d353cef64c137fc9edbce1e779ed36065127?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273494d84adfd2b985cbeb202a4",
+      "title": "DRILL MUSIC IN ZION",
+      "artist": "Lupe Fiasco",
+      "songs": [
+        {
+          "title": "AUTOBOTO",
+          "preview_url": "https://p.scdn.co/mp3-preview/0eb9e28ed47560189fcb673e2939b96e40b75225?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "PRECIOUS THINGS",
+          "preview_url": "https://p.scdn.co/mp3-preview/096f168a641d50d31f8b6e590d21b0e21bc9bc38?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "KIOSK",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae7a7c24cac01e50c85cdf3f2eeae817c7e1335c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "MS. MURAL",
+          "preview_url": "https://p.scdn.co/mp3-preview/03fc7349db646ac40d1704f912a4816926a3a40b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.2
+    },
+    {
+      "url": "https://open.spotify.com/album/262gaWJO1L6l4XxHIZ7tRc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388c2cd72e7d99dbc7341d968",
+      "title": "roter frühling ep",
+      "artist": "Tiavo",
+      "songs": [
+        {
+          "title": "roter frühling",
+          "preview_url": "https://p.scdn.co/mp3-preview/26c2c2dcdc5b432bbe530eab4d49e6ddf73763e7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "mantra",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a0759d748f51fc0fe46f6814cbc18b5df4e5d4d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "teufel trägt prada",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8e29652995f7d0845fb16464e4439c8891bf4ca?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "abspann",
+          "preview_url": "https://p.scdn.co/mp3-preview/13e2d2ca9d9bf5eb257592bc41cb87824dfc7eb8?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.2
+    },
+    {
+      "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27372f48f1e2e04cc76d06ee708",
+      "title": "NO THANK YOU",
+      "artist": "Little Simz",
+      "songs": [
+        {
+          "title": "Gorilla",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4c1c901e8bfb06acea6281e2963afd1150095f5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Silhouette",
+          "preview_url": "https://p.scdn.co/mp3-preview/528101d9cb7700cba8907abf46c1d2bb62e12a34?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No Merci",
+          "preview_url": "https://p.scdn.co/mp3-preview/94531d2efd9fe14471fba5584d06f7bcc0e6d64a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Broken",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf0649f5510caa21370f8076cd110be13435b952?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f6a332eb170465ae36a7ec9a",
+      "title": "De Todas las Flores",
+      "artist": "Natalia Lafourcade",
+      "songs": [
+        {
+          "title": "Vine solita",
+          "preview_url": "https://p.scdn.co/mp3-preview/c379abc5d87c9af8d29ece6c8fa6f41b1db27708?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "De todas las flores",
+          "preview_url": "https://p.scdn.co/mp3-preview/158490aead6eba5b530b60e81f9a3d5e039577e1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "El lugar correcto",
+          "preview_url": "https://p.scdn.co/mp3-preview/0211582576110c8cd7216301ed7d5fab4354a7bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "María la Curandera",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb7c2eec1103f82a319f7bfe21790452e9d30e37?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    }
+  ]
+}
