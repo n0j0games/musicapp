@@ -17,7 +17,6 @@ export class SotwService {
   setSotwList(sotwList: SotwList) {
     this.sotwList = sotwList;
     this.sotwListChanged$.next(sotwList);
-    console.log("set sotw list")
   }
 
   getSotwList(): SotwList | null {
@@ -37,13 +36,11 @@ export class SotwService {
   setSongsOfTheWeek(sotwItem: SotwItem) {
     for (const item of this.sotwItems) {
       if (item.week === sotwItem.week && item.year === sotwItem.year) {
-        console.log("Item already existed");
         return;
       }
     }
     this.sotwItems.push(sotwItem);
     this.songsOfTheWeekChanged$.next(sotwItem);
-    console.log("add sotw item", sotwItem, this.sotwItems);
   }
 
 }

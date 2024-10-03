@@ -21,7 +21,6 @@ export class SotwItemResolverService implements Resolve<SotwItem> {
         const year = <number><unknown>rawWeek.slice(0, 4);
         const week = <number><unknown>rawWeek.slice(4, 6);
         const sotwItem = this.sotwService.getSongsOfWeek(week, year);
-        console.log("sotw item " + sotwItem);
         return sotwItem !== null ? sotwItem : this.dataStorageService.fetchSotwItem(week, year);
     }
 

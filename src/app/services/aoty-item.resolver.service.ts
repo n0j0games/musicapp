@@ -22,7 +22,6 @@ export class AotyItemResolverService implements Resolve<AotyItem> {
         }
         const year = <number><unknown>rawYear;
         const aotyItem = this.aotyService.getAlbumsOfTheYear(year);
-        console.log("aoty item " + aotyItem);
         return aotyItem !== null ? aotyItem : this.dataStorageService.fetchAotyItem(year);
     }
 

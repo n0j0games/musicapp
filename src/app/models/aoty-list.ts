@@ -1,5 +1,6 @@
 export class AotyList {
 
-    constructor(public items? : { year : number, preview? : string[] }[]) {}
+    constructor(public items? : { year : number, decade? : number, preview? : string[] }[],
+                public decades? : number[]) {}
 
 }

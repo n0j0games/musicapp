@@ -1,7 +1,7 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {NgForOf, NgIf} from "@angular/common";
 import {RouterLink} from "@angular/router";
-import {WeekHelper} from "../../common/week-helper";
+import {WeekHelper} from "../../../common/week-helper";
 
 @Component({
   selector: 'app-item',

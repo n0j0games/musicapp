@@ -1,9 +1,11 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {AudioService} from "../../services/audio.service";
 import {Album} from "../../models/album";
-import {NgIf} from "@angular/common";
+import {NgClass, NgIf, NgStyle} from "@angular/common";
 import {PlayButtonComponent} from "../../common/play-button/play-button.component";
 import {RatingComponent} from "../../common/rating/rating.component";
+import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
+import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
 
 @Component({
   selector: 'app-album-detail',
@@ -11,7 +13,11 @@ import {RatingComponent} from "../../common/rating/rating.component";
   imports: [
     NgIf,
     PlayButtonComponent,
-    RatingComponent
+    RatingComponent,
+    RemoveDeluxePipe,
+    RemoveFeatPipe,
+    NgStyle,
+    NgClass
   ],
   templateUrl: './album-detail.component.html'
 })
@@ -34,10 +40,10 @@ export class AlbumDetailComponent implements OnInit {
     })
   }
 
-  getAlbumNames() {
+  getAlbumNames() : string {
     const songs = this.album.songs;
     if (songs === undefined) {
-      return undefined;
+      return "";
     }
     return songs.map(a => a.title).join(", ")
   }

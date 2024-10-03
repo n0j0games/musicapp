@@ -1,12 +1,13 @@
 import { Injectable } from '@angular/core';
-import {HttpClient} from "@angular/common/http";
-import {map, Observable, tap} from "rxjs";
+import {HttpClient, HttpErrorResponse} from "@angular/common/http";
+import {catchError, concatMap, forkJoin, map, Observable, of, tap} from "rxjs";
 import {SotwList} from "../models/sotw-list";
 import {SotwItem} from "../models/sotw-item";
 import {SotwService} from "./sotw.service";
 import {AotyService} from "./aoty.service";
 import {AotyItem} from "../models/aoty-item";
 import {AotyList} from "../models/aoty-list";
+import {Album} from "../models/album";
 
 @Injectable({
   providedIn: 'root'
@@ -63,12 +64,40 @@ export class DataStorageService {
         ).pipe(
             tap((value : AotyItem) => {
                 if (value != null) {
-                    console.log("Requested SOTW item", value)
+                    console.log("Requested AOTY item", value)
                     this.aotyService.setAlbumsOfTheYear(value);
                 }
             })
         );
     }
 
+    fetchAggregatedAotyItems(validYears: number[]) : Observable<(AotyItem|HttpErrorResponse)[]> {
+        const urls = validYears.map(year => this.fetchSingleAggregatedAotyItem(year));
+        return forkJoin<(AotyItem | HttpErrorResponse)[]>(urls).pipe(
+            map((value : (AotyItem | HttpErrorResponse)[]) => {
+                const res : (AotyItem|HttpErrorResponse)[] = [];
+                for (const item of value) {
+                    if (!(item instanceof HttpErrorResponse)) {
+                        res.push(item)
+                    }
+                }
+                return res;
+            }),
+            tap((value : (AotyItem|HttpErrorResponse)[]) => {
+                if (value != null) {
+                    console.log("Requested AOTY-DECADE item", value)
+                    this.aotyService.setAlbumsOfTheDecade(value);
+                }
+            })
+        )
+    }
+
+    fetchSingleAggregatedAotyItem(year : number) : Observable<AotyItem|HttpErrorResponse> {
+        return this.http.get<AotyItem>(
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
+        ).pipe(
+            catchError((err, caught) => of(err))
+        );
+    }
 
 }

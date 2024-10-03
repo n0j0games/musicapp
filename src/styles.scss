@@ -31,6 +31,7 @@
 $accent-color: #00995E;
 $primary-color: white;
 $secondary-color: #FB7DA8;
+$secondary-color-transparent: rgba(251, 125, 168, 0.46);
 $text-color: black;
 
 body {
@@ -164,6 +165,23 @@ body {
   margin-bottom: 40px;
 }
 
+.tenAlbum {
+  color: #862af6;
+}
+
+.tenAlbum i {
+  color: #862af6;
+}
+
+.tenAlbum:hover {
+  color: $secondary-color;
+}
+
+.tenAlbum:hover i {
+  color: $secondary-color;
+}
+
+
 .play-button {
   font-size: 20px;
   width: 25px;
@@ -171,7 +189,7 @@ body {
   border: none;
   outline: none;
   background-color: transparent;
-  color: $accent-color;;
+  color: $accent-color;
   text-decoration: none;
 }
 
@@ -179,10 +197,24 @@ body {
   color: $secondary-color;
 }
 
+.outer-highlight-card {
+  background: $secondary-color-transparent;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.outer-highlight-card a {
+  color: $text-color;
+}
+
+.outer-highlight-card a:hover {
+  color: $primary-color;
+}
+
 .highlight-card {
   background: $secondary-color;
   border-radius: 5px;
-  padding: 10px;
+  padding: 15px;
 }
 
 .highlight-card p, .highlight-card a {
