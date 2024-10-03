@@ -1,7 +1,9 @@
 {
+  "decades" : [2010,2020],
   "items": [
     {
       "year": 2024,
+      "decade" : 2020,
       "preview": [
         "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
         "https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599",
@@ -11,6 +13,7 @@
     },
     {
       "year": 2023,
+      "decade" : 2020,
       "preview": [
         "https://i.scdn.co/image/ab67616d0000b27316025492336e8584d8b77768",
         "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
@@ -20,12 +23,17 @@
     },
     {
       "year": 2022,
+      "decade" : 2020,
       "preview" : [
         "https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7",
         "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
         "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
         "https://i.scdn.co/image/ab67616d0000b273870a6e8255f51d3ba275496c"
       ]
+    },
+    {
+      "year": 2019,
+      "decade" : 2010
     }
   ]
 }
