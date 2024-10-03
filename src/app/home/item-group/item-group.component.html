@@ -1,0 +1,10 @@
+<div class="outer-highlight-card flex-column gap-l">
+    <a [routerLink]="['/aoty-decade', decade]" class="fs-xl p-b">{{ decade }}s</a>
+    <div class="list gap-l">
+        <app-item
+                *ngFor="let item of items"
+                [item]="item"
+                [isAoty]="true"
+        ></app-item>
+    </div>
+</div>
