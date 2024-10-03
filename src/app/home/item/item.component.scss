@@ -1,0 +1,41 @@
+.preview-img {
+  width: 70px;
+  height: 70px;
+  border: none;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+.img-0 {
+  z-index: 0;
+  left: 0;
+  position: absolute;
+}
+
+.img-1 {
+  z-index: -1;
+  right: calc(200px - 70px) / 3 * 2;
+  position: absolute;
+}
+
+.img-2 {
+  z-index: -2;
+  right: calc(200px - 70px) / 3 * 1;
+  position: absolute;
+}
+
+.img-3 {
+  z-index: -3;
+  right: 0;
+  position: absolute;
+}
+
+.preview-img-div-outer {
+  width: 200px;
+  height: 70px;
+  gap: 0;
+  position: relative;
+  border: 3px solid black;
+  border-radius: 5px;
+}

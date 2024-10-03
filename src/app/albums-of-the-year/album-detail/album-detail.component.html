@@ -4,13 +4,13 @@
     <div class="flex-column align-start gap-s">
         <p class="p-b-i fs-l left-text"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</p>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
-            <a class="p-b-i fs-xl left-text" href="{{album.url}}" target="_blank" >{{ album.title }}</a>
+            <a class="p-b-i fs-xl left-text max-width-800" href="{{album.url}}" target="_blank" >{{ album.title }}</a>
             <app-play-button
                     [url]="previewUrls"
                     [isPlaying]="isPlaying"
             ></app-play-button>
         </div>
-        <p class="left-text fs-m" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <b class="p-b-i">{{ getAlbumNames() }}</b></p>
+        <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <b class="p-b-i">{{ getAlbumNames() }}</b></p>
         <app-rating [rating]="album.rating"></app-rating>
     </div>
 </div>

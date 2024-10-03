@@ -1,5 +1,5 @@
 export class SotwList {
 
-  constructor(public items? : { year : number, week : number }[]) {}
+  constructor(public items? : { year : number, week : number, preview? : string[] }[]) {}
 
 }

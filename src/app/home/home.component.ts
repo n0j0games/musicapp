@@ -5,13 +5,16 @@ import {SotwService} from "../services/sotw.service";
 import {SotwList} from "../models/sotw-list";
 import {WeekHelper} from "../common/week-helper";
 import {AotyService} from "../services/aoty.service";
+import {AotyList} from "../models/aoty-list";
+import {ItemComponent} from "./item/item.component";
 
 @Component({
   selector: 'app-home',
   standalone: true,
   imports: [
     NgForOf,
-    RouterLink
+    RouterLink,
+    ItemComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
@@ -19,12 +22,10 @@ import {AotyService} from "../services/aoty.service";
 export class HomeComponent implements OnInit {
 
   sotwList! : SotwList | null;
-  aotyList! : { items? : number[] } | null;
+  aotyList! : AotyList | null;
 
   constructor(private sotwService: SotwService,
               private aotyService: AotyService) {}
-
-  weekHelper = new WeekHelper();
 
   ngOnInit() {
     this.setSotyList();
@@ -57,14 +58,15 @@ export class HomeComponent implements OnInit {
         next: (v) => {
           this.aotyList = v
           if (this.aotyList.items !== undefined) {
-            this.aotyList.items = this.aotyList.items.sort((a, b) => b - a);
+            this.aotyList.items = this.aotyList.items.sort((a, b) => b.year - a.year);
           }
         },
         error: (e) => console.log(e)
       })
       return;
     }
-    this.aotyList.items = this.aotyList.items.sort((a, b) => b - a);
+    this.aotyList.items = this.aotyList.items.sort((a, b) => b.year - a.year);
+    console.log("AOTYLIST", this.aotyList.items)
   }
 
 }

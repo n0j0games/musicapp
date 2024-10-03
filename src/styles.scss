@@ -179,6 +179,20 @@ body {
   color: $secondary-color;
 }
 
+.highlight-card {
+  background: $secondary-color;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.highlight-card p, .highlight-card a {
+  color: $primary-color;
+}
+
+.highlight-card a:hover {
+  color: $text-color;
+}
+
 img {
   width: 120px;
   height: 120px;
@@ -192,6 +206,10 @@ img {
 
 .m-counter {
   display: none;
+}
+
+.max-width-800 {
+  max-width: 800px;
 }
 
 @media (width < 600px) {

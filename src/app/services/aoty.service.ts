@@ -3,25 +3,26 @@ import {SotwList} from "../models/sotw-list";
 import {Subject} from "rxjs";
 import {SotwItem} from "../models/sotw-item";
 import {AotyItem} from "../models/aoty-item";
+import {AotyList} from "../models/aoty-list";
 
 @Injectable({
   providedIn: 'root'
 })
 export class AotyService {
 
-  private aotyList : { items? : number[] } = {};
+  private aotyList : AotyList = {};
   private aotyItems : AotyItem[] = [];
 
-  public aotyListChanged$ = new Subject<{ items : number[] }>();
+  public aotyListChanged$ = new Subject<AotyList>();
   public albumOfTheYearsChanged$ = new Subject<AotyItem>();
 
-  setAotyList(aotyList: { items : number[] }) {
+  setAotyList(aotyList: AotyList) {
     this.aotyList = aotyList;
     this.aotyListChanged$.next(aotyList);
     console.log("set aoty list")
   }
 
-  getAotyList(): { items? : number[] } | null {
+  getAotyList(): AotyList | null {
     return this.aotyList;
   }
 

@@ -1,26 +1,22 @@
 <div class="flex-row m-flex-column gap-xxl">
-    <div>
-        <p class="p-b-i fs-xl fake-gap-b">my fav albums of each year</p>
-        <div class="list">
-            <a
-                    class="fs-xl"
+    <div class="flex-column gap-xl">
+        <p class="p-b-i fs-xl">my fav albums of each year</p>
+        <div class="list gap-l">
+            <app-item
                     *ngFor="let item of aotyList?.items"
-                    [routerLink]="['/aoty', item.toString()]"
-            >
-                <b class="p-b">{{ item }}</b>
-            </a>
+                    [item]="item"
+                    [isAoty]="true"
+            ></app-item>
         </div>
     </div>
-    <div>
-        <p class="p-b-i fs-xl fake-gap-b">my fav songs from each week</p>
-        <div class="list">
-            <a
-                    class="fs-xl"
+    <div class="flex-column gap-xl">
+        <p class="p-b-i fs-xl">my fav songs from each week</p>
+        <div class="list gap-l">
+            <app-item
                     *ngFor="let item of sotwList?.items"
-                    [routerLink]="['/sotw', item.year + item.week]"
-            >
-                <b class="p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</b> (week #{{ item.week }})
-            </a>
+                    [item]="item"
+                    [isAoty]="false"
+            ></app-item>
         </div>
     </div>
 

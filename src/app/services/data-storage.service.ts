@@ -6,6 +6,7 @@ import {SotwItem} from "../models/sotw-item";
 import {SotwService} from "./sotw.service";
 import {AotyService} from "./aoty.service";
 import {AotyItem} from "../models/aoty-item";
+import {AotyList} from "../models/aoty-list";
 
 @Injectable({
   providedIn: 'root'
@@ -43,11 +44,11 @@ export class DataStorageService {
     );
     }
 
-    fetchAotyList() : Observable<{ items : number[] }> {
-        return this.http.get<{ items : number[] }>(
+    fetchAotyList() : Observable<AotyList> {
+        return this.http.get<AotyList>(
             'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty-list.json',
         ).pipe(
-            tap((value : { items : number[] }) => {
+            tap((value : AotyList) => {
                 if (value != null) {
                     console.log("Requested AOTY list");
                     this.aotyService.setAotyList(value);

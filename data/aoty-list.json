@@ -1,6 +1,22 @@
 {
-  "items" : [
-    { "year" :  2024 },
-    { "year" :  2023 }
+  "items": [
+    {
+      "year": 2024,
+      "preview": [
+        "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
+        "https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599",
+        "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
+        "https://i.scdn.co/image/ab67616d0000b273202c4fbb9f05eb6301f9ec25"
+      ]
+    },
+    {
+      "year": 2023,
+      "preview": [
+        "https://i.scdn.co/image/ab67616d0000b27316025492336e8584d8b77768",
+        "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+        "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+        "https://i.scdn.co/image/ab67616d0000b27332a8498ea892ccd4fcf3f6cf"
+      ]
+    }
   ]
 }

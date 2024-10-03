@@ -1,0 +1,16 @@
+<div class="highlight-card">
+    <a
+            class="flex-column gap-s align-center"
+            [routerLink]="routerLink"
+    >
+        <div *ngIf="item.preview && item.preview.length == 4" class="preview-img-div-outer">
+            <img class="preview-img img-0" [src]="item.preview[0]">
+            <img class="preview-img img-1" [src]="item.preview[1]">
+            <img class="preview-img img-2" [src]="item.preview[2]">
+            <img class="preview-img img-3" [src]="item.preview[3]">
+        </div>
+
+        <span *ngIf="isAoty"><b class="fs-xl p-b">{{ item.year }}</b></span>
+        <span *ngIf="!isAoty"><b class="fs-xl p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</b> (week #{{ item.week }})</span>
+    </a>
+</div>
