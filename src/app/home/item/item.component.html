@@ -10,7 +10,7 @@
             <img class="preview-img img-3" [src]="item.preview[3]">
         </div>
 
-        <span *ngIf="isAoty"><b class="fs-xl p-b">{{ item.year }}</b></span>
-        <span *ngIf="!isAoty"><b class="fs-xl p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</b> (week #{{ item.week }})</span>
+        <span *ngIf="isAoty"><span class="fs-xl p-b">{{ item.year }}</span></span>
+        <span *ngIf="!isAoty"><span class="fs-xl p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</span> (week #{{ item.week }})</span>
     </a>
 </div>
