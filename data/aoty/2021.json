@@ -1,0 +1,578 @@
+{
+  "year" : 2021,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d00001e02696b4e67423edd64784bfbb4",
+      "title": "CALL ME IF YOU GET LOST",
+      "artist": "Tyler, The Creator",
+      "songs": [
+        {
+          "title": "CORSO",
+          "preview_url": "https://p.scdn.co/mp3-preview/f60bdcc4d0bdba09466bffe090a4087c117cd837?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LUMBERJACK",
+          "preview_url": "https://p.scdn.co/mp3-preview/2951b4f56ff7f9cfeb5cfc4bb87cfc6fdf60e6bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "HOT WIND BLOWS (feat. Lil Wayne)",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2e88444fc0276c54585c67623c04bcdcf59a737?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+          "preview_url": "https://p.scdn.co/mp3-preview/d82ed534bd9772e180cd03bd5636de771ac2cf75?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b4b9926cf18122d90f8146e14e2d8408dfa6eba?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.7
+    },
+    {
+      "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aede85ed28c2237a33b63dba",
+      "title": "Sometimes I Might Be Introvert",
+      "artist": "Little Simz",
+      "songs": [
+        {
+          "title": "Introvert",
+          "preview_url": "https://p.scdn.co/mp3-preview/f433cfcd50790b98a4cbd4446fc209f7958e9ef9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Woman",
+          "preview_url": "https://p.scdn.co/mp3-preview/69246fe83d59c16b3686212efe5db35f5cf9752b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Love You, I Hate You",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ed0774a2ddcbf506d5f2ce4e952aa8042ad3076?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Rollin Stone",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2d7d5f0c082d5f602de7400d09402af2d04bba4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Protect My Energy",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa27e44bc8126f22fc5c19a8da2c85e30fa52bfd?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.6
+    },
+    {
+      "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86",
+      "title": "An Evening With Silk Sonic",
+      "artist": "Bruno Mars,\nAnderson .Paak,\nSilk Sonic",
+      "songs": [
+        {
+          "title": "Leave The Door Open",
+          "preview_url": "https://p.scdn.co/mp3-preview/2f06384101ad1a5aa6b02f6fc24b59789c2ab54d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fly As Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4a561c3113a1cc27843ca644c35c8a9c87b90f1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "After Last Night",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e85cec2c59de46689a7ca0839342d97d3aef008?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Smokin Out The Window",
+          "preview_url": "https://p.scdn.co/mp3-preview/03985ea0f5b53660c352773875ba5159533fe692?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Skate",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e93cbec6eb68471b1c027bd057175cdb7590dfc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
+      "title": "MONTERO",
+      "artist": "Lil Nas X",
+      "songs": [
+        {
+          "title": "INDUSTRY BABY (feat. Jack Harlow)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2bfa1aca3b507df2cc3aac0b37bbc05b74c096cd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "THATS WHAT I WANT",
+          "preview_url": "https://p.scdn.co/mp3-preview/f6958f897e3817fcbb6647d62f66c71ee96d1981?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "TALES OF DOMINICA",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a86eeacc4729ea7a3186c91659879144f3fd2d8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "VOID",
+          "preview_url": "https://p.scdn.co/mp3-preview/72dca88bc77d3d42a487cd40c2236796c24c66e5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LIFE AFTER SALEM",
+          "preview_url": "https://p.scdn.co/mp3-preview/d4778914483ae1e4964b378498b144fde226a1e3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/7kHYB1VwzhCvT1gzKZTnKB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bb2bb20fa239f3eb99ca546b",
+      "title": "DESTROY ALL COPIES",
+      "artist": "Ufo361",
+      "songs": [
+        {
+          "title": "Ryu",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ca476e38702854e9450916c0966d6f109b22852?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Favourite Artist",
+          "preview_url": "https://p.scdn.co/mp3-preview/a2ea24412ca98de6e20b2979cf6a6b550c9d0e20?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Homerun",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d12b8f7b69994c31b5bc3424640e6f468bb3cf0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Engel",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a6e1e7dc17e51789bd16a4909ae5cd6c380c198?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Daniel Lee",
+          "preview_url": "https://p.scdn.co/mp3-preview/15e3cb24956dc6cf45b98c67d9e248f653e3d728?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/5hJBhKMawLC4LJ5jP22WfF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c5fc5f988b01d62d19458264",
+      "title": "MDNA",
+      "artist": "Genetikk",
+      "songs": [
+        {
+          "title": "KINTSUGI",
+          "preview_url": "https://p.scdn.co/mp3-preview/573b22c7f4ea5b45bac9e36884a3148995be80fc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "REQUIEM",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b6e32715a6264152febd125c951dc47a0c4557f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ANTIASSIMILIERT",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d78914f774bbbf1eecd0220fa18590a4a01d90a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DANK GOD",
+          "preview_url": "https://p.scdn.co/mp3-preview/804164d951212b3897f99b965d9787104a29e8a8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SUPERNOVA",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ed95f08db9b6cbff0c1d72e3611f2258c414ab4?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733b017bad9fa5f880745c59cc",
+      "title": "Planet Her (Deluxe)",
+      "artist": "Doja Cat",
+      "songs": [
+        {
+          "title": "Woman",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ae0b61e45d9a5d6454a3e5ab75f8628dd89aa85?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Naked",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad5c7c6914163d4fe0c37d177d8c6f059cc8c351?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Get Into It (Yuh)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d4974829ad00a6a06eac7970dd99fe1e4fde57f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "You Right",
+          "preview_url": "https://p.scdn.co/mp3-preview/6f9e50e5f716c7e2441d4e0262304656c5b108fa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Been Like This",
+          "preview_url": "https://p.scdn.co/mp3-preview/0189ce1b7244d7eb6aa43bd6176a2550e6655f7e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Options",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5b9efb00c0463dc7ddef5524a3639c3e098740c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27310e6745bb2f179dd3616b85f",
+      "title": "The Off-Season",
+      "artist": "J. Cole",
+      "songs": [
+        {
+          "title": "9 5 . s o u t h",
+          "preview_url": "https://p.scdn.co/mp3-preview/96ee87b41420e85c48ae8ac4597f5f4c30bbb098?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "a m a r i",
+          "preview_url": "https://p.scdn.co/mp3-preview/473fd591d4ffda700bad17c0e2f6cd6188c249b8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "m y . l i f e",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e9c5c07b6642b92e34670a0eec0316884788c88?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "p r i d e . i s . t h e . d e v i l",
+          "preview_url": "https://p.scdn.co/mp3-preview/51882f7c051ffd98ee111f3e992e881470e8bd4f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "i n t e r l u d e",
+          "preview_url": "https://p.scdn.co/mp3-preview/5fd34e4f24cddff5c7b2eb3af4cc10374e06721d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273eb8a5e7ef526b9dbc7cf5e46",
+      "title": "trip",
+      "artist": "CRO",
+      "songs": [
+        {
+          "title": "endless summer",
+          "preview_url": "https://p.scdn.co/mp3-preview/8f4887de3caf100724a2c533a24ad3a7b43d931f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "so schön",
+          "preview_url": "https://p.scdn.co/mp3-preview/b3da2a1c8201e795eb67cc5990fc1ed452c18f7a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "lmf2",
+          "preview_url": "https://p.scdn.co/mp3-preview/d7eb7b525d2d2987c9c5a369a159d3e902f8d1e4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "hoch",
+          "preview_url": "https://p.scdn.co/mp3-preview/81bd2af0400b0328a3b94f26403be68b7240a661?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "letzter song",
+          "preview_url": "https://p.scdn.co/mp3-preview/613cf0f331203a541d6605605b9a6c6ed2c57259?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734350116b1085b346f79fc24a",
+      "title": "Das schwarze Album",
+      "artist": "Haftbefehl",
+      "songs": [
+        {
+          "title": "Kaputte Aufzüge",
+          "preview_url": "https://p.scdn.co/mp3-preview/efdb23d0922124fcb2cde8dcdef961b02d51b439?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Offen / Geschlossen",
+          "preview_url": "https://p.scdn.co/mp3-preview/1901cb1fe586ec91afcb55ab98de848a599ed0f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "4 Kanaken",
+          "preview_url": "https://p.scdn.co/mp3-preview/233998a8abaf61751feecd287ed8762f5bff7ecf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lebe Leben",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d1d8132c14a10263b674d51c1e2885777612894?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Leuchtreklame",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5167488dec0b2db5d1fb785b0a2e652a181a681?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/1RFWXLqxR7tP7hyunSO13H",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27316b618842af5f5695782b37e",
+      "title": "Gift",
+      "artist": "Schmyt",
+      "songs": [
+        {
+          "title": "Gift",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e3c8ae2221b43973a043831d6aab24f27fd3ccc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Niemand",
+          "preview_url": "https://p.scdn.co/mp3-preview/71609e98b3415a44ee57003e0e689f62d32e933d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Taximann",
+          "preview_url": "https://p.scdn.co/mp3-preview/7cb8648645b163fa583f7c1e7ff9450094b0e11f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Poseidon",
+          "preview_url": "https://p.scdn.co/mp3-preview/3916469012ec2c2441857596091072f715f4de9c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jenny",
+          "preview_url": "https://p.scdn.co/mp3-preview/69c1c66e80d026d6d96480afae94a981ca8c77d9?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c6b31d9de8df430efab41836",
+      "title": "The Melodic Blue (Deluxe)",
+      "artist": "Baby Keem",
+      "songs": [
+        {
+          "title": "trademark usa",
+          "preview_url": "https://p.scdn.co/mp3-preview/5cb1b68c3241f5d196e48c2c987154ffbe50e90d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "family ties (with Kendrick Lamar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/dc694531c10d89c382cce046506682acdcd27574?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "scars",
+          "preview_url": "https://p.scdn.co/mp3-preview/07bdea9c8b6d5ffd1d173f3c9aafa075461ed185?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "durag activity (with Travis Scott)",
+          "preview_url": "https://p.scdn.co/mp3-preview/58cfa0960ed24b92c297a64d6ddfb84e0faaa6c7?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739db70e8a5bc2b6ef6614dea5",
+      "title": "Kleinstadt (Deluxe)",
+      "artist": "RIN",
+      "songs": [
+        {
+          "title": "Trance",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5a89552efd4a6f45b4b4a40a9c01af9acc5c95e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Meer",
+          "preview_url": "https://p.scdn.co/mp3-preview/dcac20fb5d10ddf20a3fdbe45dbc34e1c93d33bc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Eye of The Tiger",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f47c2f7b7525e4b4c051862dd31d03c3ffe3be8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dirty South",
+          "preview_url": "https://p.scdn.co/mp3-preview/095368c7a612df5375e12cd12a86013730ed0cff?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/5W8W0mN0WyQ2eYSso2mpH9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cc96a8239cb378e44f15e585",
+      "title": "HUMANOID-FLAMETHROWER",
+      "artist": "TJ_beastboy",
+      "songs": [
+        {
+          "title": "Go Godzilla On Ya Frikkn City",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0e4ffc362a17f8451c12059fd0fb08587c1e2f8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "GUT<BESSER<ICH",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6f1acf362a2f03ebbbf68b55be87369196f07bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "現代の侍",
+          "preview_url": "https://p.scdn.co/mp3-preview/dbe32ba09a76f53deacbf63f1153c8a4631b1346?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "AN ALLE, DIE DAS FÜHLEN",
+          "preview_url": "https://p.scdn.co/mp3-preview/8fd125a7b79c389cc78409e56218c0715aea3fb1?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ab738b25b86bf02f0346c53d",
+      "title": "Life of a DON",
+      "artist": "Don Toliver",
+      "songs": [
+        {
+          "title": "Flocky Flocky",
+          "preview_url": "https://p.scdn.co/mp3-preview/19b66f9e1d6ec6c866f693a7497e63e6851b4963?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "What You Need",
+          "preview_url": "https://p.scdn.co/mp3-preview/5430eada670ae83842b73e823d61ddb85f416777?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Drugs N Hella Melodies",
+          "preview_url": "https://p.scdn.co/mp3-preview/415c3e8e38457c1e14c576f583b6736ad8fb2d06?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "OUTERSPACE",
+          "preview_url": "https://p.scdn.co/mp3-preview/0beace0580d6e6fd13c53971d3a0f6b964bf8bf3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+      "title": "Donda",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "Off The Grid",
+          "preview_url": "https://p.scdn.co/mp3-preview/b387a63512de3e1aa279cc1fb6471b1a45cb7895?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Believe What I Say",
+          "preview_url": "https://p.scdn.co/mp3-preview/66b361e6bfdd1dd32b5925f24ffe103d141975d7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Heaven and Hell",
+          "preview_url": "https://p.scdn.co/mp3-preview/e6e16b218a3d94d6e627b8589dfef82416606df7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Come to Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/33c0808a14bf43aba2e0a93e9d1998ec4cddd24c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d95b6751341f2c295657ab59",
+      "title": "DUSK to DAWN",
+      "artist": "Boslen",
+      "songs": [
+        {
+          "title": "VULTURES",
+          "preview_url": "https://p.scdn.co/mp3-preview/15e11b47b52330e7a199aacbceb06970619a6e68?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FORSAKEN (feat. Vory)",
+          "preview_url": "https://p.scdn.co/mp3-preview/81eb4adc8e8c7da58031b2fe0f8152825eadcb5a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DENY (feat. Tyla Yaweh)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a57765fc1317cecd5e962c73700ea9c7c301cd4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "TRIP",
+          "preview_url": "https://p.scdn.co/mp3-preview/a35c3a099f015e4f03b63e355f4b2d0eab732494?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739f04dab055abfe4f1efdae0c",
+      "title": "AQUA",
+      "artist": "Luciano",
+      "songs": [
+        {
+          "title": "SHAWTY",
+          "preview_url": "https://p.scdn.co/mp3-preview/7659802b38cca3fb86e740c0da141736dd2fd4eb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "PEPPERMINT",
+          "preview_url": "https://p.scdn.co/mp3-preview/804e0cd1b94a497e0b2caa6173f02e92e71b7948?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "KIDS FROM THE BLOCK",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c74ed5104a9b57f0b2d05eac219d8e3efa7c874?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SCHMETTERLING",
+          "preview_url": "https://p.scdn.co/mp3-preview/28288ce0e469d0aa82d46e5e2eceec989f312af0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.1
+    },
+    {
+      "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d",
+      "title": "CLOUDS (THE MIXTAPE)",
+      "artist": "NF",
+      "songs": [
+        {
+          "title": "CLOUDS",
+          "preview_url": "https://p.scdn.co/mp3-preview/d1e6a39f43c4952ad5d5eeea6c80be0489358d6a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "JUST LIKE YOU",
+          "preview_url": "https://p.scdn.co/mp3-preview/9af4076723b5e8076b3be08eb2e6bd16b18c30ae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "STORY",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b3a9e0a2176da546097b38a30d48c2e2944b3c9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "PRIDEFUL",
+          "preview_url": "https://p.scdn.co/mp3-preview/d365979110bbf612934d3904aa5a48f6ede1a6a0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27384c53fa832dfa265192419c5",
+      "title": "El Dorado",
+      "artist": "24kGoldn",
+      "songs": [
+        {
+          "title": "The Top",
+          "preview_url": "https://p.scdn.co/mp3-preview/84a840c8e935ad39a3cff903b1940960ddb282c4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Company (feat. Future)",
+          "preview_url": "https://p.scdn.co/mp3-preview/fa7fb0d095b1ccd1d4d122921fa4ae3f7baab0e7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love Or Lust",
+          "preview_url": "https://p.scdn.co/mp3-preview/dac5d6d80554a38a2959eda46b486065b5d8d5af?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Empty (feat. Swae Lee)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ecf0b67aeb9ca62ba07127ee1b3d1f5c975f2329?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736256c5303a98e9aefdf07127",
+      "title": "TYRON",
+      "artist": "slowthai",
+      "songs": [
+        {
+          "title": "MAZZA",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b6af6322103014f15413f65efef9e15dc0dfd97?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "i tried",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ec5928921757e23294f0274bec0624d7c257df4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "terms",
+          "preview_url": "https://p.scdn.co/mp3-preview/ca99512d3d0469760b18aa7d2838f448753ed9db?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "feel away",
+          "preview_url": "https://p.scdn.co/mp3-preview/4799645336653c1a88cea57706b69300b4e253a5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    }
+  ]
+}

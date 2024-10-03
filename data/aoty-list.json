@@ -1,5 +1,5 @@
 {
-  "decades" : [2010,2020],
+  "decades" : [2020],
   "items": [
     {
       "year": 2024,
@@ -32,8 +32,14 @@
       ]
     },
     {
-      "year": 2019,
-      "decade" : 2010
+      "year": 2021,
+      "decade" : 2020,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d00001e02696b4e67423edd64784bfbb4",
+        "https://i.scdn.co/image/ab67616d0000b273aede85ed28c2237a33b63dba",
+        "https://i.scdn.co/image/ab67616d0000b273bb2bb20fa239f3eb99ca546b",
+        "https://i.scdn.co/image/ab67616d0000b273eb8a5e7ef526b9dbc7cf5e46"
+      ]
     }
   ]
 }
