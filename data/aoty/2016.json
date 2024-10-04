@@ -1,0 +1,535 @@
+{
+  "year" : 2016,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+      "title": "Blonde",
+      "artist": "Frank Ocean",
+      "songs": [
+        {
+          "title": "Ivy",
+          "preview_url": "https://p.scdn.co/mp3-preview/3eb4d77b749c0f49037e6aee78536eb35b5c88c7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Solo",
+          "preview_url": "https://p.scdn.co/mp3-preview/a29c15d496f95ef1c5fd41a92cbe72b7660d486e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Self Control",
+          "preview_url": "https://p.scdn.co/mp3-preview/64db1616c8839309c68bafc68e32c45bcb4677c2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nights",
+          "preview_url": "https://p.scdn.co/mp3-preview/478a51ff059dc1abb20548ac2f3d3d73d75c3cb7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "White Ferrari",
+          "preview_url": "https://p.scdn.co/mp3-preview/bff77236970b7f90cdfc274b18b55ce7bf584bcc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345643f5cf119cbc9d2811c22",
+      "title": "A Moon Shaped Pool",
+      "artist": "Radiohead",
+      "songs": [
+        {
+          "title": "Burn the Witch",
+          "preview_url": "https://p.scdn.co/mp3-preview/294185d75dff1305e237fd353866223cd1aaee6e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Daydreaming",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ba28f0c38a4b8916d50915216553046cf9331d0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Identikit",
+          "preview_url": "https://p.scdn.co/mp3-preview/add63fbf3bd1a89093a2a053edfc491087139de0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Numbers",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e707945e518b87b481e22a9dcd6488d22823fb6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Present Tense",
+          "preview_url": "https://p.scdn.co/mp3-preview/7eab5fdaab7f27d12aa8cdfdee389d443a8b3173?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23",
+      "title": "Lemonade",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "Sorry",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6a0420394d426f9c33aaf6c058fff16c9c2634d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "6 Inch (feat. The Weeknd)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1470f1b82b14e100fb133d7991470ecc4068768?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Daddy Lessons",
+          "preview_url": "https://p.scdn.co/mp3-preview/5837b68f9587fd51e19d8b72b8c425152cc05446?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sandcastles",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d704a7b91206ba5d2952f58a76b8c4f3fddc8f6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Freedom (feat. Kendrick Lamar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f2a53e4860ce9c6c18c3cf70cc7600ca9d5b22a9?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.2
+    },
+    {
+      "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c5c6c436a141b53086884863",
+      "title": "Vroom Vroom EP",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "Vroom Vroom",
+          "preview_url": "https://p.scdn.co/mp3-preview/d289abe574e768fa4bd17979274da880180c4f81?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Paradise",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc1a1359f60015f84e21445ab108e9387e60af79?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Trophy",
+          "preview_url": "https://p.scdn.co/mp3-preview/228880aae13db93660844719ff1935e34c1860e0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Secret (Shh)",
+          "preview_url": "https://p.scdn.co/mp3-preview/57f6a14b9f3d1c50d0f4844122a8f2624c218f59?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.5
+    },
+    {
+      "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+      "title": "Stoney - Deluxe",
+      "artist": "Post Malone",
+      "songs": [
+        {
+          "title": "Cold",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab4e35849bb15aa0ba93c945b243f52c331ce6f8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "White Iverson",
+          "preview_url": "https://p.scdn.co/mp3-preview/41e53886e926c6f76a2259927622a2d1112a2068?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Go Flex",
+          "preview_url": "https://p.scdn.co/mp3-preview/2242cc1dd61306b72850f2e8ef16d89018cf9ee2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Too Young",
+          "preview_url": "https://p.scdn.co/mp3-preview/0761ae36351fea291d24e2298948645b2343100d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737582716b3666a5235d5af4ea",
+      "title": "\"Awaken, My Love!\"",
+      "artist": "Childish Gambino",
+      "songs": [
+        {
+          "title": "Me and Your Mama",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ba7709544af32620888fefe2b3cf6e692257aaa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Boogieman",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3dab8c57ce2e62c75b5d97385b8ed4474ffee37?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Zombies",
+          "preview_url": "https://p.scdn.co/mp3-preview/b832acd97e275b66061004a0dbb0820b9fa56f33?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Redbone",
+          "preview_url": "https://p.scdn.co/mp3-preview/14918511e11a9e46fa170413821e5f89bd31872a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Night Me and Your Mama Met",
+          "preview_url": "https://p.scdn.co/mp3-preview/d883e1ada24f9616e9c1206905ae76c2a704c68e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "songs": [
+        {
+          "title": "Starboy",
+          "preview_url": "https://p.scdn.co/mp3-preview/57c1238d183c40da3157c2892346f58445b1377c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Party Monster",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b31050dd62f37c41059078850f860c45b76ca90?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Reminder",
+          "preview_url": "https://p.scdn.co/mp3-preview/d4765c497a4c4249177e8d63643e339d36ca3e49?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sidewalks",
+          "preview_url": "https://p.scdn.co/mp3-preview/2707a2697f99d07519d9628adade4dbe1e0948b7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Feel It Coming",
+          "preview_url": "https://p.scdn.co/mp3-preview/9bc079936914a9af96a94b0158b095abf2452d05?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/3A1vnUJDPz0xYMful9pO4I",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27306ce558a01af20d2837fb601",
+      "title": "Atrocity Exhibition",
+      "artist": "Danny Brown",
+      "songs": [
+        {
+          "title": "Rolling Stone",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3b501766ed31e1831f9f3b084a7b410a15faecb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Really Doe",
+          "preview_url": "https://p.scdn.co/mp3-preview/531961b06d3e2a77f66d821bff94ebb223a0e3bc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lost",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba5af559003d4b01179b12fb7836a4b721fc8958?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ain't it Funny",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a3578cd963f2a500d2b71575c0c07b57096f02e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dance In The Water",
+          "preview_url": "https://p.scdn.co/mp3-preview/85a3ded30616f1d04d7adf26664c23202f22d10f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.7
+    },
+    {
+      "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce",
+      "title": "Birds In The Trap Sing McKnight",
+      "artist": "Travis Scott",
+      "songs": [
+        {
+          "title": "the ends",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8247b40adc430a7ec7735d064f59d0328e480a4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "way back",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e5ffb59a34355a07ee57a8e2efa74f3bffc07d7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "through the late night",
+          "preview_url": "https://p.scdn.co/mp3-preview/72df3fe3340a0335789f2cb3e280e6b37f8a04af?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "goosebumps",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c45fee2743d39984ed2c1e2493d04a42d626f81?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "pick up the phone",
+          "preview_url": "https://p.scdn.co/mp3-preview/1872eafc674106e83fa2d58c8d23cd56d61b4df9?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8",
+      "title": "JEFFERY",
+      "artist": "Young Thug",
+      "songs": [
+        {
+          "title": "Wyclef Jean",
+          "preview_url": "https://p.scdn.co/mp3-preview/087bd9c6408446f438641ce34ef64805a3d8ae97?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Future Swag",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3fbc886829f9d101b7ceaf8074eb71f709b6152?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Guwop",
+          "preview_url": "https://p.scdn.co/mp3-preview/ac6f34cbd904d8a177a47c15085329e7766b7f27?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Harambe",
+          "preview_url": "https://p.scdn.co/mp3-preview/2f7931b7b6bbf15b53cabd272bd433b336d9c7a2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pick Up The Phone",
+          "preview_url": "https://p.scdn.co/mp3-preview/d223ae8dead78bea2a036a2e5b3bfac9e1dcd885?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732dd1ac4a61495080ef8f78ca",
+      "title": "Savage Mode",
+      "artist": "21 Savage,\nMetro Boomin",
+      "songs": [
+        {
+          "title": "No Advance",
+          "preview_url": "https://p.scdn.co/mp3-preview/48d765b7ae28c162ea9f926bac71a64b3d65d339?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No Heart",
+          "preview_url": "https://p.scdn.co/mp3-preview/117a84c65c137bf12d5dbe28dd8a8700a6ac50e7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "X (feat. Future)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e78593e7e98516fdbefcca7cec67ae2e787baf8e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Real Nigga",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d79d6f0735aff6365ee998cb4c17c9bc2ae455f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ocean Drive",
+          "preview_url": "https://p.scdn.co/mp3-preview/1abc283345a4e2071b49344698a2d04ee52b1bea?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734094272fe172643edfdbba48",
+      "title": "Teens Of Denial",
+      "artist": "Car Seat Headrest",
+      "songs": [
+        {
+          "title": "Vincent",
+          "preview_url": "https://p.scdn.co/mp3-preview/c69fbefcab5d290cdd017cd6034485fb0350fc4c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "(Joe Gets Kicked Out of School for Using) Drugs With Friends (But Says This Isn't a Problem)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f481ade41d7f95f347c8dd3eb732a90e57497c57?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Not What I Needed",
+          "preview_url": "https://p.scdn.co/mp3-preview/39e554f2504bf4a6ec3e29b36d823ab61197025a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Drunk Drivers/Killer Whales",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0d02ea30ad6777d6026df96fc0fae297f412084?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "1937 State Park",
+          "preview_url": "https://p.scdn.co/mp3-preview/a265cd5c3a8f3ff86826ecac317ffba660c1eda2?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+      "title": "The Life Of Pablo",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "Ultralight Beam",
+          "preview_url": "https://p.scdn.co/mp3-preview/d597421ae3862047ba9f0dd0eb11e5137ef78858?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FML",
+          "preview_url": "https://p.scdn.co/mp3-preview/13b45e284cdb4459894566264187466d55711754?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wolves",
+          "preview_url": "https://p.scdn.co/mp3-preview/fde258743b4255ac6681ed9c0cfa97a6b36a7119?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No More Parties In LA",
+          "preview_url": "https://p.scdn.co/mp3-preview/338a7724ede3ccebf59aca7d1242f4278b6f13f5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Saint Pablo",
+          "preview_url": "https://p.scdn.co/mp3-preview/f36e2a9de9db417959c9bade60a1ad4d20b35850?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093",
+      "title": "ANTI (Deluxe)",
+      "artist": "Rihanna",
+      "songs": [
+        {
+          "title": "Consideration",
+          "preview_url": "https://p.scdn.co/mp3-preview/b67b2456bbe6193223b2d92080b5dfdc5eb8335d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kiss It Better",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe1043e0f6e14803cbb398977ed0e652fe5502fe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Desperado",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8687df246031d8babb7a011a9dd656cf5bdfa7f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Woo",
+          "preview_url": "https://p.scdn.co/mp3-preview/78db332238bd43df7fb1cee137432e92d6c397c8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love On The Brain",
+          "preview_url": "https://p.scdn.co/mp3-preview/98cecc1a4554c6100fd1e3bac10b6f56881c6606?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983",
+      "title": "Therapy Session",
+      "artist": "NF",
+      "songs": [
+        {
+          "title": "Therapy Session",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc6b4cec79c19fe17caae62514c907e78b29f3f1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Just Wanna Know",
+          "preview_url": "https://p.scdn.co/mp3-preview/9a908739e563ad49e5eb1cae834de6baeb115dd6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "How Could You Leave Us",
+          "preview_url": "https://p.scdn.co/mp3-preview/63746cdfe5334bc34bb0f3a28c097f800bd5be89?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Real",
+          "preview_url": "https://p.scdn.co/mp3-preview/92dc1b33bfdc2c927fbc95e53a8742038ddf8998?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.1
+    },
+    {
+      "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f4ca75192df162f78a24023e",
+      "title": "4 Your Eyez Only",
+      "artist": "J. Cole",
+      "songs": [
+        {
+          "title": "She's Mine Pt. 1",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd55d1acb219b5462517d4d22890004f65853049?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Foldin Clothes",
+          "preview_url": "https://p.scdn.co/mp3-preview/39d6e264a053acf447a7f52dd3754382080c596b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "She's Mine Pt. 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/e744a999156f23f2ecdb5363f44a36b9339b3036?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "4 Your Eyez Only",
+          "preview_url": "https://p.scdn.co/mp3-preview/c96e286220d274dd61f37233be9d94bc23cc17ac?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/5YnLi6ZnTk2sq9a2goXZPS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734fe4306d887f5a4278fa9635",
+      "title": "DREAMS",
+      "artist": "Shindy",
+      "songs": [
+        {
+          "title": "Dreams",
+          "preview_url": "https://p.scdn.co/mp3-preview/1611f6e19942e29e7b5ac8d2162bded32a1c8b44?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Heartbreak Hotel",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7e44e18d1cdd79223c4c9ed818f94db726e57ba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Monogramm",
+          "preview_url": "https://p.scdn.co/mp3-preview/20b704fee1249a667bcb7c72ce471ece37413247?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "31. Dezember",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9826ee09e6315e98545aa63dab8b3f23a40ffb0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c4540d0ecafaa45305aa5a0",
+      "title": "A Seat at the Table",
+      "artist": "Solange",
+      "songs": [
+        {
+          "title": "Rise",
+          "preview_url": "https://p.scdn.co/mp3-preview/f6e39c416aef77a01f8577977b949d35a34416fc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cranes in the Sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/b78471bcc56d2425fb04bdf2e5f0c15b7d1faa4a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mad",
+          "preview_url": "https://p.scdn.co/mp3-preview/43430c844383941b73c37d72bbadf3e727eca4f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Don't Touch My Hair",
+          "preview_url": "https://p.scdn.co/mp3-preview/0327c15f8a34751ca29762664afeb9b04a86bde4?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.7
+    },
+    {
+      "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
+      "title": "The Divine Feminine",
+      "artist": "Mac Miller",
+      "songs": [
+        {
+          "title": "Congratulations",
+          "preview_url": "https://p.scdn.co/mp3-preview/954ea8a8542fdd9715d386eae2551245e4c47a00?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dang!",
+          "preview_url": "https://p.scdn.co/mp3-preview/f21c0400dffcc1fb0822a85801897e2bd966c080?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Stay",
+          "preview_url": "https://p.scdn.co/mp3-preview/47d5d9c829b72598b89973d1733ed6002845f47e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "God Is Fair, Sexy Nasty",
+          "preview_url": "https://p.scdn.co/mp3-preview/54bed5084faa3913cf3fbb88c042c14eb4b75ce2?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.4
+    },
+    {
+      "url": "https://www.albumoftheyear.org/album/60121-frank-ocean-endless.php",
+      "imgUrl": "https://images.genius.com/0624a3677e405a27ec9094e66fa9adf9.1000x1000x1.jpg",
+      "title": "Endless",
+      "artist": "Frank Ocean",
+      "rating": 8.2
+    }
+  ]
+}
