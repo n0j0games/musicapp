@@ -11,6 +11,6 @@
         </div>
 
         <span *ngIf="isAoty"><span class="fs-xl p-b">{{ item.year }}</span></span>
-        <span *ngIf="!isAoty"><span class="fs-xl p-b">{{ weekHelper.getFridayOfWeek(item.week, item.year) }}</span> (week #{{ item.week }})</span>
+        <span *ngIf="!isAoty"><span class="fs-xl p-b">{{ fridayOfTheWeek }}</span> (week #{{ item.week }})</span>
     </a>
 </div>

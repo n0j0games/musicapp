@@ -1,6 +1,6 @@
-import {Injectable, OnInit} from "@angular/core";
+import {Injectable} from "@angular/core";
 import {Subject} from "rxjs";
-import {SotwList} from "../models/sotw-list";
+import {SongInfo} from "../models/songinfo";
 
 @Injectable({
     providedIn: 'root'
@@ -8,9 +8,11 @@ import {SotwList} from "../models/sotw-list";
 export class AudioService {
 
     private audio = new Audio();
-    private playlist : string[] = [];
+    private playlist : SongInfo[] = [];
     public playStatusChanged$ = new Subject<string | null>();
     public audioLengthChanged$ = new Subject<number | null>();
+    private track : string | null = null;
+    private artist: string | null = null;
 
     constructor() {
         const context = this;
@@ -33,7 +35,15 @@ export class AudioService {
         return this.audio.src;
     }
 
-    playAudioFromList(previewUrls : string[]) {
+    getTrack() {
+        if (this.track === null) {
+            return null;
+        }
+        const raw = this.artist?.split(",")[0] + " - " + this.track;
+        return raw.length < 37 ? raw : raw.substring(0, 34) + "...";
+    }
+
+    playAudioFromList(previewUrls : SongInfo[]) {
         this.playlist = previewUrls.slice();
         const firstSong = this.playlist.shift();
         if (firstSong !== undefined) {
@@ -41,12 +51,14 @@ export class AudioService {
         }
     }
 
-    playAudio(previewUrl : string) {
+    playAudio(previewUrl : SongInfo) {
         if (!this.audio.paused) {
             this.audio.pause();
         }
         this.audio.volume = 0.3;
-        this.audio.src = previewUrl;
+        this.audio.src = previewUrl.url;
+        this.track = previewUrl.track;
+        this.artist = previewUrl.artist;
         this.audio.load();
         this.audio.play().then(() => console.log("Playing " + this.audio.src));
         this.playStatusChanged$.next(this.audio.src);
@@ -54,6 +66,8 @@ export class AudioService {
 
     stopAudio() {
         this.playlist = [];
+        this.track = null;
+        this.artist = null;
         if (!this.audio.paused) {
             this.audio.pause();
         }

@@ -23,7 +23,7 @@ export class SongsOfTheWeekComponent implements OnInit {
 
   songsOfTheWeek! : SotwItem | null;
 
-  weekHelper = new WeekHelper();
+  fridayOfTheWeek! : string;
 
   constructor(private route: ActivatedRoute, private router: Router, private sotwService : SotwService) {}
 
@@ -42,6 +42,7 @@ export class SongsOfTheWeekComponent implements OnInit {
       return;
     }
     this.songsOfTheWeek.songs = this.songsOfTheWeek.songs.sort((a, b) => b.rating - a.rating);
+    this.fridayOfTheWeek = new WeekHelper().getFridayOfWeek(this.songsOfTheWeek?.week, this.songsOfTheWeek?.year )
   }
 
 }

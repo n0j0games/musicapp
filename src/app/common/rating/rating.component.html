@@ -1,6 +1,6 @@
 <div class="outer flex-column align-center justify-center">
     <p class="text p-b-i fs-s">{{ rating | ratingPipe }}</p>
     <div class="back">
-        <div [ngStyle]="{'background' : colors[Math.floor(rating)], 'width' : calcWidth(rating)+'%'}" class="color"></div>
+        <div [ngStyle]="{'background' : colors[Math.floor(rating)], 'width' : width+'%'}" class="color"></div>
     </div>
 </div>

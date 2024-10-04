@@ -2,7 +2,7 @@ import {Artist} from "./artist";
 
 export class Album {
 
-    constructor(public artist : Artist,
+    constructor(public artist : string,
                 public url : string,
                 public imgUrl : string,
                 public previewUrl : string,

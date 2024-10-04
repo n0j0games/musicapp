@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {AudioService} from "../../services/audio.service";
 import {NgClass, NgIf, NgStyle} from "@angular/common";
+import {RemoveFeatPipe} from "../remove-feat.pipe";
 
 @Component({
   selector: 'app-play-track',
@@ -8,7 +9,8 @@ import {NgClass, NgIf, NgStyle} from "@angular/common";
   imports: [
     NgStyle,
     NgClass,
-    NgIf
+    NgIf,
+    RemoveFeatPipe
   ],
   templateUrl: './play-track.component.html',
   styleUrl: './play-track.component.scss'
@@ -19,6 +21,7 @@ export class PlayTrackComponent implements OnInit {
   duration: number = 1;
   active: number = 0;
   url: string | null = null;
+  track : string | null = null;
 
   constructor(private audioService: AudioService) {}
 
@@ -26,6 +29,7 @@ export class PlayTrackComponent implements OnInit {
   ngOnInit() {
     this.audioService.audioLengthChanged$.subscribe(duration => {
       this.setAudioLength(duration, this.audioService.getUrl())
+      this.track = this.audioService.getTrack();
     })
   }
 

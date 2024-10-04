@@ -6,6 +6,7 @@ import {PlayButtonComponent} from "../../common/play-button/play-button.componen
 import {RatingComponent} from "../../common/rating/rating.component";
 import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
+import {SongInfo} from "../../models/songinfo";
 
 @Component({
   selector: 'app-album-detail',
@@ -30,10 +31,15 @@ export class AlbumDetailComponent implements OnInit {
   @Input() album! : Album;
   @Input() index! : number;
 
+  songinfo! : SongInfo[];
+  albumNames! : string;
+
   constructor(private audioService : AudioService) {
   }
 
   ngOnInit() {
+    this.albumNames = this.getAlbumNames();
+    this.songinfo = this.getSongInfo();
     this.previewUrls = this.album.songs!.map(song => song.preview_url);
     this.audioService.playStatusChanged$.subscribe(status => {
       this.isPlaying = status !== null && this.previewUrls.includes(status);
@@ -45,8 +51,13 @@ export class AlbumDetailComponent implements OnInit {
     if (songs === undefined) {
       return "";
     }
-    return songs.map(a => a.title).join(", ")
+    return songs.map(a => a.title).join("; ")
   }
 
-    protected readonly Math = Math;
+  getSongInfo() {
+    console.log("X");
+    return this.album.songs!.map(song => new SongInfo(song.title, song.preview_url, this.album.artist));
+  }
+
+  protected readonly Math = Math;
 }

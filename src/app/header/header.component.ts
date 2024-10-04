@@ -6,6 +6,7 @@ import {SotwList} from "../models/sotw-list";
 import {PlayButtonComponent} from "../common/play-button/play-button.component";
 import {AudioService} from "../services/audio.service";
 import {PlayTrackComponent} from "../common/play-track/play-track.component";
+import {SongInfo} from "../models/songinfo";
 
 @Component({
   selector: 'app-header',
@@ -30,6 +31,8 @@ export class HeaderComponent implements OnInit {
   currentWeek : number = this.weekHelper.getCurrentDateWeek();
   isAnySongPlaying : boolean = false;
 
+  emptyUrl = new SongInfo("","","");
+
   ngOnInit() {
     this.audioServiceListener();
     this.sotwListChangedListener();
@@ -38,7 +41,6 @@ export class HeaderComponent implements OnInit {
   private audioServiceListener() {
     this.audioService.playStatusChanged$.subscribe(status => {
       this.isAnySongPlaying = status !== null;
-      console.log("YX", this.isAnySongPlaying)
     })
   }
 

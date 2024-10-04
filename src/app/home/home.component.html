@@ -1,12 +1,14 @@
-<div class="flex-row m-flex-column gap-xxl">
+<div class="flex-row m-flex-column gap-xxl flex-wrap justify-center">
     <div class="flex-column gap-xl">
         <p class="p-b-i fs-xl">my fav albums of each year</p>
-        <app-item-group
-                *ngFor="let list of aotyListsGroupedByDecade"
-                [items]="list.items"
-                [decade]="list.decade"
-                [isAoty]="true"
-        ></app-item-group>
+        <div class="flex-row m-flex-column flex-wrap gap-xl justify-center">
+            <app-item-group
+                    *ngFor="let list of aotyListsGroupedByDecade"
+                    [items]="list.items"
+                    [decade]="list.decade"
+                    [isAoty]="true"
+            ></app-item-group>
+        </div>
     </div>
     <div class="flex-column gap-xl">
         <p class="p-b-i fs-xl">my fav songs from each week</p>

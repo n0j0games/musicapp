@@ -60,6 +60,56 @@
         "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
         "https://i.scdn.co/image/ab67616d0000b273d1430224d631eaa5954f13c9"
       ]
+    },
+    {
+      "year": 2010,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+        "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789",
+        "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+        "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0"
+      ]
+    },
+    {
+      "year": 2011,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+        "https://i.scdn.co/image/ab67616d0000b273274b406a7e18acebcf743079",
+        "https://i.scdn.co/image/ab67616d0000b27336fb79728dbb379579cef97e",
+        "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550"
+      ]
+    },
+    {
+      "year": 2012,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b27378de8b28de36a74afc0348b5",
+        "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+        "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+        "https://i.scdn.co/image/ab67616d0000b273fab2fadd4f2b3e54f8bfbc26"
+      ]
+    },
+    {
+      "year": 2013,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273e4860d5331509e2c9ee4de10",
+        "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+        "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+        "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98"
+      ]
+    },
+    {
+      "year": 2014,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273e2528d35865f3114cfe9a16e",
+        "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
+        "https://i.scdn.co/image/ab67616d0000b273f8d13d33b7a341869ee2338b",
+        "https://i.scdn.co/image/ab67616d0000b273e4251cf5331ad74eaaeca36e"
+      ]
     }
   ]
 }

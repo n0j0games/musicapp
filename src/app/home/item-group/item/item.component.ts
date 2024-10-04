@@ -20,12 +20,14 @@ export class ItemComponent implements OnInit {
   @Input() isAoty! : boolean;
   routerLink : string[] = [];
 
+  fridayOfTheWeek! : string;
   weekHelper = new WeekHelper();
 
   ngOnInit() {
     if (this.isAoty) {
       this.routerLink = ['/aoty', this.item.year.toString()];
     } else {
+      this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);
       this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]
     }
   }

@@ -7,7 +7,7 @@ import { Pipe, PipeTransform } from '@angular/core';
 export class RemoveFeatPipe implements PipeTransform {
 
   transform(values: string): string {
-    const split = values.split(", ");
+    const split = values.split("; ");
     for (let value in split) {
       if (split[value].includes("(feat")) {
         split[value] = split[value].split("(feat")[0];

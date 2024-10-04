@@ -1,6 +1,7 @@
 import {Component, Input, OnDestroy, OnInit} from '@angular/core';
 import {NgClass, NgIf} from "@angular/common";
 import {AudioService} from "../../services/audio.service";
+import {SongInfo} from "../../models/songinfo";
 
 @Component({
   selector: 'app-play-button',
@@ -14,7 +15,7 @@ import {AudioService} from "../../services/audio.service";
 export class PlayButtonComponent implements OnDestroy {
 
   @Input() isPlaying! : boolean;
-  @Input() url! : string | string[];
+  @Input() url! : SongInfo | SongInfo[];
   @Input() isOnlyStopButton: boolean = false;
 
   constructor(private audioService: AudioService) {
@@ -25,7 +26,7 @@ export class PlayButtonComponent implements OnDestroy {
       this.audioService.stopAudio();
     } else if (this.isOnlyStopButton) {
       return;
-    } else if (typeof this.url === "string") {
+    } else if (this.url instanceof SongInfo) {
       this.audioService.playAudio(this.url);
     } else {
       this.audioService.playAudioFromList(this.url);

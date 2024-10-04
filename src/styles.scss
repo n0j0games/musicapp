@@ -30,9 +30,10 @@
 
 $accent-color: #00995E;
 $primary-color: white;
-$secondary-color: #FB7DA8;
+$secondary-color: #fd6197;
 $secondary-color-transparent: rgba(251, 125, 168, 0.46);
 $text-color: black;
+$light-accent-color: #6dcfaa;
 
 body {
   background: $primary-color;
@@ -165,12 +166,12 @@ body {
   margin-bottom: 40px;
 }
 
-.tenAlbum {
-  color: #862af6;
+.tenAlbum, .tenAlbum i {
+  color: $secondary-color;
 }
 
-.tenAlbum i {
-  color: #862af6;
+.classicAlbum, .classicAlbum i {
+  color: #d161fd;
 }
 
 .tenAlbum:hover {
@@ -181,6 +182,9 @@ body {
   color: $secondary-color;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
 
 .play-button {
   font-size: 20px;
@@ -261,7 +265,16 @@ img {
   max-width: 800px;
 }
 
+.non-mobile {
+  display: flex;
+}
+
 @media (width < 600px) {
+
+  .non-mobile {
+    display: none;
+  }
+
   img {
     width: 80px;
     height: 80px;

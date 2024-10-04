@@ -16,16 +16,28 @@ export class RatingComponent implements OnInit {
 
   @Input() rating!: number;
 
-  colors = ["#DF3E23","#FA6A0A","#F9A31B","#FFD541","#FFFC40","#D6F264","#9CDB43","#59C135","#14A02E","#1A7A3E","#862af6"];
+  width : number = 0;
+
+  private classic = "#b54c55"
+  private perfect = "#b54c91"
+  private amazing = "#0080ae";
+  private verygood = "#00ae9f";
+  private good = "#00ae6b";
+  private solid = "#5aae00";
+  private mid = "#9fa18d";
+  private bad = "#b1b1b1";
+
+  colors = [this.bad, this.bad, this.bad, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
 
   ngOnInit() {
-    if (this.rating < 0 || this.rating > 10 ) {
+    if (this.rating < 0 || this.rating > 11 ) {
       console.warn("Unexpected rating");
     }
+    this.width = this.calcWidth();
   }
 
-  calcWidth(rating : number) {
-    const percent = rating*10;
+  calcWidth() {
+    const percent = this.rating*10;
     return percent > 100 ? 100 : percent;
   }
 

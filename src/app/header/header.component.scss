@@ -1,5 +1,6 @@
 $accent-color: #00995E;
 $primary-color: #FB7DA8;
+$light-accent-color: #6dcfaa;
 
 .body {
   background: $accent-color;
@@ -47,19 +48,41 @@ a, p {
   padding: 0;
 }
 
-a:hover p, i:hover, {
+.mobile {
+  display: none !important;
+}
+
+.sub-body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: $light-accent-color;
+  padding: 5px;
+}
+
+a:hover p, a:hover, i:hover, {
   color: $primary-color;
 }
 
-@media (width < 950px) {
+@media (width < 600px) {
+  .sub-body {
+    flex-direction: column;
+  }
+}
 
-  .body {
-    align-items: center;
-    justify-content: center;
+@media (width < 1200px) {
+  .mobile {
+    display: flex !important;
   }
 
   .wide-only {
     display: none;
+  }
+
+  .body {
+    align-items: center;
+    justify-content: center;
   }
 
   .title {

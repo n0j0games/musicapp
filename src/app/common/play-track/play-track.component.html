@@ -1,3 +1,8 @@
-<div class="outer-track" [ngClass]="{ 'outer-track-disabled' : !isPlaying }">
-    <div class="inner-track" [ngStyle]="{ 'width' : ((active / duration) * 70 ) + 'px' }"></div>
+<div class="flex-row align-center justify-center">
+    <div class="outer-track" [ngClass]="{ 'outer-track-disabled' : !isPlaying }">
+        <div class="inner-track" [ngStyle]="{ 'width' : ((active / duration) * 70 ) + 'px' }"></div>
+    </div>
+    <div *ngIf="track" class="non-mobile">
+        <p class="p-i trackinfo">{{ track | removeFeat }}</p>
+    </div>
 </div>
