@@ -2,6 +2,35 @@
   "year" : 2024,
   "albums": [
     {
+      "url": "https://open.spotify.com/album/2bfLjv1h2QkmHmZRbhHoIg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a0c4af0672b28b6f5ac6fe6b",
+      "title": "Haut wie Pelz",
+      "artist": "Apsilon",
+      "songs": [
+        {
+          "title": "Koffer",
+          "preview_url": "https://p.scdn.co/mp3-preview/8b29d116b63b01155c03975a0da78a76ce207ce3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lost in Berlin",
+          "preview_url": "https://p.scdn.co/mp3-preview/094f668310cb2babca468f43da24a7d8ae4bdf10?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "So leicht",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e979cd1477bfbacb198ca8972cd128b08e3aceb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Baba",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c44337ff82206b6a32e930e2eaca6fe8e56ac91?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Outro",
+          "preview_url": "https://p.scdn.co/mp3-preview/6407fc88842a1c04d7a2d0c021df69e8b74c5208?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.0
+    },
+    {
       "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
       "title": "BRAT",
