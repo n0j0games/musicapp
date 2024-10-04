@@ -1,0 +1,109 @@
+{
+  "year" : 2010,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789",
+      "title": "TRON: Legacy",
+      "artist": "Daft Punk",
+      "songs": [
+        {
+          "title": "Overture",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5c058e3a50ebbb6db939bf45f8b2f936a877844?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Grid",
+          "preview_url": "https://p.scdn.co/mp3-preview/17a3afa3b1a1001092239c88b0601d776447ba7e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Son of Flynn",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6be8085ff21f40ccb012c2471344d1efeee0ab9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "End of Line",
+          "preview_url": "https://p.scdn.co/mp3-preview/92daf65ab5859aaf02fd9326713b6d2b8e5ab4bc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Flynn Lives",
+          "preview_url": "https://p.scdn.co/mp3-preview/caf113363658b26e74675a8885986c392b008e6d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+      "title": "My Beautiful Dark Twisted Fantasy",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "POWER",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d5423c5f4d41582149e1ebcf13279964fa76428?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "All Of The Lights",
+          "preview_url": "https://p.scdn.co/mp3-preview/5225c99f6301a3fbe3bdd9f8af1579ad5416828c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Devil In A New Dress",
+          "preview_url": "https://p.scdn.co/mp3-preview/27da2905d952787da75df1b57038d0182e1f2e33?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Runaway",
+          "preview_url": "https://p.scdn.co/mp3-preview/a1f828c57ecf2b61cee888d956e5b59aebb14610?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0",
+      "title": "Doo-Wops & Hooligans",
+      "artist": "Bruno Mars",
+      "songs": [
+        {
+          "title": "Grenade",
+          "preview_url": "https://p.scdn.co/mp3-preview/5221be592c832e14506f6304ff1deb6c52ae3fee?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Just the Way You Are",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d1a901b10c7dc609d4c8628006b04bc6e672be8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Talking to the Moon",
+          "preview_url": "https://p.scdn.co/mp3-preview/6feba1b412530ab0d9dd1f849180f039831acc42?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Liquor Store Blues",
+          "preview_url": "https://p.scdn.co/mp3-preview/34d5bdf562bea2fbd76261d4742fdff91b9b8dd9?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.1
+    },
+    {
+      "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+      "title": "Plastic Beach",
+      "artist": "Gorillaz",
+      "songs": [
+        {
+          "title": "Rhinestone Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/f16d7c3a013b0127da5ba7cf7b0dd89e224f8ed0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Empire Ants",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c60619538476d947f20bc615247996a85f4a0f0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "On Melancholy Hill",
+          "preview_url": "https://p.scdn.co/mp3-preview/75a403bfee0fea05ed437b8e84ce4e8cbb8d5b62?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Broken",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9dd5b42cf442891cfb47023e3edcb4ea93eedf1?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    }
+  ]
+}

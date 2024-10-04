@@ -1,0 +1,204 @@
+{
+  "year" : 2012,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27378de8b28de36a74afc0348b5",
+      "title": "good kid, m.A.A.d city",
+      "artist": "Kendrick Lamar",
+      "songs": [
+        {
+          "title": "Bitch, Don’t Kill My Vibe",
+          "preview_url": "https://p.scdn.co/mp3-preview/6cea1dd25b2f28fc4d13e12448fa585de955872a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Backseat Freestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/c04bf8d5e9e2570f1dd3221d70221adab9dae478?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Money Trees",
+          "preview_url": "https://p.scdn.co/mp3-preview/3be3fb77f5b2945c95e86d4c40ceceac20e5108f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "m.A.A.d city",
+          "preview_url": "https://p.scdn.co/mp3-preview/d07002e72da7a8b7829091fd6c83778ead5202d5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sing About Me, I'm Dying Of Thirst",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba4215bea9ecb0e84be23ae3f20e2e04e8a8fdea?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.5
+    },
+    {
+      "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+      "title": "Lonerism",
+      "artist": "Tame Impala",
+      "songs": [
+        {
+          "title": "Apocalypse Dreams",
+          "preview_url": "https://p.scdn.co/mp3-preview/205dd634202470f05046b8b5687d2e489c24efd1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Why Won't They Talk To Me?",
+          "preview_url": "https://p.scdn.co/mp3-preview/7566accac13fe8a12f0394160d42187b6f8d8575?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Feels Like We Only Go Backwards",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad5f51028ee8013a85ee6f9bad1b83615d25094b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Elephant",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2892d09a5d337ed85a23ccbca9c8dcdd30905ee?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "She Just Won't Believe Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/705aa3fa0a4677158fb7ed3f53f6c59ea18b0c18?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.3
+    },
+    {
+      "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "title": "channel ORANGE",
+      "artist": "Frank Ocean",
+      "songs": [
+        {
+          "title": "Thinkin Bout You",
+          "preview_url": "https://p.scdn.co/mp3-preview/b551ddae26560865215d1083bc08364f8f6edc0b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pyramids",
+          "preview_url": "https://p.scdn.co/mp3-preview/0fff01329318a30ba0b7c2a872c0113e6742a364?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lost",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d314c23e818fcd708b5224bf920520ccf69832c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bad Religion",
+          "preview_url": "https://p.scdn.co/mp3-preview/15cd6470fe16fa3123ad074262b5f87a7a5a884e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pink Matter",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b20e40914a12dbd20a228ea79795f370213b539?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/2dSLWOAettty18g9KTmi6E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734ee35a7450f3c8476654a256",
+      "title": "SEEED",
+      "artist": "Seeed",
+      "songs": [
+        {
+          "title": "Beautiful",
+          "preview_url": "https://p.scdn.co/mp3-preview/b3065a2fb7df36333e5f0395b5b110123f012ed8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Deine Zeit",
+          "preview_url": "https://p.scdn.co/mp3-preview/62a5d81cad77304c3704eb14968a925358351706?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lovelee",
+          "preview_url": "https://p.scdn.co/mp3-preview/23014b8ffe730863897e3ae3e2b02965b0f10261?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wonderful Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/df99ae3567cded943e3c213b59b99b04618484f7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Molotov",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b1a79e191b8fb9b13b04220bd6519d9ea207bda?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fab2fadd4f2b3e54f8bfbc26",
+      "title": "Bloom",
+      "artist": "Beach House",
+      "songs": [
+        {
+          "title": "Myth",
+          "preview_url": "https://p.scdn.co/mp3-preview/23bd047080a44990dfd48ab362e6191904fc0356?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wild",
+          "preview_url": "https://p.scdn.co/mp3-preview/b11d8d81202842cf44ac6e768449057639900693?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lazuli",
+          "preview_url": "https://p.scdn.co/mp3-preview/400f559fc43f3e120b4b5c4fbd311bc64dea2424?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wishes",
+          "preview_url": "https://p.scdn.co/mp3-preview/d63b51d2a834ee88af5a48445f1d9071fc90a262?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Irene",
+          "preview_url": "https://p.scdn.co/mp3-preview/ed5c4ee886380f062594903b70e0acca7dd90aaa?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273203e4c6a048df02a21cdd813",
+      "title": "Electra Heart (Deluxe)",
+      "artist": "MARINA",
+      "songs": [
+        {
+          "title": "Bubblegum Bitch",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c4f54d13bfa2023ef0dbe78a5d5c28936befa91?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Primadonna",
+          "preview_url": "https://p.scdn.co/mp3-preview/348095fbb0f83352a3da25bcdcc45a206c83a963?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Homewrecker",
+          "preview_url": "https://p.scdn.co/mp3-preview/1fd608061a25c4b6ff152e9e3738235b3b615a51?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Starring Role",
+          "preview_url": "https://p.scdn.co/mp3-preview/b93db710a45d051121df8ce336f5977a0e16e178?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "How to Be a Heartbreaker",
+          "preview_url": "https://p.scdn.co/mp3-preview/43bbe78973d151620d3a807c3570e80d86cdd1f9?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aaa285930cd1623de3eb60c5",
+      "title": "Born To Die",
+      "artist": "Lana Del Rey",
+      "songs": [
+        {
+          "title": "Born To Die",
+          "preview_url": "https://p.scdn.co/mp3-preview/264650fe4d82c3de94156a213769623e99e5f0fd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Video Games",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7a7a740b4f0da1eecc74cf7e3298eee04bd20a8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Radio",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ab354e13faebcffbd3ebd3ab552cdcc17f08a86?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Summertime Sadness",
+          "preview_url": "https://p.scdn.co/mp3-preview/b335e359df71bb228c587ee4c93c0f70fe74c736?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    }
+  ]
+}

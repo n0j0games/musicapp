@@ -1,0 +1,200 @@
+{
+  "year" : 2013,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e4860d5331509e2c9ee4de10",
+      "title": "Kiss Land",
+      "artist": "The Weeknd",
+      "songs": [
+        {
+          "title": "Professional",
+          "preview_url": "https://p.scdn.co/mp3-preview/41298c4393d529016c8d3674b6771c37b6ff45f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Town",
+          "preview_url": "https://p.scdn.co/mp3-preview/981fba7ec4fb41f04500ede0d08dde08523eb7f7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wanderlust",
+          "preview_url": "https://p.scdn.co/mp3-preview/5cd61d96e9bf84ea8e3cd459672e99eca783f5b4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kiss Land",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c262abf30619db3947c3f7fbe23b4089c81cf39?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tears In The Rain",
+          "preview_url": "https://p.scdn.co/mp3-preview/8bec5be4a3fe088682473fe5a4e66b09cedbbaf3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.7
+    },
+    {
+      "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+      "title": "Yeezus",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "Black Skinhead",
+          "preview_url": "https://p.scdn.co/mp3-preview/26aa843ed8e7b6db0afd450ba67df128fb4ee64b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Slaves",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7d82de505b68efeef356d3b3d204e319b5e3ceb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hold My Liquor",
+          "preview_url": "https://p.scdn.co/mp3-preview/dc220247158f103e18dfc9eb500a86b85549900d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Blood On The Leaves",
+          "preview_url": "https://p.scdn.co/mp3-preview/172563aa487e421720be37b6b84e69a349e3a7d9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bound 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/8467fcd7f77c2cdf4264ebf7321166723252b9ef?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.7
+    },
+    {
+      "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "songs": [
+        {
+          "title": "Give Life Back to Music",
+          "preview_url": "https://p.scdn.co/mp3-preview/7974b74d938ac047700dd7a2a0766d1ede1ec023?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Game of Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2ea1c9b947956e26a3ca47c199b469dfdbaf814?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Giorgio by Moroder",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffbe7c12252438f212fd67000bcbd8cdc5ba4525?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Instant Crush (feat. Julian Casablancas)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a52d000457fc91fdb18bfaa1f690c82bf7b1a036?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Touch (feat. Paul Williams)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5pC8b5mAkXOQTKgG3WVv8K",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273db8bac6566a311a6b0288f96",
+      "title": "Because the Internet",
+      "artist": "Childish Gambino",
+      "songs": [
+        {
+          "title": "III. Telegraph Ave. (\"Oakland\" By Lloyd)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4a213d69d1fd46248ab82e75361ac99e2fd92b8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "IV. Sweatpants",
+          "preview_url": "https://p.scdn.co/mp3-preview/f68de343bbb9a2bccba769fe8deb5a516011608f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "V. 3005",
+          "preview_url": "https://p.scdn.co/mp3-preview/3999a3458f5ebeab5b09b79ecbdbbe8f57b42a1a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I. Flight of the Navigator",
+          "preview_url": "https://p.scdn.co/mp3-preview/a489fbca3a0915939887bd3800f694582e52451e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "II. Earth: The Oldest Computer (The Last Night)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7dedc1d7d4341acf16716ba7a4d50e6588b31f1d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
+      "title": "Pure Heroine",
+      "artist": "Lorde",
+      "songs": [
+        {
+          "title": "Tennis Court",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ca6e3b780c6c1ad469b9cec692f85cc2cf7fe80?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Royals",
+          "preview_url": "https://p.scdn.co/mp3-preview/a55bfd8c565813d4ca388bac8c9fcf7779e49f6a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ribs",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb3046df92a9c486f17d9ce668ccce3c97b0b5a8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Team",
+          "preview_url": "https://p.scdn.co/mp3-preview/48fffa154188d885e332e8980b2a6a0f021c5f6c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Glory And Gore",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e4736cf7baed65eaa7686e0638ee4ec87acd964?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c08bca073e89ae32c68ffaa",
+      "title": "OutRun",
+      "artist": "Kavinsky",
+      "songs": [
+        {
+          "title": "Prelude",
+          "preview_url": "https://p.scdn.co/mp3-preview/52a7c30bd861f16257bc28cd4facd45e01fc0cd4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Odd Look",
+          "preview_url": "https://p.scdn.co/mp3-preview/c141c1c7d186ac6ad796487bcf0afb372285a1de?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Testarossa Autodrive",
+          "preview_url": "https://p.scdn.co/mp3-preview/248b6db4b5c21d1f4f812a110e883ed087a0231e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nightcall",
+          "preview_url": "https://p.scdn.co/mp3-preview/9694bf85b7a1c9fd9fb5c9b72933231d1b7d8fe2?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/00YvpfulLYvaJp0s6nC7f2",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27343c27e535cefe3f389fff437",
+      "title": "Run The Jewels",
+      "artist": "Run The Jewels,\nEl-P,\nKiller Mike",
+      "songs": [
+        {
+          "title": "Run The Jewels",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d6615fb9977195b77dfc794c733c21a3db29862?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "36\" Chain",
+          "preview_url": "https://p.scdn.co/mp3-preview/918bec686a3fcf693f02565ddc0f7ccb70e8efde?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DDFH",
+          "preview_url": "https://p.scdn.co/mp3-preview/724003941509ee305456a47aa7fac229eb6da662?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sea Legs",
+          "preview_url": "https://p.scdn.co/mp3-preview/b445b2b267f0cf2e82871d57ceb33b3e13ee3001?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    }
+  ]
+}
