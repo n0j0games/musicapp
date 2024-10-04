@@ -18,6 +18,6 @@ import {RouterLink} from "@angular/router";
 export class ItemGroupComponent {
 
   @Input() items!: { year : number, week? : number, preview? : string[] }[];
-  @Input() decade!: number;
-
+  @Input() decade!: number | null;
+  @Input() isAoty!: boolean;
 }

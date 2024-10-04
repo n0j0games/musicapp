@@ -5,17 +5,17 @@
                 *ngFor="let list of aotyListsGroupedByDecade"
                 [items]="list.items"
                 [decade]="list.decade"
+                [isAoty]="true"
         ></app-item-group>
     </div>
     <div class="flex-column gap-xl">
         <p class="p-b-i fs-xl">my fav songs from each week</p>
-        <div class="list gap-l">
-            <app-item
-                    *ngFor="let item of sotwList?.items"
-                    [item]="item"
-                    [isAoty]="false"
-            ></app-item>
-        </div>
+        <app-item-group
+                *ngFor="let list of sotwListsGroupedByYear"
+                [items]="list.items"
+                [decade]="null"
+                [isAoty]="false"
+        ></app-item-group>
     </div>
 
 </div>

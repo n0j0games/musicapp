@@ -1,0 +1,11 @@
+<p class="p-i fs-xl title-gap-b"><b class="p-b-i"> my fav songs from {{ songsOfTheYear?.year }}</b></p>
+<div *ngIf="songsOfTheYear !== null" class="list gap-xl">
+    <app-song-detail
+            *ngFor="let song of songsOfTheYear.songs; index as i"
+            [song]="song"
+            [index]="i+1"
+    ></app-song-detail>
+</div>
+<div *ngIf="songsOfTheYear === null">
+    <p> Something went wrong! </p>
+</div>

@@ -26,7 +26,16 @@ export class ItemComponent implements OnInit {
     if (this.isAoty) {
       this.routerLink = ['/aoty', this.item.year.toString()];
     } else {
-      this.routerLink = ['/sotw', this.item.year.toString() + this.item.week]
+      this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]
+    }
+  }
+
+  private createWeekString (week : number) : string {
+    const weekStr = week.toString();
+    if (weekStr.length === 1) {
+      return "0" + weekStr;
+    } else {
+      return weekStr;
     }
   }
 

@@ -30,7 +30,7 @@ export class HeaderComponent implements OnInit {
         next: (v) => {
           this.setCurrentWeek(v);
         },
-        error: (e) => console.log(e)
+        error: (e) => console.error(e)
       })
       return;
     }

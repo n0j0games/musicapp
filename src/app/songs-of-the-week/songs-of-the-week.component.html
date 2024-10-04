@@ -3,6 +3,7 @@
     <app-song-detail
             *ngFor="let song of songsOfTheWeek.songs"
             [song]="song"
+            [index]="null"
     ></app-song-detail>
 </div>
 <div *ngIf="songsOfTheWeek === null">

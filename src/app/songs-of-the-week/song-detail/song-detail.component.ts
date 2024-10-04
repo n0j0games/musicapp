@@ -21,6 +21,7 @@ export class SongDetailComponent implements OnInit {
     isPlaying = false;
 
     @Input() song! : Song;
+    @Input() index!: number | null;
 
     constructor(private audioService : AudioService) {
     }

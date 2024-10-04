@@ -1,10 +1,11 @@
 <div class="outer-highlight-card flex-column gap-l">
-    <a [routerLink]="['/aoty-decade', decade]" class="fs-xl p-b">{{ decade }}s</a>
+    <a *ngIf="isAoty" [routerLink]="['/aoty-decade', decade]" class="fs-xl p-b">{{ decade }}s</a>
+    <a *ngIf="!isAoty" [routerLink]="['/soty', items[0].year]" class="fs-xl p-b">{{ items[0].year }}</a>
     <div class="list gap-l">
         <app-item
                 *ngFor="let item of items"
                 [item]="item"
-                [isAoty]="true"
+                [isAoty]="isAoty"
         ></app-item>
     </div>
 </div>

@@ -24,8 +24,8 @@ import {AotyItem} from "../models/aoty-item";
 })
 export class HomeComponent implements OnInit {
 
-  sotwList! : SotwList | null;
   aotyListsGroupedByDecade! : {items : { year : number, week? : number, preview? : string[] }[], decade : number }[];
+  sotwListsGroupedByYear! : {items : { year : number, week? : number, preview? : string[] }[], decade : null }[];
 
   constructor(private sotwService: SotwService,
               private aotyService: AotyService) {}
@@ -36,21 +36,41 @@ export class HomeComponent implements OnInit {
   }
 
   private setSotyList() {
-    this.sotwList = this.sotwService.getSotwList();
-    if (this.sotwList === null || this.sotwList.items === undefined) {
+    let sotwList : SotwList | null = this.sotwService.getSotwList();
+    console.log(sotwList)
+    if (sotwList === null || sotwList.items === undefined) {
       console.error("SotwList was undefined, try to wait for list change")
       this.sotwService.sotwListChanged$.subscribe({
         next: (v) => {
-          this.sotwList = v
-          if (this.sotwList.items !== undefined) {
-            this.sotwList.items = this.sotwList.items.sort((a, b) => b.week - a.week);
+          sotwList = v
+          if (sotwList.items !== undefined) {
+            sotwList.items = sotwList.items.sort((a, b) => b.week - a.week);
           }
         },
         error: (e) => console.log(e)
       })
       return;
     }
-    this.sotwList.items = this.sotwList.items.sort((a, b) => b.week - a.week);
+    sotwList.items = sotwList.items.sort((a, b) => b.week - a.week);
+    console.log(sotwList.items);
+    if (sotwList.years === undefined) {
+      console.error("Years was undefined");
+      return;
+    }
+
+    this.sotwListsGroupedByYear = [];
+    for (const year of sotwList.years) {
+      const items : { year : number, week?: number, preview? : string[] }[] = [];
+      for (const item of sotwList.items) {
+        if (parseInt(item.year.toString()) === year) {
+          items.push(item);
+        }
+      }
+      this.sotwListsGroupedByYear.push({ items: items, decade : null });
+    }
+    console.log(this.sotwListsGroupedByYear);
+    this.sotwListsGroupedByYear.sort((a, b) => b.items[0].year - a.items[0].year);
+
   }
 
   private setAotyList() {
@@ -74,7 +94,6 @@ export class HomeComponent implements OnInit {
       console.error("Decades was undefined");
       return;
     }
-
     this.aotyListsGroupedByDecade = [];
     for (const decade of aotyList.decades) {
       const items : { year : number, decade? : number, preview? : string[] }[] = [];
