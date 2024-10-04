@@ -8,17 +8,18 @@
 }
 
 app-header {
-  position: fixed;
+  position: sticky;
+  z-index: 100;
   top: 0;
   width: 100%;
 }
 
 .main-content {
-  margin: 100px 40px 100px 40px;
+  margin: 80px 40px 80px 40px;
 }
 
 @media (width < 500px) {
   .main-content {
-    margin: 80px 10px 80px 10px;
+    margin: 40px 10px 40px 10px;
   }
 }

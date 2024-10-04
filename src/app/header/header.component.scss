@@ -13,16 +13,29 @@ $primary-color: #FB7DA8;
   padding: 0 0 10px 0;
 }
 
-.m-body {
-  display: none;
+.wide-only {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 2;
+}
+
+.title-with-img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .title {
-  flex-grow: 2;
   text-align: start;
+  margin: 0 30px 0 0;
 }
 
-a {
+.flex-grow {
+  flex-grow: 2;
+  min-width: 20px;
+}
+
+a, p {
   color: white;
 }
 
@@ -34,22 +47,19 @@ a {
   padding: 0;
 }
 
-a:hover {
+a:hover p, i:hover, {
   color: $primary-color;
 }
 
-@media (width < 600px) {
+@media (width < 950px) {
 
   .body {
-    display: none;
-  }
-
-  .m-body {
-    display: flex;
     align-items: center;
     justify-content: center;
-    background: $accent-color;
-    padding: 10px 40px 0 40px;
+  }
+
+  .wide-only {
+    display: none;
   }
 
   .title {

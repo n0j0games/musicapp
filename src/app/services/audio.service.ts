@@ -10,12 +10,27 @@ export class AudioService {
     private audio = new Audio();
     private playlist : string[] = [];
     public playStatusChanged$ = new Subject<string | null>();
+    public audioLengthChanged$ = new Subject<number | null>();
 
     constructor() {
         const context = this;
+        this.audio.preload = "metadata";
+        this.audio.onloadedmetadata = function() {
+            console.log(context.audio.title)
+            context.audioLengthChanged$.next(context.audio.duration);
+        };
         this.audio.addEventListener("ended", function () {
             context.onSongEnded(context);
         });
+        this.playStatusChanged$.subscribe(status => {
+            if (status === null) {
+                this.audioLengthChanged$.next(null);
+            }
+        })
+    }
+
+    getUrl() {
+        return this.audio.src;
     }
 
     playAudioFromList(previewUrls : string[]) {

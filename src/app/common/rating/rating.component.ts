@@ -19,10 +19,15 @@ export class RatingComponent implements OnInit {
   colors = ["#DF3E23","#FA6A0A","#F9A31B","#FFD541","#FFFC40","#D6F264","#9CDB43","#59C135","#14A02E","#1A7A3E","#862af6"];
 
   ngOnInit() {
-    this.rating = Math.floor(this.rating);
     if (this.rating < 0 || this.rating > 10 ) {
       console.warn("Unexpected rating");
     }
   }
 
+  calcWidth(rating : number) {
+    const percent = rating*10;
+    return percent > 100 ? 100 : percent;
+  }
+
+  protected readonly Math = Math;
 }

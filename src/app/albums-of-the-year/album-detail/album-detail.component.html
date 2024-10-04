@@ -4,9 +4,9 @@
     <div class="flex-column align-start gap-s">
         <p class="p-b-i fs-l left-text"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</p>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
-            <a [ngClass]="{'tenAlbum' : album.rating === 10}" class="p-b-i fs-xl left-text max-width-800" href="{{album.url}}" target="_blank" >{{ album.title | removeDeluxe }}</a>
+            <a [ngClass]="{'tenAlbum' : Math.floor(album.rating) === 10}" class="p-b-i fs-xl left-text max-width-800" href="{{album.url}}" target="_blank" >{{ album.title | removeDeluxe }}</a>
             <app-play-button
-                    [ngClass]="{'tenAlbum' : album.rating === 10}"
+                    [ngClass]="{'tenAlbum' : Math.floor(album.rating) === 10}"
                     [url]="previewUrls"
                     [isPlaying]="isPlaying"
             ></app-play-button>

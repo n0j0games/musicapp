@@ -1,12 +1,17 @@
 <div class="body">
-    <img class="favicon" src="assets/favicon.png">
-    <a class="p-b-i title fix-bottom" [routerLink]="['/home']">rate now cry later</a>
-    <a class="text-margin fix-bottom" [routerLink]="['/sotw', currentYear.toString() + currentWeek.toString()]">fav songs from last week</a>
-    <a class="text-margin fix-bottom" [routerLink]="['/soty', currentYear.toString()]">fav songs of this year</a>
-    <a class="text-margin fix-bottom" [routerLink]="['/aoty', currentYear.toString()]">albums of the year so far</a>
+    <a class="title-with-img" [routerLink]="['/home']"><img class="favicon" src="assets/favicon.png"><p class="p-b-i title fix-bottom">rate now cry later</p></a>
+    <app-play-button
+            [url]="''"
+            [isPlaying]="isAnySongPlaying"
+            [isOnlyStopButton]="true"
+    ></app-play-button>
+    <app-play-track></app-play-track>
+    <div class="wide-only">
+        <div class="flex-grow"></div>
+        <a class="text-margin fix-bottom" [routerLink]="['/sotw', currentYear.toString() + currentWeek.toString()]">fav songs from last week</a>
+        <a class="text-margin fix-bottom" [routerLink]="['/soty', currentYear.toString()]">fav songs of this year</a>
+        <a class="text-margin fix-bottom" [routerLink]="['/aoty', currentYear.toString()]">albums of the year so far</a>
+    </div>
 </div>
 
-<div class="m-body">
-    <img class="favicon" src="assets/favicon.png">
-    <a class="p-b-i title fix-bottom" [routerLink]="['/home']">rate now cry later</a>
-</div>
+

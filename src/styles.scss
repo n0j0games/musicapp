@@ -193,8 +193,25 @@ body {
   text-decoration: none;
 }
 
+.play-button-header {
+  color: $secondary-color;
+  padding: 0 0 9px 0;
+}
+
 .play-button:hover i {
   color: $secondary-color;
+}
+
+.play-button-header:hover i {
+  color: white;
+}
+
+.play-button-header-disabled {
+  color: rgba(255, 255, 255, 0.48);
+}
+
+.play-button-header-disabled:hover i {
+  color: rgba(255, 255, 255, 0.48);
 }
 
 .outer-highlight-card {
@@ -310,14 +327,14 @@ img {
 
 
 ::-webkit-scrollbar-track {
-  background: #131313;
+  background: #636363;
   background-size: 400% 100%;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #3a3a3a;
+  background: $accent-color;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #d87272;
+  background: $secondary-color;
 }

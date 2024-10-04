@@ -32,11 +32,12 @@ export class AggregatedDecadeComponent implements OnInit {
     }
     this.activeDecade = <number><unknown>decade;
 
-    const aotyItems = this.aotyService.getAlbumsOfTheDecade(this.activeDecade);
+    let aotyItems = this.aotyService.getAlbumsOfTheDecade(this.activeDecade);
     if (aotyItems == null) {
       this.router.navigate(['**']).then(() => console.error("Empty decade, routed to 404"));
       return;
     }
+    aotyItems = aotyItems.sort((a, b) => b.year - a.year)
     let albums : Album[] = [];
     for (const item of aotyItems) {
       albums = albums.concat(item.albums);

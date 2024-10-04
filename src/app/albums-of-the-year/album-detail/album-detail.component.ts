@@ -48,4 +48,5 @@ export class AlbumDetailComponent implements OnInit {
     return songs.map(a => a.title).join(", ")
   }
 
+    protected readonly Math = Math;
 }

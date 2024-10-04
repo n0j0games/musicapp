@@ -1,4 +1,9 @@
-<button class="play-button flex-column align-center justify-center" (click)="playAudio()">
+<button
+        class="play-button flex-column align-center justify-center"
+        [ngClass]="{ 'play-button-header' : isOnlyStopButton, 'play-button-header-disabled' : isOnlyStopButton && !isPlaying }"
+        (click)="playAudio()"
+        [disabled]="isOnlyStopButton && !isPlaying"
+>
     <i *ngIf="!isPlaying" class="fa-solid fa-play"></i>
     <i *ngIf="isPlaying" class="fa-solid fa-pause"></i>
 </button>

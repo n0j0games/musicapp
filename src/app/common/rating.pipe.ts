@@ -7,6 +7,7 @@ import { Pipe, PipeTransform } from '@angular/core';
 export class RatingPipe implements PipeTransform {
 
   transform(value: number): string {
+    value = Math.floor(value);
     switch (value) {
       case 10:
         return "PERFECT";
