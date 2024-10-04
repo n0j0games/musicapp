@@ -1,0 +1,60 @@
+{
+  "year": 2024,
+  "week": 40,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/6cd4bf41bd84687509165f3babc7d6d985ca0f70?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371c5117dd8108d50909f8f56",
+      "title": "Kopf im Nacken",
+      "artist": "Apsilon",
+      "rating": 10,
+      "album": "Haut wie Pelz",
+      "url": "https://open.spotify.com/track/6oWiaW7JdF95IPgdjoX4VW"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e0aa3444168b153fe9f65b6d76bf8735a0bc64d8?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371c5117dd8108d50909f8f56",
+      "title": "Haut wie Pelz",
+      "artist": "Apsilon",
+      "rating": 9,
+      "album": "Haut wie Pelz",
+      "url": "https://open.spotify.com/track/1Lzq8Fve64UecxclfeGvl9"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/55940b0997c50a3a1ad5b79e2f031953b067c7f4?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371c5117dd8108d50909f8f56",
+      "title": "Augen in der Nacht",
+      "artist": "Apsilon, Blumengarten",
+      "rating": 10,
+      "album": "Haut wie Pelz",
+      "url": "https://open.spotify.com/track/3BwaaH4h6ZNbqiZXfuLdGf"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5e60df67aa8c2c99159c828120ecdd0b2802d20d?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371c5117dd8108d50909f8f56",
+      "title": "BSR",
+      "artist": "Apsilon",
+      "rating": 7,
+      "album": "Haut wie Pelz",
+      "url": "https://open.spotify.com/track/0JFP2T3Yr25yvFPtJxVjeC"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/cafce3f703522c7fbc755e8a278d1ac3a8eaf828?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371c5117dd8108d50909f8f56",
+      "title": "Outro",
+      "artist": "Apsilon",
+      "rating": 10,
+      "album": "Haut wie Pelz",
+      "url": "https://open.spotify.com/track/6HiEg510rl7PS50X1WpS6b"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/199e45316ec18730150caa71a26ddf866da72257?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732e1586582fa136f923c76312",
+      "title": "Entro (feat. Denzel Curry & Hannah Mundine)",
+      "artist": "Powers Pleasant, Denzel Curry, Hannah Mundine",
+      "rating": 7,
+      "album": "Life Sucks",
+      "url": "https://open.spotify.com/track/4LiQJjjZdks0uQl2s2TSbp"
+    }
+  ]
+}
