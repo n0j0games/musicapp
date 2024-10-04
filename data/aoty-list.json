@@ -1,5 +1,5 @@
 {
-  "decades" : [2020],
+  "decades" : [2020,2010],
   "items": [
     {
       "year": 2024,
@@ -49,6 +49,16 @@
         "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600",
         "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
         "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc"
+      ]
+    },
+    {
+      "year": 2015,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160",
+        "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+        "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "https://i.scdn.co/image/ab67616d0000b273d1430224d631eaa5954f13c9"
       ]
     }
   ]

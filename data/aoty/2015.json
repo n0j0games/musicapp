@@ -1,0 +1,332 @@
+{
+  "year" : 2015,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160",
+      "title": "Rodeo",
+      "artist": "Travis Scott",
+      "songs": [
+        {
+          "title": "90210 (feat. Kacy Hill)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c357bde24bdd21336d2c218f4331909bc3a458ea?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "3500 (feat. Future & 2 Chainz)",
+          "preview_url": "https://p.scdn.co/mp3-preview/29bb8c7ed1884cebd8017bed253e96d03a9501df?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pray 4 Love (feat. The Weeknd)",
+          "preview_url": "https://p.scdn.co/mp3-preview/22035390f1ca0192330339e33460f84369462af7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+          "preview_url": "https://p.scdn.co/mp3-preview/23540b3a777ceb28824330d1c72897e44e66dd1b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+          "preview_url": "https://p.scdn.co/mp3-preview/11612ececd3ee386d4d5ce82a03da4040b075409?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Apple Pie",
+          "preview_url": "https://p.scdn.co/mp3-preview/48557a2db9bd6c1ab0b23d7a5bdcf36b887d636d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+      "title": "To Pimp A Butterfly",
+      "artist": "Kendrick Lamar",
+      "songs": [
+        {
+          "title": "Wesley's Theory",
+          "preview_url": "https://p.scdn.co/mp3-preview/1033d43959f5b9c1ceeedc1a1e3fe2229fad4d0e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "King Kunta",
+          "preview_url": "https://p.scdn.co/mp3-preview/8da67ed9ab87b1bce93a71f11c50e022f4ed4b9e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Alright",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b5c9d0de5c6c7643ca1d7a488e8b1d8afec1b4e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Blacker The Berry",
+          "preview_url": "https://p.scdn.co/mp3-preview/61f14fab6135f9ce46eb31987d04d38adf6ffc60?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "i",
+          "preview_url": "https://p.scdn.co/mp3-preview/72bbbf1a3086f804c6c12cfa9eeb75dc3a69e0a0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mortal Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0cad6045fca14a435e4785711d867a1063c9010?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+      "title": "Currents",
+      "artist": "Tame Impala",
+      "songs": [
+        {
+          "title": "Let It Happen",
+          "preview_url": "https://p.scdn.co/mp3-preview/2cfd4012a9ac9bac50a308cfc17b4173a7a84aae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Moment",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7c073263535786b2e08d4d7611488fa7093d93a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Eventually",
+          "preview_url": "https://p.scdn.co/mp3-preview/17c7520f657b355db0b66bdd0037f561887148ac?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Less I Know The Better",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ad63797e17bda6d46d081049c8c3710e3ab2797?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Person, Same Old Mistakes",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a899c2e48f474ac5cc4cd4472596f328331170a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.3
+    },
+    {
+      "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d1430224d631eaa5954f13c9",
+      "title": "Depression Cherry",
+      "artist": "Beach House",
+      "songs": [
+        {
+          "title": "Levitation",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e43a81c5de34031083799a67df0baaa9b4d17c7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sparks",
+          "preview_url": "https://p.scdn.co/mp3-preview/e0eb4ff88a02f92a006c956429d104f6c14d8e15?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Space Song",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b09d1d942390eccf99e2d8233843defeac9dd61?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "PPP",
+          "preview_url": "https://p.scdn.co/mp3-preview/53acbacfea23a1a3061bb7ff947f1d5d1a97dca8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wildflower",
+          "preview_url": "https://p.scdn.co/mp3-preview/b7c7191a4f7c93a62e1baf17edd225b0df8a9714?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+      "title": "If You're Reading This It's Too Late",
+      "artist": "Drake",
+      "songs": [
+        {
+          "title": "Legend",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c93008bf20c6bb5abbd1d28a57cdc9f68a7cbb8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Energy",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d3414f734e3bb1f205dd5948b4c79cbe5d04a6c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "6 God",
+          "preview_url": "https://p.scdn.co/mp3-preview/30f721ff8f457bf651a57d15607d8cc096e4a8a4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Star67",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c1ba33dd30baaf0c521de7f075eec1d8c31c448?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jungle",
+          "preview_url": "https://p.scdn.co/mp3-preview/dbd97bf347b1ce2077a796b528ca44715dbf9ffe?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.7
+    },
+    {
+      "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+      "title": "Beauty Behind The Madness",
+      "artist": "The Weeknd",
+      "songs": [
+        {
+          "title": "Often",
+          "preview_url": "https://p.scdn.co/mp3-preview/9481c4e92ab239a4c2c36b35bd98a4bdeeb47ba7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Hills",
+          "preview_url": "https://p.scdn.co/mp3-preview/30a8d26fa2b2e9a5a01007d71783510180e677ab?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Can't Feel My Face",
+          "preview_url": "https://p.scdn.co/mp3-preview/99b0d35b74903a1807c2f0a7b4e54f844c93fb68?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In The Night",
+          "preview_url": "https://p.scdn.co/mp3-preview/0cedba9520fb8c3dee5987566e4795756d5bd95b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Angel",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec5686f1427eaa240d7b03824b7c57bdcb82b07e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.6
+    },
+    {
+      "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965",
+      "title": "DS2",
+      "artist": "Future",
+      "songs": [
+        {
+          "title": "Thought It Was a Drought",
+          "preview_url": "https://p.scdn.co/mp3-preview/a656297ae3ee7d947e752960ad6675c2bf65b712?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Serve the Base",
+          "preview_url": "https://p.scdn.co/mp3-preview/13299ba352eeeb03d202f854fc58312a4921538b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Stick Talk",
+          "preview_url": "https://p.scdn.co/mp3-preview/943fd5c6e9c628e83479e88c43e49c29ac4fe482?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Rich $ex",
+          "preview_url": "https://p.scdn.co/mp3-preview/43a8210a8cc97e49a96c0358dab74001ba248fc7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fuck Up Some Commas",
+          "preview_url": "https://p.scdn.co/mp3-preview/e12c20b928d55ba60b0d12e5d9c40ef66f4d2557?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27381a6a2cafab2e7a4066b5eec",
+      "title": "AT.LONG.LAST.A$AP",
+      "artist": "A$AP Rocky",
+      "songs": [
+        {
+          "title": "Holy Ghost (feat. Joe Fox)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e8dc1a78521ac5c78384457c4989e5eafe133db2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "L$D",
+          "preview_url": "https://p.scdn.co/mp3-preview/417aec38ee59dce9251b00f92763ba5496613504?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Excuse Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/96b7f63c3015ee198bbf238b16d0a7a9fbf000fe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+          "preview_url": "https://p.scdn.co/mp3-preview/246ee8e467fba5701f3b15a81a69194079b41f2a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+          "preview_url": "https://p.scdn.co/mp3-preview/220febf485c664a356b31f667ac3dcdcb9ab33dd?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.7
+    },
+    {
+      "url": "https://open.spotify.com/album/43lpkbUTyHN4IAmBeyxLni",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b80e1058ae470c9eea0a1c15",
+      "title": "Chrome",
+      "artist": "DAT ADAM",
+      "songs": [
+        {
+          "title": "DFA",
+          "preview_url": "https://p.scdn.co/mp3-preview/7fc8ea979051bb374ba39a0ba788c6621d4bbde9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Session",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0976675d27d00f75c1c4e5a009f94f2365806a9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "700 Main Street",
+          "preview_url": "https://p.scdn.co/mp3-preview/2daff91f2073debffa1ee3b788d63b0a1e79871f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Forrest",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ebebe89539f2b4cc74fc89bcd4f985fa363f73c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "UFO",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee9baac98028c51282ac2cc7e6bab2cc661299a9?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273820e2ac14772ae3162c6d479",
+      "title": "Carrie & Lowell",
+      "artist": "Sufjan Stevens",
+      "songs": [
+        {
+          "title": "Death with Dignity",
+          "preview_url": "https://p.scdn.co/mp3-preview/20ca14e83d55a8608db6bdd0000337b5ccea8eb6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Should Have Known Better",
+          "preview_url": "https://p.scdn.co/mp3-preview/abc9a8fcadbb9c9f4a05bda15981fde01b0ce827?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Eugene",
+          "preview_url": "https://p.scdn.co/mp3-preview/e05ceb8dcdeb40d4a0cc623d91e3674857074aba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fourth of July",
+          "preview_url": "https://p.scdn.co/mp3-preview/4d6cb7ce1a2b436b4df1fb90b81e519ed0088403?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "John My Beloved",
+          "preview_url": "https://p.scdn.co/mp3-preview/56f9d71f39833834a3220dab324e3abf1d5a6a92?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    },
+    {
+      "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e4bf0d3d9e0224a30ca5f665",
+      "title": "Cherry Bomb",
+      "artist": "Tyler, The Creator",
+      "songs": [
+        {
+          "title": "DEATHCAMP (feat. Cole Alexander)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2797a4270212facb109c6b80d143f25cfed347ba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "BUFFALO (feat. Shane Powers)",
+          "preview_url": "https://p.scdn.co/mp3-preview/437fb89fbb6cd275750b44916d7dad0d90f06686?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)",
+          "preview_url": "https://p.scdn.co/mp3-preview/eee6fd1cfdc331dec28ff5b79b86bef1f959d4e5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e275a3d8058e00ea489d7673d4b460ca574b633?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SMUCKERS (feat. Lil Wayne & Kanye West)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3bc988e6f5dab5c4284dba8fdf8a2340bc080f8e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.2
+    }
+  ]
+}
