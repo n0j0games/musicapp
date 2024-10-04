@@ -23,14 +23,12 @@ export class RatingPipe implements PipeTransform {
       case 5:
         return "MID";
       case 4:
-        return "BAD";
       case 3:
-        return "VERY BAD";
       case 2:
-        return "AWFUL";
       case 1:
+        return "BAD";
       case 0:
-        return "HELL NO";
+        return "UNRATED";
       default:
         return value.toString();
 

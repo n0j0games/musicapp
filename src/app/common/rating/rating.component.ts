@@ -24,8 +24,8 @@ export class RatingComponent implements OnInit {
   private verygood = "#00ae9f";
   private good = "#00ae6b";
   private solid = "#5aae00";
-  private mid = "#9fa18d";
-  private bad = "#b1b1b1";
+  private mid = "#8d9c0c";
+  private bad = "#bd5151";
 
   colors = [this.bad, this.bad, this.bad, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
 

@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {NgForOf, NgIf} from "@angular/common";
+import {LowerCasePipe, NgForOf, NgIf} from "@angular/common";
 import {RouterLink} from "@angular/router";
 import {WeekHelper} from "../../../common/week-helper";
 
@@ -9,7 +9,8 @@ import {WeekHelper} from "../../../common/week-helper";
   imports: [
     NgForOf,
     RouterLink,
-    NgIf
+    NgIf,
+    LowerCasePipe
   ],
   templateUrl: './item.component.html',
   styleUrl: './item.component.scss'
@@ -17,18 +18,24 @@ import {WeekHelper} from "../../../common/week-helper";
 export class ItemComponent implements OnInit {
 
   @Input() item!: { year : number, week? : number, preview? : string[] };
-  @Input() isAoty! : boolean;
+  @Input() isAoty! : string;
+  @Input() queryParam! : string;
+  @Input() text! : string;
   routerLink : string[] = [];
 
   fridayOfTheWeek! : string;
   weekHelper = new WeekHelper();
 
   ngOnInit() {
-    if (this.isAoty) {
+    if (this.isAoty === "AOTY") {
       this.routerLink = ['/aoty', this.item.year.toString()];
-    } else {
+    } else if (this.isAoty === "SOTW") {
       this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);
       this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]
+    } else if (this.isAoty === "LIST") {
+      this.routerLink = ['/lists', this.queryParam];
+    } else {
+      throw new Error("unknown type");
     }
   }
 

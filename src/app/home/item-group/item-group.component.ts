@@ -19,5 +19,5 @@ export class ItemGroupComponent {
 
   @Input() items!: { year : number, week? : number, preview? : string[] }[];
   @Input() decade!: number | null;
-  @Input() isAoty!: boolean;
+  @Input() isAoty!: string;
 }

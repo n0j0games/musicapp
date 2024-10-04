@@ -6,7 +6,7 @@
                     *ngFor="let list of aotyListsGroupedByDecade"
                     [items]="list.items"
                     [decade]="list.decade"
-                    [isAoty]="true"
+                    [isAoty]="'AOTY'"
             ></app-item-group>
         </div>
     </div>
@@ -16,8 +16,62 @@
                 *ngFor="let list of sotwListsGroupedByYear"
                 [items]="list.items"
                 [decade]="null"
-                [isAoty]="false"
+                [isAoty]="'SOTW'"
         ></app-item-group>
+    </div>
+    <div class="flex-column gap-xl">
+        <p class="p-b-i fs-xl">highlights</p>
+        <div class="outer-highlight-card flex-column gap-l">
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'alphabetical'"
+                    [text]="'all albums'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'fav-albums'"
+                    [text]="'all time favorites'"
+            ></app-item>
+        </div>
+        <p class="p-b-i fs-xl">favs per artist</p>
+        <div class="outer-highlight-card flex-column gap-l">
+            <app-item
+                    [item]="{year: 0, week: 0, preview : [
+                    'https://i.scdn.co/image/ab67616d0000b27336fb79728dbb379579cef97e',
+                    'https://i.scdn.co/image/ab67616d0000b273274b406a7e18acebcf743079',
+                    'https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36',
+                    'https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d'
+                    ]}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'the-weeknd'"
+                    [text]="'The Weeknd'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0, preview : [
+                    'https://i.scdn.co/image/ab67616d0000b2730fc93fe41791c5aa51ae9645',
+                    'https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160',
+                    'https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce',
+                    'https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44'
+                    ]}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'travis-scott'"
+                    [text]="'Travis Scott'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'kanye-west'"
+                    [text]="'Kanye West'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'beyonce'"
+                    [text]="'Beyonce'"
+            ></app-item>
+        </div>
     </div>
 
 </div>

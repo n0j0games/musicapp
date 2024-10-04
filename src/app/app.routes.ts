@@ -8,17 +8,20 @@ import {AotyItemResolverService} from "./services/aoty-item.resolver.service";
 import {AotyResolverService} from "./services/aoty-resolver.service";
 import {AlbumsOfTheYearComponent} from "./albums-of-the-year/albums-of-the-year.component";
 import {AggregatedDecadeComponent} from "./albums-of-the-year/aggregated-decade/aggregated-decade.component";
-import {AotyAggregateResolverService} from "./services/aoty-aggregate.resolver.service";
+import {AotyDecadeAggregateResolverService} from "./services/aoty-decade-aggregate.resolver.service";
 import {AggregatedSotyComponent} from "./songs-of-the-week/aggregated-soty/aggregated-soty.component";
 import {SotwAggregateResolverService} from "./services/sotw-aggregate.resolver.service";
+import {AggregatedVariousComponent} from "./albums-of-the-year/aggregated-various/aggregated-various.component";
+import {AotyAggregateResolverService} from "./services/aoty-aggregate.resolver.service";
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty/:year', component: AlbumsOfTheYearComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'soty/:year', component: AggregatedSotyComponent, resolve: [SotwResolverService, AotyResolverService, SotwAggregateResolverService] },
-  { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyAggregateResolverService] },
+  { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyDecadeAggregateResolverService] },
   { path: 'error/404', component: NotFoundComponent, resolve: [SotwResolverService, AotyResolverService] },
+  { path: 'lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService] },
   { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: '**', redirectTo: 'error/404', pathMatch: 'full' },
 ];

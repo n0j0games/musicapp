@@ -40,7 +40,9 @@ export class AlbumDetailComponent implements OnInit {
   ngOnInit() {
     this.albumNames = this.getAlbumNames();
     this.songinfo = this.getSongInfo();
-    this.previewUrls = this.album.songs!.map(song => song.preview_url);
+    this.previewUrls = this.album.songs?
+        this.album.songs.map(song => song.preview_url) :
+        []
     this.audioService.playStatusChanged$.subscribe(status => {
       this.isPlaying = status !== null && this.previewUrls.includes(status);
     })
@@ -55,7 +57,9 @@ export class AlbumDetailComponent implements OnInit {
   }
 
   getSongInfo() {
-    console.log("X");
+    if (!this.album.songs) {
+      return [new SongInfo('','','')];
+    }
     return this.album.songs!.map(song => new SongInfo(song.title, song.preview_url, this.album.artist));
   }
 

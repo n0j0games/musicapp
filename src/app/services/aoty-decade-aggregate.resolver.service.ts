@@ -7,31 +7,35 @@ import {AotyService} from "./aoty.service";
 import {AotyItem} from "../models/aoty-item";
 import {Album} from "../models/album";
 import {HttpErrorResponse} from "@angular/common/http";
-import {AotyList} from "../models/aoty-list";
 
 @Injectable({
     providedIn: 'root'
 })
-export class AotyAggregateResolverService implements Resolve<(AotyItem|HttpErrorResponse)[]> {
+export class AotyDecadeAggregateResolverService implements Resolve<(AotyItem|HttpErrorResponse)[]> {
 
     constructor(private dataStorageService : DataStorageService,
                 private aotyService : AotyService) {}
 
     resolve(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): MaybeAsync<(AotyItem|HttpErrorResponse)[]> {
 
-        const aggregation = route.paramMap.get("query");
-        if (aggregation === undefined || aggregation === null) {
-            throw new Error("Invalid query");
+        const rawDecade = route.paramMap.get("decade");
+        if (rawDecade === undefined || rawDecade === null) {
+            throw new Error("Invalid decade");
         }
-        let aotyList = this.aotyService.getAotyList();
-        const queryYears = aotyList?.items === undefined ?
-            [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024] :
-            aotyList!.items!.map(value => value.year);
-        const aotyItem = this.aotyService.getAggregatedAlbums(queryYears);
+        const decade : number = parseInt(rawDecade);
+        const aotyItem = this.aotyService.getAlbumsOfTheDecade(decade);
         if (aotyItem !== null) {
             return aotyItem;
         }
-        return this.dataStorageService.fetchAggregatedAotyItems(queryYears);
+        const validYears : number[] = this.range(decade, decade + 9, 1)
+        return this.dataStorageService.fetchAggregatedAotyItems(validYears);
+    }
+
+    private range(start : number, stop : number, step : number) {
+        return Array.from(
+            { length: (stop - start) / step + 1 },
+            (_, i) => start + i * step
+        );
     }
 
 }

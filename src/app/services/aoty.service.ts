@@ -26,6 +26,19 @@ export class AotyService {
     return this.aotyList;
   }
 
+  getAggregatedAlbums(queryYears : number[]) : AotyItem[] | null {
+    const aggregatedAlbums : AotyItem[] = [];
+    for (const item of this.aotyItems) {
+      if (queryYears.includes(item.year)) {
+        aggregatedAlbums.push(item);
+      }
+    }
+    if (aggregatedAlbums.length === 0 || aggregatedAlbums.length !== queryYears.length) {
+      return null;
+    }
+    return aggregatedAlbums;
+  }
+
   getAlbumsOfTheDecade(decade : number): AotyItem[] | null {
     const aggregatedDecadeAlbums : AotyItem[] = [];
     for (const item of this.aotyItems) {
@@ -53,7 +66,7 @@ export class AotyService {
     return count;
   }
 
-  setAlbumsOfTheDecade(aotyItems: (AotyItem|HttpErrorResponse)[]) {
+  setAggregatedAlbums(aotyItems: (AotyItem|HttpErrorResponse)[]) {
     for (const aotyItem of aotyItems) {
       const tempItem : AotyItem = <AotyItem>aotyItem;
       this.setAlbumsOfTheYear(tempItem)

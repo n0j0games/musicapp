@@ -133,8 +133,8 @@ export class DataStorageService {
             }),
             tap((value: (AotyItem | HttpErrorResponse)[]) => {
                 if (value != null) {
-                    console.log("Requested AOTY-DECADE item", value)
-                    this.aotyService.setAlbumsOfTheDecade(value);
+                    console.log("Requested AOTY-AGGREGATE item", value)
+                    this.aotyService.setAggregatedAlbums(value);
                 }
             })
         )

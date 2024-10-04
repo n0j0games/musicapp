@@ -18,7 +18,6 @@ export class AudioService {
         const context = this;
         this.audio.preload = "metadata";
         this.audio.onloadedmetadata = function() {
-            console.log(context.audio.title)
             context.audioLengthChanged$.next(context.audio.duration);
         };
         this.audio.addEventListener("ended", function () {
@@ -71,6 +70,7 @@ export class AudioService {
         if (!this.audio.paused) {
             this.audio.pause();
         }
+        console.log("Stopped audio")
         this.playStatusChanged$.next(null);
     }
 

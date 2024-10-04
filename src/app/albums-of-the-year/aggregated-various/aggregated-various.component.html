@@ -1,0 +1,11 @@
+<p class="p-i fs-xl title-gap-b"><b class="p-b-i"> {{ aggregatedTitle }} </b></p>
+<div *ngIf="aggreatedAlbums !== null" class="list gap-xl">
+    <app-album-detail
+            *ngFor="let album of aggreatedAlbums.albums; index as i"
+            [album]="album"
+            [index]="i+1"
+    ></app-album-detail>
+</div>
+<div *ngIf="aggregatedTitle === null">
+    <p> Something went wrong! </p>
+</div>

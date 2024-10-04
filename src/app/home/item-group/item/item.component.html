@@ -10,7 +10,8 @@
             <img class="preview-img img-3" [src]="item.preview[3]">
         </div>
 
-        <span *ngIf="isAoty"><span class="fs-xl p-b">{{ item.year }}</span></span>
-        <span *ngIf="!isAoty"><span class="fs-xl p-b">{{ fridayOfTheWeek }}</span> (week #{{ item.week }})</span>
+        <span *ngIf="isAoty === 'AOTY'"><span class="fs-xl p-b">{{ item.year }}</span></span>
+        <span *ngIf="isAoty === 'SOTW'"><span class="fs-xl p-b">{{ fridayOfTheWeek }}</span> (week #{{ item.week }})</span>
+        <span *ngIf="isAoty === 'LIST'"><span class="fs-xl p-b">{{ text | lowercase }}</span></span>
     </a>
 </div>

@@ -12,6 +12,7 @@
                 {{ album.title | removeDeluxe }}
             </a>
             <app-play-button
+                    *ngIf="album.songs"
                     [url]="songinfo"
                     [isPlaying]="isPlaying"
             ></app-play-button>

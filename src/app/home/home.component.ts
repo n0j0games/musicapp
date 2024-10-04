@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {NgForOf} from "@angular/common";
+import {NgForOf, NgIf} from "@angular/common";
 import {RouterLink} from "@angular/router";
 import {SotwService} from "../services/sotw.service";
 import {SotwList} from "../models/sotw-list";
@@ -17,7 +17,8 @@ import {AotyItem} from "../models/aoty-item";
     NgForOf,
     RouterLink,
     ItemComponent,
-    ItemGroupComponent
+    ItemGroupComponent,
+    NgIf
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
@@ -37,7 +38,6 @@ export class HomeComponent implements OnInit {
 
   private setSotyList() {
     let sotwList : SotwList | null = this.sotwService.getSotwList();
-    console.log(sotwList)
     if (sotwList === null || sotwList.items === undefined) {
       console.error("SotwList was undefined, try to wait for list change")
       this.sotwService.sotwListChanged$.subscribe({
@@ -47,12 +47,11 @@ export class HomeComponent implements OnInit {
             sotwList.items = sotwList.items.sort((a, b) => b.week - a.week);
           }
         },
-        error: (e) => console.log(e)
+        error: (e) => console.error(e)
       })
       return;
     }
     sotwList.items = sotwList.items.sort((a, b) => b.week - a.week);
-    console.log(sotwList.items);
     if (sotwList.years === undefined) {
       console.error("Years was undefined");
       return;
@@ -68,7 +67,6 @@ export class HomeComponent implements OnInit {
       }
       this.sotwListsGroupedByYear.push({ items: items, decade : null });
     }
-    console.log(this.sotwListsGroupedByYear);
     this.sotwListsGroupedByYear.sort((a, b) => b.items[0].year - a.items[0].year);
 
   }
@@ -84,7 +82,7 @@ export class HomeComponent implements OnInit {
             aotyList.items = aotyList.items.sort((a, b) => b.year - a.year);
           }
         },
-        error: (e) => console.log(e)
+        error: (e) => console.error(e)
       })
       return;
     }
@@ -110,4 +108,5 @@ export class HomeComponent implements OnInit {
     this.aotyListsGroupedByDecade.sort((a, b) => b.decade - a.decade);
   }
 
+  protected readonly AotyItem = AotyItem;
 }
