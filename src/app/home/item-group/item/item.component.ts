@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {LowerCasePipe, NgForOf, NgIf} from "@angular/common";
+import {LowerCasePipe, NgClass, NgForOf, NgIf} from "@angular/common";
 import {RouterLink} from "@angular/router";
 import {WeekHelper} from "../../../common/week-helper";
 
@@ -10,7 +10,8 @@ import {WeekHelper} from "../../../common/week-helper";
     NgForOf,
     RouterLink,
     NgIf,
-    LowerCasePipe
+    LowerCasePipe,
+    NgClass
   ],
   templateUrl: './item.component.html',
   styleUrl: './item.component.scss'
@@ -21,13 +22,16 @@ export class ItemComponent implements OnInit {
   @Input() isAoty! : string;
   @Input() queryParam! : string;
   @Input() text! : string;
+  @Input() isDecade : boolean = false;
   routerLink : string[] = [];
 
   fridayOfTheWeek! : string;
   weekHelper = new WeekHelper();
 
   ngOnInit() {
-    if (this.isAoty === "AOTY") {
+    if (this.isDecade) {
+      this.routerLink = ['/aoty-decade', this.item.year.toString()];
+    } else if (this.isAoty === "AOTY") {
       this.routerLink = ['/aoty', this.item.year.toString()];
     } else if (this.isAoty === "SOTW") {
       this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);

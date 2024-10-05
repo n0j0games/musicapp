@@ -8,6 +8,16 @@
                     [decade]="list.decade"
                     [isAoty]="'AOTY'"
             ></app-item-group>
+            <div class="list gap-l">
+                <app-item
+                        *ngFor="let item of aotyListsWithoutDecade"
+                        [item]="item"
+                        [isAoty]="'AOTY'"
+                        [queryParam]="''"
+                        [text]="''"
+                        [isDecade]="true"
+                ></app-item>
+            </div>
         </div>
     </div>
     <div class="flex-column gap-xl">

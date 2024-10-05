@@ -1,4 +1,4 @@
-<div class="highlight-card">
+<div [ngClass]="{ 'highlight-card' : !isDecade, 'outer-highlight-card' : isDecade }">
     <a
             class="flex-column gap-s align-center"
             [routerLink]="routerLink"
@@ -10,7 +10,7 @@
             <img class="preview-img img-3" [src]="item.preview[3]">
         </div>
 
-        <span *ngIf="isAoty === 'AOTY'"><span class="fs-xl p-b">{{ item.year }}</span></span>
+        <span *ngIf="isAoty === 'AOTY'"><span class="fs-xl p-b">{{ item.year }}<span *ngIf="isDecade">s</span></span></span>
         <span *ngIf="isAoty === 'SOTW'"><span class="fs-xl p-b">{{ fridayOfTheWeek }}</span> (week #{{ item.week }})</span>
         <span *ngIf="isAoty === 'LIST'"><span class="fs-xl p-b">{{ text | lowercase }}</span></span>
     </a>

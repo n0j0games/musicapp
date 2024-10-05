@@ -26,6 +26,7 @@ import {AotyItem} from "../models/aoty-item";
 export class HomeComponent implements OnInit {
 
   aotyListsGroupedByDecade! : {items : { year : number, week? : number, preview? : string[] }[], decade : number }[];
+  aotyListsWithoutDecade!: { year : number, week? : number, preview? : string[] }[];
   sotwListsGroupedByYear! : {items : { year : number, week? : number, preview? : string[] }[], decade : null }[];
 
   constructor(private sotwService: SotwService,
@@ -93,6 +94,7 @@ export class HomeComponent implements OnInit {
       return;
     }
     this.aotyListsGroupedByDecade = [];
+    this.aotyListsWithoutDecade = [];
     for (const decade of aotyList.decades) {
       const items : { year : number, decade? : number, preview? : string[] }[] = [];
       for (const item of aotyList.items) {
@@ -105,6 +107,14 @@ export class HomeComponent implements OnInit {
       });
       this.aotyListsGroupedByDecade.push({ items: t, decade: decade });
     }
+    for (const decade of [1980, 1990, 2000]) {
+      for (const item of aotyList.items) {
+        if (item.year === decade) {
+          this.aotyListsWithoutDecade.push(item);
+        }
+      }
+    }
+    this.aotyListsWithoutDecade.sort((a, b) => b.year - a.year);
     this.aotyListsGroupedByDecade.sort((a, b) => b.decade - a.decade);
   }
 
