@@ -1,0 +1,374 @@
+{
+  "year" : 1970,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+      "title": "Songs In The Key Of Life",
+      "artist": "Stevie Wonder",
+      "songs": [
+        {
+          "title": "As",
+          "preview_url": "https://p.scdn.co/mp3-preview/61c2cd8a2a552a5c528e9eff51a5b3e2307a9b03?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love's In Need Of Love Today",
+          "preview_url": "https://p.scdn.co/mp3-preview/45ee0d7b747a76a6fa2fcbf9986795a028b966b0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sir Duke",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ae5258492617cf3d463b717e8a28fc59243f449?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pastime Paradise",
+          "preview_url": "https://p.scdn.co/mp3-preview/374a37b9af39daffbd761e3f3e3885c41b134e72?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Summer Soft",
+          "preview_url": "https://p.scdn.co/mp3-preview/88ec6025530499601d247848bf0f17e5c984bfed?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ordinary Pain",
+          "preview_url": "https://p.scdn.co/mp3-preview/b1dc34e75c85392a8b3c42b02b90d9e86a662e1b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 11.5
+    },
+    {
+      "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5",
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "songs": [
+        {
+          "title": "Shine On You Crazy Diamond, Pts. 1-5",
+          "preview_url": "https://p.scdn.co/mp3-preview/f925c229e66eda912e2e3642ba41c05467c06ced?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Welcome To The Machine",
+          "preview_url": "https://p.scdn.co/mp3-preview/10ae1852de8d587d099adb01ee278a8558258509?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Have A Cigar",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2d907c5811945feebb0af34af5ee16bbdf93d19?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wish You Were Here",
+          "preview_url": "https://p.scdn.co/mp3-preview/5bb42b139a36eb17690ab2be1e38aead047aed88?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Shine On You Crazy Diamond, Pts. 6-9",
+          "preview_url": "https://p.scdn.co/mp3-preview/5607c92e2b207b496b94d5b8fc25a8bce087c8ee?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 11.8
+    },
+    {
+      "url": "https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273583e3a677882a4a4e7115234",
+      "title": "華麗なるエレクトーン -ザ・ワード-",
+      "artist": "セキトオ・シゲオ",
+      "songs": [
+        {
+          "title": "ザ・ワード II",
+          "preview_url": "https://p.scdn.co/mp3-preview/96513671a4672573b8a205f03fa5be4c73e75c98?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "カーリーとキャロル",
+          "preview_url": "https://p.scdn.co/mp3-preview/34d7eb1a676ce63ebad8d921f7f711f79c83bcaa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ハピネス",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5f2dc2b2834617f8167fe39c9709e07031f4880?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "マスカレード",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa4e9d546eff0493221747fcf7b8f6099f20e441?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "あまい囁き",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ecb327dcb43195670a045d4eba2ee3490ae8a95?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.6
+    },
+    {
+      "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d3709135d1005baa36939d80",
+      "title": "The Dark Side Of The Moon",
+      "artist": "Pink Floyd",
+      "songs": [
+        {
+          "title": "Breathe (In The Air)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9156e8780caf5e5f3b48bed60c157f5d6c10a617?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/b3e06c3ba9a2aa49c0139f176121d519b09af06f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Great Gig In The Sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/9702913a355455dc36a7ae610ec5d52fbaed2edf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Money",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e826a99462623bcf7cd4de3867b06dba96317d7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Brain Damage",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a9634ea1f076f29dd1e4def7d7607e7a495cdd7?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.1
+    },
+    {
+      "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f34e8811de255b34c56301d8",
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "songs": [
+        {
+          "title": "In The Flesh?",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba486339cd0ee0366586bcf22ee7af5b4bd521ce?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Happiest Days Of Our Lives",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a7e525d2393bbc92f8ee85f3767d211a01d07d1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Another Brick In The Wall, Pt. 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/d22d0354d04e42472f6176bcc2921470b97c0ba6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mother",
+          "preview_url": "https://p.scdn.co/mp3-preview/53d1c3872cfb0164431804021422e6152cfdb171?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Comfortably Numb",
+          "preview_url": "https://p.scdn.co/mp3-preview/afda6c94f7bfc03586a7294f438b7f2d9c24e8eb?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273648478cb25e3e302454e40e1",
+      "title": "CASIOPEA",
+      "artist": "CASIOPEA",
+      "songs": [
+        {
+          "title": "タイム・リミット",
+          "preview_url": "https://p.scdn.co/mp3-preview/d65fd132336688f0226f7b4a0472919ca816f2ed?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "スペース・ロード",
+          "preview_url": "https://p.scdn.co/mp3-preview/bba63c2182039da927dcb47f207f4b9e495c68ec?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ミッドナイト・ランデブー",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb6ac3a27f27646f962eceb74892bb5253ab709c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ドリーム・ヒル",
+          "preview_url": "https://p.scdn.co/mp3-preview/d54b88c3d3e02ecf2413a4997ebe0ab7137df703?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ブラック・ジョーク",
+          "preview_url": "https://p.scdn.co/mp3-preview/246b5e2698dd8eeca725161e7a2cfa19bb50197c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc",
+      "title": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "songs": [
+        {
+          "title": "Stairway to Heaven",
+          "preview_url": "https://p.scdn.co/mp3-preview/337c8d45ac66899bc2db9ef3ed9438fe1d035ab1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Black Dog",
+          "preview_url": "https://p.scdn.co/mp3-preview/78dd352fdbe8d2a867b72c5a71ac44ef6a462ab4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Battle of Evermore",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0788d6235c4369429f6750423b1855538233bc8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Misty Mountain Hop",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef9ccd8243d3a9ac8c56dfd9a68d57376d9633d6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "When the Levee Breaks",
+          "preview_url": "https://p.scdn.co/mp3-preview/08cec620bb95e6bd6268825030570f1863430be1?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/5EVlXlHbRQI8ybuNt4ArXI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a2507ac7f34640ac11b3f31b",
+      "title": "After the Gold Rush",
+      "artist": "Neil Young",
+      "songs": [
+        {
+          "title": "After the Gold Rush",
+          "preview_url": "https://p.scdn.co/mp3-preview/154421cd5fcbcb93588032af7eaa94608558edbf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tell Me Why",
+          "preview_url": "https://p.scdn.co/mp3-preview/292d78a12312c6218ba84e9eb8059f7e632efc62?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Only Love Can Break Your Heart",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a4c1d3ba81c69cf3e036691226d31f5cd121198?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Southern Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/b2e8c3d36763c82470de25efcb074b3762903d24?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Oh, Lonesome Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/b004f4f63e0165964ffa0ae5365201a5a517db43?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739ebeeac476ae13d7fd59cc1a",
+      "title": "Oxygène",
+      "artist": "Jean-Michel Jarre",
+      "songs": [
+        {
+          "title": "Oxygène, Pt. 1",
+          "preview_url": "https://p.scdn.co/mp3-preview/8405242374be52b736c9efe9f8c28c7c331bf63d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Oxygène, Pt. 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/a5148318145d97f0c37db25bff2a6a510d4c09f5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Oxygène, Pt. 4",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc5ae7d35f8e2238a99ca27ff127d25b615f1f48?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Oxygène, Pt. 5",
+          "preview_url": "https://p.scdn.co/mp3-preview/0819087f1b87e614a81c17a3ae4e30610cd7dffe?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "songs": [
+        {
+          "title": "Hotel California",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fedc11d0f55bef176cc1c5725ac1c57f9a2534a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Kid in Town",
+          "preview_url": "https://p.scdn.co/mp3-preview/c79b47992c98441ab7221c3151917fc930dba159?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wasted Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/f51e79496d78321a86273ceaf4254f4fa84df30e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wasted Time (Reprise)",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd6c3d856077e9c7c4cc32b0ffa287635201bcf0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Victim of Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/cff1365e523606525790dbcda0f7a26f0bdf999f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+      "title": "Arrival",
+      "artist": "ABBA",
+      "songs": [
+        {
+          "title": "When I Kissed The Teacher",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba890e11b7b8733c1c3bd87a09fb11a24f19a406?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dancing Queen",
+          "preview_url": "https://p.scdn.co/mp3-preview/1116076e3d1538852d6605ada1fd7130c8fc75a5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Money, Money, Money",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b4dc77fd89d72cfd0904ccaff3da3aaedcdc4a9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fernando",
+          "preview_url": "https://p.scdn.co/mp3-preview/403a642e6431f0540aa0afdc28736cda36858a2b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f6e013384bb28789fd5af8ea",
+      "title": "Horses",
+      "artist": "Patti Smith",
+      "songs": [
+        {
+          "title": "Gloria: In Excelsis Deo",
+          "preview_url": "https://p.scdn.co/mp3-preview/5aa8f640426bfdc74adf38ab20209e5dd4383843?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Redondo Beach",
+          "preview_url": "https://p.scdn.co/mp3-preview/4da995c0cd9ba1af40dd38b88702da76a6473211?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Birdland",
+          "preview_url": "https://p.scdn.co/mp3-preview/21d216579bba05f684f8a572ba7287fd62c933de?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7fd5a686f39ab813e47ded7aeb98a5e5ca2ae735?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/7LGVdC9fFwgWYaIrZwsSv6",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739f0a9474c47a841c6f03e990",
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "songs": [
+        {
+          "title": "War Pigs / Luke's Wall (2012 Remaster)",
+          "preview_url": "https://p.scdn.co/mp3-preview/085f5b91697f35b2ba20fd8977d72f481cea3de3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Paranoid (2012 Remaster)",
+          "preview_url": "https://p.scdn.co/mp3-preview/40f6a93d8c66dd084c022f245e715f778c69ac0c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Iron Man (2012 Remaster)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a102e2828616aa9df72e96c21a12cb7e20c3f940?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hand of Doom (2012 Remaster)",
+          "preview_url": "https://p.scdn.co/mp3-preview/43cba93510f10bb0ac014c29fb6744ce34443cde?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jack the Stripper / Fairies Wear Boots (2012 Remaster)",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe424f680a49f40b229820bd2fcb24a3004175ae?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    }
+  ]
+}
