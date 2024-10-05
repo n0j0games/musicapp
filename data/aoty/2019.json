@@ -452,6 +452,20 @@
         }
       ],
       "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
+      "title": "JESUS IS KING",
+      "artist": "Kanye West",
+      "rating": 5.5
+    },
+    {
+      "url": "https://www.albumoftheyear.org/album/165954-kanye-west-yandhi.php",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Yandhi_Cover_Art_%28Free_License%29.jpg/1200px-Yandhi_Cover_Art_%28Free_License%29.jpg",
+      "title": "Yandhi",
+      "artist": "Kanye West",
+      "rating": 8.5
     }
   ]
 }

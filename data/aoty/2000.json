@@ -1,0 +1,602 @@
+{
+  "year" : 2000,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+      "title": "In Rainbows",
+      "artist": "Radiohead",
+      "songs": [
+        {
+          "title": "15 Step",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc4c0d544de2c85b4af5e44a0fbad41cba9b8bae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bodysnatchers",
+          "preview_url": "https://p.scdn.co/mp3-preview/896ec41377dea381b072867aa0c3a82492a08ea8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nude",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc4c85406a8e9019bd3b1ee29c50156ce90659f2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Weird Fishes/ Arpeggi",
+          "preview_url": "https://p.scdn.co/mp3-preview/84d22bb712ca5a5cc6d7f82ef097977e6b6d63e0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Reckoner",
+          "preview_url": "https://p.scdn.co/mp3-preview/b96dbc431830c75665f150959a628cebff536158?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jigsaw Falling Into Place",
+          "preview_url": "https://p.scdn.co/mp3-preview/20658b82bd25e6c1c5769a73e30cffdb0469dd58?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 11.8
+    },
+    {
+      "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+      "title": "The College Dropout",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "All Falls Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e7b45a12d4b010d5ebae0ee4fab1ee5935bf881?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jesus Walks",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba6999a405a0c08e200961ccb0933abf35480d51?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Two Words",
+          "preview_url": "https://p.scdn.co/mp3-preview/36f6869412de1d63ae86ce51390d210b5a43e58d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Through The Wire",
+          "preview_url": "https://p.scdn.co/mp3-preview/7594dbfb487ea3c72fa9b8aff94c99c1b6b8f00d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Family Business",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e7c3cece7c9ee0d47c381cde116f93c0b1aea99?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.2
+    },
+    {
+      "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4",
+      "title": "Discovery",
+      "artist": "Daft Punk",
+      "songs": [
+        {
+          "title": "One More Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e7d7e1faefc00e347d0a1c958d4b7f52baa3a44?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Aerodynamic",
+          "preview_url": "https://p.scdn.co/mp3-preview/084468bc8b4d33ece2742182d92ef780a8188daa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Crescendolls",
+          "preview_url": "https://p.scdn.co/mp3-preview/9fa487146712b9c4f737dfcb7c9c0197c525c693?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Veridis Quo",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ce7b8a64cb0f8a87e6822e78ae825ecd3a9ec71?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Face to Face",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e1ac914d240a6b0c3e0b53febdbe3f1267f53af?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.8
+    },
+    {
+      "url": "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273673288fb985e5c194536ae27",
+      "title": "Alive 2007",
+      "artist": "Daft Punk",
+      "songs": [
+        {
+          "title": "Touch It / Technologic",
+          "preview_url": "https://p.scdn.co/mp3-preview/51a679acd23198fdd384673a0a4ecb3fb2f91b72?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Television Rules the Nation / Crescendolls",
+          "preview_url": "https://p.scdn.co/mp3-preview/e47dee8b61abf31d2684394e40822b5f1e03f720?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Around the World / Harder, Better, Faster, Stronger",
+          "preview_url": "https://p.scdn.co/mp3-preview/90dfa23c87d23522605d1b7f5fb5b1959a7cfeba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "One More Time / Aerodynamic",
+          "preview_url": "https://p.scdn.co/mp3-preview/e71d0fb524c3a7bd63031c94f3ed5c78dc5c7c24?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Aerodynamic Beats / Gabrielle , Forget About the World",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ac1b8f7cd554e909810bf7fb7801a67c844a67f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.5
+    },
+    {
+      "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+      "title": "Late Registration",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "Touch The Sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/54c76f007627e10c3add835e916ad643819408d2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Gold Digger",
+          "preview_url": "https://p.scdn.co/mp3-preview/c07d8315fb8fc3a820a312e29961c96a2e7d7229?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Roses",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a5724beaab026b49377d065f36b59a48873ab99?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Diamonds From Sierra Leone",
+          "preview_url": "https://p.scdn.co/mp3-preview/680467d51624feac34c4fc4a24ba1071fb92bbef?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hey Mama",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c58b393f5118beeccbd64f49f9db1f2c5d124a4?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+      "title": "Demon Days",
+      "artist": "Gorillaz",
+      "songs": [
+        {
+          "title": "O Green World",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf8e11b021760f908bca9b36c4bce43eb5ea4cf4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Feel Good Inc.",
+          "preview_url": "https://p.scdn.co/mp3-preview/b13a1bb2d8a04132982a49b6efee933cc9d67c7e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Every Planet We Reach Is Dead",
+          "preview_url": "https://p.scdn.co/mp3-preview/2faca2c2722adc8b2f54436566f0b940005fcbe7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "November Has Come",
+          "preview_url": "https://p.scdn.co/mp3-preview/db4bd6c8eed902e18411d63a4bf05b841f228deb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DARE",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb02aea39283e35a92f0ce79b67788b6b1e5ed51?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.9
+    },
+    {
+      "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a",
+      "title": "Madvillainy",
+      "artist": "Madvillain,\nMadlib,\nMF DOOM",
+      "songs": [
+        {
+          "title": "Accordion",
+          "preview_url": "https://p.scdn.co/mp3-preview/7103a45929d32e01aa879efbcb5e037fafdcc0b2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Meat Grinder",
+          "preview_url": "https://p.scdn.co/mp3-preview/05ae1c3f5b95fe9174f89c9b3b9d967d3c2e80f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Figaro",
+          "preview_url": "https://p.scdn.co/mp3-preview/77cb0964e42584d299bbbc2894502b44f09499c9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fancy Clown",
+          "preview_url": "https://p.scdn.co/mp3-preview/075060433e9b4f3308156557fb4c18658ad597a9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "All Caps",
+          "preview_url": "https://p.scdn.co/mp3-preview/20b7649ef7daa77fa4eac4c36dc60ac5b6df1e3b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.2
+    },
+    {
+      "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730791c8a2dc44008c52b4883a",
+      "title": "Lift Your Skinny Fists Like Antennas to Heaven",
+      "artist": "Godspeed You! Black Emperor",
+      "songs": [
+        {
+          "title": "Storm",
+          "preview_url": "https://p.scdn.co/mp3-preview/9eab40bd7cfaf3613afe3dda7779b884843a36bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Static",
+          "preview_url": "https://p.scdn.co/mp3-preview/f80d73ffb1f9f2af70a7e90ad8326759ee0b9e85?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sleep",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a5b65d9295199e68411ac7f16144f4da163cf6d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Like Antennas To Heaven…",
+          "preview_url": "https://p.scdn.co/mp3-preview/948c2672c53ed5ef986a2c691eec9a4dba0bb327?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.7
+    },
+    {
+      "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+      "title": "Kid A",
+      "artist": "Radiohead",
+      "songs": [
+        {
+          "title": "Everything In Its Right Place",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6d2556bf783e481173a71c460fa113832295519?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The National Anthem",
+          "preview_url": "https://p.scdn.co/mp3-preview/02436a05ae73fb738815f61531b02d798a571d10?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "How to Disappear Completely",
+          "preview_url": "https://p.scdn.co/mp3-preview/7236209a1042a9508b66d02bd18deed9bfd4bb99?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Optimistic",
+          "preview_url": "https://p.scdn.co/mp3-preview/d61babc8d6438518e060c76fe809acf706538e05?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Motion Picture Soundtrack",
+          "preview_url": "https://p.scdn.co/mp3-preview/5164bb66addd0c983fa60e70bf1228ea99f57280?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.7
+    },
+    {
+      "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+      "title": "The Fame Monster (Deluxe Edition)",
+      "artist": "Lady Gaga",
+      "songs": [
+        {
+          "title": "Bad Romance",
+          "preview_url": "https://p.scdn.co/mp3-preview/a58b8677ea3858185308224d36808920e587cec5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Alejandro",
+          "preview_url": "https://p.scdn.co/mp3-preview/43daff8bc053a1805a17c91869cb8b5686f84342?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Telephone",
+          "preview_url": "https://p.scdn.co/mp3-preview/4817670122ae479bba81a1959aae2fe79d57f34d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Paparazzi",
+          "preview_url": "https://p.scdn.co/mp3-preview/769475c6a0156d8458fa41b1110860d8ff41a3cf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Poker Face",
+          "preview_url": "https://p.scdn.co/mp3-preview/36abf77572983417d63a3aed8923d00e07167efa?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/1OnCqi7IuzjnrOh2ZNvJHd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27379f39680d0a747ccd91520ec",
+      "title": "Man On The Moon: The End Of Day",
+      "artist": "Kid Cudi",
+      "songs": [
+        {
+          "title": "Soundtrack 2 My Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/009d7d1e401890b25d2974fd588d187decb6c8ac?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Day 'N' Nite",
+          "preview_url": "https://p.scdn.co/mp3-preview/d92a8f8f6494ee81694bd7b93a8651241f8a461c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sky Might Fall",
+          "preview_url": "https://p.scdn.co/mp3-preview/29ed6c6bd1ad9f31888692d9c48dd63b00f0be28?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Make Her Say",
+          "preview_url": "https://p.scdn.co/mp3-preview/8b71038436accc01f59589e07138943b2fa9be3e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pursuit Of Happiness",
+          "preview_url": "https://p.scdn.co/mp3-preview/a82f2a544eeedafe4c9295517aac26d777db9f7e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    },
+    {
+      "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+      "title": "808s & Heartbreak",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "Say You Will",
+          "preview_url": "https://p.scdn.co/mp3-preview/45685cc1fd0cad771829572d56b3332e3a73d6aa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Heartless",
+          "preview_url": "https://p.scdn.co/mp3-preview/920b09535e94d18179265783aeb8b3ccb2495977?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love Lockdown",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab539aa695bb9847abcd931c9d10bcf82ac1903f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "See You In My Nightmares",
+          "preview_url": "https://p.scdn.co/mp3-preview/c18c069a2887a79a531cc7a3acb793a6e512f2dc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Coldest Winter",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b8c3a5566f1909c80cb382be929103c37d1a798?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739061a4e47413aff8f58a3c9c",
+      "title": "Stadtaffe",
+      "artist": "Peter Fox",
+      "songs": [
+        {
+          "title": "Alles neu",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d709a7f2277673e735e576700be832ccea49d3c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Schwarz zu blau",
+          "preview_url": "https://p.scdn.co/mp3-preview/159fface44eb38273a8808b244c714efc6a4d129?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Haus am See",
+          "preview_url": "https://p.scdn.co/mp3-preview/809efc192705747c69d3488b8d4d9b31e45d5184?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kopf verloren",
+          "preview_url": "https://p.scdn.co/mp3-preview/5266332aac58fdc08201ea0f75895ead4d4e477e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Der letzte Tag",
+          "preview_url": "https://p.scdn.co/mp3-preview/28e538286c7fda59ff51ac16db07f7d5ee87970f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    },
+    {
+      "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ad7f95966b473742cd323de8",
+      "title": "Untrue",
+      "artist": "Burial",
+      "songs": [
+        {
+          "title": "Archangel",
+          "preview_url": "https://p.scdn.co/mp3-preview/581e1925b44fc12e920b94bb49d6cabe58c69434?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Near Dark",
+          "preview_url": "https://p.scdn.co/mp3-preview/ca94140558cee032b641277a1c02099afca18684?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ghost Hardware",
+          "preview_url": "https://p.scdn.co/mp3-preview/b928905dcbfe086aa5e4fa9915193571a9d8e67c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Endorphin",
+          "preview_url": "https://p.scdn.co/mp3-preview/738d0ede4b533a43ed8fcbbb4cb1cd95908ba582?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In McDonalds",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa93548416ef25c39d81aa6f705581d9a2b85d45?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+      "title": "Graduation",
+      "artist": "Kanye West",
+      "songs": [
+        {
+          "title": "Stronger",
+          "preview_url": "https://p.scdn.co/mp3-preview/998124b19664ac7c039651111eda40e8ed4d4292?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Wonder",
+          "preview_url": "https://p.scdn.co/mp3-preview/22169e0212f8e77e0bb753c4d5cf1befae619997?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Can't Tell Me Nothing",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf50de84fcb3c57394d204fa060fb7fbe0f93a33?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Flashing Lights",
+          "preview_url": "https://p.scdn.co/mp3-preview/fbd46f2d5b764a86a8e883530054fb346d4c2d07?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Homecoming",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7f9626c0fc7e67ef2bdc3ca1655cdfe723878c0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.7
+    },
+    {
+      "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+      "title": "Franz Ferdinand",
+      "artist": "Franz Ferdinand",
+      "songs": [
+        {
+          "title": "Jacqueline",
+          "preview_url": "https://p.scdn.co/mp3-preview/7fa71ad0af78c679759ed6779d02b9d4bd4affbd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tell Her Tonight",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a4bfd827c6475d976a22a70e07f6693c225c694?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Take Me Out",
+          "preview_url": "https://p.scdn.co/mp3-preview/f91cfdf3dd5f7114cf47f8c8b2567b7a8a76d9ed?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Dark Of The Matinée",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9f3fe60ac2e63807f3233bacf0298d6578d2efd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Auf Achse",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ae1458e16ed9fb25783c4ebe091b850ec8137e3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+      "title": "The Eminem Show",
+      "artist": "Eminem",
+      "songs": [
+        {
+          "title": "White America",
+          "preview_url": "https://p.scdn.co/mp3-preview/c509ff262ac357e7bf2b214ce4b9df6412093085?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cleanin' Out My Closet",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccfd4b1431ecb301db1ba7f51f47c52c200c391e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Without Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/35fc7456c892c11867fe1513b92dc44e9664eaba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sing For The Moment",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c2218eb50111c78745e5de8793c39722e9c87a1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Till I Collapse",
+          "preview_url": "https://p.scdn.co/mp3-preview/646f0a143151af01930625aaf902b3687ff1be52?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7",
+      "title": "Amnesiac",
+      "artist": "Radiohead",
+      "songs": [
+        {
+          "title": "Pyramid Song",
+          "preview_url": "https://p.scdn.co/mp3-preview/2fd8d104a08e3a87e71f86791559ce692ce30192?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Might Be Wrong",
+          "preview_url": "https://p.scdn.co/mp3-preview/43cb5211bf6c01a31e78446c4803b14a2d9ff543?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Knives Out",
+          "preview_url": "https://p.scdn.co/mp3-preview/a00f95733a441d512a44e05e84b15b9ac39be312?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Morning Bell/Amnesiac",
+          "preview_url": "https://p.scdn.co/mp3-preview/d8e3122740c5b191c4546a8b37570f92968637c1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hunting Bears",
+          "preview_url": "https://p.scdn.co/mp3-preview/406328bfa4d9b1f10d130628732bbf9c0064b8fd?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732ed719bad67261c7bf090c70",
+      "title": "Human After All",
+      "artist": "Daft Punk",
+      "songs": [
+        {
+          "title": "Human After All",
+          "preview_url": "https://p.scdn.co/mp3-preview/c4640d45ffd9f45875df3ddfc360f5d6cfc33430?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Robot Rock",
+          "preview_url": "https://p.scdn.co/mp3-preview/b2c4b594e86720ca71c59d6f2681a43c38b3fd06?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Television Rules the Nation",
+          "preview_url": "https://p.scdn.co/mp3-preview/14656ff6f43fe87d31a293024f1bb25922e67596?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Technologic",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e68f73933a203aec3e11fb5df3898d70f98d68a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.7
+    },
+    {
+      "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "title": "Get Rich Or Die Tryin'",
+      "artist": "50 Cent",
+      "songs": [
+        {
+          "title": "Many Men (Wish Death)",
+          "preview_url": "https://p.scdn.co/mp3-preview/bae8733e3107658ebd55cf13f090091db1697a5c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In Da Club",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0199e9be373d6a82ae89071ae34dd38ec72b99c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "If I Can't",
+          "preview_url": "https://p.scdn.co/mp3-preview/9974603ecf55be625f12853257924ca3ba6b6e0d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lifes On The Line",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee027d3c8918ba9fdb99b24379da1ffef8596c70?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730d934cb462fae5a26f829efb",
+      "title": "Mama's Gun",
+      "artist": "Erykah Badu",
+      "songs": [
+        {
+          "title": "Penitentiary Philosophy",
+          "preview_url": "https://p.scdn.co/mp3-preview/7f7d186102ddbbe02a84a3a81703be0560926ae8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Didn't Cha Know",
+          "preview_url": "https://p.scdn.co/mp3-preview/9cd0b1196f10bca6d1d5659aa23de87f6beee0c8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "...& On",
+          "preview_url": "https://p.scdn.co/mp3-preview/e3fa3d95981da444d16133522ccd72a91d281b95?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Green Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/fd60dd1056d5074651630f888cfb56599bf569cc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    }
+  ]
+}
