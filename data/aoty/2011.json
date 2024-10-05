@@ -220,6 +220,13 @@
         }
       ],
       "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/5nozPsVrPay3O2qGOd1pZg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273619b3ed81cc266693f170c7c",
+      "title": "Goblin",
+      "artist": "Tyler, The Creator",
+      "rating": 3.0
     }
   ]
 }

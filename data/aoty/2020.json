@@ -629,6 +629,35 @@
       "title": "JESUS IS KING II",
       "artist": "Kanye West, Dr. Dre",
       "rating": 5.6
+    },
+    {
+      "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e0eb48bfaef0253e2777e8de",
+      "title": "how i'm feeling now",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "pink diamond",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e5a356bc7045508102b0de97f2715b736074add?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "forever",
+          "preview_url": "https://p.scdn.co/mp3-preview/d5aa76e2e2aaa4163b119ca43a306becb68a690a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "7 years",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b2e1591213762cc124e0801f12312f8eb8bbd69?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "enemy",
+          "preview_url": "https://p.scdn.co/mp3-preview/36071eb71b63a851c038ea52bd6471436e681aa3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "visions",
+          "preview_url": "https://p.scdn.co/mp3-preview/87d15294777fa531b1fe2427883fa1544d5d67a3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
     }
   ]
 }

@@ -104,6 +104,31 @@
         }
       ],
       "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815",
+      "title": "Man On The Moon II: The Legend Of Mr. Rager",
+      "artist": "Kid Cudi",
+      "songs": [
+        {
+          "title": "Marijuana",
+          "preview_url": "https://p.scdn.co/mp3-preview/e01b78aa6a389b769ec1c6b47b2d90b180080c16?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mojo So Dope",
+          "preview_url": "https://p.scdn.co/mp3-preview/a64473e45ed431a6d169298c9cf6612de67b7e74?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Erase Me - Main",
+          "preview_url": "https://p.scdn.co/mp3-preview/152877a45dd39a9580111820b1ab77ca1366fa10?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mr. Rager",
+          "preview_url": "https://p.scdn.co/mp3-preview/21c5dadaac59d15678d450f3ca825e7a34c6bd59?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.5
     }
   ]
 }

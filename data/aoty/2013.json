@@ -202,6 +202,35 @@
       "title": "Owl Pharaoh",
       "artist": "Travis Scott",
       "rating": 6.9
+    },
+    {
+      "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27322007a4aa8a55fe7b1de5632",
+      "title": "Wolf",
+      "artist": "Tyler, The Creator",
+      "songs": [
+        {
+          "title": "WOLF",
+          "preview_url": "https://p.scdn.co/mp3-preview/88be0902bf7d01076f0a33cdce56ee8975c0d533?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Answer",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b3bc1d5766d139a2e259b1f72234d6f9088d439?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Colossus",
+          "preview_url": "https://p.scdn.co/mp3-preview/c17829c646671e3d21a6b5c3e97f01e95c4c98fc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "IFHY (feat. Pharrell)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e3d740466b099017dbd2523f6d9c787dc115bcf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tamale",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd7ecee411cbbf43d635a0cf10d7e0e5b09b7e3b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
     }
   ]
 }
