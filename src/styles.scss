@@ -28,6 +28,11 @@
   src: url(assets/font/PlusJakartaSans-MediumItalic.ttf) format("truetype");
 }
 
+@font-face {
+  font-family: Noto Sans JP;
+  src: url(assets/font/NotoSansJP-VariableFont_wght.ttf) format("truetype");
+}
+
 $accent-color: #00995E;
 $primary-color: white;
 $secondary-color: #fd6197;
@@ -45,7 +50,7 @@ p {
 }
 
 p, a {
-  font-family: "Plus Jakarta Sans Medium", serif;
+  font-family: "Plus Jakarta Sans Medium", "Noto Sans JP", serif;
   font-size: 14px;
   margin: 0;
   text-align: center;
@@ -75,23 +80,23 @@ i:hover {
 }
 
 .p-b {
-  font-family: "Plus Jakarta Sans Bold", serif;
+  font-family: "Plus Jakarta Sans Bold", "Noto Sans JP", serif;
 }
 
 .p-b-i {
-  font-family: "Plus Jakarta Sans Bold Italic", serif;
+  font-family: "Plus Jakarta Sans Bold Italic", "Noto Sans JP", serif;
 }
 
 .p-i {
-  font-family: "Plus Jakarta Sans Medium Italic", serif;
+  font-family: "Plus Jakarta Sans Medium Italic", "Noto Sans JP", serif;
 }
 
 .p-l {
-  font-family: "Plus Jakarta Sans Light", serif;
+  font-family: "Plus Jakarta Sans Light", "Noto Sans JP", serif;
 }
 
 .p-l-i {
-  font-family: "Plus Jakarta Sans Light Italic", serif;
+  font-family: "Plus Jakarta Sans Light Italic", "Noto Sans JP", serif;
 }
 
 body {

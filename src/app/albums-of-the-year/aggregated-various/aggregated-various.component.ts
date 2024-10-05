@@ -62,7 +62,7 @@ export class AggregatedVariousComponent implements OnInit {
         this.getArtistAlbums("Beyoncé", 2000);
         break;
       default:
-        this.getArtistAlbums(aggregation.replaceAll("-"," "), 1980);
+        this.getArtistAlbums(aggregation.replaceAll("-"," "), 1970);
     }
   }
 
@@ -80,7 +80,6 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears : number[] = this.range(activeSince, activeUntil ? activeUntil : new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
-    console.log(albums);
     albums = albums.filter(value => value.artist.toLowerCase().includes(artist.toLowerCase()));
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);
@@ -102,7 +101,7 @@ export class AggregatedVariousComponent implements OnInit {
       this.router.navigate(['**']).then(() => console.error("Empty query, routed to 404"));
       return [];
     }
-    aotyItems = aotyItems.sort((a, b) => b.year - a.year);
+    aotyItems = aotyItems.sort((a, b) => a.year - b.year);
     let albums : Album[] = [];
     for (const item of aotyItems) {
       albums = albums.concat(item.albums);
