@@ -10,7 +10,6 @@ export class RatingPipe implements PipeTransform {
     value = Math.floor(value);
     switch (value) {
       case 11:
-        return "CLASSIC";
       case 10:
         return "PERFECT";
       case 9:
