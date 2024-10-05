@@ -120,6 +120,36 @@
         "https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23",
         "https://i.scdn.co/image/ab67616d0000b273c5c6c436a141b53086884863"
       ]
+    },
+    {
+      "year": 2017,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+        "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+        "https://i.scdn.co/image/ab67616d0000b273ec1bc2abea061f5f09fa9b64",
+        "https://i.scdn.co/image/ab67616d0000b2736a9a1646460821d889a4435a"
+      ]
+    },
+    {
+      "year": 2018,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053",
+        "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
+        "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+        "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e"
+      ]
+    },
+    {
+      "year": 2019,
+      "decade" : 2010,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88",
+        "https://i.scdn.co/image/ab67616d0000b2732a135808915566038569c13d",
+        "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+        "https://i.scdn.co/image/ab67616d0000b273c93e5d445758bfd4a9693686"
+      ]
     }
   ]
 }

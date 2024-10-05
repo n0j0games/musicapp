@@ -1,0 +1,452 @@
+{
+  "year" : 2017,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+      "title": "Flower Boy",
+      "artist": "Tyler, The Creator",
+      "songs": [
+        {
+          "title": "See You Again (feat. Kali Uchis)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Who Dat Boy (feat. A$AP Rocky)",
+          "preview_url": "https://p.scdn.co/mp3-preview/885c41e02f75e01f64ec43f049fa8778274605cd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Boredom (feat. Rex Orange County & Anna of the North)",
+          "preview_url": "https://p.scdn.co/mp3-preview/64c36bb59fe8c48d0ed5b38dc5a7b0189c1a642b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e86369cce3156f3c73448cfc6f6871f77a5ea70?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "November",
+          "preview_url": "https://p.scdn.co/mp3-preview/d061149b635697c4347dc218d9bf5f52f2a93266?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.6
+    },
+    {
+      "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+      "title": "Ctrl",
+      "artist": "SZA",
+      "songs": [
+        {
+          "title": "Supermodel",
+          "preview_url": "https://p.scdn.co/mp3-preview/1292e5c18ab2f9f75dd6ca4ce011c733aa0bafea?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love Galore (feat. Travis Scott)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e3f2a5f8e8910d69754b3d80abdeccac3df9077b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Doves In The Wind (feat. Kendrick Lamar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/607cb83912cafdaefade9ff240670b9e5679edae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Drew Barrymore",
+          "preview_url": "https://p.scdn.co/mp3-preview/98893dda53ce0bba3995394a3ac7cd4fccec7b7e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Weekend",
+          "preview_url": "https://p.scdn.co/mp3-preview/4671d1aa1268202225a569c0cfb029ff6e5b8e90?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.9
+    },
+    {
+      "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec1bc2abea061f5f09fa9b64",
+      "title": "Pop 2",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "Backseat (feat. Carly Rae Jepsen)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b667e7adc961c83529861c8d3aeabd11cc89f15?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lucky",
+          "preview_url": "https://p.scdn.co/mp3-preview/4196b9a9be15e5d22ccfa8a6fd2d04e12a5b68f5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tears (feat. Caroline Polachek)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1012532bbddaff6b67ef225f52d7b4030d03ab16?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd00763f726fa1cd6a28c8d57e9d50198ef4f9f5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Track 10",
+          "preview_url": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.9
+    },
+    {
+      "url": "https://open.spotify.com/album/55tCqWut5gobjBTJMTQJ4h",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736a9a1646460821d889a4435a",
+      "title": "EROS (2018)",
+      "artist": "RIN",
+      "songs": [
+        {
+          "title": "Bass",
+          "preview_url": "https://p.scdn.co/mp3-preview/48916efc8d6278dfc1052bba9b9055876ae3810d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bros",
+          "preview_url": "https://p.scdn.co/mp3-preview/013461ab717e493359fda6ff86c5819df0cf02a2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nightlife",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d07e70e6871c38f9d0584c636a79352652bfc03?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Aretha Franklin Freestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/38b728365504d1fec5c868091956d4e31a4daa39?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Data Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/b723cc4446b4d2474c46914b9d2b336162046b47?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.1
+    },
+    {
+      "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737513c4956ea5552caf02eab6",
+      "title": "4:44",
+      "artist": "JAY-Z",
+      "songs": [
+        {
+          "title": "The Story of O.J.",
+          "preview_url": "https://p.scdn.co/mp3-preview/d5ce1730a0fdd84fc05dd1e4d1ee3a29e543d6bd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Smile",
+          "preview_url": "https://p.scdn.co/mp3-preview/edeb77b8e31bf8e537212a51e41ac00e3927ea8c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Caught Their Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/7f3acf8c1d4e181462f9deef18afd37ea7305534?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "4:44",
+          "preview_url": "https://p.scdn.co/mp3-preview/b2ace79787c24b41ed71b835a3b426313b1ed5fc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4vPCCjXRWZsZaJXgwLoMBC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733174edf56bcbe825f67287bb",
+      "title": "4eva Is A Mighty Long Time",
+      "artist": "Big K.R.I.T.",
+      "songs": [
+        {
+          "title": "Big Bank (feat. T.I.)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f128751f5bca8eacea4d56b75ef5104ae3d3a223?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Subenstein (My Sub IV)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ecbdc515759dd736bbc8fe7928e4c3a13e10c78?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "1999 (feat. Lloyd)",
+          "preview_url": "https://p.scdn.co/mp3-preview/eab187bd24d2bbc15810b75cd1963f9bb5b3ac09?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Keep The devil Off",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d21ed0fee4a755499141b051d3687a03ec8d7c4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Miss Georgia Fornia (feat. Joi)",
+          "preview_url": "https://p.scdn.co/mp3-preview/84712c1abcd895fc006725d4d5b540760a0e1f81?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+      "title": "Melodrama",
+      "artist": "Lorde",
+      "songs": [
+        {
+          "title": "Green Light",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ea9fa151649665d85f266dcb65646e5c716227e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sober",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9d2302135993da2d387fc55f2c2375762db741f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Homemade Dynamite",
+          "preview_url": "https://p.scdn.co/mp3-preview/764d76a5c2e3c49f39e764f5bef179cc98ca6888?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Louvre",
+          "preview_url": "https://p.scdn.co/mp3-preview/2f0c8ea59338959f6788c048b0abe07774464723?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Perfect Places",
+          "preview_url": "https://p.scdn.co/mp3-preview/97281633ef0a60f95bcf8e23e8473f0dbd028987?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273419cedff7b313b962a93932e",
+      "title": "Beautiful Thugger Girls",
+      "artist": "Young Thug",
+      "songs": [
+        {
+          "title": "Family Don't Matter (feat. Millie Go Lightly)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2f5ba85393642abc6deac8042f60af68e939bd7e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "She Wanna Party (feat. Millie Go Lightly)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b1457fa6c3f18f229ca68daf705316b9591f0c2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Relationship (feat. Future)",
+          "preview_url": "https://p.scdn.co/mp3-preview/b7f679d0b35567194494d0862e70cb175c99812f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "You Said (feat. Quavo)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f19b56dd3389b33d598057c85aef71ae6adfc8b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "For Y'all (feat. Jacquees)",
+          "preview_url": "https://p.scdn.co/mp3-preview/28ebd6df9a33046e5e01265fd528481f8e4f96b1?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.7
+    },
+    {
+      "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+      "title": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "songs": [
+        {
+          "title": "PRIDE.",
+          "preview_url": "https://p.scdn.co/mp3-preview/a762ff9e61a34bf6695d0c181ea77738682d3fbe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LUST.",
+          "preview_url": "https://p.scdn.co/mp3-preview/a928dd729cbb49a5c46f7d2ce06da2a7fcc76d50?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "XXX. FEAT. U2.",
+          "preview_url": "https://p.scdn.co/mp3-preview/85200ed67e2411921d92cf3e682c38c5e5884fcb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "FEAR.",
+          "preview_url": "https://p.scdn.co/mp3-preview/60d606d0895d2978f9946bb37866aae39f2cd821?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DUCKWORTH.",
+          "preview_url": "https://p.scdn.co/mp3-preview/f09164f45d0f453180fad13e4fb8b9d39dcd17a3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed",
+      "title": "Without Warning",
+      "artist": "21 Savage,\nOffset,\nMetro Boomin",
+      "songs": [
+        {
+          "title": "Ghostface Killers (feat. Travis Scott)",
+          "preview_url": "https://p.scdn.co/mp3-preview/552ef752419042c2bc4f38ab681841959c9f17de?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "My Choppa Hate Niggas",
+          "preview_url": "https://p.scdn.co/mp3-preview/5262f5ff55e97a9a0ae224355cc2a4e25226606f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nightmare",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb15deceba0e6ede62cd8f93a7058135fb4971be?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Still Serving",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b67de33186fa5c0f2dff0c82442317fb681e7cc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.5
+    },
+    {
+      "url": "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737ba7b4d23c717f3211717946",
+      "title": "Big Fish Theory",
+      "artist": "Vince Staples",
+      "songs": [
+        {
+          "title": "Crabs In A Bucket",
+          "preview_url": "https://p.scdn.co/mp3-preview/d52c290161e38f5d5b655acbc6462ca9b2ee42cc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Big Fish",
+          "preview_url": "https://p.scdn.co/mp3-preview/66d5884e767ed94b4eeea8bdf45dfafb9871b169?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love Can Be...",
+          "preview_url": "https://p.scdn.co/mp3-preview/6768b9bbc4fe094312f234a9a4cec37cc5ba9f41?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "745",
+          "preview_url": "https://p.scdn.co/mp3-preview/25971a7447ab4a387251d82a7254ea4503d65c70?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Yeah Right",
+          "preview_url": "https://p.scdn.co/mp3-preview/0912c6cc403d90764d68bde3a01b557d1f018ea8?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.4
+    },
+    {
+      "url": "https://open.spotify.com/album/5nwBXqCfgl5zXuFHagkMNY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a1dc59fbe1783c0ff2cf8f26",
+      "title": "CY-BEAST lvl1",
+      "artist": "TJ_beastboy,\nMary Man",
+      "songs": [
+        {
+          "title": "Good Morning",
+          "preview_url": "https://p.scdn.co/mp3-preview/14ccdfa88d67e6b45411becbd4038ae7c4d12783?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Modus",
+          "preview_url": "https://p.scdn.co/mp3-preview/416acd2b8472ff3c301eb985d1332c6980149acd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "9Leben",
+          "preview_url": "https://p.scdn.co/mp3-preview/50215a0ab6ba98c879ad1f9f9b78d2f0a998c99a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Insomnia",
+          "preview_url": "https://p.scdn.co/mp3-preview/a373cc358e8abceb41bfccec75c584e0a433c9a8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Gagos",
+          "preview_url": "https://p.scdn.co/mp3-preview/743d746dcdd69ceff89f43c777e7129fe84a9d26?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8",
+      "title": "Stranger in the Alps",
+      "artist": "Phoebe Bridgers",
+      "songs": [
+        {
+          "title": "Smoke Signals",
+          "preview_url": "https://p.scdn.co/mp3-preview/adc4fa7d3a4afe8a9a408d5f11af8d744105f275?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Motion Sickness",
+          "preview_url": "https://p.scdn.co/mp3-preview/24014ce72466a645baf03cee71fb065bfffef740?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Scott Street",
+          "preview_url": "https://p.scdn.co/mp3-preview/30ca466344ed92e1cd1307655f554e9fa713e7b2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Smoke Signals (Reprise)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b1d2eaf96d9c892e779e2beec8232e16e20590b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.4
+    },
+    {
+      "url": "https://open.spotify.com/album/0SyO17NG4tEWWMc0lRocfb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27325d655c11809455c10b15ac9",
+      "title": "tru. (Deluxe Edition)",
+      "artist": "CRO",
+      "songs": [
+        {
+          "title": "forrest gump",
+          "preview_url": "https://p.scdn.co/mp3-preview/cc21b7b79591f76b1f376f4c3b439465545e6e52?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "baum",
+          "preview_url": "https://p.scdn.co/mp3-preview/30aeb8f5876862af3646864b6dc1db8ee37e3d81?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "unendlichkeit - Main Edit",
+          "preview_url": "https://p.scdn.co/mp3-preview/e67f8144ab9f5bfd028781595bd7bdc574c1dca5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "computiful",
+          "preview_url": "https://p.scdn.co/mp3-preview/a849fdc9f5aa1b48d517eb4671893db28b0ffb7d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.7
+    },
+    {
+      "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+      "title": "17",
+      "artist": "XXXTENTACION",
+      "songs": [
+        {
+          "title": "Jocelyn Flores",
+          "preview_url": "https://p.scdn.co/mp3-preview/df466c4bb30333c2ee904e7c876920e418d41732?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Depression & Obsession",
+          "preview_url": "https://p.scdn.co/mp3-preview/f537b69194593ff7f15e384abcd1433aa3051272?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Everybody Dies In Their Nightmares",
+          "preview_url": "https://p.scdn.co/mp3-preview/57ea372058336bcc4774b5dcee03d6712b16ae5c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ayala (Outro)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0272cbe0831c1b7a44e68a52d2d24e80536c9ad4?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.1
+    },
+    {
+      "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+      "title": "Playboi Carti",
+      "artist": "Playboi Carti",
+      "songs": [
+        {
+          "title": "Location",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7c290528a619bd534452b818c8d437b99a8b820?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Magnolia",
+          "preview_url": "https://p.scdn.co/mp3-preview/e118fc0ca3c13f9d57e093afe6df2028aeabac24?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "wokeuplikethis*",
+          "preview_url": "https://p.scdn.co/mp3-preview/54a9d61b4b4a3c7e24e61466900195f7c3f7f32a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Choppa",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b7c6c0207c8ea2ad13c7d7a42712c229834fa6c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    },
+    {
+      "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e",
+      "title": "Huncho Jack, Jack Huncho",
+      "artist": "Huncho Jack,\nTravis Scott,\nQuavo",
+      "rating": 5.0
+    }
+  ]
+}
