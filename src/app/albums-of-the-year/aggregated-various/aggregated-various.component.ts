@@ -52,8 +52,8 @@ export class AggregatedVariousComponent implements OnInit {
       case "kanye-west":
         this.getArtistAlbums("Kanye West", 2010);
         break;
-      case "beyonce":
-        this.getArtistAlbums("Beyoncé", 2010);
+      case "kendrick-lamar":
+        this.getArtistAlbums("Kendrick Lamar", 2010);
         break;
       default:
         this.router.navigate(['**']).then(() => console.error("Unknown aggregation, routed to 404"));
@@ -74,6 +74,7 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears : number[] = this.range(activeSince, activeUntil ? activeUntil : new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
+    console.log(albums);
     albums = albums.filter(value => value.artist.includes(artist));
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);
