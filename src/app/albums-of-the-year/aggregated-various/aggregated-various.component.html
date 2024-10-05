@@ -1,4 +1,11 @@
-<p class="p-i fs-xl title-gap-b"><b class="p-b-i"> {{ aggregatedTitle }} </b></p>
+<p class="p-i fs-xl"><span class="p-b-i"> {{ aggregatedTitle }} </span></p>
+<div class="flex-row align-center justify-center gap-s" style="margin-top: 10px" *ngIf="average">
+    <p class="p-i fs-m">average:</p>
+    <app-rating
+            [rating]="average"
+    ></app-rating>
+</div>
+<div class="title-gap-b"></div>
 <div *ngIf="aggreatedAlbums !== null" class="list gap-xl">
     <app-album-detail
             *ngFor="let album of aggreatedAlbums.albums; index as i"

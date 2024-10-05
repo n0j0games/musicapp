@@ -5,6 +5,7 @@ import {AotyService} from "../../services/aoty.service";
 import {Album} from "../../models/album";
 import {AlbumDetailComponent} from "../album-detail/album-detail.component";
 import {NgForOf, NgIf} from "@angular/common";
+import {RatingComponent} from "../../common/rating/rating.component";
 
 @Component({
   selector: 'app-aggregated-various',
@@ -12,7 +13,8 @@ import {NgForOf, NgIf} from "@angular/common";
   imports: [
     AlbumDetailComponent,
     NgForOf,
-    NgIf
+    NgIf,
+    RatingComponent
   ],
   templateUrl: './aggregated-various.component.html',
 })
@@ -20,11 +22,17 @@ export class AggregatedVariousComponent implements OnInit {
 
   aggreatedAlbums! : AotyItem | null;
   aggregatedTitle! : string | null;
+  average : number | null = null;
 
   constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
 
   ngOnInit(): void {
     const aggregation = this.route.snapshot.paramMap.get('query');
+    const queryParam = this.route.snapshot.queryParamMap.get('type');
+    const isStrict = queryParam !== undefined && queryParam !== null ?
+        queryParam === "strict" :
+        false;
+
     if (aggregation === undefined || aggregation === null) {
       this.router.navigate(['**']).then(() => console.error("Undefined aggregation, routed to 404"));
       return;
@@ -44,25 +52,28 @@ export class AggregatedVariousComponent implements OnInit {
         this.aggregatedTitle = "all the albums I love";
         break;
       case "the-weeknd":
-        this.getArtistAlbums("The Weeknd", 2010);
+        this.getArtistAlbums("The Weeknd", 2010, isStrict);
         break;
       case "travis-scott":
-        this.getArtistAlbums("Travis Scott", 2014);
+        this.getArtistAlbums("Travis Scott", 2014, isStrict);
         break;
       case "kanye-west":
-        this.getArtistAlbums("Kanye West", 2000);
+        this.getArtistAlbums("Kanye West", 2000, isStrict);
         break;
       case "kendrick-lamar":
-        this.getArtistAlbums("Kendrick Lamar", 2010);
+        this.getArtistAlbums("Kendrick Lamar", 2010, isStrict);
         break;
       case "tyler-the-creator":
-        this.getArtistAlbums("Tyler, The Creator", 2000);
+        this.getArtistAlbums("Tyler, The Creator", 2000, isStrict);
         break;
       case "beyonce":
-        this.getArtistAlbums("Beyoncé", 2000);
+        this.getArtistAlbums("Beyoncé", 2000, isStrict);
+        break;
+      case "rin":
+        this.getArtistAlbums("rin", 2016, true);
         break;
       default:
-        this.getArtistAlbums(aggregation.replaceAll("-"," "), 1970);
+        this.getArtistAlbums(aggregation.replaceAll("-"," "), 1970, isStrict);
     }
   }
 
@@ -74,16 +85,21 @@ export class AggregatedVariousComponent implements OnInit {
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title));
   }
 
-  getArtistAlbums(artist : string, activeSince : number, activeUntil? : number) {
+  getArtistAlbums(artist : string, activeSince : number, strict : boolean) {
     let aotyList = this.aotyService.getAotyList();
     const aotyQueryYears = aotyList!.items!.map(value => value.year);
-    const queryYears : number[] = this.range(activeSince, activeUntil ? activeUntil : new Date().getFullYear(), 1)
+    const queryYears : number[] = this.range(activeSince, new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
-    albums = albums.filter(value => value.artist.toLowerCase().includes(artist.toLowerCase()));
+    if (strict) {
+      albums = albums.filter(value => value.artist.toLowerCase() === artist.toLowerCase());
+    } else {
+      albums = albums.filter(value => value.artist.toLowerCase().includes(artist.toLowerCase()));
+    }
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);
     this.aggregatedTitle = "my fav albums by " + artist;
+    this.calcAverage(albums);
   }
 
   getFavAlbums(onlyPerfect : boolean) {
@@ -107,6 +123,18 @@ export class AggregatedVariousComponent implements OnInit {
       albums = albums.concat(item.albums);
     }
     return albums;
+  }
+
+  private calcAverage(albums : Album[]) {
+    if (albums.length === 0) {
+      this.average = null;
+      return;
+    }
+    let avg = 0;
+    for (const item of albums) {
+      avg += item.rating;
+    }
+    this.average = avg / albums.length;
   }
 
   private range(start : number, stop : number, step : number) {
