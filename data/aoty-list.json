@@ -153,15 +153,33 @@
     },
     {
       "year": 2000,
-      "decade" : 2000
+      "decade" : 2000,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+        "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+        "https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4",
+        "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf"
+      ]
     },
     {
       "year": 1990,
-      "decade" : 1990
+      "decade" : 1990,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+        "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "https://i.scdn.co/image/ab67616d0000b27397d4015428c1ae8409236f69",
+        "https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225"
+      ]
     },
     {
       "year": 1980,
-      "decade" : 1980
+      "decade" : 1980,
+      "preview" : [
+        "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
+        "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "https://i.scdn.co/image/ab67616d0000b273ad08f4b38efbff0c0da0f252",
+        "https://i.scdn.co/image/ab67616d0000b2739565c4df27be4aee5edc8009"
+      ]
     }
   ]
 }
