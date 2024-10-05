@@ -1,0 +1,416 @@
+{
+  "year" : 1990,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "title": "OK Computer",
+      "artist": "Radiohead",
+      "songs": [
+        {
+          "title": "Paranoid Android",
+          "preview_url": "https://p.scdn.co/mp3-preview/07d9353359ee8973b28d81788f2f4f2657b178af?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Exit Music (For A Film)",
+          "preview_url": "https://p.scdn.co/mp3-preview/b0df587478b3aab22ebb6ed8c8178cfe0307e61c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Karma Police",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c770be37583bbf7f7da3febeb2bf11d1a621a80?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Climbing Up the Walls",
+          "preview_url": "https://p.scdn.co/mp3-preview/4be2823d587c54eba529760d615403f561882b70?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No Surprises",
+          "preview_url": "https://p.scdn.co/mp3-preview/969161ef645e3e89a4ee8a0274013dae480a9e2d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.5
+    },
+    {
+      "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
+      "title": "Love Deluxe",
+      "artist": "Sade",
+      "songs": [
+        {
+          "title": "No Ordinary Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/afd45413f0398864f2eec0174da7391b680fcf19?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Feel No Pain",
+          "preview_url": "https://p.scdn.co/mp3-preview/7eada54f68a92e3b33379a7a3d13dc77dbc0caf6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Like a Tattoo",
+          "preview_url": "https://p.scdn.co/mp3-preview/df80b312eb69e0babe9fa528e39ac13f960eb5c5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kiss of Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0eae20b2740f69474a2e317edf657d2536fbaca?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pearls",
+          "preview_url": "https://p.scdn.co/mp3-preview/661911dca93bf53cdd15519756a01c422d9badb5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mermaid",
+          "preview_url": "https://p.scdn.co/mp3-preview/7be90980fc8dff1a93d8606679239ecf63492420?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 11.7
+    },
+    {
+      "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27397d4015428c1ae8409236f69",
+      "title": "Ágætis byrjun",
+      "artist": "Sigur Rós",
+      "songs": [
+        {
+          "title": "Svefn-g-englar",
+          "preview_url": "https://p.scdn.co/mp3-preview/4858e87819a713e654dbd1e5d0f731e7747bbc8c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Starálfur",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e8bc8f6649b54e1e4fb54f0207eaf6a062e9588?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hjartað hamast (bamm bamm bamm)",
+          "preview_url": "https://p.scdn.co/mp3-preview/46557b2db3c49695104dddef73e29ccdafb0be74?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Olsen olsen",
+          "preview_url": "https://p.scdn.co/mp3-preview/7f469b7a7b5214e405ceb1173961a57de2532dfa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ágætis byrjun",
+          "preview_url": "https://p.scdn.co/mp3-preview/f583bc0706be0bddb26978ccdd71a38584f52736?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
+      "title": "The Miseducation of Lauryn Hill",
+      "artist": "Ms. Lauryn Hill",
+      "songs": [
+        {
+          "title": "Ex-Factor",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0ab315b7378564e99b76c1125a315c9dfc75174?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Doo Wop (That Thing)",
+          "preview_url": "https://p.scdn.co/mp3-preview/feb1c988c1940d63a3af836f2965f04177dc24c9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "When It Hurts so Bad",
+          "preview_url": "https://p.scdn.co/mp3-preview/63298be3407fbb560b2a65db25ea784735d219e2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nothing Even Matters",
+          "preview_url": "https://p.scdn.co/mp3-preview/8356d050621dbf9777084e6930a017cf3614783c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Everything Is Everything",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd36c2d123b5d45957d55168ec6871cfd7f94074?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273992370c34c86fda1e172d0c5",
+      "title": "Homogenic",
+      "artist": "Björk",
+      "songs": [
+        {
+          "title": "Hunter",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ce908bd76f76be3ce3ce4fd2a16a7465af74100?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jóga",
+          "preview_url": "https://p.scdn.co/mp3-preview/babf9ee7f2aee1589fcc7479b13db683b404ddc3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bachelorette",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b8fad287ed8ec9bd72afb59bebb400cce0b58bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Alarm Call",
+          "preview_url": "https://p.scdn.co/mp3-preview/496d8c84e6ec160b291c1fdd4290c306ec362f55?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "All Is Full Of Love - Howie's Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/562f19ce3757f45e0a43d006b0ed700e4f3f3635?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.6
+    },
+    {
+      "url": "https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225",
+      "title": "LONG SEASON",
+      "artist": "Fishmans",
+      "songs": [
+        {
+          "title": "LONG SEASON",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad3d3a000449ee466cd3be3cef750e6f47c46e2d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 10.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f",
+      "title": "Heaven or Las Vegas",
+      "artist": "Cocteau Twins",
+      "songs": [
+        {
+          "title": "Cherry-coloured Funk",
+          "preview_url": "https://p.scdn.co/mp3-preview/46a28e2988f0ea7b6317fe2d2eacaf09519a7f86?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Iceblink Luck",
+          "preview_url": "https://p.scdn.co/mp3-preview/a44756334e58841daef69a87dbf6a07e26f9ed5f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fifty-fifty Clown",
+          "preview_url": "https://p.scdn.co/mp3-preview/f680732d74295768ffa2b49c2a868ff16c91c074?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Heaven or Las Vegas",
+          "preview_url": "https://p.scdn.co/mp3-preview/697398e5bc187f498347021f875a66a40e44307f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Frou-frou Foxes in Midsummer Fires",
+          "preview_url": "https://p.scdn.co/mp3-preview/ea9d849766f698fae323f1d4f6240a8c8d95a6eb?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.4
+    },
+    {
+      "url": "https://open.spotify.com/album/5K4YFkTizFoMOyN5Khfp7G",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801",
+      "title": "98.12.28 男達の別れ (Live)",
+      "artist": "Fishmans",
+      "songs": [
+        {
+          "title": "Thank You",
+          "preview_url": "https://p.scdn.co/mp3-preview/2720c94b447affb4d45dd800dfe786b800c0fc8d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "幸せ者",
+          "preview_url": "https://p.scdn.co/mp3-preview/8e2d32913368ef129e13ce8cc93884f86737aa38?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "WALKING IN THE RHYTHM",
+          "preview_url": "https://p.scdn.co/mp3-preview/83f246cbd258e6d1342727d4af6b4e46f9625916?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Smilin'Days, Summer Holiday",
+          "preview_url": "https://p.scdn.co/mp3-preview/758b49e7611014f4ed48a28a6c3f2c1c2829415f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "LONG SEASON - Live",
+          "preview_url": "https://p.scdn.co/mp3-preview/02caf0e645e160a37bd48fcfa4d0f9d142bba6fd?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    },
+    {
+      "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730b283be60e1ca4d3b43137c2",
+      "title": "My Life",
+      "artist": "Mary J. Blige",
+      "songs": [
+        {
+          "title": "I Love You",
+          "preview_url": "https://p.scdn.co/mp3-preview/1fd82a21942f1dc5b35a963acea8089175b0cb61?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mary Jane (All Night Long)",
+          "preview_url": "https://p.scdn.co/mp3-preview/78e8f318daad4a9550fe470c4a04fd81c2381ff6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "My Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/390d4ff28f52095c2a746208c3f0d2d0cd7ed33b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I'm Goin' Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/edae6cf679673845057f21cbb8f1bb625331df28?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Be Happy",
+          "preview_url": "https://p.scdn.co/mp3-preview/5691b575117aa0dd8536723fbb6bef3ee470ad4e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1",
+      "title": "The Chronic",
+      "artist": "Dr. Dre",
+      "songs": [
+        {
+          "title": "Fuck Wit Dre Day",
+          "preview_url": "https://p.scdn.co/mp3-preview/87bdfbbd76017e41cbe815f503ff4e611c0de147?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Day The Niggaz Took Over",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb3e7be4f08760c012df93c4dc2dcc9f7f44e97e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nuthin' But A \"G\" Thang",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ded62147af100f965125a6abdc8a2541f5e1bde?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Deeez Nuuuts",
+          "preview_url": "https://p.scdn.co/mp3-preview/955da6b38b8e3dc50901051d9f2c2f65f189edfe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lil' Ghetto Boy",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5e44734de2861c744c0f05c05dc59830e914752?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e2b1de6eadee18a2022e1dd0",
+      "title": "Violator",
+      "artist": "Depeche Mode",
+      "songs": [
+        {
+          "title": "World In My Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/16e71e670f90a29fe87bc507ee044b8f71cc688a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sweetest Perfection",
+          "preview_url": "https://p.scdn.co/mp3-preview/b0b723af8f25a273a0760cdcb9d66a3264c460d0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Personal Jesus",
+          "preview_url": "https://p.scdn.co/mp3-preview/699efc154b81d66b3abafbc1c319dd007b3853fd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Enjoy the Silence",
+          "preview_url": "https://p.scdn.co/mp3-preview/b518365052838dac7bf239c6221c933a49cbc82b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Policy of Truth",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ff6a2fb56482e1c614395df00242e30f7c5e12f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29",
+      "title": "Doggystyle",
+      "artist": "Snoop Dogg",
+      "songs": [
+        {
+          "title": "Who Am I (What’s My Name)?",
+          "preview_url": "https://p.scdn.co/mp3-preview/fd5c8b69c743f53b9bf6079c097553207d64de15?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Gin and Juice",
+          "preview_url": "https://p.scdn.co/mp3-preview/d4bdbbb0d332c63233fe86ce23037aa9a827e113?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tha Shiznit",
+          "preview_url": "https://p.scdn.co/mp3-preview/67325701c560971235f38c389e8f0f1af8cd1d79?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Murder Was The Case",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c806bf558783142e4faa3b9815a86cea0d71223?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273af5beb00d940f5ede452d6b5",
+      "title": "Blue Lines (2012 Mix/Master)",
+      "artist": "Massive Attack",
+      "songs": [
+        {
+          "title": "Safe From Harm - 2012 Mix/Master",
+          "preview_url": "https://p.scdn.co/mp3-preview/e53e62d30178f37591dbcacaef0d3744ab78f621?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "One Love - 2012 Mix/Master",
+          "preview_url": "https://p.scdn.co/mp3-preview/6ff36ba66e2241f481b4efbe206b00ff8699e8a7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Blue Lines - 2012 Mix/Master",
+          "preview_url": "https://p.scdn.co/mp3-preview/2459fd2480a4472acc4c628eaa9669d69882eaeb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Five Man Army - 2012 Mix/Master",
+          "preview_url": "https://p.scdn.co/mp3-preview/2911b96cb6ca4bf420f8e3d52782fd0bc889ba62?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.5
+    },
+    {
+      "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27351f7b4060cb1099f761632e9",
+      "title": "Listen Without Prejudice Vol. 1 (Remastered)",
+      "artist": "George Michael",
+      "songs": [
+        {
+          "title": "Praying for Time - Remastered",
+          "preview_url": "https://p.scdn.co/mp3-preview/23aed96b3b7b1e51877781e07cf0da4f45ec5d66?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Freedom! '90 - Remastered",
+          "preview_url": "https://p.scdn.co/mp3-preview/81497ff06dbeb1437d616d41540eeca4a2fb1f03?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "They Won't Go When I Go - Remastered",
+          "preview_url": "https://p.scdn.co/mp3-preview/b0e012434fc698c72e3f8b90daa6cb58b0caa712?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Something to Save - Remastered",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9f722f61c33f42f24b2b0be50fe9560100bbd67?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
+      "title": "Illmatic",
+      "artist": "Nas",
+      "songs": [
+        {
+          "title": "The Genesis",
+          "preview_url": "https://p.scdn.co/mp3-preview/af176b11e12a9140d7d1529dafc15fdf9e451641?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "N.Y. State of Mind",
+          "preview_url": "https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Life's a Bitch (feat. AZ & Olu Dara)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d5578a234ee2d165a7b940fa5fa5efc28de13d4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The World Is Yours",
+          "preview_url": "https://p.scdn.co/mp3-preview/353022ee9901b35819bc53752fdcc314c3258e2d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "It Ain't Hard to Tell",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3c9461e8c1b3be6d140214a6418887d82beaab6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.9
+    }
+  ]
+}

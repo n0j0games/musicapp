@@ -604,6 +604,35 @@
       "title": "Bastard",
       "artist": "Tyler, The Creator",
       "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc",
+      "title": "D>E>A>T>H>M>E>T>A>L",
+      "artist": "Panchiko",
+      "songs": [
+        {
+          "title": "D>E>A>T>H>M>E>T>A>L",
+          "preview_url": "https://p.scdn.co/mp3-preview/54cec2838a62a1244e7e2087f81b172cf8cc3e03?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "CUT",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e175f9e44532f0f4756a183c52bc3c407fc0939?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Stabilisers For Big Boys",
+          "preview_url": "https://p.scdn.co/mp3-preview/22c40d33daa7f0d34fcb38c67cf41c846128678f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Laputa",
+          "preview_url": "https://p.scdn.co/mp3-preview/b37b691ce83700123d2c222681f4ec4f3e694741?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kicking Cars",
+          "preview_url": "https://p.scdn.co/mp3-preview/0559a1babcfa0112deb2201b50787803f84f990e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
     }
   ]
 }

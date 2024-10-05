@@ -1,0 +1,257 @@
+{
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
+      "title": "Timely!!",
+      "artist": "Anri",
+      "songs": [
+        {
+          "title": "WINDY SUMMER",
+          "preview_url": "https://p.scdn.co/mp3-preview/90f01030c872ced189e4f1b0e147f251abcb174a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "A HOPE FROM SAD STREET",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c86668cb957a869c398a89cdc192cadee98b621?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "悲しみがとまらない　I CAN'T STOP THE LONELINESS",
+          "preview_url": "https://p.scdn.co/mp3-preview/d63e55fd9c7601ca508bc7934a192ff914ba2b4f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "GOOD-NIGHT FOR YOU",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f1dc687dcfbaaeb77e42531db043c6f9be1129d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Remember Summer Days",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf436618008eace9ef735bf9033ff789be0b939f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.8
+    },
+    {
+      "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "songs": [
+        {
+          "title": "The Girl Is Mine (with Paul McCartney)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0045d437f71d77c20711e8d2be198914cc6d84d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Thriller",
+          "preview_url": "https://p.scdn.co/mp3-preview/783fbfcccdd2f9ae16f94adfdeaded9e04a87b5f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Beat It",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b0b3eb44b3149bb49ae06dd64869e20e8c13380?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Billie Jean",
+          "preview_url": "https://p.scdn.co/mp3-preview/77cd91bbc7db184389223ea31ed9cd9b21ccd8df?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "P.Y.T. (Pretty Young Thing)",
+          "preview_url": "https://p.scdn.co/mp3-preview/45ee9c00a1607bee0728f38340394cb3716ae8a7?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.5
+    },
+    {
+      "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5",
+      "title": "Bad (Remastered)",
+      "artist": "Michael Jackson",
+      "songs": [
+        {
+          "title": "Bad - 2012 Remaster",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e9112e2f34ec84c0f85f671fcb535a973257756?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Man in the Mirror - 2012 Remaster",
+          "preview_url": "https://p.scdn.co/mp3-preview/b2991bc3f15c321d628bb485fe64ae583a306493?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dirty Diana - 2012 Remaster",
+          "preview_url": "https://p.scdn.co/mp3-preview/21e9e64dcb45d34d92f5b3d9f305497acaa67d6d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Smooth Criminal - 2012 Remaster",
+          "preview_url": "https://p.scdn.co/mp3-preview/e26c1dde2d9a44315124580cfbe6636f4aab1e22?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Leave Me Alone - 2012 Remaster",
+          "preview_url": "https://p.scdn.co/mp3-preview/486e6e72a322e56e014944a6fda174683c00b6c5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ad08f4b38efbff0c0da0f252",
+      "title": "Hounds Of Love",
+      "artist": "Kate Bush",
+      "songs": [
+        {
+          "title": "Running Up That Hill (A Deal With God)",
+          "preview_url": "https://p.scdn.co/mp3-preview/861d26b52ece3e3ad72a7dc3463daece3478801a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hounds Of Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/e60f133ecc13d1606d064e38edc7ad035c00a2a8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Big Sky - Special Single Mix",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c09d04c1fd60bf97956dd617756ec43c27a36bf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mother Stands For Comfort",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d792412ec17fa866cd298982375c50f1a88d033?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cloudbusting",
+          "preview_url": "https://p.scdn.co/mp3-preview/0156aec767cfcbe6bfc80bb9c8ad931169a3d910?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739565c4df27be4aee5edc8009",
+      "title": "Songs From The Big Chair",
+      "artist": "Tears For Fears",
+      "songs": [
+        {
+          "title": "Shout",
+          "preview_url": "https://p.scdn.co/mp3-preview/1aaaae65ec0d7984495b9e426375fb7c3d8e6595?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Everybody Wants To Rule The World",
+          "preview_url": "https://p.scdn.co/mp3-preview/22dd9a756edbaedc260726ae710b6af819bed721?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Believe",
+          "preview_url": "https://p.scdn.co/mp3-preview/815222bc1cff02427f3a271fc3aec649a3508818?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Broken",
+          "preview_url": "https://p.scdn.co/mp3-preview/a37610fa4b8d202ef4f11a542931139bb73de940?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Head Over Heels / Broken",
+          "preview_url": "https://p.scdn.co/mp3-preview/e8b358385323a1061d08c1601512b6dc054f0375?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.7
+    },
+    {
+      "url": "https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273138d0143d948a5314d1aea19",
+      "title": "浮遊空間",
+      "artist": "Tomoko Aran",
+      "songs": [
+        {
+          "title": "Midnight Pretenders",
+          "preview_url": "https://p.scdn.co/mp3-preview/808cbb092004a16b80c9a0c935986a2281d94b21?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Body to Body",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b55ae144169b57b49d86121e8488fab3607f278?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lonely Night",
+          "preview_url": "https://p.scdn.co/mp3-preview/1204d679a6491d55462a98a339131991bf72c251?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I'm in Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf87126a0cf287876cb172d352b98eaaadb15f66?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ひと夏のタペストリー",
+          "preview_url": "https://p.scdn.co/mp3-preview/78c03e239d7ec07720960f88b969fee23b27b296?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345546ed4af1a0d4c58a8ff50",
+      "title": "The Hurting",
+      "artist": "Tears For Fears",
+      "songs": [
+        {
+          "title": "The Hurting",
+          "preview_url": "https://p.scdn.co/mp3-preview/593f96454689a09a5345ea706c7575f2f7bc233a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pale Shelter - 2nd Single Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/925c82081c017fd95df0ecc3027b17a94dc66628?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ideas As Opiates",
+          "preview_url": "https://p.scdn.co/mp3-preview/79f6536b0195585720c18625327195fa1cc9dc0f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Memories Fade",
+          "preview_url": "https://p.scdn.co/mp3-preview/77e8ecaf5e90bdb4f3910ccba031739955d8e8ae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Watch Me Bleed",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a394fbb833742ddced1d8101a403b49af9145af?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.1
+    },
+    {
+      "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27387e51905aaafd4b2e46e9121",
+      "title": "Falco 3",
+      "artist": "Falco",
+      "songs": [
+        {
+          "title": "Rock Me Amadeus",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c9d703a1a205173679fd31d39d3aecb0bed7d1f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jeanny",
+          "preview_url": "https://p.scdn.co/mp3-preview/51b7b64968e30d29506acf94435d12c53cbc6795?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Vienna Calling",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d6aa977f1b19a21639bce76195f8d95438140fb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Männer des Westens - Any Kind of Land",
+          "preview_url": "https://p.scdn.co/mp3-preview/df80d093166a2fcf7a8ac491d4a3a1ae8b23e8bc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.5
+    },
+    {
+      "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+      "title": "Back In Black",
+      "artist": "AC/DC",
+      "songs": [
+        {
+          "title": "Hells Bells",
+          "preview_url": "https://p.scdn.co/mp3-preview/63f8bf5471d413befecf9dd100665726f980b1b5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Shoot to Thrill",
+          "preview_url": "https://p.scdn.co/mp3-preview/98123a7d31111d0d9a61c21d4ce6e9215a8f5903?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Back In Black",
+          "preview_url": "https://p.scdn.co/mp3-preview/81e64fa3a306418f6bb51325a93df0c75ea50d42?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Have a Drink on Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/c55cfbeac38cf82b2bfa78968bc6f43865c49031?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
+    }
+  ]
+}

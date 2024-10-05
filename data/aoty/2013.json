@@ -231,6 +231,35 @@
         }
       ],
       "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3",
+      "title": "BEYONCÉ",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "Drunk in Love (feat. Jay-Z)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8dd787b30a5c412e67f9bd8abde1033f8b784b6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Partition",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0ad9df628580f6f426a2a81b45227c1dbe800bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "XO",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6870b0f8c0f163164a1a906e987818248fb2884?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "***Flawless (feat. Chimamanda Ngozi Adichie)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f939a26622de6d2b0a6b677ed67ca70d49673cda?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Superpower (feat. Frank Ocean)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a1d6c2cc3ca1506baccab03c37eda3b3f3e29e2?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.3
     }
   ]
 }

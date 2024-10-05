@@ -50,13 +50,19 @@ export class AggregatedVariousComponent implements OnInit {
         this.getArtistAlbums("Travis Scott", 2014);
         break;
       case "kanye-west":
-        this.getArtistAlbums("Kanye West", 2010);
+        this.getArtistAlbums("Kanye West", 2000);
         break;
       case "kendrick-lamar":
         this.getArtistAlbums("Kendrick Lamar", 2010);
         break;
+      case "tyler-the-creator":
+        this.getArtistAlbums("Tyler, The Creator", 2000);
+        break;
+      case "beyonce":
+        this.getArtistAlbums("Beyoncé", 2000);
+        break;
       default:
-        this.router.navigate(['**']).then(() => console.error("Unknown aggregation, routed to 404"));
+        this.getArtistAlbums(aggregation.replaceAll("-"," "), 2000);
     }
   }
 
@@ -75,7 +81,7 @@ export class AggregatedVariousComponent implements OnInit {
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
     console.log(albums);
-    albums = albums.filter(value => value.artist.includes(artist));
+    albums = albums.filter(value => value.artist.toLowerCase().includes(artist.toLowerCase()));
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);
     this.aggregatedTitle = "my fav albums by " + artist;
