@@ -30,8 +30,8 @@ export class RatingComponent implements OnInit {
   colors = [this.bad, this.bad, this.bad, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
 
   ngOnInit() {
-    if (this.rating < 0 || this.rating > 11 ) {
-      console.warn("Unexpected rating");
+    if (this.rating < 0 || this.rating >= 12 ) {
+      console.warn("Unexpected rating", this.rating);
     }
     this.width = this.calcWidth();
   }

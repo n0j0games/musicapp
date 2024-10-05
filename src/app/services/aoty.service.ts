@@ -27,6 +27,8 @@ export class AotyService {
   }
 
   getAggregatedAlbums(queryYears : number[]) : AotyItem[] | null {
+    queryYears = queryYears.filter(year => year >= 2010 || year % 10 == 0);
+    console.log(queryYears);
     const aggregatedAlbums : AotyItem[] = [];
     for (const item of this.aotyItems) {
       if (queryYears.includes(item.year)) {

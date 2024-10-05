@@ -62,7 +62,7 @@ export class AggregatedVariousComponent implements OnInit {
         this.getArtistAlbums("Beyoncé", 2000);
         break;
       default:
-        this.getArtistAlbums(aggregation.replaceAll("-"," "), 2000);
+        this.getArtistAlbums(aggregation.replaceAll("-"," "), 1980);
     }
   }
 
