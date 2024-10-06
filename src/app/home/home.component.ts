@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
-import {NgForOf, NgIf} from "@angular/common";
-import {RouterLink} from "@angular/router";
+import {LowerCasePipe, NgForOf, NgIf} from "@angular/common";
+import {Router, RouterLink} from "@angular/router";
 import {SotwService} from "../services/sotw.service";
 import {SotwList} from "../models/sotw-list";
 import {WeekHelper} from "../common/week-helper";
@@ -9,6 +9,8 @@ import {AotyList} from "../models/aoty-list";
 import {ItemComponent} from "./item-group/item/item.component";
 import {ItemGroupComponent} from "./item-group/item-group.component";
 import {AotyItem} from "../models/aoty-item";
+import {FormControl, FormGroup, ReactiveFormsModule} from "@angular/forms";
+import {HomeSpecialComponent} from "./home-special/home-special.component";
 
 @Component({
   selector: 'app-home',
@@ -18,7 +20,10 @@ import {AotyItem} from "../models/aoty-item";
     RouterLink,
     ItemComponent,
     ItemGroupComponent,
-    NgIf
+    NgIf,
+    LowerCasePipe,
+    ReactiveFormsModule,
+    HomeSpecialComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
@@ -107,7 +112,7 @@ export class HomeComponent implements OnInit {
       });
       this.aotyListsGroupedByDecade.push({ items: t, decade: decade });
     }
-    for (const decade of [1970, 1980, 1990, 2000]) {
+    for (const decade of [1960, 1970, 1980, 1990, 2000]) {
       for (const item of aotyList.items) {
         if (item.year === decade) {
           this.aotyListsWithoutDecade.push(item);
@@ -120,3 +125,4 @@ export class HomeComponent implements OnInit {
 
   protected readonly AotyItem = AotyItem;
 }
+

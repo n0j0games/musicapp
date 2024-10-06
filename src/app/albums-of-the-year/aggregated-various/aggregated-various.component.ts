@@ -51,17 +51,8 @@ export class AggregatedVariousComponent implements OnInit {
         this.getFavAlbums(false);
         this.aggregatedTitle = "all the albums I love";
         break;
-      case "the-weeknd":
-        this.getArtistAlbums("The Weeknd", 2010, isStrict);
-        break;
-      case "travis-scott":
-        this.getArtistAlbums("Travis Scott", 2014, isStrict);
-        break;
-      case "kanye-west":
-        this.getArtistAlbums("Kanye West", 2000, isStrict);
-        break;
-      case "kendrick-lamar":
-        this.getArtistAlbums("Kendrick Lamar", 2010, isStrict);
+      case "rosalia":
+        this.getArtistAlbums("Rosalía", 2018, isStrict);
         break;
       case "tyler-the-creator":
         this.getArtistAlbums("Tyler, The Creator", 2000, isStrict);
