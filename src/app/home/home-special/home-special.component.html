@@ -1,0 +1,56 @@
+<div class="flex-column gap-xl">
+    <p class="p-b-i fs-xl">highlights</p>
+    <div class="outer-highlight-card flex-column gap-l">
+        <app-item
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'alphabetical'"
+                [text]="'all albums'"
+        ></app-item>
+        <app-item
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'fav-albums'"
+                [text]="'all time favorites'"
+        ></app-item>
+    </div>
+    <p class="p-b-i fs-xl">favs per artist</p>
+    <div class="outer-highlight-card flex-column gap-l">
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'the-weeknd'"
+                [text]="'The Weeknd'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'travis-scott'"
+                [text]="'Travis Scott'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'kanye-west'"
+                [text]="'Kanye West'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'tyler-the-creator'"
+                [text]="'Tyler, The Creator'"
+        ></app-item>
+        <form class="flex-column" [formGroup]="formGroup" (submit)="submitForm()">
+            <input
+                    class="fs-xl p-b-i"
+                    formControlName="artistSearch"
+                    [placeholder]="'search'"
+            >
+            <button type="submit" style="display: none; width: 0">hidden submit</button>
+        </form>
+    </div>
+</div>
