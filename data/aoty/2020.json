@@ -658,6 +658,187 @@
         }
       ],
       "rating": 8.1
+    },
+
+    {
+      "url": "https://open.spotify.com/album/23EKRPix1b7vUYwPovYle0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27352169849e32a2448fffb584a",
+      "title": "CB7",
+      "artist": "Capital Bra",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ca7232129beaa19da34b919e",
+      "title": "Teen X",
+      "artist": "Ken Carson",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c",
+      "title": "Top",
+      "artist": "YoungBoy Never Broke Again",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+      "title": "Whole Lotta Red",
+      "artist": "Playboi Carti",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+      "title": "The Lo-Fis",
+      "artist": "Steve Lacy",
+      "songs": [
+        {
+          "title": "Atomic Vomit",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a1563b7a5155a1b36f0ffd8acc3cc9ce49086c8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "When I",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f46c2d49322ae2eef0ca4b2a15f92975a8ecb37?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0b1q9se93BEqBl3kiltn33",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b63780c667c5cc123273294b",
+      "title": "Visions of Bodies Being Burned",
+      "artist": "clipping.",
+      "songs": [
+        {
+          "title": "Say the Name",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc4c9f857788e94e40898535281dad2c2bcec765?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "'96 Neve Campbell",
+          "preview_url": "https://p.scdn.co/mp3-preview/1202e34e9edfbe1fb387ebf1939910a84968637c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1ZTYPbRPVUeyeHwoSvmLVi",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737d6c766264260ff300a41e35",
+      "title": "MVP",
+      "artist": "KALIM",
+      "songs": [
+        {
+          "title": "WHITE BUFFS",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e8c5e9c3770a11a31dffc37ac059c1612fe362a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SKRR",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c9c9fce9c9f54cb23310aa8b51187c29cc55906?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/7C1YIhs1E4nYbaLxIbGK9l",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273448a6a981773a36ff8ce3100",
+      "title": "EXOT",
+      "artist": "Luciano",
+      "songs": [
+        {
+          "title": "Mios mit Bars",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c27a4f280d4c6b28c37930cf02d562cd9237ad9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dreamer Drill",
+          "preview_url": "https://p.scdn.co/mp3-preview/5537965cdb79ba924dd6ae3dc082bc256a02f3a7?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165",
+      "title": "Music To Be Murdered By ",
+      "artist": "Eminem",
+      "songs": [
+        {
+          "title": "Black Magic (feat. Skylar Grey)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0c86ce5dc6dc672d461ce4eb1c2917d73f749a7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Killer",
+          "preview_url": "https://p.scdn.co/mp3-preview/69d9ef3b9db0d21b2333ffe81ad6896604f827b9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Godzilla (feat. Juice WRLD)",
+          "preview_url": "https://p.scdn.co/mp3-preview/18254fd8756e8e06bc080cfdfc55dfbdc3dba5a3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b9b1d038d8e44ccc5ccfd0e5",
+      "title": "Sin Miedo",
+      "artist": "Kali Uchis",
+      "songs": [
+        {
+          "title": "fue mejor",
+          "preview_url": "https://p.scdn.co/mp3-preview/795d53086a6207e6f28a650cb29aacac3a8cc3ef?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "telepatía",
+          "preview_url": "https://p.scdn.co/mp3-preview/bad92f365d6c9a505af3c9a89c4f0d134acfb090?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Solita",
+          "preview_url": "https://p.scdn.co/mp3-preview/ff7619360d6a816600c0241908d199470f5b954f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739dd6bb3c45294394729ca264",
+      "title": "Nur für dich",
+      "artist": "Ufo361,\nSonus030",
+      "songs": [
+        {
+          "title": "Anders",
+          "preview_url": "https://p.scdn.co/mp3-preview/aeb371930916a2534bd4ff40f328a102cc724547?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Playlist",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d583dd1668ed02711c2209f805b77a5b77bccd4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Shit Changed",
+          "preview_url": "https://p.scdn.co/mp3-preview/97d2b355d874888e5a48dbad9801abe4b3d72bb0?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.5
+    },
+    {
+      "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71",
+      "title": "Modus Vivendi",
+      "artist": "070 Shake",
+      "songs": [
+        {
+          "title": "Come Around",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ebb0b4153475b67d9fcb6e06a5cbb521055d150?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Pines",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2ac6c008ad1848143df2b81f1aa50f9c12f6c2e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Guilty Conscience",
+          "preview_url": "https://p.scdn.co/mp3-preview/d5dc8db7dfd2fb335ec8867502c5a9e5b3477f2e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }
