@@ -13,6 +13,9 @@
             [index]="i+1"
     ></app-album-detail>
 </div>
+<div *ngIf="aggreatedAlbums!.albums.length === 0">
+    <p> No albums found </p>
+</div>
 <div *ngIf="aggregatedTitle === null">
     <p> Something went wrong! </p>
 </div>

@@ -25,9 +25,10 @@ export class RatingComponent implements OnInit {
   private good = "#00ae6b";
   private solid = "#5aae00";
   private mid = "#8d9c0c";
-  private bad = "#bd5151";
+  private bad = "#bd8e51";
+  private horrible = "#bd5151"
 
-  colors = [this.bad, this.bad, this.bad, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
+  colors = [this.horrible, this.horrible, this.horrible, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
 
   ngOnInit() {
     if (this.rating < 0 || this.rating >= 12 ) {

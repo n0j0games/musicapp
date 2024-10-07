@@ -295,6 +295,10 @@ img {
   display: inline;
 }
 
+.halfTransparent {
+  opacity: 50%;
+}
+
 @media (width < 600px) {
 
   .non-mobile, .non-mobile-inline {

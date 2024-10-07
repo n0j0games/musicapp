@@ -1,10 +1,17 @@
-<div class="flex-row align-center gap-l">
+<div [ngClass]="{ 'halfTransparent' : midOrWorst }" class="flex-row align-center gap-l">
     <p class="p-b-i fs-xl counter">{{ index }}</p>
     <img class="cover" src="{{album.imgUrl}}" alt="">
     <div class="flex-column align-start gap-s">
         <p class="p-b-i fs-l left-text"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</p>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
+            <p
+                    *ngIf="midOrWorst"
+                    class="p-b-i fs-xl left-text max-width-800"
+            >
+                {{ album.title | removeDeluxe }}
+            </p>
             <a
+                    *ngIf="!midOrWorst"
                     class="p-b-i fs-xl left-text max-width-800"
                     href="{{album.url}}"
                     target="_blank"

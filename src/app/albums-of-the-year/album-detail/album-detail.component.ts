@@ -33,6 +33,7 @@ export class AlbumDetailComponent implements OnInit {
 
   songinfo! : SongInfo[];
   albumNames! : string;
+  midOrWorst : boolean = false;
 
   constructor(private audioService : AudioService) {
   }
@@ -43,6 +44,7 @@ export class AlbumDetailComponent implements OnInit {
     this.previewUrls = this.album.songs?
         this.album.songs.map(song => song.preview_url) :
         []
+    this.midOrWorst = this.album.rating <= 4;
     this.audioService.playStatusChanged$.subscribe(status => {
       this.isPlaying = status !== null && this.previewUrls.includes(status);
     })

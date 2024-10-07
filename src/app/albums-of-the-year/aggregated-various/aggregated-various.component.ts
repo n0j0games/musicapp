@@ -52,13 +52,16 @@ export class AggregatedVariousComponent implements OnInit {
         this.aggregatedTitle = "all the albums I love";
         break;
       case "rosalia":
-        this.getArtistAlbums("Rosalía", 2018, isStrict);
+        this.getArtistAlbums("rosalía", 2018, isStrict);
         break;
       case "tyler-the-creator":
-        this.getArtistAlbums("Tyler, The Creator", 2000, isStrict);
+        this.getArtistAlbums("tyler, the creator", 2000, isStrict);
         break;
       case "beyonce":
-        this.getArtistAlbums("Beyoncé", 2000, isStrict);
+        this.getArtistAlbums("beyoncé", 2000, isStrict);
+        break;
+      case "j-cole":
+        this.getArtistAlbums("j. cole", 2010, isStrict);
         break;
       case "rin":
         this.getArtistAlbums("rin", 2016, true);
@@ -73,19 +76,20 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears = aotyList!.items!.map(value => value.year);
     let albums = this.getAggregatedAlbums(queryYears);
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
-    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title));
+    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title)).filter(value => value.rating >= 5);
   }
 
   getArtistAlbums(artist : string, activeSince : number, strict : boolean) {
+    artist = artist.toLowerCase();
     let aotyList = this.aotyService.getAotyList();
     const aotyQueryYears = aotyList!.items!.map(value => value.year);
     const queryYears : number[] = this.range(activeSince, new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
     if (strict) {
-      albums = albums.filter(value => value.artist.toLowerCase() === artist.toLowerCase());
+      albums = albums.filter(value => value.artist.toLowerCase() === artist);
     } else {
-      albums = albums.filter(value => value.artist.toLowerCase().includes(artist.toLowerCase()));
+      albums = albums.filter(value => value.artist.toLowerCase().includes(artist));
     }
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);

@@ -24,7 +24,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   activeYear : number = 0;
   thisYear = new Date().getFullYear();
-
+  showBad = false;
   albumsOfTheYear! : AotyItem | null;
 
   constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
@@ -42,7 +42,11 @@ export class AlbumsOfTheYearComponent implements OnInit {
       this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
       return;
     }
-    this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating).filter(value => value.rating >= 7);
+    this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating).filter(value => value.rating > 4);
+  }
+
+  toggleShowBad() {
+    this.showBad = !this.showBad;
   }
 
 }

@@ -21,12 +21,14 @@ export class RatingPipe implements PipeTransform {
       case 6:
         return "SOLID";
       case 5:
-        return "MID";
+        return "OKAY";
       case 4:
+        return "MID";
       case 3:
+        return "BAD";
       case 2:
       case 1:
-        return "BAD";
+        return "TRASH";
       case 0:
         return "UNRATED";
       default:
