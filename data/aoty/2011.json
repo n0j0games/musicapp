@@ -227,6 +227,55 @@
       "title": "Goblin",
       "artist": "Tyler, The Creator",
       "rating": 3.0
+    },
+    {
+      "url": "https://soundcloud.com/912000/travis-scott-jason-eric-cruisn-usa-full-mixtape-2011",
+      "imgUrl": "https://i1.sndcdn.com/artworks-X8ImNOIkQ3Dsj2E1-gduHgg-t500x500.jpg",
+      "title": "Crusi'n USA",
+      "artist": "Travis Scott,\nJason Eric",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2if1gb3t6IkhiKzrtS9Glc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27334ded124e44ed4fe8359891f",
+      "title": "Watch The Throne",
+      "artist": "JAY-Z,\nKanye West",
+      "songs": [
+        {
+          "title": "No Church In The Wild",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d74661405f31894cd5215d5203621d3dc8b8305?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Ni**as In Paris",
+          "preview_url": "https://p.scdn.co/mp3-preview/fa6750682952352b12eecfa246ea3dddab10383d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.5
+    },
+    {
+      "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c8ced8a4d6b6b61eb592f3dd",
+      "title": "LIVE.LOVE.A$AP",
+      "artist": "A$AP Rocky",
+      "songs": [
+        {
+          "title": "Peso",
+          "preview_url": "https://p.scdn.co/mp3-preview/1fca6c578fe29d71f7f677e01cc8b4b7ce6d745b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2672bf9434099e0651c25f20fd96b0b8da5c919a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Demons",
+          "preview_url": "https://p.scdn.co/mp3-preview/8b2a4d6cfede08ff6c7799b7c9738dc84a6ae8f2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Sandman",
+          "preview_url": "https://p.scdn.co/mp3-preview/a8b1c48bd114f5481dfe4a45967744175a3fb38f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
     }
   ]
 }

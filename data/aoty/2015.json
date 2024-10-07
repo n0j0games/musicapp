@@ -327,6 +327,75 @@
         }
       ],
       "rating": 7.2
+    },
+    {
+      "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dc7fa10440eb5ddd8d90a8aa",
+      "title": "Luv Is Rage",
+      "artist": "Lil Uzi Vert",
+      "songs": [
+        {
+          "title": "Safe House",
+          "preview_url": "https://p.scdn.co/mp3-preview/b922200c3337cbbd7d334996c538e77b8d70bed8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Banned from TV",
+          "preview_url": "https://p.scdn.co/mp3-preview/0fc3aad2474b4569231a16b08b3b62c2419b22b8?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951",
+      "title": "Cry Baby (Deluxe Edition)",
+      "artist": "Melanie Martinez",
+      "rating": 1.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311",
+      "title": "Mansion",
+      "artist": "NF",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27384214b1d100a4fc1442d140e",
+      "title": "LIL PEEP; PART ONE",
+      "artist": "Lil Peep",
+      "songs": [
+        {
+          "title": "praying to the sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/d98954521b953833508e5957394a71692782f559?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "the way i see things",
+          "preview_url": "https://p.scdn.co/mp3-preview/7cbb373fe89ed58b9be79911063b3dd157685926?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+      "title": "What A Time To Be Alive",
+      "artist": "Drake,\nFuture",
+      "songs": [
+        {
+          "title": "Diamonds Dancing",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d4ac29aca46f838a1599bdf953f2802920dfa01?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Jersey",
+          "preview_url": "https://p.scdn.co/mp3-preview/2fc8d51d4c91369ccc89f8a0e43887e6715f5c04?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "30 for 30 Freestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/239867c2b6c5a95989e85a5c919b5124d20a7516?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }

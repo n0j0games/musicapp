@@ -685,6 +685,187 @@
         }
       ],
       "rating": 7.1
+    },
+    {
+      "url": "https://open.spotify.com/album/05qQ4Sl7LjxDhZFB1ChVvH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27303280595fae8116501896327",
+      "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "artist": "Tyler, The Creator",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6",
+      "title": "SKINS",
+      "artist": "XXXTENTACION",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5vc7GCjUpkbDUodoFc1FTI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e019b932c5c19eebf82d3d73",
+      "title": "Berlin lebt 2",
+      "artist": "Capital Bra,\nSamra",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6ee8lju8zGwQ6Pkr5tZSts",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27320f9c767b8624a234a578f21",
+      "title": "Until Death Call My Name",
+      "artist": "YoungBoy Never Broke Again",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0JBOzsIzrlq7ZHsj1NCZfq",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27363abbce173d88db0e2841782",
+      "title": "L.O.C.O.",
+      "artist": "Luciano",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+      "title": "Scorpion",
+      "artist": "Drake",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5lxdY4GQkCJMcvScmwRgCx",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fa400a2bb9a2cf515aeffaf1",
+      "title": "The Sound of Bad Habit",
+      "artist": "Baby Keem",
+      "songs": [
+        {
+          "title": "Gang Activities",
+          "preview_url": "https://p.scdn.co/mp3-preview/fadf7ea6938b849c24c5f10cef8782bd2bd80fa2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Baby Keem",
+          "preview_url": "https://p.scdn.co/mp3-preview/71298fa5f8c5e95585552dd699614ed7489ec009?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/593hMJS0UPItZBWSWPX1Qb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ebd4538e6787f7d7950d663d",
+      "title": "Palmen aus Plastik 2",
+      "artist": "Bonez MC,\nRAF Camora",
+      "songs": [
+        {
+          "title": "500 PS",
+          "preview_url": "https://p.scdn.co/mp3-preview/71bea24a593ebdac5e2e23cd65adbf0fcfc68bb0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kokain",
+          "preview_url": "https://p.scdn.co/mp3-preview/2355bf5500b4216d7da962312e2e9bddd917111c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "artist": "Various Artists",
+      "songs": [
+        {
+          "title": "Sunflower",
+          "preview_url": "https://p.scdn.co/mp3-preview/801a664529525b366fa6fb8f6cacd5dd83928272?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Familia",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a6a6cf33ab393578f98a5e4e2ebeff2fd8d64d3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Scared of the Dark",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f1f3795be0b6747b24ca281f4f9e2560d895c6b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4svVMaetHLR53HQjy1l5AX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f0fa2831b9f7c41262415adc",
+      "title": "VVS",
+      "artist": "Ufo361",
+      "songs": [
+        {
+          "title": "VVS",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a26b558ac289b0ec481ee919915abc7c768fc13?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Vorbeikommen",
+          "preview_url": "https://p.scdn.co/mp3-preview/10a2fe299b57cddf12c1bbe5b297122e78c4a213?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Verändert",
+          "preview_url": "https://p.scdn.co/mp3-preview/67d56c90766d9075647e83ab3ae4d394fce97706?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/66EwBbt2kPgugo8Wz0SKAw",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734c2ab67f7da8208998f35d51",
+      "title": "NASIR",
+      "artist": "Nas",
+      "songs": [
+        {
+          "title": "Not For Radio",
+          "preview_url": "https://p.scdn.co/mp3-preview/166de0194965e9a07c9ef07ff73d8bbb25b02d32?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cops Shot The Kid",
+          "preview_url": "https://p.scdn.co/mp3-preview/e70639a8b0dba6478a843059076daa4289f3f57a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "everything",
+          "preview_url": "https://p.scdn.co/mp3-preview/937ae92cb65081515b034af3c465ea85741e75a5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "title": "Goodbye & Good Riddance",
+      "artist": "Juice WRLD",
+      "songs": [
+        {
+          "title": "Lucid Dreams",
+          "preview_url": "https://p.scdn.co/mp3-preview/85ba40ef782e993bac9ee1c945f90c123b11ffec?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Armed And Dangerous",
+          "preview_url": "https://p.scdn.co/mp3-preview/674ca5c6fcf14caa538f1b999888549e023ceddd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lean Wit Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/06755f4c18c933703bff62749fb6cd9b454b8ffe?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+      "title": "?",
+      "artist": "XXXTENTACION",
+      "songs": [
+        {
+          "title": "ALONE, PART 3",
+          "preview_url": "https://p.scdn.co/mp3-preview/27f1e3117d1fab312537a65c714cc07353b2e5b0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Moonlight",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc7faf8b857409dd3655ccbc084d90c4f2551797?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SAD!",
+          "preview_url": "https://p.scdn.co/mp3-preview/056a1074f4687ab09a2d548baf72ca3e2fa42d79?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }

@@ -466,6 +466,160 @@
       "title": "Yandhi",
       "artist": "Kanye West",
       "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a4cba447b322609cd47fb9d3",
+      "title": "AI YoungBoy 2",
+      "artist": "YoungBoy Never Broke Again",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5vc7GCjUpkbDUodoFc1FTI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e019b932c5c19eebf82d3d73",
+      "title": "Berlin lebt 2",
+      "artist": "Capital Bra,\nSamra",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27360ec4df52c2d724bc53ffec5",
+      "title": "ERYS",
+      "artist": "Jaden",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4PKdUHGtcJtsjhIaR4fjMk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea5c803c889b985833ae8b8e",
+      "title": "Freewave 3",
+      "artist": "LUCKI",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fe9008022f3f54d81dcc8030",
+      "title": "DROPPED OUTTA COLLEGE",
+      "artist": "24kGoldn",
+      "songs": [
+        {
+          "title": "DROPPED OUTTA COLLEGE",
+          "preview_url": "https://p.scdn.co/mp3-preview/0204b633c9a3c70933fdc7848fd900f1d9f66264?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "CITY OF ANGELS",
+          "preview_url": "https://p.scdn.co/mp3-preview/1dc221c1bc37731ca73dfada8a834b1db041d17d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "A LOT TO LOSE",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a0b22bf183b594e0de8812a426b9c62f7430565?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+      "title": "Hollywood's Bleeding",
+      "artist": "Post Malone",
+      "songs": [
+        {
+          "title": "Hollywood's Bleeding",
+          "preview_url": "https://p.scdn.co/mp3-preview/e50a10de5fa1b080975a0f6bfdcd82e0c3b80b52?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4212daa40ad717debecda340e929258d5f55cc7c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Goodbyes (feat. Young Thug)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5eaefa30dfb2fef460bc377f933b570a0c931596?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.5
+    },
+    {
+      "url": "https://open.spotify.com/album/1vb7b2AGw1Ko98yX0gJaN1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27332c2808dfe7f9a59a2fcbedc",
+      "title": "MILLIES",
+      "artist": "Luciano",
+      "songs": [
+        {
+          "title": "La Haine",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c41beaeba7f73f9176b9d95c6cf334a555d865d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fendi Drip",
+          "preview_url": "https://p.scdn.co/mp3-preview/375bada7cbb48051f6a3222eefd3321e8499213f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hennessy",
+          "preview_url": "https://p.scdn.co/mp3-preview/51d22c3bda29ab4a21944c4fd07b86bcb7e98b5a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2t73pvBOZ6UmSUTyO0tb8X",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27350a7ebfd453e5e1e23eca016",
+      "title": "Drama",
+      "artist": "Shindy",
+      "songs": [
+        {
+          "title": "Babyblau",
+          "preview_url": "https://p.scdn.co/mp3-preview/0dc98fc000df1103e609a1ff828c28e85394fda5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Affalterbach",
+          "preview_url": "https://p.scdn.co/mp3-preview/668945551e8e58a46e52acd9de78df2bd9dd0394?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nautilus",
+          "preview_url": "https://p.scdn.co/mp3-preview/c06083ebd4d3323d326ae5be4d63eefaba877440?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c0e7bf5cdd630f314f20586a",
+      "title": "7 EP",
+      "artist": "Lil Nas X",
+      "songs": [
+        {
+          "title": "Old Town Road - Remix",
+          "preview_url": "https://p.scdn.co/mp3-preview/32744d501b733e5b31d25448540e365db2600c45?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Panini",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9bf27ec0415fedffcfd48953b80352709664140?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bring U Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/a47df438b757908c2689d3db70cf4856975de469?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664",
+      "title": "Death Race For Love (Bonus Track Version)",
+      "artist": "Juice WRLD",
+      "songs": [
+        {
+          "title": "Empty",
+          "preview_url": "https://p.scdn.co/mp3-preview/804cea05a488e04a89cb445299a1f55a8578ed44?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Robbery",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf64da8095afffc6c6feca25c90e96487f1eceb1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bandit (with YoungBoy Never Broke Again)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1365ffcf2382f27460549f6cffd9d348a9ed32b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }

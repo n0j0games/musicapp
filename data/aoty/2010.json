@@ -129,6 +129,48 @@
         }
       ],
       "rating": 7.5
+    },
+    {
+      "url": "https://open.spotify.com/album/2Hq2mf6ck5t5hYIvd3AVvA",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730bff0d14e5569bc07279de48",
+      "title": "Body Talk pt. 2",
+      "artist": "Robyn",
+      "songs": [
+        {
+          "title": "In My Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ba669dbaec63801b148e62b0a228c9eba0503b2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Hang With Me - Original",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5a9a8744c587cb736d9a96c796ec3abf90905e4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Love Kills",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0fe4a20ac1ba30eefaf97a41051f7b1ec7e1369?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27372babba16ea5e3afe690b4f1",
+      "title": "Thank Me Later",
+      "artist": "Drake",
+      "songs": [
+        {
+          "title": "Over",
+          "preview_url": "https://p.scdn.co/mp3-preview/e792215e2837ff186bb6c61e791c4a46251a6b52?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Find Your Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/760ac2681dee6b11308a9861373918581cefae09?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Best I Ever Had",
+          "preview_url": "https://p.scdn.co/mp3-preview/805f0f5d7a6b43ddd9cb4bc7949c2d95f8b985ce?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.1
     }
   ]
 }

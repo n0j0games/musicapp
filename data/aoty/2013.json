@@ -260,6 +260,48 @@
         }
       ],
       "rating": 8.3
+    },
+    {
+      "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+      "title": "Nothing Was The Same - Deluxe",
+      "artist": "Drake",
+      "songs": [
+        {
+          "title": "Hold On, We're Going Home",
+          "preview_url": "https://p.scdn.co/mp3-preview/899e6ab1f648df2dbfc67d1ac1bc9852f4537dd6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pound Cake / Paris Morton Music 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/efc481db773c447b83f0de7a6a2390496ccd224f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Motion",
+          "preview_url": "https://p.scdn.co/mp3-preview/7683b0eb2e67aa7fd03546e15c83cf3b65558786?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c004413fd98fe52ea4991fbb",
+      "title": "True Romance",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "You (Ha Ha Ha)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4efd0f3c83e5ffbf3a4faa7c2a88255f39702b57?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Set Me Free (Feel My Pain)",
+          "preview_url": "https://p.scdn.co/mp3-preview/80429b9d622d52b08d7324213b441f179969a19f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Grins",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c68dd5f07d88df2286d674bd1b6916dc478f52c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }

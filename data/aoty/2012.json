@@ -206,6 +206,37 @@
       "title": "The OF Tape Vol. 2",
       "artist": "Odd Future, Tyler, The Creator, Frank Ocean",
       "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273938f1c0cc7d36a671ed226a7",
+      "title": "The Heist",
+      "artist": "Macklemore & Ryan Lewis,\nMacklemore,\nRyan Lewis",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733a2d2b9621ef645380c63c16",
+      "title": "Good Music Cruel Summer",
+      "artist": "Kanye West",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27397c097afa44e5cdb38a03d4f",
+      "title": "Raop",
+      "artist": "CRO",
+      "songs": [
+        {
+          "title": "Easy",
+          "preview_url": "https://p.scdn.co/mp3-preview/a88c9d50a30fb24354afbec961b03076d4f9be69?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Einmal um die Welt",
+          "preview_url": "https://p.scdn.co/mp3-preview/27736a51aa116ae88593ebf9f620c63142bc4637?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
     }
   ]
 }

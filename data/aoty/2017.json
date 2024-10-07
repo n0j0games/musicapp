@@ -447,6 +447,186 @@
       "title": "Huncho Jack, Jack Huncho",
       "artist": "Huncho Jack,\nTravis Scott,\nQuavo",
       "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dee6b58d35215322626b5701",
+      "title": "Revival",
+      "artist": "Eminem",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6JH4KYYdzmJyJzdgVpyWky",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730ff55bd6dba6074d3804e53c",
+      "title": "Banditorinho",
+      "artist": "Luciano",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4ADIqpPBchOMHfHYRL9HU1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27326ab1049e6484127be4e214f",
+      "title": "Eiskalt",
+      "artist": "Luciano",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
+      "title": "Perfect Timing",
+      "artist": "NAV,\nMetro Boomin",
+      "rating": 3.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0llyIxX3nDC3hobbGibVZl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a921ed2b886e7d154e88d37b",
+      "title": "Double Or Nothing (& Metro Boomin)",
+      "artist": "Big Sean,\nMetro Boomin",
+      "songs": [
+        {
+          "title": "Go Legend (& Metro Boomin)",
+          "preview_url": "https://p.scdn.co/mp3-preview/d47b93e9e8b103776117aa285b8fbb7b039b80a3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Who's Stopping Me (& Metro Boomin)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f41c16d7233f167a3667930d0a6182d4d501adfc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736aafb01504b69173c877bdca",
+      "title": "SYRE",
+      "artist": "Jaden",
+      "songs": [
+        {
+          "title": "Icon",
+          "preview_url": "https://p.scdn.co/mp3-preview/586560111b735769108ef4b2549f13ee9f55a086?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Watch Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2b710e5708672c1f2fce43a6850553fdab2def6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c",
+      "title": "Luv Is Rage 2 - Deluxe",
+      "artist": "Lil Uzi Vert",
+      "songs": [
+        {
+          "title": "444+222",
+          "preview_url": "https://p.scdn.co/mp3-preview/35aeb02457c9420ab3348ee80786746d24eb26eb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "20 Min",
+          "preview_url": "https://p.scdn.co/mp3-preview/3dd55d0ccc147f9a655048af71275a345ad54c7f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0k3311qEFcwoTNZxhhBqJ1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738fe972edd6672ce8df00a9fe",
+      "title": "Ich bin 3 Berliner",
+      "artist": "Ufo361",
+      "songs": [
+        {
+          "title": "Der Pate",
+          "preview_url": "https://p.scdn.co/mp3-preview/68a72862a293912c02353a9b36b2f84b185c1815?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Für die Gang",
+          "preview_url": "https://p.scdn.co/mp3-preview/92b58a186177eebd8db22f45606a6439e2ea98bd?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f",
+      "title": "Perception",
+      "artist": "NF",
+      "songs": [
+        {
+          "title": "Let You Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/48e3201996af61c4e48bb5f8dbdd004db4a6a63b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lie",
+          "preview_url": "https://p.scdn.co/mp3-preview/eabf67dd326edc369d3b93029b5199476bc170ae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Outro",
+          "preview_url": "https://p.scdn.co/mp3-preview/defb075401c3c9e9a5e8eb1ba54eb5dc9fbb0110?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732719343298d0e4f1790e14cd",
+      "title": "Issa Album",
+      "artist": "21 Savage",
+      "songs": [
+        {
+          "title": "Bank Account",
+          "preview_url": "https://p.scdn.co/mp3-preview/35e50885ea3c7a1fc34adc245d3600d9f2156bb6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bad Business",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2a6e3fc81a0cbbb4a1249276ae4150fab62c9dd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "7 Min Freestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec913dbfeb64cea2a819914dd4fe42c268e7ae03?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4ZGMPQcvFLMF7SKO01yaZg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27333a05856381d7dc016fdd3c8",
+      "title": "Dua Lipa - Complete Edition",
+      "artist": "Dua Lipa",
+      "songs": [
+        {
+          "title": "New Rules",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ec9bdaf196a302e0fcf762f52321c84f3b1379d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Genesis",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d23225ee5ec7ee016b4eafffedf585ea5fd3b39?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "No Lie",
+          "preview_url": "https://p.scdn.co/mp3-preview/b805463fef8fb49de6d424a20a947f1aaff98f4d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "title": "More Life",
+      "artist": "Drake",
+      "songs": [
+        {
+          "title": "Passionfruit",
+          "preview_url": "https://p.scdn.co/mp3-preview/f54450b33a17422d771eb9c70f171cb015273dc9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "4422",
+          "preview_url": "https://p.scdn.co/mp3-preview/c51586f2ab3cd91b2d3af6f2362fc375d7e5cdaf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Do Not Disturb",
+          "preview_url": "https://p.scdn.co/mp3-preview/df989a31c8233f46b6a997c59025f9c8021784aa?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.5
     }
   ]
 }

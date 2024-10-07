@@ -166,6 +166,40 @@
         }
       ],
       "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27313161ff10a60612a6d20e15d",
+      "title": "SUCKER",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "Break the Rules",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d1e372ad7e1c5b4e4eeeb4f328386583bff1a27?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Boom Clap",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ace654d50ca2e58e36cf23ec42c432196def289?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27335b8ee1c2eddc573e5148db4",
+      "title": "Melodie",
+      "artist": "CRO",
+      "songs": [
+        {
+          "title": "Traum",
+          "preview_url": "https://p.scdn.co/mp3-preview/44d30e7420903a680adc5eeb2c22763fec751f4b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bad Chick",
+          "preview_url": "https://p.scdn.co/mp3-preview/a2d82f8308dea75233fddc56d1849461ce3b05fc?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
     }
   ]
 }
