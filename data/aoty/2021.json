@@ -573,6 +573,161 @@
         }
       ],
       "rating": 7.0
+    },
+
+    {
+      "url": "https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734fc2bc1fbb295ceabbf5a658",
+      "title": "Sincerely, Kentrell",
+      "artist": "YoungBoy Never Broke Again",
+      "rating": 2.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737459992b444de38842b9bee7",
+      "title": "Fighting Demons (Deluxe)",
+      "artist": "Juice WRLD",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27379476cf856443329e6c52c04",
+      "title": "Faith",
+      "artist": "Pop Smoke",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3KAtEV9jbwMKd1BPbN4XfV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273804a20343ab9df88ca2c0548",
+      "title": "100 Pro",
+      "artist": "Bausa",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3Mqu6AiWCitdC3XrSYz4Lb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b4a5e76c0f325922a5017b31",
+      "title": "STAY HIGH",
+      "artist": "Ufo361",
+      "songs": [
+        {
+          "title": "KONTOSTAND 2.0",
+          "preview_url": "https://p.scdn.co/mp3-preview/77e53e6b8fb80057718ef6887d0e98b701877245?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ANGEKOMMEN",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d542c72e343fb7382189a4dd58eec9e3bc70392?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6HwNzBItWtIVYPXda2VFoJ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734048d1ba8aa549c822504e03",
+      "title": "Alone at Prom (Deluxe)",
+      "artist": "Tory Lanez",
+      "songs": [
+        {
+          "title": "The Color Violet",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d7c627bf549328110519c4bd21ac39d7ca50ea1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lavender Sunflower",
+          "preview_url": "https://p.scdn.co/mp3-preview/df55e017bbdc4f04492e605ffbbbff818d92c9ba?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Lady Of Namek",
+          "preview_url": "https://p.scdn.co/mp3-preview/13ec6bf54c1cb41de7cc78a2a9d8fc7d3402ebec?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+      "title": "Certified Lover Boy",
+      "artist": "Drake",
+      "songs": [
+        {
+          "title": "Champagne Poetry",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae7603a040d85a7c7edc00d88b7e18fc3828233b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Fair Trade (with Travis Scott)",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb11d1cbc3babe956721c8292a3c825dbf326bcf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pipe Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/d86daa73d763b3f6139133b9accb6f0ffbdf9ace?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a5603d487cfa2c30a05cdfaa",
+      "title": "Solar Power (Deluxe Edition)",
+      "artist": "Lorde",
+      "songs": [
+        {
+          "title": "The Path",
+          "preview_url": "https://p.scdn.co/mp3-preview/637700de9fb7423331d66596a0b711358945d2f7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Solar Power",
+          "preview_url": "https://p.scdn.co/mp3-preview/a27e3f76f223f3b197e661bb0916ee49ac280f48?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "California",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7e77d85845354aad09ef639223f947111dcd6dd?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27302b0ac4db2fd46d936e748cd",
+      "title": "lately I feel EVERYTHING",
+      "artist": "WILLOW",
+      "songs": [
+        {
+          "title": "t r a n s p a r e n t s o u l feat. Travis Barker",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f6586f8db721984a5af518d3a3427783a373a39?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "F**K You",
+          "preview_url": "https://p.scdn.co/mp3-preview/4453fa3b2999beb35231746344379266fb332e25?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Gaslight feat. Travis Barker",
+          "preview_url": "https://p.scdn.co/mp3-preview/7c88c71bfebf1302e5c0ab4c862f4895cf5f566a?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/16tuI6FDT9bCFznFAQn8sJ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739e787b789eb6eabffe458b5c",
+      "title": "SUPERSONIC-WORKAHOLIC",
+      "artist": "TJ_beastboy",
+      "songs": [
+        {
+          "title": "WEREGARURUMON",
+          "preview_url": "https://p.scdn.co/mp3-preview/b27e5692d89f0f8e83be959ef74f0d777f4b3388?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "HELLA SEXY",
+          "preview_url": "https://p.scdn.co/mp3-preview/f38274e773e4aab301fa0cfe603ed60f2327dee4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ACH KOMM",
+          "preview_url": "https://p.scdn.co/mp3-preview/a4346aeef8a0b45429de93b733a34a11d2e7aff9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SATELLiT",
+          "preview_url": "https://p.scdn.co/mp3-preview/57770a6bdce7315fb4d352de664d103fc2eb4729?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
     }
   ]
 }
