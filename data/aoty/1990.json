@@ -411,6 +411,94 @@
         }
       ],
       "rating": 9.3
+    },
+
+    {
+      "url": "https://open.spotify.com/album/14JahnBKUL2ou13zH2OOQP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f598f32df9d06fd5e1ff9568",
+      "title": "Infinite",
+      "artist": "Eminem",
+      "rating": 4.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
+      "title": "Rage Against The Machine",
+      "artist": "Rage Against The Machine",
+      "songs": [
+        {
+          "title": "Killing In the Name",
+          "preview_url": "https://p.scdn.co/mp3-preview/c3977b73cfc8aa2165bc088e7d9607a400b8514d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Take the Power Back",
+          "preview_url": "https://p.scdn.co/mp3-preview/8048af5e854ce0aa5c3ef441c4929d6aac3242a1?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739bef45ee387f274ea3198c55",
+      "title": "The Slim Shady LP",
+      "artist": "Eminem",
+      "songs": [
+        {
+          "title": "My Name Is",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0c37f64c44c619f3c9325a20defb30eb89009ae?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Guilty Conscience",
+          "preview_url": "https://p.scdn.co/mp3-preview/93585a308bcb497b05cdf2e41fea7ad5911ede1a?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Brain Damage",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6a88b4d3ba97883859fe59e3d2ba61d7025c020?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738ac778cc7d88779f74d33311",
+      "title": "Homework",
+      "artist": "Daft Punk",
+      "songs": [
+        {
+          "title": "Daftendirekt",
+          "preview_url": "https://p.scdn.co/mp3-preview/c82715db00246fb94fedb163bb1ca410f5c7bff9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Da Funk",
+          "preview_url": "https://p.scdn.co/mp3-preview/efebf4ba1837d04a588c7636490e72d6e46d1c27?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Around the World",
+          "preview_url": "https://p.scdn.co/mp3-preview/069ca7413057323193028d0992abac9980c7f3c5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d",
+      "title": "Dookie",
+      "artist": "Green Day",
+      "songs": [
+        {
+          "title": "Burnout",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2c294ac0edc78388ce0be2de9e4d3df6fdcb733?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Having a Blast",
+          "preview_url": "https://p.scdn.co/mp3-preview/67aac152e6029539a4744d842d5b8ca9279ff7a6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Chump",
+          "preview_url": "https://p.scdn.co/mp3-preview/4943453bcc190bd06e65e413bf2593ff16a79fb3?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }

@@ -633,6 +633,89 @@
         }
       ],
       "rating": 8.5
+    },
+    {
+      "url": "https://soundcloud.com/user-26289382/sets/travis-cott-chris-holloway-the-graduates-ep",
+      "imgUrl": "https://i1.sndcdn.com/artworks-000599012657-jb0zf0-t500x500.jpg",
+      "title": "The Graduates",
+      "artist": "Travis Scott & Chris Holloway",
+      "rating": 1.0
+    },
+    {
+      "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
+      "title": "The Blueprint 3",
+      "artist": "JAY-Z",
+      "songs": [
+        {
+          "title": "Run This Town",
+          "preview_url": "https://p.scdn.co/mp3-preview/82980f868b2a260cdb3e72758f3bc98e7e69bf42?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Empire State Of Mind",
+          "preview_url": "https://p.scdn.co/mp3-preview/cfa4fdeeb114b731f020502ac19361de282cbbae?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd",
+      "title": "So Far Gone",
+      "artist": "Drake",
+      "songs": [
+        {
+          "title": "Say What's Real",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ed44c1da3e1d2d2e777222ce6d58d4909534f93?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Brand New",
+          "preview_url": "https://p.scdn.co/mp3-preview/b567c25c88135eab1d203545c01bfd770fc53cf8?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 5.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da",
+      "title": "Confessions (Expanded Edition)",
+      "artist": "USHER",
+      "songs": [
+        {
+          "title": "Yeah! (feat. Lil Jon & Ludacris)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1eca1cb525c2b0df2ecba52f1105f139323e09a2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "My Boo",
+          "preview_url": "https://p.scdn.co/mp3-preview/5391dafc63896270994d13c5fc501da0d149ef49?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Confessions Part II Remix (feat. Shyne, Twista & Kanye West)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e06019fdacd677e89b0618f87c1213b71329b74c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+      "title": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "songs": [
+        {
+          "title": "Stan",
+          "preview_url": "https://p.scdn.co/mp3-preview/966406ecff01a973669e1457b17fdd7e7089d454?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Real Slim Shady",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3cb1372a99a0944063b535182eef6ad80d43087?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bitch Please II",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c8048e0aae78eaef74ce9604aef4ebbe73267e6?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }
