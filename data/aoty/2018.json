@@ -57,7 +57,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c1bcb779bca4da7d1dd96c378c42297fd410678a?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.9
+      "rating": 9.9,
+      "onVinyl" : true
     },
     {
       "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
@@ -144,7 +145,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/62d779236d5e71dd3c5c5dbb43d084bde21d003d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "onVinyl" : true
     },
     {
       "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp",

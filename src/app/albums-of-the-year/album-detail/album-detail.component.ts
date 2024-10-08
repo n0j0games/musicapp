@@ -7,6 +7,7 @@ import {RatingComponent} from "../../common/rating/rating.component";
 import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
 import {SongInfo} from "../../models/songinfo";
+import {VinylComponent} from "../../common/vinyl/vinyl.component";
 
 @Component({
   selector: 'app-album-detail',
@@ -18,7 +19,8 @@ import {SongInfo} from "../../models/songinfo";
     RemoveDeluxePipe,
     RemoveFeatPipe,
     NgStyle,
-    NgClass
+    NgClass,
+    VinylComponent
   ],
   templateUrl: './album-detail.component.html'
 })

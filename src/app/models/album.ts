@@ -8,7 +8,8 @@ export class Album {
                 public previewUrl : string,
                 public rating : number,
                 public title : string,
-                public songs? : { "title" : string, "preview_url" : string }[]) {
+                public songs? : { "title" : string, "preview_url" : string }[],
+                public onVinyl? : boolean) {
     }
 
 }

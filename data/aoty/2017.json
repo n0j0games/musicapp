@@ -57,7 +57,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4671d1aa1268202225a569c0cfb029ff6e5b8e90?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.9
+      "rating": 9.9,
+      "onVinyl" : true
     },
     {
       "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",

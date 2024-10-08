@@ -25,7 +25,13 @@
             ></app-play-button>
         </div>
         <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <span class="p-b-i">{{ albumNames | removeFeat }}</span></p>
-        <app-rating [rating]="album.rating"></app-rating>
+        <div class="flex-row align-center gap-s">
+            <app-rating [rating]="album.rating"></app-rating>
+            <app-vinyl *ngIf="album.onVinyl !== undefined"
+                       [wishlisted] = "!album.onVinyl"
+            ></app-vinyl>
+        </div>
+
     </div>
 </div>
 
