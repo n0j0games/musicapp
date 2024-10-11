@@ -1691,6 +1691,56 @@
         }
       ],
       "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47",
+      "title": "Brat and it’s completely different but also still brat",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "Talk talk featuring troye sivan",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee013d4c7ce28adbd3e7182c15beec885f965590?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Girl, so confusing featuring lorde",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffd0ced326c69928a67d9f053616fdd4cd884e9f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Guess featuring billie eilish",
+          "preview_url": "https://p.scdn.co/mp3-preview/d956d285d342ffcac4b55507a35f425c65806f1d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cd4bc20fc6f243523200d997",
+      "title": "EIN SCHRITT UND ICH FALL",
+      "artist": "$OHO BANI",
+      "songs": [
+        {
+          "title": "JERSEY POP (genies)",
+          "preview_url": "https://p.scdn.co/mp3-preview/187f0d89a40d697f0552232b78729029742e5b58?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "YO HABIB",
+          "preview_url": "https://p.scdn.co/mp3-preview/b6a9f873d24bfb40f67744a3266b2394b2fe1866?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "STORY OF MY LIFE",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d5011edca8fb7e69ea97f5cc24af01b714f1de4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "perfekt(er)",
+          "preview_url": "https://p.scdn.co/mp3-preview/76cbc3f2490d1b96552ae1c0dc8fab81e5dbd727?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ZEIT, DASS SICH WAS DREHT",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d1723a16c2d4496fb365605673bc714ff08fad5?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
     }
   ]
 }

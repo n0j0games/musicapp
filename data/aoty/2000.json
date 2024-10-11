@@ -716,6 +716,64 @@
         }
       ],
       "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f4e05714b5d4d43486f39a8",
+      "title": "Seven Swans",
+      "artist": "Sufjan Stevens",
+      "songs": [
+        {
+          "title": "All the Trees of the Field Will Clap Their Hands",
+          "preview_url": "https://p.scdn.co/mp3-preview/863f7717fada0e3cb465724b18cce0193e7be760?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Dress Looks Nice on You",
+          "preview_url": "https://p.scdn.co/mp3-preview/656f83da313e83b5dad21969015a1d675673d957?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In the Devil's Territory",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9f36252ed1cd7c7845c0598a6cbd8dddbafb6a1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "To Be Alone With You",
+          "preview_url": "https://p.scdn.co/mp3-preview/75d6bca5675c59492a217a20872e9e551b3f2c10?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Abraham",
+          "preview_url": "https://p.scdn.co/mp3-preview/0fe64b0f33698b2ad943f002a7c885acb34c3987?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Seven Swans",
+          "preview_url": "https://p.scdn.co/mp3-preview/c327f4bad6e62a57dd40b6a282bd50c3d8e1b73c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.5
+    },
+    {
+      "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27354cc3c482a2773faa2d2ef67",
+      "title": "Michigan",
+      "artist": "Sufjan Stevens",
+      "songs": [
+        {
+          "title": "Holland",
+          "preview_url": "https://p.scdn.co/mp3-preview/04ce32f4fa9e83395926d28b424a557b568b77db?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Oh God Where Are You Now? (In Pickerel Lake? Pigeon? Marquette? Mackinaw?)",
+          "preview_url": "https://p.scdn.co/mp3-preview/22d0c73a83c02e35fc7f940e403703db90dc7ca2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Flint (For the Unemployed and Underpaid)",
+          "preview_url": "https://p.scdn.co/mp3-preview/60064706ce06cc5e03ffaa1ba708778335f8ee10?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "All Good Naysayers, Speak Up! Or Forever Hold Your Peace!",
+          "preview_url": "https://p.scdn.co/mp3-preview/3dfbc43bdc3a84bc2f1c8a179129e9875f84f13f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.3
     }
   ]
 }
