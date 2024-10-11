@@ -2,9 +2,10 @@
   position: absolute;
   opacity: 0;
   left: 0;
+  right: 0;
+  top: 50%;
   transform: translateY(100px);
   transition: all 0.5s 0.5s;
-  height: 60vh;
   background: #6dcfaa;
 }
 .scroll-element.show {
@@ -12,5 +13,6 @@
   transform: translateY(0);
 }
 .parent-container {
-  height: 60vh;
+  height: calc(100vh - 60px);
+  width: 100%;
 }

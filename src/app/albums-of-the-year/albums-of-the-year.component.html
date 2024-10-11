@@ -1,19 +1,17 @@
-
 <div *ngIf="albumsOfTheYear !== null" class="parent-container">
+    <button #prev (click)="clickPrev()" style="display: none" >P</button>
+    <button #next (click)="clickNext()" style="display: none" >N</button>
     <div #page>
-        <p class="p-i fs-xl title-gap-b scroll-element"><span class="p-b-i"> my fav albums of {{ albumsOfTheYear?.year }}</span><span *ngIf="albumsOfTheYear?.year === thisYear"> (so far)</span></p>
+        <p class="p-i fs-xl title-gap-b scroll-element"><span class="p-b-i"> my fav albums of {{ albumsOfTheYear.year }}</span><span *ngIf="albumsOfTheYear.year === thisYear"> (so far)</span></p>
     </div>
-    <div #page *ngFor="let album of albumsOfTheYear.albums; index as i">
+    <div #page *ngFor="let album of albumsOfTheYear.albums; index as i ">
         <app-album-detail
                 [album]="album"
                 [index]="i+1"
                 class="scroll-element"
         ></app-album-detail>
     </div>
-
 </div>
 <div *ngIf="albumsOfTheYear === null">
     <p> Something went wrong! </p>
 </div>
-<button #prev (click)="clickPrev()" >P</button>
-<button #next (click)="clickNext()">N</button>

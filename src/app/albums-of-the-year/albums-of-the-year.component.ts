@@ -10,7 +10,7 @@ import {
 import {ActivatedRoute, Router} from "@angular/router";
 import {AotyService} from "../services/aoty.service";
 import {AotyItem} from "../models/aoty-item";
-import {NgForOf, NgIf} from "@angular/common";
+import {NgForOf, NgIf, NgStyle} from "@angular/common";
 import {SongDetailComponent} from "../songs-of-the-week/song-detail/song-detail.component";
 import {AlbumDetailComponent} from "./album-detail/album-detail.component";
 
@@ -21,7 +21,8 @@ import {AlbumDetailComponent} from "./album-detail/album-detail.component";
     NgForOf,
     NgIf,
     SongDetailComponent,
-    AlbumDetailComponent
+    AlbumDetailComponent,
+    NgStyle
   ],
   templateUrl: './albums-of-the-year.component.html',
   styleUrls: ['./albums-of-the-year.component.scss']
@@ -67,6 +68,8 @@ export class AlbumsOfTheYearComponent implements OnInit, AfterViewInit {
   animationDuration = 500;
   lastAnimation = 0;
   index = 0;
+
+  backgrounds = ["#655555", "#43d550", "#259bbf"]
 
   togglePageContent(index : any, state : any) {
     if (state === 'show') {
