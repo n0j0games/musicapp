@@ -1,11 +1,19 @@
-<p class="p-i fs-xl title-gap-b"><span class="p-b-i"> my fav albums of {{ albumsOfTheYear?.year }}</span><span *ngIf="albumsOfTheYear?.year === thisYear"> (so far)</span></p>
-<div *ngIf="albumsOfTheYear !== null" class="list gap-xl">
+
+<div *ngIf="albumsOfTheYear !== null" class="parent-container">
+    <div #page>
+        <p class="p-i fs-xl title-gap-b scroll-element"><span class="p-b-i"> my fav albums of {{ albumsOfTheYear?.year }}</span><span *ngIf="albumsOfTheYear?.year === thisYear"> (so far)</span></p>
+    </div>
+    <div #page *ngFor="let album of albumsOfTheYear.albums; index as i">
         <app-album-detail
-                *ngFor="let album of albumsOfTheYear.albums; index as i"
                 [album]="album"
                 [index]="i+1"
+                class="scroll-element"
         ></app-album-detail>
+    </div>
+
 </div>
 <div *ngIf="albumsOfTheYear === null">
     <p> Something went wrong! </p>
 </div>
+<button #prev (click)="clickPrev()" >P</button>
+<button #next (click)="clickNext()">N</button>

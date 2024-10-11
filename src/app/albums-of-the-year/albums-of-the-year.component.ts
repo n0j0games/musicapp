@@ -1,8 +1,13 @@
-import {Component, OnInit} from '@angular/core';
-import {SotwItem} from "../models/sotw-item";
-import {WeekHelper} from "../common/week-helper";
+import {
+  AfterViewInit,
+  Component, ElementRef,
+  HostListener,
+  OnInit,
+  QueryList,
+  ViewChild,
+  ViewChildren
+} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
-import {SotwService} from "../services/sotw.service";
 import {AotyService} from "../services/aoty.service";
 import {AotyItem} from "../models/aoty-item";
 import {NgForOf, NgIf} from "@angular/common";
@@ -18,9 +23,10 @@ import {AlbumDetailComponent} from "./album-detail/album-detail.component";
     SongDetailComponent,
     AlbumDetailComponent
   ],
-  templateUrl: './albums-of-the-year.component.html'
+  templateUrl: './albums-of-the-year.component.html',
+  styleUrls: ['./albums-of-the-year.component.scss']
 })
-export class AlbumsOfTheYearComponent implements OnInit {
+export class AlbumsOfTheYearComponent implements OnInit, AfterViewInit {
 
   activeYear : number = 0;
   thisYear = new Date().getFullYear();
@@ -47,6 +53,87 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   toggleShowBad() {
     this.showBad = !this.showBad;
+  }
+
+  /**
+   * SCROLL
+   */
+
+  @ViewChildren('page') pages!: QueryList<ElementRef>;
+  @ViewChild('prev') prev!: ElementRef;
+  @ViewChild('next') next!: ElementRef;
+
+  idlePeriod = 100;
+  animationDuration = 500;
+  lastAnimation = 0;
+  index = 0;
+
+  togglePageContent(index : any, state : any) {
+    if (state === 'show') {
+      this.pages
+          .toArray()
+          [index].nativeElement.querySelector('.scroll-element')
+          .classList.add('show');
+      console.log(this.pages.toArray()[index])
+    } else {
+      this.pages
+          .toArray()
+          [index].nativeElement.querySelector('.scroll-element')
+          .classList.remove('show');
+    }
+  }
+
+  ngAfterViewInit() {
+    this.togglePageContent(0, 'show');
+  }
+
+  clickPrev() {
+    if (this.index < 1) return;
+    this.togglePageContent(this.index, 'hide');
+    this.index--;
+    this.pages.forEach((page, i) => {
+      if (i === this.index) {
+        this.togglePageContent(i, 'show');
+        page.nativeElement.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  }
+
+  clickNext() {
+    if (this.index >= this.albumsOfTheYear!.albums.length) return;
+    this.togglePageContent(this.index, 'hide');
+    this.index++;
+    this.pages.forEach((page, i) => {
+      if (i === this.index) {
+        this.togglePageContent(i, 'show');
+        page.nativeElement.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  }
+
+  @HostListener('wheel', ['$event'])
+  onMouseWheel(event: WheelEvent) {
+    let delta = 0;
+    if (event.deltaY) {
+      delta = -event.deltaY;
+    }
+    const timeNow = new Date().getTime();
+
+    if (
+        timeNow - this.lastAnimation <
+        this.idlePeriod + this.animationDuration
+    ) {
+      event.preventDefault();
+      return;
+    }
+
+    if (delta < 0) {
+      this.next.nativeElement.click();
+    } else {
+      this.prev.nativeElement.click();
+    }
+
+    this.lastAnimation = timeNow;
   }
 
 }

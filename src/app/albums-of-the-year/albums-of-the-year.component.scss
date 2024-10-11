@@ -1,0 +1,16 @@
+.scroll-element {
+  position: absolute;
+  opacity: 0;
+  left: 0;
+  transform: translateY(100px);
+  transition: all 0.5s 0.5s;
+  height: 60vh;
+  background: #6dcfaa;
+}
+.scroll-element.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+.parent-container {
+  height: 60vh;
+}
