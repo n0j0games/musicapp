@@ -1,18 +1,20 @@
 .scroll-element {
   position: absolute;
+  height: calc(100vh - 60px);
   opacity: 0;
   left: 0;
   right: 0;
-  top: 50%;
-  transform: translateY(100px);
+  top: 0;
   transition: all 0.5s 0.5s;
-  background: #6dcfaa;
+  z-index: -100;
 }
+
 .scroll-element.show {
+  z-index: 0;
   opacity: 1;
-  transform: translateY(0);
 }
 .parent-container {
   height: calc(100vh - 60px);
   width: 100%;
+  position: relative;
 }

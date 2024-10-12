@@ -4,11 +4,11 @@
     <div #page>
         <p class="p-i fs-xl title-gap-b scroll-element"><span class="p-b-i"> my fav albums of {{ albumsOfTheYear.year }}</span><span *ngIf="albumsOfTheYear.year === thisYear"> (so far)</span></p>
     </div>
-    <div #page *ngFor="let album of albumsOfTheYear.albums; index as i ">
+    <div #page class="page" *ngFor="let album of albumsOfTheYear.albums; index as i ">
         <app-album-detail
                 [album]="album"
                 [index]="i+1"
-                class="scroll-element"
+                class="scroll-element flex-row align-center justify-center"
         ></app-album-detail>
     </div>
 </div>
