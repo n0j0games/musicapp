@@ -1,37 +1,42 @@
-<div [ngClass]="{ 'halfTransparent' : midOrWorst }" class="flex-row align-center justify-center gap-l">
-    <p class="p-b-i fs-xl counter">{{ index }}</p>
-    <img class="cover" src="{{album.imgUrl}}" alt="">
-    <div class="flex-column align-start gap-s">
-        <p class="p-b-i fs-l left-text"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</p>
-        <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
+<div [ngClass]="{ 'halfTransparent' : midOrWorst }" class="flex-row align-center justify-center gap-xxl">
+    <p class="p-b-i fs-title-s counter">{{ index }}</p>
+    <div class="albums">
+        <img class="cover-mid" src="{{album.imgUrl}}" alt="">
+        <img *ngIf="topAlbum" class="absolute-top" src="{{topAlbum.imgUrl}}" alt="">
+        <img *ngIf="bottomAlbum" class="absolute-bottom" src="{{bottomAlbum.imgUrl}}" alt="">
+    </div>
+    <div class="flex-column align-start gap-l">
+        <div class="flex-column gap-s fake-gap-b m-flex-wrap">
+            <p class="p-b-i fs-title-s left-text"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</p>
             <p
                     *ngIf="midOrWorst"
-                    class="p-b-i fs-xl left-text max-width-800"
+                    class="p-b-i fs-title-l left-text"
+                    [ngStyle]=" { color : textColor }"
             >
-                {{ album.title | removeDeluxe }}
+                {{ album.title | removeDeluxe | uppercase }}
             </p>
             <a
                     *ngIf="!midOrWorst"
-                    class="p-b-i fs-xl left-text max-width-800"
+                    class="p-b-i fs-title-l left-text"
                     href="{{album.url}}"
                     target="_blank"
+                    [ngStyle]=" { color : textColor }"
             >
-                {{ album.title | removeDeluxe }}
+                {{ album.title | removeDeluxe | uppercase }}
             </a>
+        </div>
+        <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <span class="p-b-i">{{ albumNames | removeFeat }}</span></p>
+        <div class="flex-row align-center gap-s">
             <app-play-button
                     *ngIf="album.songs"
                     [url]="songinfo"
                     [isPlaying]="isPlaying"
             ></app-play-button>
-        </div>
-        <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <span class="p-b-i">{{ albumNames | removeFeat }}</span></p>
-        <div class="flex-row align-center gap-s">
             <app-rating [rating]="album.rating"></app-rating>
             <app-vinyl *ngIf="album.onVinyl !== undefined"
                        [wishlisted] = "!album.onVinyl"
             ></app-vinyl>
         </div>
-
     </div>
 </div>
 

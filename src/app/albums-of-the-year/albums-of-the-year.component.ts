@@ -34,6 +34,26 @@ export class AlbumsOfTheYearComponent implements OnInit, AfterViewInit {
   showBad = false;
   albumsOfTheYear! : AotyItem | null;
 
+  testTextColors = [
+    "#ffffff",
+    "#b7ff22",
+    "#b18383",
+    "#b19883",
+    "#30b1da",
+    "#eabe21",
+    "#d3bfb1"
+  ]
+
+  testBackColors = [
+    "#707070",
+    "#528328",
+    "#8f2a2a",
+    "#784927",
+    "#204478",
+    "#38835e",
+    "#774017"
+  ]
+
   constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
 
   ngOnInit(): void {

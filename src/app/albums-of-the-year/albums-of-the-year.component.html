@@ -2,13 +2,20 @@
     <button #prev (click)="clickPrev()" style="display: none" >P</button>
     <button #next (click)="clickNext()" style="display: none" >N</button>
     <div #page>
-        <p class="p-i fs-xl title-gap-b scroll-element"><span class="p-b-i"> my fav albums of {{ albumsOfTheYear.year }}</span><span *ngIf="albumsOfTheYear.year === thisYear"> (so far)</span></p>
+        <div class="scroll-element flex-column align-center justify-center gap-xl" [ngStyle]=" { background : testBackColors[0], color : testTextColors[0] }">
+            <p class="p-b-i fs-title-s">my fav albums of</p>
+            <p class="p-b-i fs-title-l">{{ albumsOfTheYear.year }}</p>
+        </div>
     </div>
     <div #page class="page" *ngFor="let album of albumsOfTheYear.albums; index as i ">
         <app-album-detail
                 [album]="album"
                 [index]="i+1"
-                class="scroll-element flex-row align-center justify-center"
+                class="scroll-element flex-row"
+                [topAlbum]="i == 0 ? null : albumsOfTheYear.albums[i-1]"
+                [bottomAlbum]="i == albumsOfTheYear.albums.length - 1 ? null : albumsOfTheYear.albums[i+1]"
+                [textColor]="testTextColors[i]"
+                [ngStyle]=" { background : testBackColors[i] }"
         ></app-album-detail>
     </div>
 </div>

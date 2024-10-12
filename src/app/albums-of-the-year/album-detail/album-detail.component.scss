@@ -1,0 +1,24 @@
+.albums {
+  position: relative;
+}
+
+.absolute-top {
+  top: -50px;
+}
+
+.absolute-top, .absolute-bottom {
+  position: absolute;
+  left: 25px;
+  z-index: -1;
+  width: 150px;
+  height: 150px;
+  border: 2px solid rgba(0, 0, 0, 0.48);
+}
+
+.absolute-bottom {
+  top: 100px;
+}
+
+.cover-mid {
+  filter: drop-shadow(0 0 20px black);
+}
