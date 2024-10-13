@@ -28,7 +28,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6407fc88842a1c04d7a2d0c021df69e8b74c5208?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "backColor" : "#43485e"
     },
     {
       "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
@@ -57,7 +58,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5dc202f078d5351424ca63c2d0751031f1106ba8?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "backColor" : "#456700"
     },
     {
       "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
@@ -86,7 +88,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/24201038f84362ecafd1be4bbb9c4de53581cf9f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.2},
+      "rating": 9.2,
+      "backColor" : "#9b212e"
+    },
     {
       "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
@@ -114,7 +118,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a616bb02acc1940c11c9e6c2b2036af0dfb79ee7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0
+      "rating": 9.0,
+      "backColor" : "#341e05"
     },
     {
       "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa",
@@ -143,7 +148,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b44d240ed53434af512d30d17d2814a1e20be658?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9
+      "rating": 8.9,
+      "backColor" : "#292a27"
     },
     {
       "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
@@ -172,7 +178,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6a1005779ab18c6866a03316b4d9abfe452fadee?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "backColor" : "#af7c25"
     },
     {
       "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
@@ -201,7 +208,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7bc36fe41306df91a552a41305af3d53bb5a9d84?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "backColor" : "#0a1d32"
     },
     {
       "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo",
