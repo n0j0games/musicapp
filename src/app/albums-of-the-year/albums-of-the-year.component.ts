@@ -13,6 +13,7 @@ import {AotyItem} from "../models/aoty-item";
 import {NgForOf, NgIf, NgStyle} from "@angular/common";
 import {SongDetailComponent} from "../songs-of-the-week/song-detail/song-detail.component";
 import {AlbumDetailComponent} from "./album-detail/album-detail.component";
+import {ImageColorService} from "../services/image-color.service";
 
 @Component({
   selector: 'app-albums-of-the-year',
@@ -54,7 +55,10 @@ export class AlbumsOfTheYearComponent implements OnInit, AfterViewInit {
     "#774017"
   ]
 
-  constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
+  constructor(private route: ActivatedRoute,
+              private router: Router,
+              private aotyService : AotyService,
+              private imageColorService : ImageColorService) {}
 
   ngOnInit(): void {
     const year = this.route.snapshot.paramMap.get('year');
@@ -70,6 +74,11 @@ export class AlbumsOfTheYearComponent implements OnInit, AfterViewInit {
       return;
     }
     this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating).filter(value => value.rating > 4);
+    for(let album of this.albumsOfTheYear.albums) {
+      album.textColor = this.imageColorService.getTextColor(album.backColor ? album.backColor : "#00995E");
+      album.backGradient = this.imageColorService.getBackGradient(album.backColor ? album.backColor : "#00995E");
+      console.log("colors", album.title, album.backColor, album.textColor, album.backGradient)
+    }
   }
 
   toggleShowBad() {
@@ -97,7 +106,6 @@ export class AlbumsOfTheYearComponent implements OnInit, AfterViewInit {
           .toArray()
           [index].nativeElement.querySelector('.scroll-element')
           .classList.add('show');
-      console.log(this.pages.toArray()[index])
     } else {
       this.pages
           .toArray()

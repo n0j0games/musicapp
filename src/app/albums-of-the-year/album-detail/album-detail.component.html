@@ -11,18 +11,18 @@
             <p
                     *ngIf="midOrWorst"
                     class="p-b-i fs-title-l left-text"
-                    [ngStyle]=" { color : textColor }"
+                    [ngStyle]=" { color : album.textColor }"
             >
-                {{ album.title | removeDeluxe | uppercase }}
+                {{ album.title | removeDeluxe }}
             </p>
             <a
                     *ngIf="!midOrWorst"
                     class="p-b-i fs-title-l left-text"
                     href="{{album.url}}"
                     target="_blank"
-                    [ngStyle]=" { color : textColor }"
+                    [ngStyle]=" { color : album.textColor }"
             >
-                {{ album.title | removeDeluxe | uppercase }}
+                {{ album.title | removeDeluxe }}
             </a>
         </div>
         <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <span class="p-b-i">{{ albumNames | removeFeat }}</span></p>
@@ -30,6 +30,7 @@
             <app-play-button
                     *ngIf="album.songs"
                     [url]="songinfo"
+                    [color]="album.textColor!"
                     [isPlaying]="isPlaying"
             ></app-play-button>
             <app-rating [rating]="album.rating"></app-rating>

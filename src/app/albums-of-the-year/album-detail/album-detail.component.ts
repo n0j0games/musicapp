@@ -36,7 +36,6 @@ export class AlbumDetailComponent implements OnInit {
   @Input() index! : number;
   @Input() bottomAlbum! : Album | null;
   @Input() topAlbum! : Album | null;
-  @Input() textColor! : string;
 
   songinfo! : SongInfo[];
   albumNames! : string;

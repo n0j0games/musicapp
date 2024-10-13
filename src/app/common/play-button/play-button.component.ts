@@ -1,5 +1,5 @@
 import {Component, Input, OnDestroy, OnInit} from '@angular/core';
-import {NgClass, NgIf} from "@angular/common";
+import {NgClass, NgIf, NgStyle} from "@angular/common";
 import {AudioService} from "../../services/audio.service";
 import {SongInfo} from "../../models/songinfo";
 
@@ -8,7 +8,8 @@ import {SongInfo} from "../../models/songinfo";
   standalone: true,
   imports: [
     NgIf,
-    NgClass
+    NgClass,
+    NgStyle
   ],
   templateUrl: './play-button.component.html'
 })
@@ -17,6 +18,7 @@ export class PlayButtonComponent implements OnDestroy {
   @Input() isPlaying! : boolean;
   @Input() url! : SongInfo | SongInfo[];
   @Input() isOnlyStopButton: boolean = false;
+  @Input() color! : string;
 
   constructor(private audioService: AudioService) {
   }

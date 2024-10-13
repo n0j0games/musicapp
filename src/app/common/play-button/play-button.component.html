@@ -4,6 +4,6 @@
         (click)="playAudio()"
         [disabled]="isOnlyStopButton && !isPlaying"
 >
-    <i *ngIf="!isPlaying" class="fa-solid fa-play"></i>
-    <i *ngIf="isPlaying" class="fa-solid fa-pause"></i>
+    <i *ngIf="!isPlaying" class="fa-solid fa-play" [ngStyle]=" { color : color }"></i>
+    <i *ngIf="isPlaying" class="fa-solid fa-pause" [ngStyle]=" { color : color }"></i>
 </button>

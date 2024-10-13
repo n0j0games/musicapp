@@ -2,7 +2,7 @@
     <button #prev (click)="clickPrev()" style="display: none" >P</button>
     <button #next (click)="clickNext()" style="display: none" >N</button>
     <div #page>
-        <div class="scroll-element flex-column align-center justify-center gap-xl" [ngStyle]=" { background : testBackColors[0], color : testTextColors[0] }">
+        <div class="scroll-element flex-column align-center justify-center gap-xl">
             <p class="p-b-i fs-title-s">my fav albums of</p>
             <p class="p-b-i fs-title-l">{{ albumsOfTheYear.year }}</p>
         </div>
@@ -14,8 +14,7 @@
                 class="scroll-element flex-row"
                 [topAlbum]="i == 0 ? null : albumsOfTheYear.albums[i-1]"
                 [bottomAlbum]="i == albumsOfTheYear.albums.length - 1 ? null : albumsOfTheYear.albums[i+1]"
-                [textColor]="testTextColors[i]"
-                [ngStyle]=" { background : testBackColors[i] }"
+                [ngStyle]=" { background : album.backGradient }"
         ></app-album-detail>
     </div>
 </div>
