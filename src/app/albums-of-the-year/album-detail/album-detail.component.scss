@@ -22,3 +22,26 @@
 .cover-mid {
   filter: drop-shadow(0 0 20px black);
 }
+
+@media (width < 600px) {
+
+  .mobile-wrap {
+    margin-top: 80px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 80px;
+  }
+
+  .mobile-center {
+    text-align: center;
+  }
+
+  .absolute-bottom {
+    top: 70px;
+  }
+
+  .absolute-top {
+    top: -20px;
+  }
+
+}

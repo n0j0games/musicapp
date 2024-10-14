@@ -19,3 +19,20 @@
   width: 100%;
   position: relative;
 }
+
+@media (width < 600px) {
+
+  .scroll-element {
+    align-items: start;
+    justify-content: center;
+  }
+
+}
+
+@media (width < 1200px) {
+
+  .scroll-element {
+    padding: 0 10px;
+  }
+
+}

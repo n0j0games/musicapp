@@ -312,15 +312,23 @@ img {
   opacity: 50%;
 }
 
+@media (width < 1200px) {
+  .fs-title-s {
+    font-size: 30px;
+    margin-bottom: -10px;
+    margin-left: 12px;
+  }
+
+  .fs-title-l {
+    font-size: 50px;
+    line-height: 0.8;
+  }
+}
+
 @media (width < 600px) {
 
   .non-mobile, .non-mobile-inline {
     display: none;
-  }
-
-  img {
-    width: 80px;
-    height: 80px;
   }
 
   .m-flex-column {
@@ -346,6 +354,18 @@ img {
 
   .fs-xl {
     font-size: 16px;
+  }
+
+
+  .fs-title-s {
+    font-size: 30px;
+    margin-bottom: -10px;
+    margin-left: 12px;
+  }
+
+  .fs-title-l {
+    font-size: 50px;
+    line-height: 0.8;
   }
 
   .play-button {
