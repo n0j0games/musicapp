@@ -1,0 +1,38 @@
+.scroll-element {
+  position: absolute;
+  height: calc(100vh - 60px);
+  opacity: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  transition: all 0.5s 0.5s;
+  z-index: -100;
+  padding: 0 100px;
+}
+
+.scroll-element.show {
+  z-index: 0;
+  opacity: 1;
+}
+.parent-container {
+  height: calc(100vh - 60px);
+  width: 100%;
+  position: relative;
+}
+
+@media (width < 600px) {
+
+  .scroll-element {
+    align-items: start;
+    justify-content: center;
+  }
+
+}
+
+@media (width < 1200px) {
+
+  .scroll-element {
+    padding: 0 10px;
+  }
+
+}

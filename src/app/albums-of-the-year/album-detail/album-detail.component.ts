@@ -1,7 +1,7 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {AudioService} from "../../services/audio.service";
 import {Album} from "../../models/album";
-import {NgClass, NgIf, NgStyle} from "@angular/common";
+import {NgClass, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
 import {PlayButtonComponent} from "../../common/play-button/play-button.component";
 import {RatingComponent} from "../../common/rating/rating.component";
 import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
@@ -20,9 +20,11 @@ import {VinylComponent} from "../../common/vinyl/vinyl.component";
     RemoveFeatPipe,
     NgStyle,
     NgClass,
-    VinylComponent
+    VinylComponent,
+    UpperCasePipe
   ],
-  templateUrl: './album-detail.component.html'
+  templateUrl: './album-detail.component.html',
+  styleUrl: './album-detail.component.scss'
 })
 export class AlbumDetailComponent implements OnInit {
 
@@ -32,6 +34,8 @@ export class AlbumDetailComponent implements OnInit {
 
   @Input() album! : Album;
   @Input() index! : number;
+  @Input() bottomAlbum! : Album | null;
+  @Input() topAlbum! : Album | null;
 
   songinfo! : SongInfo[];
   albumNames! : string;

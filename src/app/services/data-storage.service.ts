@@ -20,10 +20,11 @@ export class DataStorageService {
                 private router: Router) {
     }
 
+    private URL = "https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/feature/smooth-scroll/data/"
 
     fetchSotwList(): Observable<SotwList> {
         return this.http.get<SotwList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw-list.json',
+            this.URL + 'sotw-list.json',
         ).pipe(
             tap((value: SotwList) => {
                 if (value != null) {
@@ -40,7 +41,7 @@ export class DataStorageService {
 
     fetchSotwItem(week: number, year: number): Observable<SotwItem> {
         return this.http.get<SotwItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw/' + year + '-' + this.createWeekString(week) + '.json',
+            this.URL + 'sotw/' + year + '-' + this.createWeekString(week) + '.json',
         ).pipe(
             tap((value: SotwItem) => {
                 if (value != null) {
@@ -57,7 +58,7 @@ export class DataStorageService {
 
     fetchSingleAggregatedSotwItem(year : number, week : number) : Observable<SotwItem|HttpErrorResponse> {
         return this.http.get<SotwItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw/' + year + '-' + this.createWeekString(week) + '.json',
+            this.URL + 'sotw/' + year + '-' + this.createWeekString(week) + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
@@ -87,7 +88,7 @@ export class DataStorageService {
 
     fetchAotyList(): Observable<AotyList> {
         return this.http.get<AotyList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty-list.json',
+            this.URL + 'aoty-list.json',
         ).pipe(
             tap((value: AotyList) => {
                 if (value != null) {
@@ -104,7 +105,7 @@ export class DataStorageService {
 
     fetchAotyItem(year: number): Observable<AotyItem> {
         return this.http.get<AotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
+            this.URL + 'aoty/' + year + '.json',
         ).pipe(
             tap((value: AotyItem) => {
                 if (value != null) {
@@ -142,7 +143,7 @@ export class DataStorageService {
 
     fetchSingleAggregatedAotyItem(year: number): Observable<AotyItem | HttpErrorResponse> {
         return this.http.get<AotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
+            this.URL + 'aoty/' + year + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
