@@ -17,6 +17,8 @@ export class RemoveFeatPipe implements PipeTransform {
         split[value]  = split[value].split("[feat")[0];
       } else if (split[value].includes("[with")) {
         split[value]  = split[value].split("[with")[0];
+      } else if (split[value].includes("featuring")) {
+        split[value]  = split[value].split("featuring")[0];
       }
     }
     return split.join(", ");

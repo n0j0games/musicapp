@@ -5,6 +5,8 @@ import {RatingComponent} from "../../common/rating/rating.component";
 import {AudioService} from "../../services/audio.service";
 import {PlayButtonComponent} from "../../common/play-button/play-button.component";
 import {SongInfo} from "../../models/songinfo";
+import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
+import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
 
 @Component({
   selector: 'app-song-detail',
@@ -13,7 +15,9 @@ import {SongInfo} from "../../models/songinfo";
         NgOptimizedImage,
         RatingComponent,
         NgIf,
-        PlayButtonComponent
+        PlayButtonComponent,
+        RemoveFeatPipe,
+        RemoveDeluxePipe
     ],
   templateUrl: './song-detail.component.html'
 })

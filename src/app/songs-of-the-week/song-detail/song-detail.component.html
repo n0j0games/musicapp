@@ -2,15 +2,15 @@
     <p *ngIf="index !== null" class="p-b-i fs-xl counter">{{ index }}</p>
     <img class="cover" src="{{song.imgUrl}}" alt="">
     <div class="flex-column align-start gap-s">
-        <p class="p-b-i fs-l left-text">{{ song.artist }}</p>
+        <p class="p-b-i fs-l left-text"><span *ngIf="index !== null" class="m-counter">{{ index }}. </span>{{ song.artist }}</p>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
-            <a class="p-b-i fs-xl left-text" href="{{song.url}}" target="_blank" >{{ song.title }}</a>
+            <a class="p-b-i fs-xl left-text" href="{{song.url}}" target="_blank" >{{ song.title | removeFeat }}</a>
             <app-play-button
                     [url]="songInfo"
                     [isPlaying]="isPlaying"
             ></app-play-button>
         </div>
-        <p class="fs-m" *ngIf="song.album !== undefined">Album: {{ song.album }}</p>
+        <p class="fs-m" *ngIf="song.album !== undefined">Album: {{ song.album | removeDeluxe }}</p>
         <!--<app-rating [rating]="song.rating"></app-rating>-->
     </div>
 </div>
