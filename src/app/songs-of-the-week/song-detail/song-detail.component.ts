@@ -28,7 +28,7 @@ export class SongDetailComponent implements OnInit {
     @Input() song! : Song;
     @Input() index!: number | null;
 
-    songInfo! : SongInfo;
+    songInfo! : SongInfo | null;
 
     constructor(private audioService : AudioService) {
     }
@@ -41,6 +41,9 @@ export class SongDetailComponent implements OnInit {
     }
 
     getSongInfo() {
+        if (!this.song.previewUrl) {
+            return null;
+        }
         return new SongInfo(this.song.title, this.song.previewUrl, this.song.artist);
     }
 

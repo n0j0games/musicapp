@@ -6,6 +6,7 @@
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
             <a class="p-b-i fs-xl left-text" href="{{song.url}}" target="_blank" >{{ song.title | removeFeat }}</a>
             <app-play-button
+                    *ngIf="songInfo"
                     [url]="songInfo"
                     [isPlaying]="isPlaying"
             ></app-play-button>
