@@ -55,6 +55,13 @@
       "rating": 7,
       "album": "Life Sucks",
       "url": "https://open.spotify.com/track/4LiQJjjZdks0uQl2s2TSbp"
+    },
+    {
+      "imgUrl": "https://images.genius.com/c22a1453895dea1bacb09f8330f54534.640x480x1.jpg",
+      "title": "31 Freestyle",
+      "artist": "JID",
+      "rating": 8,
+      "url": "https://www.youtube.com/watch?v=mH9aqKjCZTM"
     }
   ]
 }

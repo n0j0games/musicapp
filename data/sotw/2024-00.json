@@ -1093,6 +1093,13 @@
       "rating": 9.5,
       "album": "The New Sound",
       "url": "https://open.spotify.com/track/4AiTTqrljm1r8zKr68cxPk"
+    },
+    {
+      "imgUrl": "https://i.ytimg.com/vi/FcTWj3UZmEk/maxresdefault.jpg",
+      "title": "30 Freestyle",
+      "artist": "JID",
+      "rating": 8,
+      "url": "https://www.youtube.com/watch?v=FcTWj3UZmEk"
     }
   ]
 }
