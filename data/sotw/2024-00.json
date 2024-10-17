@@ -235,6 +235,7 @@
       "title": "Girl, so confusing featuring lorde",
       "artist": "Charli xcx, Lorde",
       "rating": 9.5,
+      "album": "Brat and it’s completely different but also still brat",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
@@ -742,7 +743,17 @@
       "title": "If Only",
       "artist": "The Marías",
       "rating": 8,
+      "album": "Submarine",
       "url": "https://open.spotify.com/track/0w3cvLy7r4ZGxaifbVMTQv"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3ed40b056b6cc97ea55c27c0f5ad8bb00e2b944d?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85",
+      "title": "Echo",
+      "artist": "The Marías",
+      "rating": 9.5,
+      "album": "Submarine",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/178ed09818736eb0056e3d53ccd2162a7d8bf886?cid=941103e4872f4d3fad60066c677df34f",
@@ -857,6 +868,7 @@
       "title": "Lost in Berlin",
       "artist": "Apsilon",
       "rating": 9.7,
+      "album": "Haut wie Pelz",
       "url": "https://open.spotify.com/track/3GOVyFJHRW3FtBHJINoRzq"
     },
     {
@@ -941,6 +953,7 @@
       "title": "Guess featuring Billie Eilish",
       "artist": "Charli xcx, Billie Eilish",
       "rating": 8.8,
+      "album": "Brat and it’s completely different but also still brat",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
@@ -1018,6 +1031,7 @@
       "title": "Grau",
       "artist": "Apsilon, Paula Hartmann",
       "rating": 9.2,
+      "album": "Haut wie Pelz",
       "url": "https://open.spotify.com/track/547ANtisgBzqbywQfQBtK8"
     },
     {
