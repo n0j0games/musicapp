@@ -1,0 +1,94 @@
+{
+  "year": 2024,
+  "week": 42,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f99bf2920817751205fb59eb512ecf8448e5db97?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9fdd1f20ed68937c2883428",
+      "title": "Rottweiler",
+      "artist": "Bazzazian, OG Keemo, Schmyt",
+      "rating": 9,
+      "album": "100Angst",
+      "url": "https://open.spotify.com/track/3er1Vh8p84gqJe0mLtBmj9"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/74a55098fb16b4307b6e4ca7b8cd8aaa7c0022df?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c73ef01d5d3f76e0b4afedf9",
+      "title": "KULT INTRO",
+      "artist": "Boondawg",
+      "rating": 8,
+      "album": "KULT",
+      "url": "https://open.spotify.com/track/6BfSY43QAwbizqZXcUnerg"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/d5e0c9340f8f80348f786e3852c001dcd68cdb57?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9fdd1f20ed68937c2883428",
+      "title": "Lass los",
+      "artist": "Bazzazian, Schmyt",
+      "rating": 7,
+      "album": "100Angst",
+      "url": "https://open.spotify.com/track/1LmajgDzDCYYuQr0cvS58W"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/ee66813fa905af3c33004bf124091f97ea9648d3?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9fdd1f20ed68937c2883428",
+      "title": "Glitzer",
+      "artist": "Bazzazian, Apsilon, Levin Liam",
+      "rating": 7,
+      "album": "100Angst",
+      "url": "https://open.spotify.com/track/7yd6aLB9jJsR0Z5JPDYRWH"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3c1d5fdefa419b0e1747250748ea6d44a4e2a97e?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dfa9f1d3364a589058dab384",
+      "title": "Perfect Stranger",
+      "artist": "FKA twigs",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/5ZLfgxU8yDwwMQXA2OSFlb"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/ac03a21e7bc5cf3936442d304d983c6d1ca733d7?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733121ebceb9e30070b5d0ec73",
+      "title": "Winter Baby / New Jersey Blues",
+      "artist": "070 Shake",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/87c8671968e65031392f73733dae869bd0204d5f?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c73ef01d5d3f76e0b4afedf9",
+      "title": "ZAHLTAG",
+      "artist": "Boondawg",
+      "rating": 7,
+      "album": "KULT",
+      "url": "https://open.spotify.com/track/4iIHvqwjvL4MW2KDmatV0H"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/499eee1176977d872a6f5b36d0f6b428dd9ed905?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c73ef01d5d3f76e0b4afedf9",
+      "title": "HOMERUN",
+      "artist": "Boondawg",
+      "rating": 7,
+      "album": "KULT",
+      "url": "https://open.spotify.com/track/1EuMOnjaKu5mK9sGmTuMIV"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/99f3281b0d4ad29a192eb363d4ef4506c662cc3f?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c73ef01d5d3f76e0b4afedf9",
+      "title": "NRW",
+      "artist": "Boondawg",
+      "rating": 7,
+      "album": "KULT",
+      "url": "https://open.spotify.com/track/4WcUdGXHHtKfZj9ysZka2D"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/eb4e7b98d8be4419a09ce24d76396b48463f58d9?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9fdd1f20ed68937c2883428",
+      "title": "Schutt & Asche",
+      "artist": "Bazzazian, Haiyti",
+      "rating": 6,
+      "album": "100Angst",
+      "url": "https://open.spotify.com/track/3ZPmhZJNxNvnssOfU2dnF9"
+    }
+  ]
+}

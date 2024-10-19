@@ -1741,6 +1741,56 @@
         }
       ],
       "rating": 8.0
+    },
+    {
+      "url": "https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c73ef01d5d3f76e0b4afedf9",
+      "title": "KULT",
+      "artist": "Boondawg",
+      "songs": [
+        {
+          "title": "KULT INTRO",
+          "preview_url": "https://p.scdn.co/mp3-preview/74a55098fb16b4307b6e4ca7b8cd8aaa7c0022df?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "ZAHLTAG",
+          "preview_url": "https://p.scdn.co/mp3-preview/87c8671968e65031392f73733dae869bd0204d5f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "HOMERUN",
+          "preview_url": "https://p.scdn.co/mp3-preview/499eee1176977d872a6f5b36d0f6b428dd9ed905?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "NRW",
+          "preview_url": "https://p.scdn.co/mp3-preview/99f3281b0d4ad29a192eb363d4ef4506c662cc3f?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.8
+    },
+    {
+      "url": "https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9fdd1f20ed68937c2883428",
+      "title": "100Angst",
+      "artist": "Bazzazian",
+      "songs": [
+        {
+          "title": "Rottweiler",
+          "preview_url": "https://p.scdn.co/mp3-preview/f99bf2920817751205fb59eb512ecf8448e5db97?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Schutt & Asche",
+          "preview_url": "https://p.scdn.co/mp3-preview/eb4e7b98d8be4419a09ce24d76396b48463f58d9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Glitzer",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee66813fa905af3c33004bf124091f97ea9648d3?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "MDAA",
+          "preview_url": "https://p.scdn.co/mp3-preview/8e710ea2f803dbd368bbb2f05b582ce16e0f2201?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.5
     }
   ]
 }
