@@ -1,30 +1,28 @@
 {
-  "tyler-the-creator" : {
-    "groups" : ["Odd Future"]
-  },
-  "frank-ocean" : {
-    "groups" : ["Odd Future"]
-  },
-  "tj-beastboy" : {
-    "groups" : ["DAT ADAM"]
-  },
-  "kanye-west" : {
-    "alias" : ["Ye"],
-    "groups" : ["¥$","KIDS SEE GHOSTS",""]
-  },
-  "bruno-mars" : {
-    "groups" : ["Silk Sonic"]
-  },
-  "anderson-paak" : {
-    "groups" : ["Silk Sonic"]
-  },
-  "westside-gunn" : {
-    "groups" : ["Griselda"]
-  },
-  "travis-scott" : {
-    "groups" : ["The Scotts", "JACKBOYS"]
-  },
-  "don-toliver" : {
-    "groups" : ["JACKBOYS"]
-  }
+  "items" : [
+    {
+      "group" : "dat adam",
+      "members" : ["tj beastboy"]
+    },
+    {
+      "group" : "odd future",
+      "members" : ["frank ocean", "earl sweatshirt", "tyler, the creator"]
+    },
+    {
+      "group" : "¥$",
+      "members" : ["kanye west","tj dolla sign"]
+    },
+    {
+      "group" : "kids see ghosts",
+      "members" : ["kanye west","kid cudi"]
+    },
+    {
+      "group" : "jackboys",
+      "members" : ["travis scott", "don toliver", "sheck wes"]
+    },
+    {
+      "group" : "dreamville",
+      "members" : ["j cole", "JID"]
+    }
+  ]
 }
