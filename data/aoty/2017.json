@@ -628,6 +628,31 @@
         }
       ],
       "rating": 6.5
+    },
+    {
+      "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd",
+      "title": "Culture",
+      "artist": "Migos",
+      "songs": [
+        {
+          "title": "T-Shirt",
+          "preview_url": "https://p.scdn.co/mp3-preview/a2cc0bbe5f21f2fa4c93d7c2c12bceb222513c8b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bad and Boujee (feat. Lil Uzi Vert)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a204bf676f34d3912c1b91bddd570fa8301c67b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "What the Price",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc1f237b012701199d9a3a89aa3800c09aa9fb13?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kelly Price (feat. Travis Scott)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c3400505f731c8bc15578ec2390e8ab219e95080?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.0
     }
   ]
 }

@@ -371,6 +371,35 @@
         }
       ],
       "rating": 8.2
+    },
+    {
+      "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
+      "title": "Step II",
+      "artist": "Sylvester",
+      "songs": [
+        {
+          "title": "You Make Me Feel (Mighty Real)",
+          "preview_url": "https://p.scdn.co/mp3-preview/fd9a9ab4f76df58b59672c8340f9c8dfb4bb17f2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Dance (Disco Heat)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1691d1882d33d956cf4f09aa11ebeaa99dca210c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Grateful",
+          "preview_url": "https://p.scdn.co/mp3-preview/dadde558eb847efef1849ada5ab42be259f39a58?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I Took My Strength From You",
+          "preview_url": "https://p.scdn.co/mp3-preview/a32f1f2cbd5568574832edb1cc3bc6180e88eb22?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Was It Something I Said",
+          "preview_url": "https://p.scdn.co/mp3-preview/b487ed50ae556698058d90389da3cb3bd23c7495?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.0
     }
   ]
 }

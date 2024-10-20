@@ -783,7 +783,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3f1f3795be0b6747b24ca281f4f9e2560d895c6b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 0
+      "rating": 6.0
     },
     {
       "url": "https://open.spotify.com/album/4svVMaetHLR53HQjy1l5AX",
@@ -868,6 +868,13 @@
         }
       ],
       "rating": 6.0
+    },
+    {
+      "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+      "title": "Culture II",
+      "artist": "Migos",
+      "rating": 4.0
     }
   ]
 }

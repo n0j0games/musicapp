@@ -729,6 +729,27 @@
         }
       ],
       "rating": 7.0
+    },
+    {
+      "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f89d00155b6a066650e5460d",
+      "title": "Culture III",
+      "artist": "Migos",
+      "songs": [
+        {
+          "title": "Avalanche",
+          "preview_url": "https://p.scdn.co/mp3-preview/4517f51187a50871f087ab2dddefa4dc8a469d42?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Straightenin",
+          "preview_url": "https://p.scdn.co/mp3-preview/36e4d4c60bc8fa8654a068fa5dad4434c373fc40?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Need It (feat. YoungBoy Never Broke Again)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b8846cd51e85ef157510af3633593df12237fde?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.0
     }
   ]
 }
