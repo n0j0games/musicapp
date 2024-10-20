@@ -81,6 +81,9 @@ export class AggregatedVariousComponent implements OnInit {
       case "j-cole":
         this.getArtistAlbums("j. cole", 2010, isStrict);
         break;
+      case "jay-z":
+        this.getArtistAlbums("jay-z", 2010, isStrict);
+        break;
       case "rin":
         this.getArtistAlbums("rin", 2016, true);
         break;
