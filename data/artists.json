@@ -1,0 +1,30 @@
+{
+  "tyler-the-creator" : {
+    "groups" : ["Odd Future"]
+  },
+  "frank-ocean" : {
+    "groups" : ["Odd Future"]
+  },
+  "tj-beastboy" : {
+    "groups" : ["DAT ADAM"]
+  },
+  "kanye-west" : {
+    "alias" : ["Ye"],
+    "groups" : ["¥$","KIDS SEE GHOSTS",""]
+  },
+  "bruno-mars" : {
+    "groups" : ["Silk Sonic"]
+  },
+  "anderson-paak" : {
+    "groups" : ["Silk Sonic"]
+  },
+  "westside-gunn" : {
+    "groups" : ["Griselda"]
+  },
+  "travis-scott" : {
+    "groups" : ["The Scotts", "JACKBOYS"]
+  },
+  "don-toliver" : {
+    "groups" : ["JACKBOYS"]
+  }
+}
