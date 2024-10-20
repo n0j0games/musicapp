@@ -1,4 +1,11 @@
 <p class="p-i fs-xl"><span class="p-b-i"> {{ aggregatedTitle }} </span></p>
+<p *ngIf="aliases && aliases.length > 0" class="p-i fs-m">
+    part of
+    <span  *ngFor="let alias of aliases; index as i">
+        <span [routerLink]="['/lists', alias.replaceAll(' ','-')]" class="p-b-i">{{ alias }}</span>
+        <span *ngIf="!(aliases.length-1 === i)">, </span>
+    </span>
+</p>
 <div class="flex-row align-center justify-center gap-s" style="margin-top: 10px" *ngIf="average">
     <p class="p-i fs-m">average:</p>
     <app-rating

@@ -69,8 +69,8 @@ export class AudioService {
         this.artist = null;
         if (!this.audio.paused) {
             this.audio.pause();
+            console.log("Stopped audio")
         }
-        console.log("Stopped audio")
         this.playStatusChanged$.next(null);
     }
 

@@ -1,12 +1,16 @@
 {
   "items" : [
     {
+      "group" : "the beatles",
+      "members" : ["john lennon", "paul mccartney", "ringo starr", "george harrison"]
+    },
+    {
       "group" : "dat adam",
-      "members" : ["tj beastboy"]
+      "members" : ["tj_beastboy", "mary man"]
     },
     {
       "group" : "odd future",
-      "members" : ["frank ocean", "earl sweatshirt", "tyler, the creator"]
+      "members" : ["frank ocean", "earl sweatshirt", "tyler, the creator", "domo genesis"]
     },
     {
       "group" : "¥$",
@@ -18,11 +22,23 @@
     },
     {
       "group" : "jackboys",
-      "members" : ["travis scott", "don toliver", "sheck wes"]
+      "members" : ["travis scott", "don toliver", "sheck wes", "sofaygo"]
     },
     {
       "group" : "dreamville",
-      "members" : ["j cole", "JID"]
+      "members" : ["j. cole", "jid", "earthgang", "bas"]
+    },
+    {
+      "group" : "SEEED",
+      "members" : ["peter fox"]
+    },
+    {
+      "group" : "clipse",
+      "members" : ["malice", "pusha t"]
+    },
+    {
+      "group" : "good music",
+      "members" : ["kanye west", "big sean", "pusha t", "john legend"]
     }
   ]
 }

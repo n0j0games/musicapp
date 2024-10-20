@@ -13,6 +13,7 @@ import {AggregatedSotyComponent} from "./songs-of-the-week/aggregated-soty/aggre
 import {SotwAggregateResolverService} from "./services/sotw-aggregate.resolver.service";
 import {AggregatedVariousComponent} from "./albums-of-the-year/aggregated-various/aggregated-various.component";
 import {AotyAggregateResolverService} from "./services/aoty-aggregate.resolver.service";
+import {AliasResolverService} from "./services/alias.resolver.service";
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
@@ -21,7 +22,7 @@ export const routes: Routes = [
   { path: 'soty/:year', component: AggregatedSotyComponent, resolve: [SotwResolverService, AotyResolverService, SotwAggregateResolverService] },
   { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyDecadeAggregateResolverService] },
   { path: 'error/404', component: NotFoundComponent, resolve: [SotwResolverService, AotyResolverService] },
-  { path: 'lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService] },
+  { path: 'lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
   { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: '**', redirectTo: 'error/404', pathMatch: 'full' },
 ];

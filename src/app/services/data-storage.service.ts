@@ -8,6 +8,7 @@ import {AotyService} from "./aoty.service";
 import {AotyItem} from "../models/aoty-item";
 import {AotyList} from "../models/aoty-list";
 import {Router} from "@angular/router";
+import {AliasList} from "../models/alias-list";
 
 @Injectable({
     providedIn: 'root'
@@ -20,6 +21,22 @@ export class DataStorageService {
                 private router: Router) {
     }
 
+    fetchAliasList(): Observable<AliasList> {
+        return this.http.get<AliasList>(
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/artists.json',
+        ).pipe(
+            tap((value: AliasList) => {
+                if (value != null) {
+                    console.log("Requested ALIAS list");
+                    this.aotyService.setAliasList(value);
+                }
+            }),
+            catchError((err, caught) => {
+                this.router.navigate(['**']).then(() => console.error("Error while loading"));
+                return of(err);
+            })
+        );
+    }
 
     fetchSotwList(): Observable<SotwList> {
         return this.http.get<SotwList>(

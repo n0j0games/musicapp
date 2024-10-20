@@ -6,6 +6,7 @@ import {AotyItem} from "../models/aoty-item";
 import {AotyList} from "../models/aoty-list";
 import {Album} from "../models/album";
 import {HttpErrorResponse} from "@angular/common/http";
+import {AliasList} from "../models/alias-list";
 
 @Injectable({
   providedIn: 'root'
@@ -14,8 +15,17 @@ export class AotyService {
 
   private aotyList : AotyList = {};
   private aotyItems : AotyItem[] = [];
+  private aliasList : AliasList | undefined;
 
   public aotyListChanged$ = new Subject<AotyList>();
+
+  setAliasList(aliasList: AliasList) {
+    this.aliasList = aliasList;
+  }
+
+  getAliasList (): AliasList | undefined {
+    return this.aliasList;
+  }
 
   setAotyList(aotyList: AotyList) {
     this.aotyList = aotyList;

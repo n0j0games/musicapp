@@ -1,11 +1,12 @@
 import {Component, OnInit} from '@angular/core';
 import {AotyItem} from "../../models/aoty-item";
-import {ActivatedRoute, Router} from "@angular/router";
+import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {AotyService} from "../../services/aoty.service";
 import {Album} from "../../models/album";
 import {AlbumDetailComponent} from "../album-detail/album-detail.component";
 import {NgForOf, NgIf} from "@angular/common";
 import {RatingComponent} from "../../common/rating/rating.component";
+import {AliasList} from "../../models/alias-list";
 
 @Component({
   selector: 'app-aggregated-various',
@@ -14,7 +15,8 @@ import {RatingComponent} from "../../common/rating/rating.component";
     AlbumDetailComponent,
     NgForOf,
     NgIf,
-    RatingComponent
+    RatingComponent,
+    RouterLink
   ],
   templateUrl: './aggregated-various.component.html',
 })
@@ -23,10 +25,26 @@ export class AggregatedVariousComponent implements OnInit {
   aggreatedAlbums! : AotyItem | null;
   aggregatedTitle! : string | null;
   average : number | null = null;
+  aliases : string [] | null = null;
 
-  constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
+  constructor(private route: ActivatedRoute,
+              private router: Router,
+              private aotyService : AotyService) {}
 
   ngOnInit(): void {
+    this.route.paramMap.subscribe(params => {
+      this.onRouteChange();
+    });
+
+    //this.onRouteChange();
+  }
+
+  private onRouteChange() {
+    this.aggregatedTitle = null;
+    this.aggreatedAlbums = null;
+    this.average = 0;
+    this.aliases = null;
+
     const aggregation = this.route.snapshot.paramMap.get('query');
     const queryParam = this.route.snapshot.queryParamMap.get('type');
     const isStrict = queryParam !== undefined && queryParam !== null ?
@@ -71,7 +89,7 @@ export class AggregatedVariousComponent implements OnInit {
     }
   }
 
-  getAlphabeticalAlbums() {
+  private getAlphabeticalAlbums() {
     let aotyList = this.aotyService.getAotyList();
     const queryYears = aotyList!.items!.map(value => value.year);
     let albums = this.getAggregatedAlbums(queryYears);
@@ -79,9 +97,10 @@ export class AggregatedVariousComponent implements OnInit {
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title)).filter(value => value.rating >= 5);
   }
 
-  getArtistAlbums(artist : string, activeSince : number, strict : boolean) {
+  private getArtistAlbums(artist : string, activeSince : number, strict : boolean) {
     artist = artist.toLowerCase();
     let aotyList = this.aotyService.getAotyList();
+    this.aliases = this.getAliases(artist, this.aotyService.getAliasList()!);
     const aotyQueryYears = aotyList!.items!.map(value => value.year);
     const queryYears : number[] = this.range(activeSince, new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
@@ -89,7 +108,7 @@ export class AggregatedVariousComponent implements OnInit {
     if (strict) {
       albums = albums.filter(value => value.artist.toLowerCase() === artist);
     } else {
-      albums = albums.filter(value => value.artist.toLowerCase().includes(artist));
+      albums = albums.filter(value => value.artist.toLowerCase().includes(artist) || this.includedInAliases(value.artist.toLowerCase()));
     }
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);
@@ -97,7 +116,27 @@ export class AggregatedVariousComponent implements OnInit {
     this.calcAverage(albums);
   }
 
-  getFavAlbums(onlyPerfect : boolean) {
+  private includedInAliases(artist : string) : boolean {
+    const lowerCaseArtist = artist.toLowerCase();
+    for (const alias of this.aliases!) {
+      if (lowerCaseArtist.includes(alias)) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  private getAliases(artist : string, aliasList : AliasList) {
+    const results : string[] = [];
+    for (let item of aliasList.items) {
+      if (item.members.includes(artist)) {
+        results.push(item.group.toLowerCase());
+      }
+    }
+    return results;
+  }
+
+  private getFavAlbums(onlyPerfect : boolean) {
     let aotyList = this.aotyService.getAotyList();
     const queryYears = aotyList!.items!.map(value => value.year);
     let albums = this.getAggregatedAlbums(queryYears);
