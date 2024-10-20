@@ -26,6 +26,7 @@ export class AggregatedVariousComponent implements OnInit {
   aggregatedTitle! : string | null;
   average : number | null = null;
   aliases : string [] | null = null;
+  isGroup : boolean = false;
 
   constructor(private route: ActivatedRoute,
               private router: Router,
@@ -35,8 +36,6 @@ export class AggregatedVariousComponent implements OnInit {
     this.route.paramMap.subscribe(params => {
       this.onRouteChange();
     });
-
-    //this.onRouteChange();
   }
 
   private onRouteChange() {
@@ -44,6 +43,7 @@ export class AggregatedVariousComponent implements OnInit {
     this.aggreatedAlbums = null;
     this.average = 0;
     this.aliases = null;
+    this.isGroup = false;
 
     const aggregation = this.route.snapshot.paramMap.get('query');
     const queryParam = this.route.snapshot.queryParamMap.get('type');
@@ -129,6 +129,10 @@ export class AggregatedVariousComponent implements OnInit {
   private getAliases(artist : string, aliasList : AliasList) {
     const results : string[] = [];
     for (let item of aliasList.items) {
+      if (item.group === artist) {
+        this.isGroup = true;
+        return item.members;
+      }
       if (item.members.includes(artist)) {
         results.push(item.group.toLowerCase());
       }
