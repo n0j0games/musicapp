@@ -31,8 +31,13 @@ export class HomeSpecialComponent implements OnInit {
         if (value === null) {
             return;
         }
-        const param = value.replaceAll(" ", "-").toLowerCase();
-        this.router.navigate(['/lists/' + param]).then(() => console.log("Searching for artist"));
+        let param = value.replaceAll(" ", "-").toLowerCase();
+        let queryParam = {}
+        if (param.startsWith('"') && param.endsWith('"')) {
+            param = param.replaceAll('"', '');
+            queryParam = { type : "strict" }
+        }
+        this.router.navigate(['/lists/' + param], { queryParams : queryParam}).then(() => console.log("Searching for artist"));
         console.log(value);
     }
 

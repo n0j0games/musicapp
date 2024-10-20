@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {NgStyle} from "@angular/common";
 import {RatingPipe} from "../rating.pipe";
 
@@ -12,7 +12,7 @@ import {RatingPipe} from "../rating.pipe";
   templateUrl: './rating.component.html',
   styleUrl: './rating.component.scss'
 })
-export class RatingComponent implements OnInit {
+export class RatingComponent implements OnInit, OnChanges {
 
   @Input() rating!: number;
 
@@ -29,6 +29,10 @@ export class RatingComponent implements OnInit {
   private horrible = "#bd5151"
 
   colors = [this.horrible, this.horrible, this.horrible, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
+
+  ngOnChanges(changes: SimpleChanges) {
+    this.width = this.calcWidth();
+  }
 
   ngOnInit() {
     if (this.rating < 0 || this.rating >= 12 ) {
