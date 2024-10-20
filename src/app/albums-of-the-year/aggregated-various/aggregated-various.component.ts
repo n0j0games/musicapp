@@ -97,13 +97,20 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears = aotyList!.items!.map(value => value.year);
     let albums = this.getAggregatedAlbums(queryYears);
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
-    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title)).filter(value => value.rating >= 5);
+    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title)); //.filter(value => value.rating >= 5);
   }
 
   private getArtistAlbums(artist : string, activeSince : number, strict : boolean) {
     artist = artist.toLowerCase();
     let aotyList = this.aotyService.getAotyList();
-    this.aliases = this.getAliases(artist, this.aotyService.getAliasList()!);
+    if (artist.includes(",\n")) {
+      const artists = artist.split(",\n");
+      this.isGroup = true;
+      this.aliases = artists;
+      artist = artist.replaceAll(",\n", " & ");
+    } else {
+      this.aliases = this.getAliases(artist, this.aotyService.getAliasList()!);
+    }
     const aotyQueryYears = aotyList!.items!.map(value => value.year);
     const queryYears : number[] = this.range(activeSince, new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
