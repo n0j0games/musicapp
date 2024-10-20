@@ -39,6 +39,18 @@
     {
       "group" : "good music",
       "members" : ["kanye west", "big sean", "pusha t", "john legend"]
+    },
+    {
+      "group" : "huncho jack",
+      "members" : ["travis scott", "quavo"]
+    },
+    {
+      "group" : "migos",
+      "members" : ["offset", "takeoff", "quavo"]
+    },
+    {
+      "group" : "fugeees",
+      "members" : ["ms lauryn hill", "pras", "wyclef jean"]
     }
   ]
 }
