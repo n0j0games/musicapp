@@ -8,20 +8,22 @@ import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
 import {SongInfo} from "../../models/songinfo";
 import {VinylComponent} from "../../common/vinyl/vinyl.component";
+import {RouterLink} from "@angular/router";
 
 @Component({
   selector: 'app-album-detail',
   standalone: true,
-  imports: [
-    NgIf,
-    PlayButtonComponent,
-    RatingComponent,
-    RemoveDeluxePipe,
-    RemoveFeatPipe,
-    NgStyle,
-    NgClass,
-    VinylComponent
-  ],
+    imports: [
+        NgIf,
+        PlayButtonComponent,
+        RatingComponent,
+        RemoveDeluxePipe,
+        RemoveFeatPipe,
+        NgStyle,
+        NgClass,
+        VinylComponent,
+        RouterLink
+    ],
   templateUrl: './album-detail.component.html'
 })
 export class AlbumDetailComponent implements OnInit {

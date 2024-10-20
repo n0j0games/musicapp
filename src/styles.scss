@@ -70,7 +70,11 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.less-important-link {
+  color: $text-color;
+}
+
+a:hover, .less-important-link:hover {
   color: $secondary-color;
   cursor: pointer;
 }
