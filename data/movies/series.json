@@ -19,6 +19,45 @@
       "franchise" : "Star Wars",
       "url" : "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Empire-251091",
       "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qA28nLteurVboSSzltuyYt1lvlC.jpg"
+    },
+    {
+      "title" : "Shameless",
+      "creator" : "Paul Abbott,\nJohn Wells",
+      "seasons" : 11,
+      "years" : [2012, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
+      "rating" : [7, 7, 8, 8, 9, 8, 8, 9, 9, 6, 6],
+      "url" : "https://www.serializd.com/show/Shameless-34307",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg"
+    },
+    {
+      "title" : "Game of Thrones",
+      "creator" : "D.B.Weiss,\nDavid Benioff",
+      "seasons" : 8,
+      "years" : [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
+      "rating" : [8, 9, 10, 10, 10, 9, 7, 3],
+      "franchise" : "Game of Thrones",
+      "url" : "https://www.serializd.com/show/Game-of-Thrones-1399",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/bw6DlqljVFIinhBA7uDSNha6Lnp.jpg"
+    },
+    {
+      "title" : "The Mandalorian",
+      "creator" : "Jon Favreau",
+      "seasons" : 3,
+      "years" : [2020, 2020, 2023],
+      "rating" : [8, 9, 9],
+      "franchise" : "Star Wars",
+      "url" : "https://www.serializd.com/show/The-Mandalorian-82856",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg"
+    },
+    {
+      "title" : "WandaVision",
+      "creator" : "Jac Schaeffer",
+      "seasons" : 1,
+      "years" : [2021],
+      "rating" : [10],
+      "franchise" : "Marvel",
+      "url" : "https://www.serializd.com/show/WandaVision-85271",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg"
     }
   ]
 }
