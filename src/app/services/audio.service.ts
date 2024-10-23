@@ -39,7 +39,7 @@ export class AudioService {
             return null;
         }
         const raw = this.artist?.split(",")[0] + " - " + this.track;
-        return raw.length < 37 ? raw : raw.substring(0, 34) + "...";
+        return raw.length < 63 ? raw : raw.substring(0, 60) + "...";
     }
 
     playAudioFromList(previewUrls : SongInfo[]) {
