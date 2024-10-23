@@ -9,6 +9,16 @@
       "franchise" : "Breaking Bad / Better Call Saul",
       "url" : "https://www.serializd.com/show/Better-Call-Saul-60059",
       "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
+      "title" : "Star Wars: Tales of the Empire",
+      "creator" : "Dave Filoni",
+      "seasons" : 1,
+      "years" : [2024],
+      "rating" : [4],
+      "franchise" : "Star Wars",
+      "url" : "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Empire-251091",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qA28nLteurVboSSzltuyYt1lvlC.jpg"
     }
   ]
 }
