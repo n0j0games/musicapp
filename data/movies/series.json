@@ -1,0 +1,14 @@
+{
+  "items" : [
+    {
+      "title" : "Better Call Saul",
+      "creator" : "Vince Gilligan,\nPeter Gould",
+      "seasons" : 6,
+      "years" : [2015,2016,2017,2018,2020,2022],
+      "rating" : [7, 7, 7, 8, 8, 9],
+      "franchise" : "Breaking Bad / Better Call Saul",
+      "url" : "https://www.serializd.com/show/Better-Call-Saul-60059",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    }
+  ]
+}
