@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {AudioService} from "../../services/audio.service";
 import {NgClass, NgIf, NgStyle} from "@angular/common";
-import {RemoveFeatPipe} from "../remove-feat.pipe";
+import {RemoveFeatPipe} from "../../pipes/remove-feat.pipe";
 
 @Component({
   selector: 'app-play-track',

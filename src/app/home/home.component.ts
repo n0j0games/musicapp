@@ -1,15 +1,14 @@
 import {Component, OnInit} from '@angular/core';
 import {LowerCasePipe, NgForOf, NgIf} from "@angular/common";
-import {Router, RouterLink} from "@angular/router";
-import {SotwService} from "../services/sotw.service";
-import {SotwList} from "../models/sotw-list";
-import {WeekHelper} from "../common/week-helper";
-import {AotyService} from "../services/aoty.service";
-import {AotyList} from "../models/aoty-list";
+import {RouterLink} from "@angular/router";
+import {SotwService} from "../common/services/sotw.service";
+import {SotwList} from "../common/models/sotw-list";
+import {AotyService} from "../common/services/aoty.service";
+import {AotyList} from "../common/models/aoty-list";
 import {ItemComponent} from "./item-group/item/item.component";
 import {ItemGroupComponent} from "./item-group/item-group.component";
-import {AotyItem} from "../models/aoty-item";
-import {FormControl, FormGroup, ReactiveFormsModule} from "@angular/forms";
+import {AotyItem} from "../common/models/aoty-item";
+import {ReactiveFormsModule} from "@angular/forms";
 import {HomeSpecialComponent} from "./home-special/home-special.component";
 
 @Component({

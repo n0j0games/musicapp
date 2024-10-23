@@ -1,19 +1,19 @@
 import { Routes } from '@angular/router';
 import {SongsOfTheWeekComponent} from "./songs-of-the-week/songs-of-the-week.component";
 import {HomeComponent} from "./home/home.component";
-import {NotFoundComponent} from "./not-found/not-found.component";
-import {SotwResolverService} from "./services/sotw-resolver.service";
-import {SotwItemResolverService} from "./services/sotw-item.resolver.service";
-import {AotyItemResolverService} from "./services/aoty-item.resolver.service";
-import {AotyResolverService} from "./services/aoty-resolver.service";
+import {NotFoundComponent} from "./common/components/not-found/not-found.component";
+import {SotwResolverService} from "./common/resolver/sotw-resolver.service";
+import {SotwItemResolverService} from "./common/resolver/sotw-item.resolver.service";
+import {AotyItemResolverService} from "./common/resolver/aoty-item.resolver.service";
+import {AotyResolverService} from "./common/resolver/aoty-resolver.service";
 import {AlbumsOfTheYearComponent} from "./albums-of-the-year/albums-of-the-year.component";
 import {AggregatedDecadeComponent} from "./albums-of-the-year/aggregated-decade/aggregated-decade.component";
-import {AotyDecadeAggregateResolverService} from "./services/aoty-decade-aggregate.resolver.service";
+import {AotyDecadeAggregateResolverService} from "./common/resolver/aoty-decade-aggregate.resolver.service";
 import {AggregatedSotyComponent} from "./songs-of-the-week/aggregated-soty/aggregated-soty.component";
-import {SotwAggregateResolverService} from "./services/sotw-aggregate.resolver.service";
+import {SotwAggregateResolverService} from "./common/resolver/sotw-aggregate.resolver.service";
 import {AggregatedVariousComponent} from "./albums-of-the-year/aggregated-various/aggregated-various.component";
-import {AotyAggregateResolverService} from "./services/aoty-aggregate.resolver.service";
-import {AliasResolverService} from "./services/alias.resolver.service";
+import {AotyAggregateResolverService} from "./common/resolver/aoty-aggregate.resolver.service";
+import {AliasResolverService} from "./common/resolver/alias.resolver.service";
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },

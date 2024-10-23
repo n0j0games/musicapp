@@ -1,10 +1,10 @@
 import {Component, OnInit} from '@angular/core';
-import {AotyItem} from "../../models/aoty-item";
+import {AotyItem} from "../../common/models/aoty-item";
 import {ActivatedRoute, Router} from "@angular/router";
-import {AotyService} from "../../services/aoty.service";
+import {AotyService} from "../../common/services/aoty.service";
 import {AlbumDetailComponent} from "../album-detail/album-detail.component";
 import {NgForOf, NgIf} from "@angular/common";
-import {Album} from "../../models/album";
+import {Album} from "../../common/models/album";
 
 @Component({
   selector: 'app-aggregated-decade',

@@ -1,6 +1,6 @@
 import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {NgStyle} from "@angular/common";
-import {RatingPipe} from "../rating.pipe";
+import {RatingPipe} from "../../pipes/rating.pipe";
 
 @Component({
   selector: 'app-rating',

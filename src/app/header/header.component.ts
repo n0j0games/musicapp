@@ -1,12 +1,12 @@
 import {Component, OnInit} from '@angular/core';
 import {WeekHelper} from "../common/week-helper";
 import {Router, RouterLink} from "@angular/router";
-import {SotwService} from "../services/sotw.service";
-import {SotwList} from "../models/sotw-list";
-import {PlayButtonComponent} from "../common/play-button/play-button.component";
-import {AudioService} from "../services/audio.service";
-import {PlayTrackComponent} from "../common/play-track/play-track.component";
-import {SongInfo} from "../models/songinfo";
+import {SotwService} from "../common/services/sotw.service";
+import {SotwList} from "../common/models/sotw-list";
+import {PlayButtonComponent} from "../common/components/play-button/play-button.component";
+import {AudioService} from "../common/services/audio.service";
+import {PlayTrackComponent} from "../common/components/play-track/play-track.component";
+import {SongInfo} from "../common/models/songinfo";
 
 @Component({
   selector: 'app-header',

@@ -1,13 +1,13 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {AudioService} from "../../services/audio.service";
-import {Album} from "../../models/album";
+import {AudioService} from "../../common/services/audio.service";
+import {Album} from "../../common/models/album";
 import {NgClass, NgIf, NgStyle} from "@angular/common";
-import {PlayButtonComponent} from "../../common/play-button/play-button.component";
-import {RatingComponent} from "../../common/rating/rating.component";
-import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
-import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
-import {SongInfo} from "../../models/songinfo";
-import {VinylComponent} from "../../common/vinyl/vinyl.component";
+import {PlayButtonComponent} from "../../common/components/play-button/play-button.component";
+import {RatingComponent} from "../../common/components/rating/rating.component";
+import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
+import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
+import {SongInfo} from "../../common/models/songinfo";
+import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {RouterLink} from "@angular/router";
 
 @Component({

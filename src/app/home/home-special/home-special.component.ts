@@ -1,8 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {ItemComponent} from "../item-group/item/item.component";
 import {FormControl, FormGroup, ReactiveFormsModule} from "@angular/forms";
-import {SotwService} from "../../services/sotw.service";
-import {AotyService} from "../../services/aoty.service";
 import {Router} from "@angular/router";
 
 @Component({
