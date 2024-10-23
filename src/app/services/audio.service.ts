@@ -38,7 +38,7 @@ export class AudioService {
         if (this.track === null) {
             return null;
         }
-        const raw = this.artist?.split(",")[0] + " - " + this.track;
+        const raw = this.artist + " - " + this.track;
         return raw.length < 63 ? raw : raw.substring(0, 60) + "...";
     }
 
