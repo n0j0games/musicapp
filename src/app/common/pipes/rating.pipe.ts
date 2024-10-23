@@ -6,31 +6,32 @@ import { Pipe, PipeTransform } from '@angular/core';
 })
 export class RatingPipe implements PipeTransform {
 
-  transform(value: number): string {
+  transform(value: number, shortForm : boolean = false): string {
     value = Math.floor(value);
     switch (value) {
       case 11:
       case 10:
-        return "PERFECT";
+        return shortForm ? "10" : "PERFECT";
       case 9:
-        return "AMAZING";
+        return shortForm ? "9" : "AMAZING";
       case 8:
-        return "VERY GOOD";
+        return shortForm ? "8" : "VERY GOOD";
       case 7:
-        return "GOOD";
+        return shortForm ? "7" : "GOOD";
       case 6:
-        return "SOLID";
+        return shortForm ? "6" : "SOLID";
       case 5:
-        return "OKAY";
+        return shortForm ? "5" : "OKAY";
       case 4:
-        return "MID";
+        return shortForm ? "4" : "MID";
       case 3:
-        return "BAD";
+        return shortForm ? "3" : "BAD";
       case 2:
+        return shortForm ? "2" : "VERY BAD";
       case 1:
-        return "TRASH";
+        return shortForm ? "1" : "TRASH";
       case 0:
-        return "UNRATED";
+        return shortForm ? "?" : "UNRATED";
       default:
         return value.toString();
 

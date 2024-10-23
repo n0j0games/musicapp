@@ -1,0 +1,12 @@
+<p class="p-i fs-xl title-gap-b"><span class="p-b-i"> my fav movies & shows of {{ moviesOfTheYear?.year }}</span><span *ngIf="moviesOfTheYear?.year === thisYear"> (so far)</span></p>
+<div *ngIf="moviesOfTheYear !== null" class="list gap-xl">
+    <app-movie-detail
+            *ngFor="let movie of moviesOfTheYear.items; index as i"
+            [movie]="movie"
+            [index]="i+1"
+            [activeSeason]="getActiveSeason(movie)"
+    ></app-movie-detail>
+</div>
+<div *ngIf="moviesOfTheYear === null">
+    <p> Something went wrong! </p>
+</div>

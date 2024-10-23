@@ -29,7 +29,6 @@ import {RouterLink} from "@angular/router";
 export class AlbumDetailComponent implements OnInit {
 
   isPlaying = false;
-
   previewUrls : string[] = [];
 
   @Input() album! : Album;
@@ -68,6 +67,4 @@ export class AlbumDetailComponent implements OnInit {
     }
     return this.album.songs!.map(song => new SongInfo(song.title, song.preview_url, this.album.artist));
   }
-
-  protected readonly Math = Math;
 }

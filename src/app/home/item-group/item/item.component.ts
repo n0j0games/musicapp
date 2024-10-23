@@ -37,7 +37,11 @@ export class ItemComponent implements OnInit {
       this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);
       this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]
     } else if (this.isAoty === "LIST") {
-      this.routerLink = ['/lists', this.queryParam];
+      this.routerLink = ['/aoty-lists', this.queryParam];
+    } else if (this.isAoty === "MOTY") {
+      this.routerLink = ['/moty', this.item.year.toString()];
+    } else if (this.isAoty === "MLIST") {
+      this.routerLink = ['/moty-lists', this.queryParam];
     } else {
       throw new Error("unknown type");
     }

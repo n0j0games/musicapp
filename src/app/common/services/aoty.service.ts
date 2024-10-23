@@ -23,7 +23,7 @@ export class AotyService {
     this.aliasList = aliasList;
   }
 
-  getAliasList (): AliasList | undefined {
+  getAliasList(): AliasList | undefined {
     return this.aliasList;
   }
 
@@ -94,8 +94,9 @@ export class AotyService {
   }
 
   setAlbumsOfTheYear(aotyItem: AotyItem) {
-    for (const item of this.aotyItems) {
-      if (item.year === aotyItem.year) {
+    for (const item in this.aotyItems) {
+      if (this.aotyItems[item].year === aotyItem.year) {
+        this.aotyItems[item] = aotyItem;
         return;
       }
     }

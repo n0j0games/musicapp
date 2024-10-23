@@ -1,6 +1,24 @@
-<div class="outer flex-column align-center justify-center">
-    <p class="text p-b-i fs-s">{{ rating | ratingPipe }}</p>
-    <div class="back">
-        <div [ngStyle]="{'background' : colors[Math.floor(rating)], 'width' : width+'%'}" class="color"></div>
+<div class="flex-column align-start gap-s">
+    <div *ngIf="singleRating" class="flex-row align-start gap-s">
+        <p class="fs-m" *ngIf="arrayRating && activeSeason">This year's season (S{{ this.activeSeason }}):</p>
+        <p class="fs-m" *ngIf="arrayRating && !activeSeason">Average:</p>
+        <div class="outer flex-column align-center justify-center">
+            <p class="text p-b-i fs-s">{{ singleRating | ratingPipe }}</p>
+            <div class="back">
+                <div [ngStyle]="{'background' : colors[Math.floor(singleRating)], 'width' : width+'%'}" class="color"></div>
+            </div>
+        </div>
     </div>
+    <div *ngIf="arrayRating" class="flex-row align-center gap-s">
+        <p class="fs-m">Ratings per season</p>
+        <div class="flex-row gap-s">
+            <div *ngFor="let rating of arrayRating; index as i" class="outer-array flex-column align-center justify-center">
+                <p class="text p-b-i fs-s">{{ rating | ratingPipe : true }}</p>
+                <div class="back-array">
+                    <div [ngStyle]="{'background' : colors[Math.floor(rating)]}" class="color-array"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </div>

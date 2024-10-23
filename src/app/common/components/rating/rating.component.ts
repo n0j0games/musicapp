@@ -1,5 +1,5 @@
 import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
-import {NgStyle} from "@angular/common";
+import {NgForOf, NgIf, NgStyle} from "@angular/common";
 import {RatingPipe} from "../../pipes/rating.pipe";
 
 @Component({
@@ -7,14 +7,19 @@ import {RatingPipe} from "../../pipes/rating.pipe";
   standalone: true,
   imports: [
     NgStyle,
-    RatingPipe
+    RatingPipe,
+    NgIf,
+    NgForOf
   ],
   templateUrl: './rating.component.html',
   styleUrl: './rating.component.scss'
 })
 export class RatingComponent implements OnInit, OnChanges {
 
-  @Input() rating!: number;
+  @Input() rating!: number | number[];
+  @Input() activeSeason : number | undefined;
+  singleRating : number | null = null;
+  arrayRating : number[] | null = null;
 
   width : number = 0;
 
@@ -31,19 +36,53 @@ export class RatingComponent implements OnInit, OnChanges {
   colors = [this.horrible, this.horrible, this.horrible, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
 
   ngOnChanges(changes: SimpleChanges) {
-    this.width = this.calcWidth();
+    if (this.singleRating) {
+      this.width = this.calcWidth();
+    }
   }
 
   ngOnInit() {
-    if (this.rating < 0 || this.rating >= 12 ) {
-      console.warn("Unexpected rating", this.rating);
+    this.setRatings(this.rating);
+    if (this.singleRating == null && this.arrayRating == null) {
+      console.warn("Unknown rating type used");
+    }
+    if (this.arrayRating) {
+      this.processRatingArray();
+    }
+    if (this.singleRating) {
+      this.processSingleRating();
+    }
+  }
+
+  processRatingArray() {
+    for (const rating of this.arrayRating!) {
+      if (rating < 0 || rating >= 12 ) {
+        console.warn("Unexpected rating", rating);
+      }
+    }
+  }
+
+  processSingleRating() {
+    if (this.singleRating! < 0 || this.singleRating! >= 12 ) {
+      console.warn("Unexpected rating", this.singleRating);
     }
     this.width = this.calcWidth();
   }
 
   calcWidth() {
-    const percent = this.rating*10;
+    const percent = this.singleRating!*10;
     return percent > 100 ? 100 : percent;
+  }
+
+  setRatings(rating : number | number[]) {
+    if (Array.isArray(rating)) {
+      this.arrayRating = rating;
+      const sum = rating.reduce((a, b) => a + b, 0);
+      const avg = (sum / rating.length)
+      this.singleRating = this.activeSeason ? rating[this.activeSeason-1] : avg;
+    } else {
+      this.singleRating = rating;
+    }
   }
 
   protected readonly Math = Math;

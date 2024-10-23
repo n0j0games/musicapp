@@ -14,15 +14,20 @@ import {SotwAggregateResolverService} from "./common/resolver/sotw-aggregate.res
 import {AggregatedVariousComponent} from "./albums-of-the-year/aggregated-various/aggregated-various.component";
 import {AotyAggregateResolverService} from "./common/resolver/aoty-aggregate.resolver.service";
 import {AliasResolverService} from "./common/resolver/alias.resolver.service";
+import {MoviesOfTheYearComponent} from "./movies-of-the-year/movies-of-the-year.component";
+import {MotyResolverService} from "./common/resolver/moty.resolver.service";
+import {HomeMoviesComponent} from "./home/home-movies/home-movies.component";
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
+  { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService] },
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty/:year', component: AlbumsOfTheYearComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'soty/:year', component: AggregatedSotyComponent, resolve: [SotwResolverService, AotyResolverService, SotwAggregateResolverService] },
   { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyDecadeAggregateResolverService] },
+  { path: 'aoty-lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
+  { path: 'moty/:year', component: MoviesOfTheYearComponent, resolve: [MotyResolverService] },
   { path: 'error/404', component: NotFoundComponent, resolve: [SotwResolverService, AotyResolverService] },
-  { path: 'lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
   { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: '**', redirectTo: 'error/404', pathMatch: 'full' },
 ];
