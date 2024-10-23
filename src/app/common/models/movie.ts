@@ -7,6 +7,7 @@ export class Movie {
                 public url : string,
                 public imgUrl : string,
                 public seasons? : number,
-                public franchise? : string,) {}
+                public franchise? : string,
+                public activeSeason? : number) {}
 
 }

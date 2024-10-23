@@ -14,8 +14,20 @@
             <app-item
                     [item]="{year: 0, week: 0}"
                     [isAoty]="'MLIST'"
-                    [queryParam]="'alphabetical'"
+                    [queryParam]="'all'"
+                    [text]="'all movies & shows'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all-movies'"
                     [text]="'all movies'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all-shows'"
+                    [text]="'all shows'"
             ></app-item>
         </div>
     </div>

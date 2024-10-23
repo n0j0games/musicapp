@@ -77,9 +77,8 @@ export class RatingComponent implements OnInit, OnChanges {
   setRatings(rating : number | number[]) {
     if (Array.isArray(rating)) {
       this.arrayRating = rating;
-      const sum = rating.reduce((a, b) => a + b, 0);
-      const avg = (sum / rating.length)
-      this.singleRating = this.activeSeason ? rating[this.activeSeason-1] : avg;
+      const peak =  Math.max(...rating);
+      this.singleRating = this.activeSeason ? rating[this.activeSeason-1] : peak;
     } else {
       this.singleRating = rating;
     }

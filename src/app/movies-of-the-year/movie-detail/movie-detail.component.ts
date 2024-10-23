@@ -27,6 +27,6 @@ export class MovieDetailComponent {
 
   @Input() movie! : Movie;
   @Input() index! : number;
-  @Input() activeSeason! : number;
+  @Input() activeSeason : number | undefined;
 
 }

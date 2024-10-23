@@ -116,7 +116,6 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears : number[] = this.range(activeSince, new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
-    console.log("AD", albums)
     console.log(albums.filter(value => value.artist.toLowerCase().includes("jay")), "XXX");
     if (strict) {
       albums = albums.filter(value => value.artist.toLowerCase() === artist);

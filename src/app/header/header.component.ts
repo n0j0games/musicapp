@@ -37,7 +37,6 @@ export class HeaderComponent implements OnInit {
   emptyUrl = new SongInfo("","","");
 
   ngOnInit() {
-    console.log(this.router.url, "URL");
     this.audioServiceListener();
     this.sotwListChangedListener();
     this.router.events.subscribe((value) => {

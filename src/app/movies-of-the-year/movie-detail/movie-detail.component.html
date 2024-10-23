@@ -9,7 +9,7 @@
                     href="{{movie.url}}"
                     target="_blank"
             >
-                {{ movie.title }}
+                {{ movie.title }}<span class="p-i" *ngIf="activeSeason">: Season {{activeSeason}}</span>
             </a>
         </div>
         <p class="left-text fs-m max-width-800" *ngIf="movie.franchise !== undefined">Franchise: <span class="p-b-i">{{ movie.franchise }}</span></p>

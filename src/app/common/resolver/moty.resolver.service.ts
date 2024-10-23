@@ -17,7 +17,6 @@ export class MotyResolverService implements Resolve<(MotyItem|HttpErrorResponse)
 
 
         let motyList = this.motyService.getAllMovies();
-        console.log(motyList);
         if (motyList !== null && motyList.length !== 0) {
             return motyList;
         }

@@ -33,7 +33,6 @@ export class HomeMoviesComponent implements OnInit {
     for (const motyItem of motyItems) {
       this.motyItemsGroupedByYear.push({ year : motyItem.year!, preview : motyItem.items.map(value => value.imgUrl) });
     }
-    console.log(this.motyItemsGroupedByYear, motyItems, "movies");
   }
 
 }

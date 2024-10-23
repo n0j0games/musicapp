@@ -27,6 +27,7 @@ export const routes: Routes = [
   { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyDecadeAggregateResolverService] },
   { path: 'aoty-lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
   { path: 'moty/:year', component: MoviesOfTheYearComponent, resolve: [MotyResolverService] },
+  { path: 'moty-lists/:query', component: MoviesOfTheYearComponent, resolve: [MotyResolverService] },
   { path: 'error/404', component: NotFoundComponent, resolve: [SotwResolverService, AotyResolverService] },
   { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: '**', redirectTo: 'error/404', pathMatch: 'full' },

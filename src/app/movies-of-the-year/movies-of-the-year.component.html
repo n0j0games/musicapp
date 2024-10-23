@@ -1,4 +1,5 @@
-<p class="p-i fs-xl title-gap-b"><span class="p-b-i"> my fav movies & shows of {{ moviesOfTheYear?.year }}</span><span *ngIf="moviesOfTheYear?.year === thisYear"> (so far)</span></p>
+<p *ngIf="!aggregatedTitle" class="p-i fs-xl title-gap-b"><span class="p-b-i"> my fav movies & shows of {{ moviesOfTheYear?.year }}</span><span *ngIf="moviesOfTheYear?.year === thisYear"> (so far)</span></p>
+<p *ngIf="aggregatedTitle" class="p-b-i fs-xl title-gap-b">{{ aggregatedTitle }}</p>
 <div *ngIf="moviesOfTheYear !== null" class="list gap-xl">
     <app-movie-detail
             *ngFor="let movie of moviesOfTheYear.items; index as i"
