@@ -34,7 +34,7 @@
       "creator" : "D.B.Weiss,\nDavid Benioff",
       "seasons" : 8,
       "years" : [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
-      "rating" : [8, 9, 10, 10, 10, 9, 7, 3],
+      "rating" : [8, 9, 10, 11, 10, 9, 7, 3],
       "franchise" : "Game of Thrones",
       "url" : "https://www.serializd.com/show/Game-of-Thrones-1399",
       "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/bw6DlqljVFIinhBA7uDSNha6Lnp.jpg"
@@ -58,6 +58,55 @@
       "franchise" : "Marvel",
       "url" : "https://www.serializd.com/show/WandaVision-85271",
       "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg"
+    },
+    {
+      "title" : "Star Wars: The Clone Wars",
+      "creator" : "Dave Filoni",
+      "seasons" : 7,
+      "years" : [2008, 2010, 2011, 2012, 2013, 2014, 2020],
+      "rating" : [6, 6, 7, 7, 8, 8, 11],
+      "franchise" : "Star Wars",
+      "url" : "https://www.serializd.com/show/Star-Wars%3A-The-Clone-Wars-4194",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg"
+    },
+    {
+      "title" : "Star Wars: Rebels",
+      "creator" : "Dave Filoni",
+      "seasons" : 4,
+      "years" : [2015, 2016, 2017, 2018],
+      "rating" : [7, 8, 9, 9],
+      "franchise" : "Star Wars",
+      "url" : "https://www.serializd.com/show/Star-Wars-Rebels-60554",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/jmgR8330sKEJehr27rQ3bODnrlP.jpg"
+    },
+    {
+      "title" : "The Book of Boba Fett",
+      "creator" : "Jon Favreau",
+      "seasons" : 1,
+      "years" : [2022],
+      "rating" : [6],
+      "franchise" : "Star Wars",
+      "url" : "https://www.serializd.com/show/The-Book-of-Boba-Fett-115036",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg"
+    },
+    {
+      "title" : "Desperate Housewives",
+      "creator" : "Marc Cherry",
+      "seasons" : 8,
+      "years" : [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012],
+      "rating" : [7, 7, 7, 8, 8, 8, 7, 7],
+      "url" : "https://www.serializd.com/show/Desperate-Housewives-693",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/sywYmV9c9Vj2U7ocqNyfDt2pz3r.jpg"
+    },
+    {
+      "title" : "Stargate Universe",
+      "creator" : "Robert C. Cooper & Brad Wright",
+      "seasons" : 2,
+      "years" : [2010, 2011],
+      "rating" : [6, 7],
+      "franchise" : "Stargate",
+      "url" : "https://www.serializd.com/show/Stargate-Universe-5148",
+      "imgUrl" : "https://serializd-tmdb-images.b-cdn.net/t/p/w500/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg"
     }
   ]
 }
