@@ -1,6 +1,9 @@
 $accent-color: #00995E;
-$primary-color: #FB7DA8;
+$secondary-color: #FB7DA8;
 $light-accent-color: #6dcfaa;
+$accent-color-movies: #0669a6;
+$secondary-color-movies: #fda761;
+$light-accent-color-movies: #6d9ecf;
 
 .body {
   background: $accent-color;
@@ -8,6 +11,10 @@ $light-accent-color: #6dcfaa;
   flex-direction: row;
   align-items: center;
   padding: 10px 40px 0 40px;
+}
+
+.body-movie {
+  background: $accent-color-movies;
 }
 
 .fix-bottom {
@@ -62,7 +69,11 @@ a, p {
 }
 
 a:hover p, a:hover, i:hover, {
-  color: $primary-color;
+  color: $secondary-color;
+}
+
+.a-movie:hover, .a-movie:hover p {
+  color: $secondary-color-movies;
 }
 
 @media (width < 600px) {

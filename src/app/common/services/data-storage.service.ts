@@ -9,6 +9,8 @@ import {AotyItem} from "../models/aoty-item";
 import {AotyList} from "../models/aoty-list";
 import {Router} from "@angular/router";
 import {AliasList} from "../models/alias-list";
+import {MotyItem} from "../models/moty-item";
+import {MotyService} from "./moty.service";
 
 @Injectable({
     providedIn: 'root'
@@ -18,6 +20,7 @@ export class DataStorageService {
     constructor(private http: HttpClient,
                 private sotwService: SotwService,
                 private aotyService: AotyService,
+                private motyService : MotyService,
                 private router: Router) {
     }
 
@@ -133,6 +136,36 @@ export class DataStorageService {
                 this.router.navigate(['**']).then(() => console.error("Error while loading"));
                 return of(err);
             })
+        );
+    }
+
+    fetchMotyItems(): Observable<(MotyItem | HttpErrorResponse)[]> {
+        const rawUrls = ["series","movies"];
+        const urls = rawUrls.map(url => this.fetchSingleMotyItem(url));
+        return forkJoin<(MotyItem | HttpErrorResponse)[]>(urls).pipe(
+            map((value: (MotyItem | HttpErrorResponse)[]) => {
+                const res: (MotyItem | HttpErrorResponse)[] = [];
+                for (const item of value) {
+                    if (!(item instanceof HttpErrorResponse)) {
+                        res.push(item)
+                    }
+                }
+                return res;
+            }),
+            tap((value: (MotyItem | HttpErrorResponse)[]) => {
+                if (value != null) {
+                    console.log("Requested MOTY items", value)
+                    this.motyService.setMoviesOfTheYear(value);
+                }
+            })
+        )
+    }
+
+    fetchSingleMotyItem(url: string): Observable<MotyItem | HttpErrorResponse> {
+        return this.http.get<MotyItem>(
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/movies/' + url + '.json',
+        ).pipe(
+            catchError((err, caught) => of(err))
         );
     }
 

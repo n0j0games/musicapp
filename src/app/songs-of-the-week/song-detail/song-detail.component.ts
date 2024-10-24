@@ -1,12 +1,12 @@
 import {Component, Input, OnDestroy, OnInit} from '@angular/core';
-import {Song} from "../../models/song";
+import {Song} from "../../common/models/song";
 import {NgIf, NgOptimizedImage} from "@angular/common";
-import {RatingComponent} from "../../common/rating/rating.component";
-import {AudioService} from "../../services/audio.service";
-import {PlayButtonComponent} from "../../common/play-button/play-button.component";
-import {SongInfo} from "../../models/songinfo";
-import {RemoveFeatPipe} from "../../common/remove-feat.pipe";
-import {RemoveDeluxePipe} from "../../common/remove-deluxe.pipe";
+import {RatingComponent} from "../../common/components/rating/rating.component";
+import {AudioService} from "../../common/services/audio.service";
+import {PlayButtonComponent} from "../../common/components/play-button/play-button.component";
+import {SongInfo} from "../../common/models/songinfo";
+import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
+import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
 
 @Component({
   selector: 'app-song-detail',

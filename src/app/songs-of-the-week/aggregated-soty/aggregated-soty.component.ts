@@ -1,9 +1,8 @@
 import {Component, OnInit} from '@angular/core';
-import {SotwItem} from "../../models/sotw-item";
-import {WeekHelper} from "../../common/week-helper";
+import {SotwItem} from "../../common/models/sotw-item";
 import {ActivatedRoute, Router} from "@angular/router";
-import {SotwService} from "../../services/sotw.service";
-import {Song} from "../../models/song";
+import {SotwService} from "../../common/services/sotw.service";
+import {Song} from "../../common/models/song";
 import {NgForOf, NgIf} from "@angular/common";
 import {SongDetailComponent} from "../song-detail/song-detail.component";
 

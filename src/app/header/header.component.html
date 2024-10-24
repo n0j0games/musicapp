@@ -1,16 +1,19 @@
-<div class="body">
-    <a class="title-with-img" [routerLink]="['/home']"><img class="favicon" src="assets/favicon.png"><p class="p-b-i title fix-bottom">rate now cry later</p></a>
+<div class="body" [ngClass]="{ 'body-movie' : onMovieSite }">
+    <a [ngClass]="{ 'a-movie' : onMovieSite }" class="title-with-img" [routerLink]="['/home']"><img class="favicon" [src]="onMovieSite ? 'assets/favicon-movies.png' : 'assets/favicon.png'"><p class="p-b-i title fix-bottom">rate now cry later</p></a>
     <app-play-button
+            *ngIf="!onMovieSite"
             [url]="emptyUrl"
             [isPlaying]="isAnySongPlaying"
             [isOnlyStopButton]="true"
     ></app-play-button>
-    <app-play-track></app-play-track>
+    <app-play-track *ngIf="!onMovieSite"></app-play-track>
     <div class="wide-only">
         <div class="flex-grow"></div>
-        <a class="text-margin fix-bottom" [routerLink]="['/sotw', currentYear.toString() + currentWeek.toString()]">fav songs from last week</a>
-        <a class="text-margin fix-bottom" [routerLink]="['/soty', currentYear.toString()]">fav songs of this year</a>
-        <a class="text-margin fix-bottom" [routerLink]="['/aoty', currentYear.toString()]">albums of the year so far</a>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/sotw', currentYear.toString() + currentWeek.toString()]">fav songs from last week</a>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/soty', currentYear.toString()]">fav songs of {{ currentYear.toString() }}</a>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/aoty', currentYear.toString()]">albums of {{ currentYear.toString() }}</a>
+        <p class="text-margin fix-bottom">|</p>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/moty', currentYear.toString()]">movies & shows of {{ currentYear.toString() }}</a>
     </div>
 </div>
 <!-- <div class="sub-body mobile gap-l">

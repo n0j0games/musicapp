@@ -1,16 +1,19 @@
 import {Component, OnInit} from '@angular/core';
 import {ItemComponent} from "../item-group/item/item.component";
 import {FormControl, FormGroup, ReactiveFormsModule} from "@angular/forms";
-import {SotwService} from "../../services/sotw.service";
-import {AotyService} from "../../services/aoty.service";
-import {Router} from "@angular/router";
+import {Router, RouterLink} from "@angular/router";
+import {LowerCasePipe, NgForOf, NgIf} from "@angular/common";
 
 @Component({
   selector: 'app-home-special',
   standalone: true,
     imports: [
         ItemComponent,
-        ReactiveFormsModule
+        ReactiveFormsModule,
+        LowerCasePipe,
+        NgForOf,
+        NgIf,
+        RouterLink
     ],
   templateUrl: './home-special.component.html'
 })
@@ -37,7 +40,7 @@ export class HomeSpecialComponent implements OnInit {
             param = param.replaceAll('"', '');
             queryParam = { type : "strict" }
         }
-        this.router.navigate(['/lists/' + param], { queryParams : queryParam}).then(() => console.log("Searching for artist"));
+        this.router.navigate(['/aoty-lists/' + param], { queryParams : queryParam}).then(() => console.log("Searching for artist"));
         console.log(value);
     }
 

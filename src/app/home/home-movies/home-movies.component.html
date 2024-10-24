@@ -1,0 +1,47 @@
+<div class="flex-row m-flex-column gap-xxl flex-wrap justify-center">
+
+    <div class="flex-column gap-xl">
+        <p class="p-b-i fs-xl">highlights</p>
+        <div class="outer-highlight-card outer-highlight-card-movie flex-column gap-l">
+            <div class="highlight-card">
+                <a
+                        class="flex-column gap-s align-center"
+                        [routerLink]="['/home']"
+                >
+                    <span class="fs-xl p-b">music & songs</span>
+                </a>
+            </div>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all'"
+                    [text]="'all movies & shows'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all-movies'"
+                    [text]="'all movies'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all-shows'"
+                    [text]="'all shows'"
+            ></app-item>
+        </div>
+    </div>
+
+    <div class="flex-column gap-xl">
+        <p class="p-b-i fs-xl">my fav movies & shows of each year</p>
+        <app-item
+                *ngFor="let item of motyItemsGroupedByYear"
+                [item]="item"
+                [isAoty]="'MOTY'"
+                [queryParam]="''"
+                [text]="''"
+                [isDecade]="false"
+        ></app-item>
+    </div>
+
+</div>

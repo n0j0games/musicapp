@@ -40,6 +40,11 @@ $secondary-color-transparent: rgba(251, 125, 168, 0.46);
 $text-color: black;
 $light-accent-color: #6dcfaa;
 
+$accent-color-movies: #0669a6;
+$secondary-color-movies: #fd8c32;
+$secondary-color-movies-transparent: rgba(253, 167, 97, 0.48);
+$light-accent-color-movies: #6d9ecf;
+
 body {
   background: $primary-color;
   overflow-x: hidden;
@@ -70,7 +75,7 @@ a {
   text-decoration: none;
 }
 
-.less-important-link {
+.less-important-link, .movies-less-important-link {
   color: $text-color;
 }
 
@@ -81,6 +86,15 @@ a:hover, .less-important-link:hover {
 
 i:hover {
   color: $secondary-color;
+}
+
+.movies-text {
+  color: $accent-color-movies;
+}
+
+.movies-text:hover, .movies-less-important-link:hover {
+  color: $secondary-color-movies;
+  cursor: pointer;
 }
 
 .p-b {
@@ -233,6 +247,10 @@ body {
   padding: 15px;
 }
 
+.outer-highlight-card-movie {
+  background: $secondary-color-movies-transparent;
+}
+
 .outer-highlight-card a {
   color: $text-color;
 }
@@ -247,6 +265,10 @@ body {
   padding: 15px;
 }
 
+.highlight-card-movie {
+  background: $secondary-color-movies;
+}
+
 input {
   background: $secondary-color;
   border-radius: 5px;
@@ -256,8 +278,16 @@ input {
   outline: none;
 }
 
+.input-movies {
+  background: $secondary-color-movies;
+}
+
 input:focus {
   background: #ff3279;
+}
+
+.input-movies:focus {
+  background: $secondary-color-movies;
 }
 
 input::placeholder {
@@ -278,6 +308,11 @@ img {
   border: 3px solid black;
   border-radius: 5px;
   object-fit: cover;
+}
+
+.movie-poster {
+  width: 120px;
+  height: 180px;
 }
 
 .counter {
@@ -313,6 +348,11 @@ img {
   img {
     width: 80px;
     height: 80px;
+  }
+
+  .movie-poster {
+    width: 80px;
+    height: 120px;
   }
 
   .m-flex-column {
@@ -375,14 +415,14 @@ img {
 
 
 ::-webkit-scrollbar-track {
-  background: #636363;
+  background: #ffffff;
   background-size: 400% 100%;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: $accent-color;
+  background: #606060;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: $secondary-color;
+  background: #686868;
 }

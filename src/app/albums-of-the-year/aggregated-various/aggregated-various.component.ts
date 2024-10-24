@@ -1,12 +1,12 @@
 import {Component, OnInit} from '@angular/core';
-import {AotyItem} from "../../models/aoty-item";
+import {AotyItem} from "../../common/models/aoty-item";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
-import {AotyService} from "../../services/aoty.service";
-import {Album} from "../../models/album";
+import {AotyService} from "../../common/services/aoty.service";
+import {Album} from "../../common/models/album";
 import {AlbumDetailComponent} from "../album-detail/album-detail.component";
 import {NgForOf, NgIf} from "@angular/common";
-import {RatingComponent} from "../../common/rating/rating.component";
-import {AliasList} from "../../models/alias-list";
+import {RatingComponent} from "../../common/components/rating/rating.component";
+import {AliasList} from "../../common/models/alias-list";
 
 @Component({
   selector: 'app-aggregated-various',
@@ -116,7 +116,6 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears : number[] = this.range(activeSince, new Date().getFullYear(), 1)
         .filter(year => aotyQueryYears.includes(year));
     let albums = this.getAggregatedAlbums(queryYears);
-    console.log("AD", albums)
     console.log(albums.filter(value => value.artist.toLowerCase().includes("jay")), "XXX");
     if (strict) {
       albums = albums.filter(value => value.artist.toLowerCase() === artist);

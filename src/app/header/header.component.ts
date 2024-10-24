@@ -1,12 +1,13 @@
 import {Component, OnInit} from '@angular/core';
 import {WeekHelper} from "../common/week-helper";
-import {Router, RouterLink} from "@angular/router";
-import {SotwService} from "../services/sotw.service";
-import {SotwList} from "../models/sotw-list";
-import {PlayButtonComponent} from "../common/play-button/play-button.component";
-import {AudioService} from "../services/audio.service";
-import {PlayTrackComponent} from "../common/play-track/play-track.component";
-import {SongInfo} from "../models/songinfo";
+import {NavigationEnd, Router, RouterLink} from "@angular/router";
+import {SotwService} from "../common/services/sotw.service";
+import {SotwList} from "../common/models/sotw-list";
+import {PlayButtonComponent} from "../common/components/play-button/play-button.component";
+import {AudioService} from "../common/services/audio.service";
+import {PlayTrackComponent} from "../common/components/play-track/play-track.component";
+import {SongInfo} from "../common/models/songinfo";
+import {NgClass, NgIf} from "@angular/common";
 
 @Component({
   selector: 'app-header',
@@ -14,7 +15,9 @@ import {SongInfo} from "../models/songinfo";
   imports: [
     RouterLink,
     PlayButtonComponent,
-    PlayTrackComponent
+    PlayTrackComponent,
+    NgClass,
+    NgIf
   ],
   templateUrl: './header.component.html',
   styleUrl: './header.component.scss'
@@ -30,12 +33,17 @@ export class HeaderComponent implements OnInit {
   currentYear : number = new Date().getFullYear();
   currentWeek : number = this.weekHelper.getCurrentDateWeek();
   isAnySongPlaying : boolean = false;
-
+  onMovieSite : boolean = false;
   emptyUrl = new SongInfo("","","");
 
   ngOnInit() {
     this.audioServiceListener();
     this.sotwListChangedListener();
+    this.router.events.subscribe((value) => {
+      if (value instanceof NavigationEnd) {
+        this.onMovieSite = value.url.startsWith("/moty") || value.url.startsWith("/movie-home")
+      }
+    })
   }
 
   private audioServiceListener() {

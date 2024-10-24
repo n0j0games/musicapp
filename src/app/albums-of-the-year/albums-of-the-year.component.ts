@@ -1,10 +1,7 @@
 import {Component, OnInit} from '@angular/core';
-import {SotwItem} from "../models/sotw-item";
-import {WeekHelper} from "../common/week-helper";
 import {ActivatedRoute, Router} from "@angular/router";
-import {SotwService} from "../services/sotw.service";
-import {AotyService} from "../services/aoty.service";
-import {AotyItem} from "../models/aoty-item";
+import {AotyService} from "../common/services/aoty.service";
+import {AotyItem} from "../common/models/aoty-item";
 import {NgForOf, NgIf} from "@angular/common";
 import {SongDetailComponent} from "../songs-of-the-week/song-detail/song-detail.component";
 import {AlbumDetailComponent} from "./album-detail/album-detail.component";
