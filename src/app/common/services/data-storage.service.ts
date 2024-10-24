@@ -163,7 +163,7 @@ export class DataStorageService {
 
     fetchSingleMotyItem(url: string): Observable<MotyItem | HttpErrorResponse> {
         return this.http.get<MotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/feature/movies/data/movies/' + url + '.json',
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/movies/' + url + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
