@@ -6,6 +6,7 @@ import {NgForOf} from "@angular/common";
 import {MotyService} from "../../common/services/moty.service";
 import {MotyItem} from "../../common/models/moty-item";
 import {RouterLink} from "@angular/router";
+import {Movie} from "../../common/models/movie";
 
 @Component({
   selector: 'app-home-movies',
@@ -31,8 +32,15 @@ export class HomeMoviesComponent implements OnInit {
     const motyItems : MotyItem[] = this.motyService.getAllMovies();
     motyItems.sort((a, b) => b.year! - a.year!);
     for (const motyItem of motyItems) {
-      this.motyItemsGroupedByYear.push({ year : motyItem.year!, preview : motyItem.items.map(value => value.imgUrl) });
+      this.motyItemsGroupedByYear.push({ year : motyItem.year!, preview : motyItem.items.sort((a, b) => this.getSeasonalRating(b) - this.getSeasonalRating(a)).map(value => value.imgUrl).slice(0, 4) });
     }
+  }
+
+  getSeasonalRating(movie : Movie) {
+    if (Array.isArray(movie.rating)) {
+      return movie.rating[movie.activeSeason!-1];
+    }
+    return movie.rating
   }
 
 }
