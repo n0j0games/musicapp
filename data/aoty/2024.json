@@ -1808,6 +1808,35 @@
         }
       ],
       "rating": 6.1
+    },
+    {
+      "url": "https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27353fb9bf3853054b9ec2564df",
+      "title": "berq",
+      "artist": "Berq",
+      "songs": [
+        {
+          "title": "HEIMWEG",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f1a8821a3dde639b1f23e86983c0a481c0a7f3f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Mein Hass tritt dir die Haustür ein",
+          "preview_url": "https://p.scdn.co/mp3-preview/f4a01a058dc1d87dc07dd322c6d65f628b721183?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Vergissmeinnicht",
+          "preview_url": "https://p.scdn.co/mp3-preview/53f7ce388492f643b722bb1a0cc54a97cd0a4e39?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Blauer Ballon",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b868aef9b9a59bdec8ff3e75d3339323f9b0cab?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "SCHLEIERKRAUT",
+          "preview_url": "https://p.scdn.co/mp3-preview/e3dea06abe828efbc6a66b753620f809e7c7123e?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9.1
     }
   ]
 }
