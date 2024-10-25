@@ -1,0 +1,102 @@
+{
+  "year": 2024,
+  "week": 43,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5b02c6bddd8a6e6e63a8de85c1ba9f381d388e40?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dc620428d6bbc305cd43c19b",
+      "title": "Noid",
+      "artist": "Tyler, The Creator",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3d8d105754116fbab41df48d5325c190b4031b6b?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27362112cacadae39be567d053f",
+      "title": "OCEAN",
+      "artist": "Ufo361, Kehard",
+      "rating": 7.5,
+      "album": "NUR FÜR DICH 2",
+      "url": "https://open.spotify.com/track/4vltP21BvMqKKQgjIWMcxQ"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/0c9083b68cd3e1eae20559bb5791925d577a219c?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27362112cacadae39be567d053f",
+      "title": "WARUM IST ES SO SCHWER DICH ZU VERGESSEN",
+      "artist": "Ufo361",
+      "rating": 7.5,
+      "album": "NUR FÜR DICH 2",
+      "url": "https://open.spotify.com/track/0GKDuXxjisLvkOu8ah4jvq"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f2848942d4f924ea75345c1242cbce858ae3bcd5?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27353fb9bf3853054b9ec2564df",
+      "title": "Träumen",
+      "artist": "Berq",
+      "rating": 7,
+      "album": "berq",
+      "url": "https://open.spotify.com/track/4rORA6wy5y0Kn0uvmV2a1V"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3158ddd3f16e5df3102626a9f13017170a9261a3?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27353fb9bf3853054b9ec2564df",
+      "title": "Licht geht aus",
+      "artist": "Berq",
+      "rating": 7,
+      "album": "berq",
+      "url": "https://open.spotify.com/track/5nNZ1qZcDLe1UuXgdVnZ5Q"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/53f7ce388492f643b722bb1a0cc54a97cd0a4e39?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27353fb9bf3853054b9ec2564df",
+      "title": "Vergissmeinnicht",
+      "artist": "Berq",
+      "rating": 10.5,
+      "album": "berq",
+      "url": "https://open.spotify.com/track/3cNJmuEwsZpEfFj10wcvpz"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/7b868aef9b9a59bdec8ff3e75d3339323f9b0cab?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27353fb9bf3853054b9ec2564df",
+      "title": "Blauer Ballon",
+      "artist": "Berq",
+      "rating": 10.5,
+      "album": "berq",
+      "url": "https://open.spotify.com/track/3aeRQ9xGSLAUg1R7CZ5QKv"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e3dea06abe828efbc6a66b753620f809e7c7123e?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27353fb9bf3853054b9ec2564df",
+      "title": "SCHLEIERKRAUT",
+      "artist": "Berq",
+      "rating": 8,
+      "album": "berq",
+      "url": "https://open.spotify.com/track/1yB1VJZ6gh8qsPMacpriWF"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/208cefb75258be5f3eb797b6da8f630718ab169d?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27319c2e6861dee0a673136a8ba",
+      "title": "ASPARTAM-BITTER",
+      "artist": "error",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/0E4Z2BgvGZMOnyBuK5kyXX"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/114a223034ce1634aab978bfb8dc897eae15a9d5?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27362112cacadae39be567d053f",
+      "title": "LIEBE (feat. Nina Chuba)",
+      "artist": "Ufo361, Nina Chuba",
+      "rating": 8,
+      "album": "NUR FÜR DICH 2",
+      "url": "https://open.spotify.com/track/1moKZKZydvCRie5SQ8wlis"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/fd00065595ec473de2cd901ffff0c1df1e424773?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c92dd6917561958532652d1a",
+      "title": "40 Tage",
+      "artist": "Shindy",
+      "rating": 8.5,
+      "url": "https://open.spotify.com/track/1Bds1PSumHSeVQFqIWc77p"
+    }
+  ]
+}
