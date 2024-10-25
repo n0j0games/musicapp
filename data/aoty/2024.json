@@ -1791,6 +1791,23 @@
         }
       ],
       "rating": 7.5
+    },
+    {
+      "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27362112cacadae39be567d053f",
+      "title": "NUR FÜR DICH 2",
+      "artist": "Ufo361",
+      "songs": [
+        {
+          "title": "7 LEERE ZIMMER (feat. Henning May)",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd90656662f11fbbaae4122453e8f3ea0b0ca0cd?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "WARUM IST ES SO SCHWER DICH ZU VERGESSEN",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c9083b68cd3e1eae20559bb5791925d577a219c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 6.1
     }
   ]
 }
