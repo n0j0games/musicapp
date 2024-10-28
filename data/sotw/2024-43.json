@@ -3,14 +3,6 @@
   "week": 43,
   "songs": [
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/5b02c6bddd8a6e6e63a8de85c1ba9f381d388e40?cid=941103e4872f4d3fad60066c677df34f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dc620428d6bbc305cd43c19b",
-      "title": "Noid",
-      "artist": "Tyler, The Creator",
-      "rating": 8,
-      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/3d8d105754116fbab41df48d5325c190b4031b6b?cid=941103e4872f4d3fad60066c677df34f",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27362112cacadae39be567d053f",
       "title": "OCEAN",
@@ -97,6 +89,96 @@
       "artist": "Shindy",
       "rating": 8.5,
       "url": "https://open.spotify.com/track/1Bds1PSumHSeVQFqIWc77p"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/9c6c21623ff9383058ecca2b21adeecc9c1f8021?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "St. Chroma",
+      "artist": "Tyler, The Creator",
+      "rating": 8,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/31690e7eb63908131191eaac9dcbe5f8be320b85?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Rah Tah Tah",
+      "artist": "Tyler, The Creator",
+      "rating": 8,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5c1cf6384b84f9074067a4d0ef80f359e36e40ac?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Noid",
+      "artist": "Tyler, The Creator",
+      "rating": 8,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/401ba0db35e29083559a5570d0db8eae12753e08?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Darling, I",
+      "artist": "Tyler, The Creator",
+      "rating": 10,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/4b3c122b1669fdc3de2d6e93031c1c761850c358?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Hey Jane",
+      "artist": "Tyler, The Creator",
+      "rating": 7,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/fb2b25e3de255b92a213a340ee79e370a1466af7?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Take Your Mask Off",
+      "artist": "Tyler, The Creator",
+      "rating": 8,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/ccc32aff903aa390a8a106e454100136d2b7eda4?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Tomorrow",
+      "artist": "Tyler, The Creator",
+      "rating": 7,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/fbaae9fea1efb99a18d21ef123a4d98c47d356b5?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Like Him",
+      "artist": "Tyler, The Creator",
+      "rating": 9,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/6c1a407d525ff986063b7b1a94ee31be9c6ea87c?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "Balloon",
+      "artist": "Tyler, The Creator",
+      "rating": 9,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f8075ec0f309e4b9617abb3da84a48e98ef9f258?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "I Hope You Find Your Way Home",
+      "artist": "Tyler, The Creator",
+      "rating": 7,
+      "album": "CHROMAKOPIA",
+      "url": "https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6"
     }
   ]
 }

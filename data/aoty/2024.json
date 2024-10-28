@@ -1837,6 +1837,31 @@
         }
       ],
       "rating": 9.1
+    },
+    {
+      "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273232374a6a869e62826f3f1f7",
+      "title": "CHROMAKOPIA",
+      "artist": "Tyler, The Creator",
+      "songs": [
+        {
+          "title": "St. Chroma",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c6c21623ff9383058ecca2b21adeecc9c1f8021?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Darling, I",
+          "preview_url": "https://p.scdn.co/mp3-preview/401ba0db35e29083559a5570d0db8eae12753e08?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Like Him",
+          "preview_url": "https://p.scdn.co/mp3-preview/fbaae9fea1efb99a18d21ef123a4d98c47d356b5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Balloon",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c1a407d525ff986063b7b1a94ee31be9c6ea87c?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
     }
   ]
 }
