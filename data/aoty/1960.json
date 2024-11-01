@@ -28,7 +28,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/18326d8f82826b046110a504cd24bec1eac74b56?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.3
+      "rating": 9.3,
+      "genre" : "Rock"
     },
     {
       "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
@@ -57,7 +58,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7ef39591e786ae25bdf67bb92abe2460ade35fbf?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0
+      "rating": 9.0,
+      "genre" : "Rock"
     },
     {
       "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
@@ -86,7 +88,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c92aa1522f4d342468892d77a4e55e27356aa295?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "genre" : "Rock"
     },
     {
       "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez",
@@ -115,7 +118,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0f5d729a4c54d20d4ff5351fb7bc18a9b26d9572?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.2
+      "rating": 8.2,
+      "genre" : "Soul"
     },
     {
       "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG",
@@ -144,7 +148,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e573a3589eaf7c2ef35ec7480dc13868d6d1c318?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8.0,
+      "genre" : "Soul"
     }
   ]
 }
