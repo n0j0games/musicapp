@@ -1935,6 +1935,32 @@
       ],
       "rating": 7.9,
       "genre" : "Rap"
+    },
+    {
+      "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b5932c7bd8e874af036fbb61",
+      "title": "bulletholes",
+      "artist": "verifiziert",
+      "songs": [
+        {
+          "title": "fliegen",
+          "preview_url": "https://p.scdn.co/mp3-preview/69f8affa3d59d5f8dfc0e4d1324f76f4efd087cf?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "tumblr",
+          "preview_url": "https://p.scdn.co/mp3-preview/556f19f3edc8245716f1e72b60f2490bc8d75c9e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "revolver",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ddd52b2bc3a3d612798a5331d7587653825436c?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "scherben",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6fe3aa83b1bb16ce63e9d9dd9c01356b980ae87?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.5,
+      "genre" : "Deutscher Indie"
     }
   ]
 }
