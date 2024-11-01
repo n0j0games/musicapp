@@ -9,7 +9,9 @@ export class Album {
                 public rating : number,
                 public title : string,
                 public songs? : { "title" : string, "preview_url" : string }[],
-                public onVinyl? : boolean) {
+                public genre? : string,
+                public onVinyl? : boolean,
+                public year? : number) {
     }
 
 }

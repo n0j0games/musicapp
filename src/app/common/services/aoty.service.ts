@@ -47,7 +47,7 @@ export class AotyService {
     if (aggregatedAlbums.length === 0 || aggregatedAlbums.length !== queryYears.length) {
       return null;
     }
-    return aggregatedAlbums;
+    return aggregatedAlbums.slice();
   }
 
   getAlbumsOfTheDecade(decade : number): AotyItem[] | null {
@@ -61,7 +61,7 @@ export class AotyService {
     if (aggregatedDecadeAlbums.length === 0 || aggregatedDecadeAlbums.length !== yearsInDecade) {
       return null;
     }
-    return aggregatedDecadeAlbums;
+    return aggregatedDecadeAlbums.slice();
   }
 
   getYearsInDecade(decade : number) : number {

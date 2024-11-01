@@ -1,0 +1,18 @@
+.outer {
+  height: 20px;
+  border-radius: 5px;
+  padding: 0 10px;
+}
+
+.outer p {
+  color: white;
+}
+
+@media (width < 600px) {
+
+  .outer {
+    height: 16px;
+  }
+
+}
+
