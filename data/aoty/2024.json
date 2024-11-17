@@ -1961,6 +1961,89 @@
       ],
       "rating": 7.5,
       "genre" : "Deutscher Indie"
+    },
+    {
+      "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d605579f78f5c7480b37a300",
+      "title": "The Crossroads",
+      "artist": "Cordae",
+      "songs": [
+        {
+          "title": "06 dreamin",
+          "preview_url": "https://p.scdn.co/mp3-preview/f29d3eff01ebba1369a056651f2a6bf516580aa1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Summer Drop (feat. Anderson .Paak)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef34dae9fd4f4d5b54cc991a5867e5405ccc77d4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nothings Promised",
+          "preview_url": "https://p.scdn.co/mp3-preview/9db62ea6a3f824856b743298fc1e91c6f4b45501?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Saturday Mornings (feat. Lil Wayne)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ca9483d66abf5217f567eb1633dccd97bd21991b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 7.9
+    },
+    {
+      "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273778202db1325f65b829f2cc2",
+      "title": "Access All Areas",
+      "artist": "FLO",
+      "songs": [
+        {
+          "title": "AAA",
+          "preview_url": "https://p.scdn.co/mp3-preview/8b602771a6f717759af0b4fc3ca6973402d74307?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "In My Bag (feat. GloRilla)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7700423a07305bf988858eeb9bd3468cb6923f8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Walk Like This",
+          "preview_url": "https://p.scdn.co/mp3-preview/ebdd35a738fe4beda1a5be7d05ed0e8c0e1238f2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nocturnal",
+          "preview_url": "https://p.scdn.co/mp3-preview/91d16fbf679c130429bcfe72a04ea4bf06dff5d2?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "I'm Just A Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/76cf692c753a52fa9e4d4f8c8fca24187bb9959d?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.8
+    },
+    {
+      "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730f2ad4473aefdf807e708117",
+      "title": "Petrichor",
+      "artist": "070 Shake",
+      "songs": [
+        {
+          "title": "Elephant",
+          "preview_url": "https://p.scdn.co/mp3-preview/02e2160eb0a06e5936d2c2eb52f6c5078b9f6c1f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Pieces Of You",
+          "preview_url": "https://p.scdn.co/mp3-preview/13ed66c6061f466f95cc4d9ef9b0f62258e09e30?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Battlefield",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ae32f69e3ec87963412ccd17d26ad5cc4082dec?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "What's Wrong With Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e477ea2463f88d4dca84bbde67efa48d1ae1f16?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Blood On Your Hands",
+          "preview_url": "https://p.scdn.co/mp3-preview/1aa2488ba40e28954e4c3214605d21bed1fc9d5b?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8.0
     }
   ]
 }

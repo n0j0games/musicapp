@@ -89,6 +89,32 @@
       "artist": "Shindy",
       "rating": 8.5,
       "url": "https://open.spotify.com/track/1Bds1PSumHSeVQFqIWc77p"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/48655cf368e5ef527f5c8f933a9de4b33cbd8309?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d812409f9b10bb4ec26b971c",
+      "title": "Andy Warhol",
+      "artist": "Schlotte, laurin",
+      "rating": 9.5
+      "url": "https://open.spotify.com/track/1ntKmi4apttIwXDvoe0fst"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/925c2075c9d7f450a92c99ae1e6f676647726093?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730e5e43f79e3f8b88a5b75519",
+      "title": "Young Lion",
+      "artist": "Sade Adu",
+      "rating": 7.5,
+      "album": "Transa: Selects",
+      "url": "https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/14cb9e5c15a6ae626ef4c73825c9faace6129edb?cid=941103e4872f4d3fad60066c677df34f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ef4c9651479f449f337ed9cb",
+      "title": "BLADES",
+      "artist": "Ufo361, Julia Alexa",
+      "rating": 8,
+      "album": "NUR FÜR DICH 2",
+      "url": "https://open.spotify.com/track/2FbkVyZv3ECH3s2ib73LlY"
     }
   ]
 }
