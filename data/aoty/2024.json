@@ -29,7 +29,8 @@
         }
       ],
       "rating": 9.4,
-      "genre" : "Deutschrap"
+      "genre" : "Deutschrap",
+      "playTime" : 612
     },
     {
       "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
@@ -89,8 +90,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/24201038f84362ecafd1be4bbb9c4de53581cf9f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.2,
-      "genre" : "Pop"
+      "rating": 8.9,
+      "genre" : "Pop",
+      "playTime" : 2510
     },
     {
       "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
@@ -120,7 +122,8 @@
         }
       ],
       "rating": 9.0,
-      "genre" : "Indie Pop"
+      "genre" : "Indie Pop",
+      "playTime" : 419
     },
     {
       "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa",
@@ -150,7 +153,8 @@
         }
       ],
       "rating": 8.9,
-      "genre" : "Deutscher Indie"
+      "genre" : "Deutscher Indie",
+      "playTime" : 1135
     },
     {
       "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
@@ -180,7 +184,8 @@
         }
       ],
       "rating": 8.8,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 352
     },
     {
       "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
@@ -210,7 +215,8 @@
         }
       ],
       "rating": 8.8,
-      "genre" : "Synthpop"
+      "genre" : "Synthpop",
+      "playTime" : 817
     },
     {
       "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo",
@@ -240,7 +246,8 @@
         }
       ],
       "rating": 8.8,
-      "genre" : "Latin"
+      "genre" : "Latin",
+      "playTime" : 913
     },
     {
       "url": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa",
@@ -270,7 +277,8 @@
         }
       ],
       "rating": 8.4,
-      "genre" : "Indie Rock"
+      "genre" : "Indie Rock",
+      "playTime" : 553
     },
     {
       "url": "https://open.spotify.com/album/013tXdkWpzhE8TQ8IJRmRw",
@@ -300,7 +308,8 @@
         }
       ],
       "rating": 8.7,
-      "genre" : "Deutscher Indie"
+      "genre" : "Deutscher Indie",
+      "playTime" : 145
     },
     {
       "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f",
@@ -330,7 +339,8 @@
         }
       ],
       "rating": 8.5,
-      "genre" : "Rock"
+      "genre" : "Rock",
+      "playTime" : 590
     },
     {
       "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw",
@@ -360,7 +370,8 @@
         }
       ],
       "rating": 8.7,
-      "genre" : "Dreampop"
+      "genre" : "Dreampop",
+      "playTime" : 217
     },
     {
       "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP",
@@ -390,7 +401,8 @@
         }
       ],
       "rating": 8.8,
-      "genre" : "Electronic"
+      "genre" : "Electronic",
+      "playTime" : 607
     },
     {
       "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG",
@@ -416,7 +428,8 @@
         }
       ],
       "rating": 8.5,
-      "genre" : "Indie Pop"
+      "genre" : "Indie Pop",
+      "playTime" : 116
     },
     {
       "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL",
@@ -446,7 +459,8 @@
         }
       ],
       "rating": 8.6,
-      "genre" : "Jazz"
+      "genre" : "Jazz",
+      "playTime" : 164
     },
     {
       "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5",
@@ -476,7 +490,8 @@
         }
       ],
       "rating": 8.3,
-      "genre" : "Rock"
+      "genre" : "Rock",
+      "playTime" : 137
     },
     {
       "url": "https://open.spotify.com/album/3Vo6p72T0ffD4SHmpuPenP",
@@ -506,7 +521,8 @@
         }
       ],
       "rating": 8.1,
-      "genre" : "Dreampop"
+      "genre" : "Dreampop",
+      "playTime" : 25
     },
     {
       "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y",
@@ -536,7 +552,8 @@
         }
       ],
       "rating": 8.4,
-      "genre" : "Indie Rock"
+      "genre" : "Indie Rock",
+      "playTime" : 247
     },
     {
       "url": "https://open.spotify.com/album/2uoD60Oip7rq3vjXxZ2VaD",
@@ -566,7 +583,8 @@
         }
       ],
       "rating": 8.0,
-      "genre" : "Experimental Hip-Hop"
+      "genre" : "Experimental Hip-Hop",
+      "playTime" : 327
     },
     {
       "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF",
@@ -592,7 +610,8 @@
         }
       ],
       "rating": 8.0,
-      "genre" : "Synthpop"
+      "genre" : "Synthpop",
+      "playTime" : 643
     },
     {
       "url": "https://open.spotify.com/album/0CDJRywET2yNxEEl4R6cNq",
@@ -618,7 +637,8 @@
         }
       ],
       "rating": 7.8,
-      "genre" : "R&B"
+      "genre" : "R&B",
+      "playTime" : 19
     },
     {
       "url": "https://open.spotify.com/album/0G92BFcckQ8LKXhxmEvLat",
@@ -644,7 +664,8 @@
         }
       ],
       "rating": 7.9,
-      "genre" : "Shoegaze"
+      "genre" : "Shoegaze",
+      "playTime" : 89
     },
     {
       "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x",
@@ -670,7 +691,8 @@
         }
       ],
       "rating": 7.8,
-      "genre" : "Synthpop"
+      "genre" : "Synthpop",
+      "playTime" : 242
     },
     {
       "url": "https://open.spotify.com/album/2ej3ZX7h1N7noej8defaj1",
@@ -696,7 +718,8 @@
         }
       ],
       "rating": 7.6,
-      "genre" : "Deutscher Indie"
+      "genre" : "Deutscher Indie",
+      "playTime" : 345
     },
     {
       "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86",
@@ -722,7 +745,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Electronic"
+      "genre" : "Electronic",
+      "playTime" : 462
     },
     {
       "url": "https://open.spotify.com/album/7dGH4nr5sFVyGJQ2f6D3jl",
@@ -748,7 +772,8 @@
         }
       ],
       "rating": 7.7,
-      "genre" : "Deutschrap"
+      "genre" : "Deutschrap",
+      "playTime" : 911
     },
     {
       "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
@@ -774,7 +799,8 @@
         }
       ],
       "rating": 7.7,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 66
     },
     {
       "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf",
@@ -800,7 +826,8 @@
         }
       ],
       "rating": 7.3,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 168
     },
     {
       "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV",
@@ -826,7 +853,8 @@
         }
       ],
       "rating": 7.0,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 41
     },
     {
       "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh",
@@ -852,7 +880,8 @@
         }
       ],
       "rating": 7.4,
-      "genre" : "R&B"
+      "genre" : "R&B",
+      "playTime" : 45
     },
     {
       "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV",
@@ -878,7 +907,8 @@
         }
       ],
       "rating": 7.7,
-      "genre" : "Jazz"
+      "genre" : "Jazz",
+      "playTime" : 48
     },
     {
       "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
@@ -904,7 +934,8 @@
         }
       ],
       "rating": 7.3,
-      "genre" : "Pop Rap"
+      "genre" : "Pop Rap",
+      "playTime" : 115
     },
     {
       "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2",
@@ -930,7 +961,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Experimental Rap"
+      "genre" : "Experimental Rap",
+      "playTime" : 89
     },
     {
       "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L",
@@ -956,7 +988,8 @@
         }
       ],
       "rating": 7.3,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 221
     },
     {
       "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD",
@@ -982,7 +1015,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Synthpop"
+      "genre" : "Synthpop",
+      "playTime" : 119
     },
     {
       "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv",
@@ -1008,7 +1042,8 @@
         }
       ],
       "rating": 7.7,
-      "genre" : "Latin"
+      "genre" : "Latin",
+      "playTime" : 138
     },
     {
       "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8",
@@ -1034,7 +1069,8 @@
         }
       ],
       "rating": 7.0,
-      "genre" : "Deutschrap"
+      "genre" : "Deutschrap",
+      "playTime" : 61
     },
     {
       "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry",
@@ -1060,7 +1096,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 111
     },
     {
       "url": "https://open.spotify.com/album/6eoPGdVb2vSvEURaBOFk6O",
@@ -1086,7 +1123,8 @@
         }
       ],
       "rating": 7.3,
-      "genre" : "Electronic"
+      "genre" : "Electronic",
+      "playTime" : 35
     },
     {
       "url": "https://open.spotify.com/album/3bHBja0WHDXuhZjFzWFImc",
@@ -1112,7 +1150,8 @@
         }
       ],
       "rating": 7.0,
-      "genre" : "Synthpop"
+      "genre" : "Synthpop",
+      "playTime" : 223
     },
     {
       "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93",
@@ -1809,7 +1848,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Deutscher Indie"
+      "genre" : "Deutscher Indie",
+      "playTime" : 126
     },
     {
       "url": "https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz",
@@ -1835,7 +1875,8 @@
         }
       ],
       "rating": 7.8,
-      "genre" : "Deutschrap"
+      "genre" : "Deutschrap",
+      "playTime" : 195
     },
     {
       "url": "https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b",
@@ -1861,7 +1902,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Deutschrap"
+      "genre" : "Deutschrap",
+      "playTime" : 320
     },
     {
       "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf",
@@ -1909,7 +1951,8 @@
         }
       ],
       "rating": 9.1,
-      "genre" : "Deutscher Indie"
+      "genre" : "Deutscher Indie",
+      "playTime" : 420
     },
     {
       "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
@@ -1935,7 +1978,8 @@
         }
       ],
       "rating": 7.9,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 988
     },
     {
       "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV",
@@ -1961,7 +2005,8 @@
         }
       ],
       "rating": 7.5,
-      "genre" : "Deutscher Indie"
+      "genre" : "Deutscher Indie",
+      "playTime" : 172
     },
     {
       "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR",
