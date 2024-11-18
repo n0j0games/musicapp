@@ -33,7 +33,9 @@
         }
       ],
       "rating": 11.8,
-      "onVinyl" : true
+      "onVinyl" : true,
+      "genre" : "Alt Rock",
+      "playTime" : 3115
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",

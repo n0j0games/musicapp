@@ -91,7 +91,9 @@
         }
       ],
       "rating": 10.7,
-      "onVinyl" : true
+      "onVinyl" : true,
+      "genre" : "Neo Soul",
+      "playTime" : 2974
     },
     {
       "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk",

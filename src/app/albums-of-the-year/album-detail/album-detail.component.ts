@@ -9,7 +9,7 @@ import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
 import {SongInfo} from "../../common/models/songinfo";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {RouterLink} from "@angular/router";
-import {GenreComponent} from "../../common/components/genre/genre.component";
+import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
 
 @Component({
   selector: 'app-album-detail',
@@ -24,7 +24,7 @@ import {GenreComponent} from "../../common/components/genre/genre.component";
         NgClass,
         VinylComponent,
         RouterLink,
-        GenreComponent
+        ContentBadgeComponent
     ],
   templateUrl: './album-detail.component.html'
 })

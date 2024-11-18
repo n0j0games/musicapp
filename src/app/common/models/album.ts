@@ -11,6 +11,7 @@ export class Album {
                 public songs? : { "title" : string, "preview_url" : string }[],
                 public genre? : string,
                 public onVinyl? : boolean,
+                public playTime? : number,
                 public year? : number) {
     }
 

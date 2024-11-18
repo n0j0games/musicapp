@@ -97,7 +97,9 @@ export class AggregatedVariousComponent implements OnInit {
     const queryYears = aotyList!.items!.map(value => value.year);
     let albums = this.getAggregatedAlbums(queryYears);
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
-    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => a.title.localeCompare(b.title)); //.filter(value => value.rating >= 5);
+    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums
+        .sort((a, b) => a.title.localeCompare(b.title))
+        .sort((a, b) => (b.playTime ? b.playTime : 0) - (a.playTime ? a.playTime : 0)); //.filter(value => value.rating >= 5);
     console.log("AD", this.aggreatedAlbums.albums)
   }
 

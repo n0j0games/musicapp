@@ -3,20 +3,21 @@ import {NgIf, NgStyle} from "@angular/common";
 import {RatingPipe} from "../../pipes/rating.pipe";
 
 @Component({
-  selector: 'app-genre',
+  selector: 'app-content-badge',
   standalone: true,
   imports: [
     NgIf,
     RatingPipe,
     NgStyle
   ],
-  templateUrl: './genre.component.html',
-  styleUrl: './genre.component.scss'
+  templateUrl: './content-badge.component.html',
+  styleUrl: './content-badge.component.scss'
 })
-export class GenreComponent {
+export class ContentBadgeComponent {
 
-    @Input() genre!: string;
+    @Input() content!: string;
 
+    /*
     jazzGenres = ["jazz","soul","disco","funk"]
 
     getColor() {
@@ -45,5 +46,5 @@ export class GenreComponent {
       return "#9a9a9a";
     }
 
-    protected readonly Math = Math;
+     */
 }

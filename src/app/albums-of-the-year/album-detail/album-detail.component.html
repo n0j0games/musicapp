@@ -27,10 +27,12 @@
         <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <span class="p-b-i">{{ albumNames | removeFeat }}</span></p>
         <div class="flex-row align-center gap-s">
             <app-rating [rating]="album.rating"></app-rating>
-            <app-genre *ngIf="album.genre" [genre]="album.genre"></app-genre>
+            <app-content-badge *ngIf="album.genre" [content]="album.genre"></app-content-badge>
             <app-vinyl *ngIf="album.onVinyl !== undefined"
                        [wishlisted] = "!album.onVinyl"
             ></app-vinyl>
+            <app-content-badge *ngIf="album.playTime && album.playTime > 0" [content]="album.playTime + ' minutes played'"></app-content-badge>
+            <app-content-badge *ngIf="album.playTime === 0" [content]="'New'"></app-content-badge>
         </div>
 
     </div>

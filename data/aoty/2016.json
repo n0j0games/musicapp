@@ -195,7 +195,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9bc079936914a9af96a94b0158b095abf2452d05?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "genre" : "Pop",
+      "playTime" : 3151
     },
     {
       "url": "https://open.spotify.com/album/3A1vnUJDPz0xYMful9pO4I",
@@ -253,7 +255,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1872eafc674106e83fa2d58c8d23cd56d61b4df9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.999
+      "rating": 7.999,
+      "genre" : "Rap",
+      "playTime" : 5542
     },
     {
       "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H",

@@ -1158,127 +1158,136 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b2e4a1ea8a6708fc23f26e4a",
       "title": "VULTURES 1",
       "artist": "¥$",
-      "rating": 1
+      "rating": 1,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27321577735e417b15623632a6f",
       "title": "VULTURES 2",
       "artist": "¥$",
-      "rating": 1
-    },
-
-    {
-      "url": "https://open.spotify.com/album/4rs9HrWvrmXFHKaaOzVCtg",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732bc65495919f9af1ffb20d3d",
-      "title": "Dear Joe,",
-      "artist": "Jax",
-      "rating": 1.5
+      "rating": 1,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731633c43b5695735f7de36487",
       "title": "The Death of Slim Shady (Coup De Grâce)",
       "artist": "Eminem",
-      "rating": 2.0
+      "rating": 2.0,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273145eb25fb67e59a653f21ee8",
       "title": "genre : sadboy",
       "artist": "mgk,\nTrippie Redd",
-      "rating": 2.0
+      "rating": 2.0,
+      "genre" : "Emo Rap"
     },
     {
       "url": "https://open.spotify.com/album/7fSFi7t5otQ1voycWffHLk",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27311f901d0ea73934db30e36d5",
       "title": "Mac & Cheese 5 (Deluxe)",
       "artist": "French Montana",
-      "rating": 2.0
+      "rating": 2.0,
+      "genre": "Rap"
     },
     {
       "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27386bd6d30108e309239baa21b",
       "title": "C,XOXO - Magic City Edition",
       "artist": "Camila Cabello",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre" : "Pop"
     },
     {
       "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27372087cf057d9d3998dcfd477",
       "title": "Timeless",
       "artist": "Meghan Trainor",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre" : "Pop"
     },
     {
       "url": "https://open.spotify.com/album/3TMg3z1XaSKSgr7IGpLkmm",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737189bcdcd2bbb6a30d4af1a7",
       "title": "In Sexyy We Trust",
       "artist": "Sexyy Red",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/5Ks6uNmybiKl8GVlboh31a",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730c67380eecae975c7e5320e0",
       "title": "Your Love Is King",
       "artist": "Trettmann",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre" : "Deutschrap"
     },
     {
       "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b5e99d6177971707e6cd04f5",
       "title": "Might Delete Later",
       "artist": "J. Cole",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b579c207e16dc265ecaf160a",
       "title": "Pain & Love 2",
       "artist": "Fivio Foreign",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273820f2a56e4a57cc9a94672a8",
       "title": "INSANO",
       "artist": "Kid Cudi",
-      "rating": 3.0
+      "rating": 3.0,
+      "genre"  : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739cf15c7323fb85b7112197d5",
       "title": "Clancy",
       "artist": "Twenty One Pilots",
-      "rating": 4.0
+      "rating": 4.0,
+      "genre" : "Alt Pop"
     },
     {
       "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
       "title": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
       "artist": "Taylor Swift",
-      "rating": 4.0
+      "rating": 4.0,
+      "genre" : "Pop"
     },
     {
       "url": "https://open.spotify.com/album/3VJPWZfdKv6BALZ0b9TxRr",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27389c0136161487d6990054cc6",
       "title": "Growing Pains",
       "artist": "24kGoldn",
-      "rating": 4.0
+      "rating": 4.0,
+      "genre" : "Pop"
     },
     {
       "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d811db49fcc425d11b713498",
       "title": "Seductive",
       "artist": "Luciano",
-      "rating": 4.0
+      "rating": 4.0,
+      "genre" : "Deutschrap"
     },
     {
       "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733c3541f363538514d7a1a141",
       "title": "SONY",
       "artist": "Ufo361",
-      "rating": 4.0
+      "rating": 4.0,
+      "genre" : "Deutschrap"
     },
     {
       "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH",
@@ -2032,7 +2041,8 @@
         }
       ],
       "rating": 7.9,
-      "genre" : "Rap"
+      "genre" : "Rap",
+      "playTime" : 0
     },
     {
       "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR",
@@ -2062,7 +2072,8 @@
         }
       ],
       "rating": 8.8,
-      "genre" : "R&B"
+      "genre" : "R&B",
+      "playTime" : 0
     },
     {
       "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E",

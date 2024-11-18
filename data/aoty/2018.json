@@ -58,7 +58,9 @@
         }
       ],
       "rating": 9.9,
-      "onVinyl" : true
+      "onVinyl" : true,
+      "genre" : "Rap",
+      "playTime" : 9601
     },
     {
       "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
@@ -116,7 +118,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.1
+      "rating": 9.1,
+      "genre" : "Rap",
+      "playTime" : 4940
     },
     {
       "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
@@ -728,7 +732,9 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
       "title": "Scorpion",
       "artist": "Drake",
-      "rating": 4.0
+      "rating": 4.0,
+      "genre" : "Rap",
+      "playTime" : 3355
     },
     {
       "url": "https://open.spotify.com/album/5lxdY4GQkCJMcvScmwRgCx",
