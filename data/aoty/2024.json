@@ -59,7 +59,8 @@
         }
       ],
       "rating": 9.8,
-      "genre" : "Synthpop"
+      "genre" : "Synthpop",
+      "playTime" : 1375
     },
     {
       "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
@@ -1985,7 +1986,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ca9483d66abf5217f567eb1633dccd97bd21991b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.9
+      "rating": 7.9,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR",
@@ -2014,7 +2016,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/76cf692c753a52fa9e4d4f8c8fca24187bb9959d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "genre" : "R&B"
     },
     {
       "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E",
@@ -2043,7 +2046,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1aa2488ba40e28954e4c3214605d21bed1fc9d5b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8.0,
+      "genre" : "Art Pop",
+      "playTime" : 0
     }
   ]
 }
