@@ -235,7 +235,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/06b4bba1a9ff741acdc087e81c283b00525f79cf?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9
+      "rating": 8.9,
+      "genre" : "Rap",
+      "playTime" : 2167
     },
     {
       "url": "https://open.spotify.com/album/0K3mqXANh4DnZ8RXaKVDU4",
@@ -627,7 +629,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7a198e0dd948adf6d1b6266d9d421e583f3da8ad?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0
+      "rating": 7.0,
+      "playTime" : 2484,
+      "genre" : "Rap"
     },
     {
       "url": "https://soundcloud.com/kanyewestye/kanye-west-dr-dre-jesus-is-king-2-full-album",

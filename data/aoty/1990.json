@@ -28,7 +28,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/969161ef645e3e89a4ee8a0274013dae480a9e2d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.5
+      "rating": 10.5,
+      "genre" : "Alternative Rock",
+      "playTime" : 1639
     },
     {
       "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG",

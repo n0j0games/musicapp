@@ -29,7 +29,9 @@
         }
       ],
       "rating": 9.7,
-      "onVinyl" : true
+      "onVinyl" : true,
+      "playTime" : 1671,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW",
@@ -348,7 +350,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/58cfa0960ed24b92c297a64d6ddfb84e0faaa6c7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "genre" : "Rap",
+      "playTime" : 1800
     },
     {
       "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
@@ -552,7 +556,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ecf0b67aeb9ca62ba07127ee1b3d1f5c975f2329?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "genre" : "Pop",
+      "playTime" : 1893
     },
     {
       "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj",
@@ -599,7 +605,9 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27379476cf856443329e6c52c04",
       "title": "Faith",
       "artist": "Pop Smoke",
-      "rating": 4.0
+      "rating": 4.0,
+      "playTime" : 1898,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/3KAtEV9jbwMKd1BPbN4XfV",

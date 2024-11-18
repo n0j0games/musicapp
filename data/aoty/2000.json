@@ -64,7 +64,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4e7c3cece7c9ee0d47c381cde116f93c0b1aea99?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.2
+      "rating": 10.2,
+      "playTime" : 1646,
+      "genre" : "Rap"
     },
     {
       "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
@@ -151,7 +153,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1c58b393f5118beeccbd64f49f9db1f2c5d124a4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "genre" : "Rap",
+      "playTime" : 1801
     },
     {
       "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
@@ -350,7 +354,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3b8c3a5566f1909c80cb382be929103c37d1a798?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "genre" : "Rap",
+      "playTime" : 1850
     },
     {
       "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H",

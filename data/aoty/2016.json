@@ -29,7 +29,9 @@
         }
       ],
       "rating": 9.8,
-      "onVinyl" : true
+      "onVinyl" : true,
+      "playTime" : 2429,
+      "genre" : "Alternative R&B"
     },
     {
       "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg",
@@ -373,7 +375,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f36e2a9de9db417959c9bade60a1ad4d20b35850?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "genre" : "Rap",
+      "playTime" : 2127
     },
     {
       "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u",
