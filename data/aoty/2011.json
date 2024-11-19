@@ -1,5 +1,5 @@
 {
-  "year" : 2011,
+  "year": 2011,
   "albums": [
     {
       "url": "https://open.spotify.com/album/04hy4jb1GDD00otiwzsFUB",
@@ -28,7 +28,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3f8a230982ce84fb56fae93fbc30e3eaf7406c0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.4
+      "rating": 10.4,
+      "playTime": 374
     },
     {
       "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd",
@@ -58,8 +59,8 @@
         }
       ],
       "rating": 10.7,
-      "playTime" : 1884,
-      "genre" : "Alternative R&B"
+      "playTime": 390,
+      "genre": "Alternative R&B"
     },
     {
       "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7",
@@ -88,7 +89,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d9913e7d4c6d570eb5a99183bf5bea6455184da1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.2
+      "rating": 10.2,
+      "playTime": 211
     },
     {
       "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz",
@@ -117,7 +119,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7eb430be8dc17d4b16e61028da42ad40d97b673a?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 431
     },
     {
       "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q",
@@ -148,7 +151,7 @@
       ],
       "rating": 9.5,
       "genre": "R&B",
-      "playTime": 1842
+      "playTime": 421
     },
     {
       "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG",
@@ -177,7 +180,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7216389187fb435c2f6776e9d7710804a6524687?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1
+      "rating": 8.1,
+      "playTime": 139
     },
     {
       "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J",
@@ -206,7 +210,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c0ec6119fd97f02a94326d29a672af921054de5d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "playTime": 125
     },
     {
       "url": "https://open.spotify.com/intl-de/album/182D7nDZqcYghZKQxnSJ03",
@@ -230,14 +235,15 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273619b3ed81cc266693f170c7c",
       "title": "Goblin",
       "artist": "Tyler, The Creator",
-      "rating": 3.0
+      "rating": 3,
+      "playTime": 42
     },
     {
       "url": "https://soundcloud.com/912000/travis-scott-jason-eric-cruisn-usa-full-mixtape-2011",
       "imgUrl": "https://i1.sndcdn.com/artworks-X8ImNOIkQ3Dsj2E1-gduHgg-t500x500.jpg",
       "title": "Crusi'n USA",
       "artist": "Travis Scott,\nJason Eric",
-      "rating": 3.0
+      "rating": 3
     },
     {
       "url": "https://open.spotify.com/album/2if1gb3t6IkhiKzrtS9Glc",
@@ -254,7 +260,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/fa6750682952352b12eecfa246ea3dddab10383d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6
     },
     {
       "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5",
@@ -279,7 +285,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a8b1c48bd114f5481dfe4a45967744175a3fb38f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0
+      "rating": 7,
+      "playTime": 38
     }
   ]
 }

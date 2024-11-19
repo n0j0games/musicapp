@@ -1,5 +1,5 @@
 {
-  "year" : 1960,
+  "year": 1960,
   "albums": [
     {
       "url": "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm",
@@ -29,7 +29,8 @@
         }
       ],
       "rating": 9.3,
-      "genre" : "Rock"
+      "genre": "Rock",
+      "playTime": 27
     },
     {
       "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
@@ -58,8 +59,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7ef39591e786ae25bdf67bb92abe2460ade35fbf?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
-      "genre" : "Rock"
+      "rating": 9,
+      "genre": "Rock",
+      "playTime": 67
     },
     {
       "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
@@ -89,7 +91,8 @@
         }
       ],
       "rating": 8.5,
-      "genre" : "Rock"
+      "genre": "Rock",
+      "playTime": 25
     },
     {
       "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez",
@@ -119,7 +122,8 @@
         }
       ],
       "rating": 8.2,
-      "genre" : "Soul"
+      "genre": "Soul",
+      "playTime": 12
     },
     {
       "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG",
@@ -148,8 +152,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e573a3589eaf7c2ef35ec7480dc13868d6d1c318?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
-      "genre" : "Soul"
+      "rating": 8,
+      "genre": "Soul",
+      "playTime": 18
     }
   ]
 }

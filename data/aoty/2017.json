@@ -1,5 +1,5 @@
 {
-  "year" : 2017,
+  "year": 2017,
   "albums": [
     {
       "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
@@ -29,8 +29,8 @@
         }
       ],
       "rating": 10.6,
-      "genre" : "Pop Rap",
-      "playTime" : 2443
+      "genre": "Pop Rap",
+      "playTime": 731
     },
     {
       "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh",
@@ -60,7 +60,8 @@
         }
       ],
       "rating": 9.9,
-      "onVinyl" : true
+      "onVinyl": true,
+      "playTime": 290
     },
     {
       "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",
@@ -89,7 +90,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.9
+      "rating": 9.9,
+      "playTime": 143
     },
     {
       "url": "https://open.spotify.com/album/55tCqWut5gobjBTJMTQJ4h",
@@ -118,7 +120,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b723cc4446b4d2474c46914b9d2b336162046b47?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.1
+      "rating": 9.1,
+      "playTime": 195
     },
     {
       "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv",
@@ -143,7 +146,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b2ace79787c24b41ed71b835a3b426313b1ed5fc?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0
+      "rating": 9,
+      "playTime": 192
     },
     {
       "url": "https://open.spotify.com/album/4vPCCjXRWZsZaJXgwLoMBC",
@@ -172,7 +176,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/84712c1abcd895fc006725d4d5b540760a0e1f81?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.2
+      "rating": 8.2,
+      "playTime": 57
     },
     {
       "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF",
@@ -201,7 +206,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/97281633ef0a60f95bcf8e23e8473f0dbd028987?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 0
+      "rating": 0,
+      "playTime": 48
     },
     {
       "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",
@@ -230,7 +236,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/28ebd6df9a33046e5e01265fd528481f8e4f96b1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.7
+      "rating": 8.7,
+      "playTime": 74
     },
     {
       "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
@@ -260,8 +267,8 @@
         }
       ],
       "rating": 8.4,
-      "genre" : "Rap",
-      "playTime" : 2500
+      "genre": "Rap",
+      "playTime": 620
     },
     {
       "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0",
@@ -286,7 +293,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5b67de33186fa5c0f2dff0c82442317fb681e7cc?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.5
+      "rating": 7.5,
+      "playTime": 147
     },
     {
       "url": "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS",
@@ -315,7 +323,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0912c6cc403d90764d68bde3a01b557d1f018ea8?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.4
+      "rating": 8.4,
+      "playTime": 63
     },
     {
       "url": "https://open.spotify.com/album/5nwBXqCfgl5zXuFHagkMNY",
@@ -344,7 +353,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/743d746dcdd69ceff89f43c777e7129fe84a9d26?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 37
     },
     {
       "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI",
@@ -369,7 +379,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9b1d2eaf96d9c892e779e2beec8232e16e20590b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.4
+      "rating": 7.4,
+      "playTime": 58
     },
     {
       "url": "https://open.spotify.com/album/0SyO17NG4tEWWMc0lRocfb",
@@ -394,7 +405,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a849fdc9f5aa1b48d517eb4671893db28b0ffb7d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.7
+      "rating": 7.7,
+      "playTime": 50
     },
     {
       "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0",
@@ -419,7 +431,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0272cbe0831c1b7a44e68a52d2d24e80536c9ad4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.1
+      "rating": 7.1,
+      "playTime": 50
     },
     {
       "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j",
@@ -444,42 +457,44 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6b7c6c0207c8ea2ad13c7d7a42712c229834fa6c?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime": 47
     },
     {
       "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273631973893e94d01cfcdf0e5e",
       "title": "Huncho Jack",
       "artist": "Huncho Jack,\nTravis Scott,\nQuavo",
-      "rating": 5.0
+      "rating": 5
     },
     {
       "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dee6b58d35215322626b5701",
       "title": "Revival",
       "artist": "Eminem",
-      "rating": 2.0
+      "rating": 2
     },
     {
       "url": "https://open.spotify.com/album/6JH4KYYdzmJyJzdgVpyWky",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730ff55bd6dba6074d3804e53c",
       "title": "Banditorinho",
       "artist": "Luciano",
-      "rating": 2.0
+      "rating": 2,
+      "playTime": 27
     },
     {
       "url": "https://open.spotify.com/album/4ADIqpPBchOMHfHYRL9HU1",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27326ab1049e6484127be4e214f",
       "title": "Eiskalt",
       "artist": "Luciano",
-      "rating": 3.0
+      "rating": 3
     },
     {
       "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
       "title": "Perfect Timing",
       "artist": "NAV,\nMetro Boomin",
-      "rating": 3.0
+      "rating": 3
     },
     {
       "url": "https://open.spotify.com/album/0llyIxX3nDC3hobbGibVZl",
@@ -496,7 +511,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f41c16d7233f167a3667930d0a6182d4d501adfc?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 58
     },
     {
       "url": "https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E",
@@ -513,7 +529,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d2b710e5708672c1f2fce43a6850553fdab2def6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 28
     },
     {
       "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP",
@@ -530,7 +547,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3dd55d0ccc147f9a655048af71275a345ad54c7f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5
     },
     {
       "url": "https://open.spotify.com/album/0k3311qEFcwoTNZxhhBqJ1",
@@ -547,7 +564,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/92b58a186177eebd8db22f45606a6439e2ea98bd?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 8
     },
     {
       "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf",
@@ -568,7 +586,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/defb075401c3c9e9a5e8eb1ba54eb5dc9fbb0110?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 18
     },
     {
       "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU",
@@ -589,7 +608,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ec913dbfeb64cea2a819914dd4fe42c268e7ae03?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 10
     },
     {
       "url": "https://open.spotify.com/album/4ZGMPQcvFLMF7SKO01yaZg",
@@ -610,7 +630,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b805463fef8fb49de6d424a20a947f1aaff98f4d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6
     },
     {
       "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK",
@@ -632,8 +652,8 @@
         }
       ],
       "rating": 6.5,
-      "genre" : "Pop Rap",
-      "playTime" : 2126
+      "genre": "Pop Rap",
+      "playTime": 172
     },
     {
       "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO",
@@ -658,7 +678,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c3400505f731c8bc15578ec2390e8ab219e95080?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0
+      "rating": 7,
+      "playTime": 29
     }
   ]
 }

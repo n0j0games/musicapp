@@ -1,5 +1,5 @@
 {
-  "year" : 1970,
+  "year": 1970,
   "albums": [
     {
       "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0",
@@ -33,8 +33,9 @@
         }
       ],
       "rating": 11.5,
-      "onVinyl" : true,
-      "genre" : "Soul"
+      "onVinyl": true,
+      "genre": "Soul",
+      "playTime": 301
     },
     {
       "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc",
@@ -64,7 +65,8 @@
         }
       ],
       "rating": 11.8,
-      "genre" : "Rock"
+      "genre": "Rock",
+      "playTime": 116
     },
     {
       "url": "https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7",
@@ -94,7 +96,8 @@
         }
       ],
       "rating": 9.6,
-      "genre" : "Jazz"
+      "genre": "Jazz",
+      "playTime": 133
     },
     {
       "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
@@ -124,7 +127,8 @@
         }
       ],
       "rating": 9.1,
-      "genre" : "Rock"
+      "genre": "Rock",
+      "playTime": 68
     },
     {
       "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",
@@ -153,9 +157,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/afda6c94f7bfc03586a7294f438b7f2d9c24e8eb?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
-      "onVinyl" : true,
-      "genre" : "Rock"
+      "rating": 8,
+      "onVinyl": true,
+      "genre": "Rock",
+      "playTime": 18
     },
     {
       "url": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
@@ -185,7 +190,8 @@
         }
       ],
       "rating": 8.2,
-      "genre" : "Jazz"
+      "genre": "Jazz",
+      "playTime": 79
     },
     {
       "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
@@ -215,7 +221,8 @@
         }
       ],
       "rating": 8.4,
-      "genre" : "Rock"
+      "genre": "Rock",
+      "playTime": 14
     },
     {
       "url": "https://open.spotify.com/album/5EVlXlHbRQI8ybuNt4ArXI",
@@ -245,7 +252,8 @@
         }
       ],
       "rating": 8.1,
-      "genre" : "Country"
+      "genre": "Country",
+      "playTime": 21
     },
     {
       "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L",
@@ -271,7 +279,8 @@
         }
       ],
       "rating": 7.8,
-      "genre" : "Electronic"
+      "genre": "Electronic",
+      "playTime": 6
     },
     {
       "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
@@ -300,8 +309,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cff1365e523606525790dbcda0f7a26f0bdf999f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0,
-      "genre" : "Rock"
+      "rating": 7,
+      "genre": "Rock",
+      "playTime": 14
     },
     {
       "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
@@ -327,7 +337,8 @@
         }
       ],
       "rating": 7.3,
-      "genre" : "Disco"
+      "genre": "Disco",
+      "playTime": 18
     },
     {
       "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C",
@@ -353,7 +364,8 @@
         }
       ],
       "rating": 7.3,
-      "genre" : "Punk"
+      "genre": "Punk",
+      "playTime": 8
     },
     {
       "url": "https://open.spotify.com/album/7LGVdC9fFwgWYaIrZwsSv6",
@@ -383,7 +395,8 @@
         }
       ],
       "rating": 8.2,
-      "genre" : "Metal"
+      "genre": "Metal",
+      "playTime": 15
     },
     {
       "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo",
@@ -412,8 +425,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b487ed50ae556698058d90389da3cb3bd23c7495?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
-      "genre" : "Disco"
+      "rating": 9,
+      "genre": "Disco",
+      "playTime": 39
     }
   ]
 }

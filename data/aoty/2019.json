@@ -1,5 +1,5 @@
 {
-  "year" : 2019,
+  "year": 2019,
   "albums": [
     {
       "url": "https://open.spotify.com/album/0UgIK6eyeoVXELrTRD7etb",
@@ -28,7 +28,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9bc9e5c8a862689568db60d5f9a4872e69edbbef?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.8
+      "rating": 10.8,
+      "playTime": 409
     },
     {
       "url": "https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D",
@@ -57,7 +58,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/eba8105c02fdb0ead805858e36b4dda9494ac7e1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.1
+      "rating": 10.1,
+      "playTime": 116
     },
     {
       "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
@@ -91,9 +93,9 @@
         }
       ],
       "rating": 10.7,
-      "onVinyl" : true,
-      "genre" : "Neo Soul",
-      "playTime" : 2974
+      "onVinyl": true,
+      "genre": "Neo Soul",
+      "playTime": 814
     },
     {
       "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk",
@@ -127,7 +129,8 @@
         }
       ],
       "rating": 11.5,
-      "onVinyl" : true
+      "onVinyl": true,
+      "playTime": 306
     },
     {
       "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A",
@@ -156,7 +159,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cbff91a60bb1b73007df963f8af631be5fe38054?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.1
+      "rating": 9.1,
+      "playTime": 76
     },
     {
       "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF",
@@ -185,7 +189,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7b8a3cc7f1bc1403055126cb42e8c0a0127aefcc?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.4
+      "rating": 8.4,
+      "playTime": 281
     },
     {
       "url": "https://open.spotify.com/album/7FzVARL5hF1iZPpOTCyMpp",
@@ -214,7 +219,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e77da41e58ec64b5081e0212b69f92be05a02ab7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3
+      "rating": 8.3,
+      "playTime": 171
     },
     {
       "url": "https://open.spotify.com/album/6QfaZ05cdm3h2mOp8D7GD4",
@@ -243,7 +249,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/43cc7c911f4d0344dcb59f80e0c106becd56496e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9
+      "rating": 8.9,
+      "playTime": 180
     },
     {
       "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj",
@@ -272,7 +279,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0748beeb7e93de596da3a019e3fbcfb68510daa3?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.6
+      "rating": 8.6,
+      "playTime": 108
     },
     {
       "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
@@ -305,7 +313,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/22362194bb4cd291e777097040b4781ac74051a5?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1
+      "rating": 8.1,
+      "playTime": 87
     },
     {
       "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx",
@@ -326,7 +335,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d9a500dbab4c596e9663e1f66f05df2ff05950c6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 110
     },
     {
       "url": "https://open.spotify.com/album/2K7TaTlsxwcV3YrgKPRy2O",
@@ -351,7 +361,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/12b8096b24e4d6d8bad6c807b5d3b0a7210d389e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime": 123
     },
     {
       "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf",
@@ -376,7 +387,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6854a429411cc967409c1736968a48273ea09030?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "playTime": 73
     },
     {
       "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv",
@@ -401,7 +413,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/83e2a85d59a30c47b06f4fe4a9dc89958da530c4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.1
+      "rating": 7.1,
+      "playTime": 22
     },
     {
       "url": "https://open.spotify.com/album/0hMHWx2YRMNIE4v8pj5B6o",
@@ -426,7 +439,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/77e32a0ff5fe035ca8f9f57758114738db4c3e01?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime": 45
     },
     {
       "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj",
@@ -455,49 +469,53 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4a2698a72c3fb283809d2eb735854c0e0427d921?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 32
     },
     {
       "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
       "title": "JESUS IS KING",
       "artist": "Kanye West",
-      "rating": 5.5
+      "rating": 5.5,
+      "playTime": 145
     },
     {
       "url": "https://www.albumoftheyear.org/album/165954-kanye-west-yandhi.php",
       "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Yandhi_Cover_Art_%28Free_License%29.jpg/1200px-Yandhi_Cover_Art_%28Free_License%29.jpg",
       "title": "Yandhi",
       "artist": "Kanye West",
-      "rating": 8.5
+      "rating": 8.5,
+      "playTime": 69
     },
     {
       "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a4cba447b322609cd47fb9d3",
       "title": "AI YoungBoy 2",
       "artist": "YoungBoy Never Broke Again",
-      "rating": 3.0
+      "rating": 3
     },
     {
       "url": "https://open.spotify.com/album/5vc7GCjUpkbDUodoFc1FTI",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e019b932c5c19eebf82d3d73",
       "title": "Berlin lebt 2",
       "artist": "Capital Bra,\nSamra",
-      "rating": 3.0
+      "rating": 3
     },
     {
       "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27360ec4df52c2d724bc53ffec5",
       "title": "ERYS",
       "artist": "Jaden",
-      "rating": 4.0
+      "rating": 4,
+      "playTime": 20
     },
     {
       "url": "https://open.spotify.com/album/4PKdUHGtcJtsjhIaR4fjMk",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea5c803c889b985833ae8b8e",
       "title": "Freewave 3",
       "artist": "LUCKI",
-      "rating": 4.0
+      "rating": 4
     },
     {
       "url": "https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR",
@@ -518,7 +536,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3a0b22bf183b594e0de8812a426b9c62f7430565?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 67
     },
     {
       "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi",
@@ -539,7 +558,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5eaefa30dfb2fef460bc377f933b570a0c931596?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.5
+      "rating": 6.5,
+      "playTime": 116
     },
     {
       "url": "https://open.spotify.com/album/1vb7b2AGw1Ko98yX0gJaN1",
@@ -560,7 +580,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/51d22c3bda29ab4a21944c4fd07b86bcb7e98b5a?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 42
     },
     {
       "url": "https://open.spotify.com/album/2t73pvBOZ6UmSUTyO0tb8X",
@@ -581,7 +602,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c06083ebd4d3323d326ae5be4d63eefaba877440?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 75
     },
     {
       "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO",
@@ -602,7 +624,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a47df438b757908c2689d3db70cf4856975de469?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 14
     },
     {
       "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F",
@@ -623,7 +646,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f1365ffcf2382f27460549f6cffd9d348a9ed32b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 13
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "year" : 2016,
+  "year": 2016,
   "albums": [
     {
       "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
@@ -29,9 +29,9 @@
         }
       ],
       "rating": 9.8,
-      "onVinyl" : true,
-      "playTime" : 2429,
-      "genre" : "Alternative R&B"
+      "onVinyl": true,
+      "playTime": 716,
+      "genre": "Alternative R&B"
     },
     {
       "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg",
@@ -60,7 +60,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7eab5fdaab7f27d12aa8cdfdee389d443a8b3173?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "playTime": 333
     },
     {
       "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF",
@@ -89,7 +90,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f2a53e4860ce9c6c18c3cf70cc7600ca9d5b22a9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.2
+      "rating": 9.2,
+      "playTime": 150
     },
     {
       "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd",
@@ -114,7 +116,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/57f6a14b9f3d1c50d0f4844122a8f2624c218f59?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.5
+      "rating": 9.5,
+      "playTime": 17
     },
     {
       "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC",
@@ -168,7 +171,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d883e1ada24f9616e9c1206905ae76c2a704c68e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "playTime": 95
     },
     {
       "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe",
@@ -198,8 +202,8 @@
         }
       ],
       "rating": 8.5,
-      "genre" : "Pop",
-      "playTime" : 3151
+      "genre": "Pop",
+      "playTime": 683
     },
     {
       "url": "https://open.spotify.com/album/3A1vnUJDPz0xYMful9pO4I",
@@ -228,7 +232,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/85a3ded30616f1d04d7adf26664c23202f22d10f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.7
+      "rating": 8.7,
+      "playTime": 118
     },
     {
       "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt",
@@ -258,8 +263,8 @@
         }
       ],
       "rating": 7.999,
-      "genre" : "Rap",
-      "playTime" : 5542
+      "genre": "Rap",
+      "playTime": 413
     },
     {
       "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H",
@@ -288,7 +293,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d223ae8dead78bea2a036a2e5b3bfac9e1dcd885?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "playTime": 135
     },
     {
       "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b",
@@ -317,7 +323,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1abc283345a4e2071b49344698a2d04ee52b1bea?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.9
+      "rating": 7.9,
+      "playTime": 82
     },
     {
       "url": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP",
@@ -346,7 +353,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a265cd5c3a8f3ff86826ecac317ffba660c1eda2?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.2
+      "rating": 8.2,
+      "playTime": 16
     },
     {
       "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
@@ -376,8 +384,8 @@
         }
       ],
       "rating": 8.8,
-      "genre" : "Rap",
-      "playTime" : 2127
+      "genre": "Rap",
+      "playTime": 500
     },
     {
       "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u",
@@ -406,7 +414,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/98cecc1a4554c6100fd1e3bac10b6f56881c6606?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1
+      "rating": 8.1,
+      "playTime": 285
     },
     {
       "url": "https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI",
@@ -431,7 +440,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/92dc1b33bfdc2c927fbc95e53a8742038ddf8998?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.1
+      "rating": 7.1,
+      "playTime": 18
     },
     {
       "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW",
@@ -456,7 +466,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c96e286220d274dd61f37233be9d94bc23cc17ac?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "playTime": 60
     },
     {
       "url": "https://open.spotify.com/album/5YnLi6ZnTk2sq9a2goXZPS",
@@ -481,7 +492,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b9826ee09e6315e98545aa63dab8b3f23a40ffb0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "playTime": 115
     },
     {
       "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM",
@@ -506,7 +518,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0327c15f8a34751ca29762664afeb9b04a86bde4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.7
+      "rating": 7.7,
+      "playTime": 65
     },
     {
       "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ",
@@ -531,14 +544,16 @@
           "preview_url": "https://p.scdn.co/mp3-preview/54bed5084faa3913cf3fbb88c042c14eb4b75ce2?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.4
+      "rating": 7.4,
+      "playTime": 30
     },
     {
       "url": "https://www.albumoftheyear.org/album/60121-frank-ocean-endless.php",
       "imgUrl": "https://images.genius.com/0624a3677e405a27ec9094e66fa9adf9.1000x1000x1.jpg",
       "title": "Endless",
       "artist": "Frank Ocean",
-      "rating": 8.2
+      "rating": 8.2,
+      "playTime": 71
     },
     {
       "url": "https://open.spotify.com/album/3oWxzuWo7SAzhZpzoasTd5",
@@ -555,21 +570,23 @@
           "preview_url": "https://p.scdn.co/mp3-preview/68051b580f4bc690c0ff045fb91e238c8f3fada0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 21
     },
     {
       "url": "https://open.spotify.com/album/5oLmbrsgB8hgoZmFCirtj2",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d1a91315bc5d8c9ad6f2168c",
       "title": "Locosquad präsentiert 12812",
       "artist": "Luciano,\nNikky Santoro",
-      "rating": 2.0
+      "rating": 2,
+      "playTime": 13
     },
     {
       "url": "https://open.spotify.com/album/12qLCis5Y4hGmU3yAaemCQ",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27361f30511929e7c3f48ea7506",
       "title": "Genesis EP",
       "artist": "RIN",
-      "rating": 4.0
+      "rating": 4
     },
     {
       "url": "https://open.spotify.com/album/6P9tvDiLfZOqwcEF4VOiKe",
@@ -586,7 +603,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0214ebd12ba1c7e63f90275e1468dece06b00f9d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 16
     },
     {
       "url": "https://open.spotify.com/album/0ZfgykscvA9JQK1xPeruns",
@@ -603,7 +621,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/36bfb5305fe0da34128f195ab7107803a2d561ed?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 28
     },
     {
       "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud",
@@ -624,7 +643,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b4fa73e53dcd996a8012c52758cd171290387220?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.9
+      "rating": 6.9,
+      "playTime": 40
     },
     {
       "url": "https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN",
@@ -645,7 +665,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/196ebdb07e05480a3f736afd14f0e56c11d86442?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 20
     },
     {
       "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb",
@@ -666,7 +687,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/fe406f4f80258a40694a3f1d60e72f15a61f6252?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 131
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "year" : 2010,
+  "year": 2010,
   "albums": [
     {
       "url": "https://open.spotify.com/album/3AMXFnwHWXCvNr5NCCpLZI",
@@ -28,7 +28,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/caf113363658b26e74675a8885986c392b008e6d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "playTime": 44
     },
     {
       "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
@@ -54,8 +55,8 @@
         }
       ],
       "rating": 9.1,
-      "genre" : "Rap",
-      "playTime" : 3168
+      "genre": "Rap",
+      "playTime": 509
     },
     {
       "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL",
@@ -80,7 +81,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/34d5bdf562bea2fbd76261d4742fdff91b9b8dd9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.1
+      "rating": 7.1,
+      "playTime": 12
     },
     {
       "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
@@ -105,7 +107,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b9dd5b42cf442891cfb47023e3edcb4ea93eedf1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.2
+      "rating": 8.2,
+      "playTime": 121
     },
     {
       "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud",
@@ -130,7 +133,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/21c5dadaac59d15678d450f3ca825e7a34c6bd59?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.5
+      "rating": 7.5,
+      "playTime": 48
     },
     {
       "url": "https://open.spotify.com/album/2Hq2mf6ck5t5hYIvd3AVvA",
@@ -151,7 +155,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a0fe4a20ac1ba30eefaf97a41051f7b1ec7e1369?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6
     },
     {
       "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB",
@@ -172,7 +176,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/805f0f5d7a6b43ddd9cb4bc7949c2d95f8b985ce?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.1
+      "rating": 6.1,
+      "playTime": 74
     }
   ]
 }

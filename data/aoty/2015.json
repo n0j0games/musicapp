@@ -1,5 +1,5 @@
 {
-  "year" : 2015,
+  "year": 2015,
   "albums": [
     {
       "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg",
@@ -33,9 +33,9 @@
         }
       ],
       "rating": 11.9,
-      "onVinyl" : true,
-      "genre" : "Rap",
-      "playTime" : 9522
+      "onVinyl": true,
+      "genre": "Rap",
+      "playTime": 637
     },
     {
       "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
@@ -69,9 +69,9 @@
         }
       ],
       "rating": 11,
-      "onVinyl" : false,
-      "genre" : "Rap",
-      "playTime" : 3681
+      "onVinyl": false,
+      "genre": "Rap",
+      "playTime": 954
     },
     {
       "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
@@ -101,8 +101,8 @@
         }
       ],
       "rating": 10.3,
-      "genre" : "Synthpop",
-      "playTime" : 3607
+      "genre": "Synthpop",
+      "playTime": 761
     },
     {
       "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv",
@@ -131,7 +131,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b7c7191a4f7c93a62e1baf17edd225b0df8a9714?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "playTime": 218
     },
     {
       "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
@@ -161,8 +162,8 @@
         }
       ],
       "rating": 8.7,
-      "genre" : "Rap",
-      "playTime" : 1676
+      "genre": "Rap",
+      "playTime": 292
     },
     {
       "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s",
@@ -192,8 +193,8 @@
         }
       ],
       "rating": 8.2,
-      "genre" : "R&B",
-      "playTime" : 1913
+      "genre": "R&B",
+      "playTime": 447
     },
     {
       "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl",
@@ -222,7 +223,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e12c20b928d55ba60b0d12e5d9c40ef66f4d2557?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3
+      "rating": 8.3,
+      "playTime": 228
     },
     {
       "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc",
@@ -251,7 +253,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/220febf485c664a356b31f667ac3dcdcb9ab33dd?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.7
+      "rating": 8.7,
+      "playTime": 169
     },
     {
       "url": "https://open.spotify.com/album/43lpkbUTyHN4IAmBeyxLni",
@@ -280,7 +283,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ee9baac98028c51282ac2cc7e6bab2cc661299a9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 14
     },
     {
       "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS",
@@ -309,7 +313,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/56f9d71f39833834a3220dab324e3abf1d5a6a92?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9
+      "rating": 8.9,
+      "playTime": 143
     },
     {
       "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
@@ -338,7 +343,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3bc988e6f5dab5c4284dba8fdf8a2340bc080f8e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.2
+      "rating": 7.2,
+      "playTime": 37
     },
     {
       "url": "https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX",
@@ -355,21 +361,22 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0fc3aad2474b4569231a16b08b3b62c2419b22b8?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 6
     },
     {
       "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951",
       "title": "Cry Baby (Deluxe Edition)",
       "artist": "Melanie Martinez",
-      "rating": 1.0
+      "rating": 1
     },
     {
       "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27395d5d85909d5deb5cee9f311",
       "title": "Mansion",
       "artist": "NF",
-      "rating": 2.0
+      "rating": 2
     },
     {
       "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M",
@@ -386,7 +393,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7cbb373fe89ed58b9be79911063b3dd157685926?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5
     },
     {
       "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT",
@@ -407,7 +414,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/239867c2b6c5a95989e85a5c919b5124d20a7516?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 12
     }
   ]
 }

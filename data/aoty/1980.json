@@ -1,5 +1,5 @@
 {
-  "year" : 1980,
+  "year": 1980,
   "albums": [
     {
       "url": "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV",
@@ -57,7 +57,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/45ee9c00a1607bee0728f38340394cb3716ae8a7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.5
+      "rating": 9.5,
+      "playTime": 15
     },
     {
       "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
@@ -87,7 +88,7 @@
         }
       ],
       "rating": 8.8,
-      "onVinyl" : true
+      "onVinyl": true
     },
     {
       "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh",
@@ -116,7 +117,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0156aec767cfcbe6bfc80bb9c8ad931169a3d910?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "playTime": 27
     },
     {
       "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5",
@@ -146,7 +148,8 @@
         }
       ],
       "rating": 8.7,
-      "onVinyl" : true
+      "onVinyl": true,
+      "playTime": 83
     },
     {
       "url": "https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44",
@@ -175,7 +178,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/78c03e239d7ec07720960f88b969fee23b27b296?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.2
+      "rating": 8.2,
+      "playTime": 25
     },
     {
       "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr",
@@ -204,7 +208,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6a394fbb833742ddced1d8101a403b49af9145af?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1
+      "rating": 8.1,
+      "playTime": 139
     },
     {
       "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh",
@@ -230,7 +235,7 @@
         }
       ],
       "rating": 7.5,
-      "onVinyl" : true
+      "onVinyl": true
     },
     {
       "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh",
@@ -255,7 +260,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c55cfbeac38cf82b2bfa78968bc6f43865c49031?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime": 17
     }
   ]
 }

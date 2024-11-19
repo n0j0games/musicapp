@@ -1,5 +1,5 @@
 {
-  "year" : 2012,
+  "year": 2012,
   "albums": [
     {
       "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u",
@@ -29,8 +29,8 @@
         }
       ],
       "rating": 9.9,
-      "genre" : "Rap",
-      "playTime" : 2190
+      "genre": "Rap",
+      "playTime": 441
     },
     {
       "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7",
@@ -59,7 +59,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/705aa3fa0a4677158fb7ed3f53f6c59ea18b0c18?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.3
+      "rating": 9.3,
+      "playTime": 269
     },
     {
       "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8",
@@ -89,8 +90,8 @@
         }
       ],
       "rating": 9.8,
-      "genre" : "Alternative R&B",
-      "playTime" : 2555
+      "genre": "Alternative R&B",
+      "playTime": 587
     },
     {
       "url": "https://open.spotify.com/album/2dSLWOAettty18g9KTmi6E",
@@ -148,7 +149,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ed5c4ee886380f062594903b70e0acca7dd90aaa?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.4
+      "rating": 8.4,
+      "playTime": 51
     },
     {
       "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf",
@@ -177,7 +179,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/43bbe78973d151620d3a807c3570e80d86cdd1f9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 48
     },
     {
       "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI",
@@ -202,28 +205,29 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b335e359df71bb228c587ee4c93c0f70fe74c736?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime": 39
     },
     {
       "url": "https://open.spotify.com/album/7ibEo7IK9E9mi2sU5rJNDC",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731dd05262c971257279fcaf61",
       "title": "The OF Tape Vol. 2",
       "artist": "Odd Future",
-      "rating": 6.0
+      "rating": 6
     },
     {
       "url": "https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273938f1c0cc7d36a671ed226a7",
       "title": "The Heist",
       "artist": "Macklemore & Ryan Lewis,\nMacklemore,\nRyan Lewis",
-      "rating": 4.0
+      "rating": 4
     },
     {
       "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733a2d2b9621ef645380c63c16",
       "title": "Good Music Cruel Summer",
       "artist": "Good Music",
-      "rating": 4.0
+      "rating": 4
     },
     {
       "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV",
@@ -240,7 +244,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/27736a51aa116ae88593ebf9f620c63142bc4637?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 4
     }
   ]
 }

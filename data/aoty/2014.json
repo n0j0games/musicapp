@@ -1,5 +1,5 @@
 {
-  "year" : 2014,
+  "year": 2014,
   "albums": [
     {
       "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
@@ -28,7 +28,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/062b69c85ad8361d6d7e484aa798b3596d174306?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3
+      "rating": 8.3,
+      "playTime": 53
     },
     {
       "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q",
@@ -57,7 +58,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c31a928608fcc674f4d2b8648cb70d87abbb9e15?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "playTime": 94
     },
     {
       "url": "https://open.spotify.com/album/78KtSyGocoTvmcgw1lUHp4",
@@ -86,7 +88,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2ee34fc12593a7658aaa3e5f1d25b404c5f0e885?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 83
     },
     {
       "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY",
@@ -115,7 +118,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/dfb8f3ca73c9ee0d0a809d93d31aba9b9a6534a4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 59
     },
     {
       "url": "https://open.spotify.com/album/3fUl3udC3ZyjuRnRvrDroL",
@@ -140,7 +144,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8f4121ac385b864372e6a312a9ed7c5e06eb640e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0
+      "rating": 7,
+      "playTime": 52
     },
     {
       "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId",
@@ -182,7 +187,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9ace654d50ca2e58e36cf23ec42c432196def289?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 16
     },
     {
       "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj",
@@ -199,7 +205,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a2d82f8308dea75233fddc56d1849461ce3b05fc?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5,
+      "playTime": 4
     }
   ]
 }

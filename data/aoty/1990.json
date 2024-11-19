@@ -1,5 +1,5 @@
 {
-  "year" : 1990,
+  "year": 1990,
   "albums": [
     {
       "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
@@ -29,8 +29,8 @@
         }
       ],
       "rating": 10.5,
-      "genre" : "Alternative Rock",
-      "playTime" : 1639
+      "genre": "Alternative Rock",
+      "playTime": 392
     },
     {
       "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG",
@@ -63,7 +63,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7be90980fc8dff1a93d8606679239ecf63492420?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.7
+      "rating": 11.7,
+      "playTime": 159
     },
     {
       "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
@@ -92,7 +93,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f583bc0706be0bddb26978ccdd71a38584f52736?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "playTime": 151
     },
     {
       "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD",
@@ -121,7 +123,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/bd36c2d123b5d45957d55168ec6871cfd7f94074?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8
+      "rating": 9.8,
+      "playTime": 124
     },
     {
       "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
@@ -150,7 +153,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/562f19ce3757f45e0a43d006b0ed700e4f3f3635?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.6
+      "rating": 9.6,
+      "playTime": 78
     },
     {
       "url": "https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ",
@@ -163,7 +167,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ad3d3a000449ee466cd3be3cef750e6f47c46e2d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.0
+      "rating": 10
     },
     {
       "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
@@ -192,7 +196,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ea9d849766f698fae323f1d4f6240a8c8d95a6eb?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.4
+      "rating": 9.4,
+      "playTime": 115
     },
     {
       "url": "https://open.spotify.com/album/5K4YFkTizFoMOyN5Khfp7G",
@@ -221,7 +226,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/02caf0e645e160a37bd48fcfa4d0f9d142bba6fd?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9
+      "rating": 8.9,
+      "playTime": 77
     },
     {
       "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
@@ -250,7 +256,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5691b575117aa0dd8536723fbb6bef3ee470ad4e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8
+      "rating": 8.8,
+      "playTime": 52
     },
     {
       "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt",
@@ -279,7 +286,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f5e44734de2861c744c0f05c05dc59830e914752?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1
+      "rating": 8.1,
+      "playTime": 18
     },
     {
       "url": "https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8",
@@ -308,7 +316,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6ff6a2fb56482e1c614395df00242e30f7c5e12f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "playTime": 74
     },
     {
       "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP",
@@ -333,7 +342,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1c806bf558783142e4faa3b9815a86cea0d71223?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.9
+      "rating": 7.9,
+      "playTime": 40
     },
     {
       "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
@@ -358,7 +368,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2911b96cb6ca4bf420f8e3d52782fd0bc889ba62?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.5
+      "rating": 7.5,
+      "playTime": 11
     },
     {
       "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o",
@@ -383,7 +394,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d9f722f61c33f42f24b2b0be50fe9560100bbd67?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0
+      "rating": 7,
+      "playTime": 10
     },
     {
       "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1",
@@ -412,15 +424,15 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d3c9461e8c1b3be6d140214a6418887d82beaab6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.3
+      "rating": 9.3,
+      "playTime": 33
     },
-
     {
       "url": "https://open.spotify.com/album/14JahnBKUL2ou13zH2OOQP",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f598f32df9d06fd5e1ff9568",
       "title": "Infinite",
       "artist": "Eminem",
-      "rating": 4.0
+      "rating": 4
     },
     {
       "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul",
@@ -437,7 +449,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8048af5e854ce0aa5c3ef441c4929d6aac3242a1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5.0
+      "rating": 5
     },
     {
       "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l",
@@ -458,7 +470,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c6a88b4d3ba97883859fe59e3d2ba61d7025c020?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 41
     },
     {
       "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
@@ -479,7 +492,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/069ca7413057323193028d0992abac9980c7f3c5?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 25
     },
     {
       "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
@@ -500,7 +514,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4943453bcc190bd06e65e413bf2593ff16a79fb3?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6
     }
   ]
 }

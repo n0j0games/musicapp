@@ -1,5 +1,5 @@
 {
-  "year" : 2013,
+  "year": 2013,
   "albums": [
     {
       "url": "https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO",
@@ -29,9 +29,9 @@
         }
       ],
       "rating": 9.7,
-      "onVinyl" : true,
-      "genre" : "Alternative R&B",
-      "playTime" : 2393
+      "onVinyl": true,
+      "genre": "Alternative R&B",
+      "playTime": 520
     },
     {
       "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime" : 1668,
-      "genre" : "Experimental Rap"
+      "playTime": 428,
+      "genre": "Experimental Rap"
     },
     {
       "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
@@ -91,7 +91,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0
+      "rating": 9,
+      "playTime": 214
     },
     {
       "url": "https://open.spotify.com/album/5pC8b5mAkXOQTKgG3WVv8K",
@@ -120,7 +121,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7dedc1d7d4341acf16716ba7a4d50e6588b31f1d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1
+      "rating": 8.1,
+      "playTime": 307
     },
     {
       "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v",
@@ -149,7 +151,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2e4736cf7baed65eaa7686e0638ee4ec87acd964?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5
+      "rating": 8.5,
+      "playTime": 41
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -174,7 +177,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9694bf85b7a1c9fd9fb5c9b72933231d1b7d8fe2?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "playTime": 85
     },
     {
       "url": "https://open.spotify.com/album/00YvpfulLYvaJp0s6nC7f2",
@@ -199,7 +203,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b445b2b267f0cf2e82871d57ceb33b3e13ee3001?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime": 33
     },
     {
       "url": "https://soundcloud.com/travisscott-2/sets/owl-pharaoh",
@@ -235,7 +240,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/bd7ecee411cbbf43d635a0cf10d7e0e5b09b7e3b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0
+      "rating": 8,
+      "playTime": 68
     },
     {
       "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu",
@@ -285,7 +291,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7683b0eb2e67aa7fd03546e15c83cf3b65558786?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6
     },
     {
       "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue",
@@ -306,7 +312,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5c68dd5f07d88df2286d674bd1b6916dc478f52c?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6.0
+      "rating": 6,
+      "playTime": 13
     }
   ]
 }

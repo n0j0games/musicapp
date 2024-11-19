@@ -31,7 +31,7 @@
             <app-vinyl *ngIf="album.onVinyl !== undefined"
                        [wishlisted] = "!album.onVinyl"
             ></app-vinyl>
-            <app-content-badge *ngIf="album.playTime && album.playTime > 0" [content]="album.playTime + ' minutes played'"></app-content-badge>
+            <app-content-badge *ngIf="album.playTime && album.playTime > 0" [content]="album.playTime + 'x played'"></app-content-badge>
             <app-content-badge *ngIf="album.playTime === 0" [content]="'New'"></app-content-badge>
         </div>
 
