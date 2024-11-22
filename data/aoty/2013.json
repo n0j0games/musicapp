@@ -276,7 +276,7 @@
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
-      "title": "Nothing Was The Same - Deluxe",
+      "title": "Nothing Was The Same",
       "artist": "Drake",
       "songs": [
         {
@@ -292,7 +292,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7683b0eb2e67aa7fd03546e15c83cf3b65558786?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6
+      "rating": 6,
+      "playTime": 112
     },
     {
       "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue",
