@@ -30,7 +30,8 @@
       ],
       "rating": 10.3,
       "genre": "R&B",
-      "playTime": 511
+      "playTime": 511,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I",
@@ -62,7 +63,8 @@
       "rating": 9.9,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1132
+      "playTime": 1132,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
@@ -92,7 +94,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 264
+      "playTime": 264,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj",
@@ -123,7 +126,8 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 648
+      "playTime": 648,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
@@ -154,7 +158,8 @@
       ],
       "rating": 9.8,
       "onVinyl": true,
-      "playTime": 440
+      "playTime": 440,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp",
@@ -184,7 +189,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 205
+      "playTime": 205,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR",
@@ -214,7 +220,8 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 179
+      "playTime": 179,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY",
@@ -248,7 +255,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 137
+      "playTime": 137,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3xhnm3bb8DE86zzQXHcKPk",
@@ -278,7 +286,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 186
+      "playTime": 186,
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -308,7 +317,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 194
+      "playTime": 194,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/56RF57X1QdoA5qtGaLoKfP",
@@ -338,7 +348,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 74
+      "playTime": 74,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe",
@@ -368,7 +379,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 323
+      "playTime": 323,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5cevXzPkQy57tCpDbuBnVh",
@@ -398,7 +410,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 166
+      "playTime": 166,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO",
@@ -428,7 +441,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 225
+      "playTime": 225,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2qul9IbyMt96FpthBlKT0y",
@@ -454,7 +468,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 169
+      "playTime": 169,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM",
@@ -480,7 +495,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 17
+      "playTime": 17,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR",
@@ -507,7 +523,8 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 292
+      "playTime": 292,
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq",
@@ -533,7 +550,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 22
+      "playTime": 22,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4iLo2HykYzbHw6MWSTg4vp",
@@ -558,7 +576,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/032b93bd3ba570ec3ab8a69969fae9a51fefba7f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3
+      "rating": 7.3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46",
@@ -584,7 +603,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 69
+      "playTime": 69,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1xMMDMF71Y4AHILRB1Th9j",
@@ -610,7 +630,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 34
+      "playTime": 34,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa",
@@ -636,7 +657,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 106
+      "playTime": 106,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O",
@@ -662,7 +684,8 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 121
+      "playTime": 121,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR",
@@ -688,7 +711,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 30
+      "playTime": 30,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c",
@@ -714,7 +738,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 15
+      "playTime": 15,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/05qQ4Sl7LjxDhZFB1ChVvH",
@@ -722,35 +747,40 @@
       "title": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
       "artist": "Tyler, The Creator",
       "rating": 2,
-      "playTime": 10
+      "playTime": 10,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6",
       "title": "SKINS",
       "artist": "XXXTENTACION",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5vc7GCjUpkbDUodoFc1FTI",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e019b932c5c19eebf82d3d73",
       "title": "Berlin lebt 2",
       "artist": "Capital Bra,\nSamra",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6ee8lju8zGwQ6Pkr5tZSts",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27320f9c767b8624a234a578f21",
       "title": "Until Death Call My Name",
       "artist": "YoungBoy Never Broke Again",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0JBOzsIzrlq7ZHsj1NCZfq",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27363abbce173d88db0e2841782",
       "title": "L.O.C.O.",
       "artist": "Luciano",
-      "rating": 4
+      "rating": 4,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX",
@@ -759,7 +789,8 @@
       "artist": "Drake",
       "rating": 4,
       "genre": "Rap",
-      "playTime": 272
+      "playTime": 272,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5lxdY4GQkCJMcvScmwRgCx",
@@ -777,7 +808,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 13
+      "playTime": 13,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/593hMJS0UPItZBWSWPX1Qb",
@@ -795,7 +827,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 17
+      "playTime": 17,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs",
@@ -816,7 +849,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3f1f3795be0b6747b24ca281f4f9e2560d895c6b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6
+      "rating": 6,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4svVMaetHLR53HQjy1l5AX",
@@ -838,7 +872,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 61
+      "playTime": 61,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/66EwBbt2kPgugo8Wz0SKAw",
@@ -860,7 +895,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 49
+      "playTime": 49,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ",
@@ -882,7 +918,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 42
+      "playTime": 42,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm",
@@ -904,7 +941,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 30
+      "playTime": 30,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y",
@@ -912,7 +950,8 @@
       "title": "Culture II",
       "artist": "Migos",
       "rating": 4,
-      "playTime": 44
+      "playTime": 44,
+      "playTime30Days": 0
     }
   ]
 }

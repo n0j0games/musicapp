@@ -30,7 +30,8 @@
       ],
       "rating": 9.9,
       "genre": "Rap",
-      "playTime": 445
+      "playTime": 445,
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7",
@@ -60,7 +61,8 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 269
+      "playTime": 269,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8",
@@ -91,7 +93,8 @@
       ],
       "rating": 9.8,
       "genre": "Alternative R&B",
-      "playTime": 587
+      "playTime": 587,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/2dSLWOAettty18g9KTmi6E",
@@ -120,7 +123,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4b1a79e191b8fb9b13b04220bd6519d9ea207bda?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3
+      "rating": 8.3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm",
@@ -150,7 +154,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 51
+      "playTime": 51,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf",
@@ -180,7 +185,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 48
+      "playTime": 42,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI",
@@ -206,28 +212,32 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 39
+      "playTime": 39,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7ibEo7IK9E9mi2sU5rJNDC",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731dd05262c971257279fcaf61",
       "title": "The OF Tape Vol. 2",
       "artist": "Odd Future",
-      "rating": 6
+      "rating": 6,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273938f1c0cc7d36a671ed226a7",
       "title": "The Heist",
       "artist": "Macklemore & Ryan Lewis,\nMacklemore,\nRyan Lewis",
-      "rating": 4
+      "rating": 4,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733a2d2b9621ef645380c63c16",
       "title": "Good Music Cruel Summer",
       "artist": "Good Music",
-      "rating": 4
+      "rating": 4,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV",
@@ -245,7 +255,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 4
+      "playTime": 4,
+      "playTime30Days": 0
     }
   ]
 }

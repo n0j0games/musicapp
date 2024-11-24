@@ -33,7 +33,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 252
+      "playTime": 252,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt",
@@ -63,7 +64,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 119
+      "playTime": 119,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL",
@@ -93,7 +95,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 269
+      "playTime": 269,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m",
@@ -119,7 +122,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 106
+      "playTime": 106,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
@@ -151,7 +155,8 @@
       "rating": 11.1,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 1726
+      "playTime": 1726,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
@@ -182,7 +187,8 @@
       ],
       "rating": 10,
       "onVinyl": true,
-      "playTime": 292
+      "playTime": 292,
+      "playTime30Days": 27
     },
     {
       "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
@@ -212,7 +218,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 185
+      "playTime": 185,
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi",
@@ -243,7 +250,8 @@
       ],
       "rating": 8.9,
       "genre": "Rap",
-      "playTime": 456
+      "playTime": 456,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0K3mqXANh4DnZ8RXaKVDU4",
@@ -273,7 +281,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 20
+      "playTime": 20,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0aBA0jFTehMaHMFTljTV9n",
@@ -303,7 +312,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 129
+      "playTime": 129,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0nRVAnU410D5nOyVWCadJh",
@@ -333,7 +343,8 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 76
+      "playTime": 69,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/554N6EwAQZx2lBXdr8IYZt",
@@ -363,7 +374,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 156
+      "playTime": 156,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY",
@@ -393,7 +405,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 76
+      "playTime": 76,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B",
@@ -423,7 +436,8 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 199
+      "playTime": 199,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a",
@@ -453,7 +467,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 96
+      "playTime": 96,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5",
@@ -483,7 +498,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 187
+      "playTime": 187,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb",
@@ -513,7 +529,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 140
+      "playTime": 140,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv",
@@ -540,7 +557,8 @@
       ],
       "rating": 7.5,
       "genre": "Rap",
-      "playTime": 212
+      "playTime": 212,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE",
@@ -570,7 +588,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 98
+      "playTime": 98,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x",
@@ -596,7 +615,8 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 54
+      "playTime": 54,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL",
@@ -622,7 +642,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 35
+      "playTime": 35,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK",
@@ -649,14 +670,16 @@
       ],
       "rating": 7,
       "playTime": 239,
-      "genre": "Rap"
+      "genre": "Rap",
+      "playTime30Days": 0
     },
     {
       "url": "https://soundcloud.com/kanyewestye/kanye-west-dr-dre-jesus-is-king-2-full-album",
       "imgUrl": "https://i1.sndcdn.com/artworks-ylvpZVfTMUQGF7D6-LWwOSA-t1080x1080.jpg",
       "title": "JESUS IS KING II",
       "artist": "Kanye West, Dr. Dre",
-      "rating": 5.6
+      "rating": 5.6,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu",
@@ -686,14 +709,16 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 41
+      "playTime": 41,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/23EKRPix1b7vUYwPovYle0",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27352169849e32a2448fffb584a",
       "title": "CB7",
       "artist": "Capital Bra",
-      "rating": 2
+      "rating": 2,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd",
@@ -701,14 +726,16 @@
       "title": "Teen X",
       "artist": "Ken Carson",
       "rating": 2,
-      "playTime": 9
+      "playTime": 9,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738bd6e34012a7ab6311050d0c",
       "title": "Top",
       "artist": "YoungBoy Never Broke Again",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR",
@@ -716,7 +743,8 @@
       "title": "Whole Lotta Red",
       "artist": "Playboi Carti",
       "rating": 4,
-      "playTime": 80
+      "playTime": 80,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji",
@@ -734,7 +762,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 11
+      "playTime": 11,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0b1q9se93BEqBl3kiltn33",
@@ -752,7 +781,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 9
+      "playTime": 9,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1ZTYPbRPVUeyeHwoSvmLVi",
@@ -770,7 +800,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 21
+      "playTime": 21,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7C1YIhs1E4nYbaLxIbGK9l",
@@ -788,7 +819,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 17
+      "playTime": 17,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B",
@@ -810,7 +842,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 6
+      "playTime": 6,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu",
@@ -832,7 +865,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 135
+      "playTime": 135,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
@@ -858,7 +892,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 28
+      "playTime": 28,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU",
@@ -880,7 +915,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 66
+      "playTime": 66,
+      "playTime30Days": 0
     }
   ]
 }

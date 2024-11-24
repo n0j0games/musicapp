@@ -35,7 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 775
+      "playTime": 775,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -66,7 +67,8 @@
       ],
       "rating": 10.2,
       "playTime": 384,
-      "genre": "Rap"
+      "genre": "Rap",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
@@ -96,7 +98,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 371
+      "playTime": 371,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk",
@@ -126,7 +129,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 170
+      "playTime": 170,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g",
@@ -157,7 +161,8 @@
       ],
       "rating": 9.8,
       "genre": "Rap",
-      "playTime": 544
+      "playTime": 544,
+      "playTime30Days": 27
     },
     {
       "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
@@ -187,7 +192,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 427
+      "playTime": 427,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
@@ -217,7 +223,8 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 356
+      "playTime": 356,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq",
@@ -243,7 +250,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 8
+      "playTime": 8,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
@@ -273,7 +281,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 326
+      "playTime": 326,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
@@ -303,7 +312,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 45
+      "playTime": 45,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1OnCqi7IuzjnrOh2ZNvJHd",
@@ -333,7 +343,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 108
+      "playTime": 108,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
@@ -364,7 +375,8 @@
       ],
       "rating": 8.8,
       "genre": "Rap",
-      "playTime": 427
+      "playTime": 427,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H",
@@ -394,7 +406,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 162
+      "playTime": 162,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq",
@@ -424,7 +437,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 19
+      "playTime": 19,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
@@ -454,7 +468,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 416
+      "playTime": 416,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z",
@@ -484,7 +499,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 26
+      "playTime": 26,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo",
@@ -514,7 +530,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 37
+      "playTime": 37,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
@@ -544,7 +561,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 86
+      "playTime": 86,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
@@ -570,7 +588,8 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 42
+      "playTime": 42,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5",
@@ -596,7 +615,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 135
+      "playTime": 135,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
@@ -622,14 +642,16 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 48
+      "playTime": 48,
+      "playTime30Days": 0
     },
     {
       "url": "https://www.albumoftheyear.org/album/2200-tyler-the-creator-bastard.php",
       "imgUrl": "https://131545359.cdn6.editmysite.com/uploads/1/3/1/5/131545359/s761920613215313749_p8104_i1_w300.jpeg",
       "title": "Bastard",
       "artist": "Tyler, The Creator",
-      "rating": 5
+      "rating": 5,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q",
@@ -659,14 +681,16 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 107
+      "playTime": 107,
+      "playTime30Days": 0
     },
     {
       "url": "https://soundcloud.com/user-26289382/sets/travis-cott-chris-holloway-the-graduates-ep",
       "imgUrl": "https://i1.sndcdn.com/artworks-000599012657-jb0zf0-t500x500.jpg",
       "title": "The Graduates",
       "artist": "Travis Scott & Chris Holloway",
-      "rating": 1
+      "rating": 1,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX",
@@ -684,7 +708,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 23
+      "playTime": 23,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh",
@@ -702,7 +727,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 134
+      "playTime": 134,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk",
@@ -724,7 +750,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 31
+      "playTime": 31,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC",
@@ -746,7 +773,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 18
+      "playTime": 18,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA",
@@ -780,7 +808,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 70
+      "playTime": 70,
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk",
@@ -806,7 +835,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 33
+      "playTime": 33,
+      "playTime30Days": 6
     }
   ]
 }

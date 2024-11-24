@@ -12,6 +12,7 @@ export class Album {
                 public genre? : string,
                 public onVinyl? : boolean,
                 public playTime? : number,
+                public playTime30Days? : number,
                 public year? : number) {
     }
 

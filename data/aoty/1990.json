@@ -30,7 +30,8 @@
       ],
       "rating": 10.5,
       "genre": "Alternative Rock",
-      "playTime": 392
+      "playTime": 392,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG",
@@ -64,7 +65,8 @@
         }
       ],
       "rating": 11.7,
-      "playTime": 159
+      "playTime": 159,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
@@ -94,7 +96,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 151
+      "playTime": 151,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD",
@@ -124,7 +127,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 124
+      "playTime": 124,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
@@ -154,7 +158,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 78
+      "playTime": 78,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ",
@@ -167,7 +172,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ad3d3a000449ee466cd3be3cef750e6f47c46e2d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10
+      "rating": 10,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
@@ -197,7 +203,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 115
+      "playTime": 115,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5K4YFkTizFoMOyN5Khfp7G",
@@ -227,7 +234,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 77
+      "playTime": 77,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
@@ -257,7 +265,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 52
+      "playTime": 52,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt",
@@ -287,7 +296,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 18
+      "playTime": 18,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8",
@@ -317,7 +327,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 74
+      "playTime": 74,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP",
@@ -343,7 +354,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 40
+      "playTime": 40,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
@@ -369,7 +381,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 11
+      "playTime": 11,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o",
@@ -395,7 +408,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 10
+      "playTime": 10,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1",
@@ -425,14 +439,16 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 33
+      "playTime": 33,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/14JahnBKUL2ou13zH2OOQP",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f598f32df9d06fd5e1ff9568",
       "title": "Infinite",
       "artist": "Eminem",
-      "rating": 4
+      "rating": 4,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul",
@@ -449,7 +465,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8048af5e854ce0aa5c3ef441c4929d6aac3242a1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 5
+      "rating": 5,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l",
@@ -471,7 +488,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 41
+      "playTime": 41,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
@@ -493,7 +511,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 25
+      "playTime": 25,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
@@ -514,7 +533,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4943453bcc190bd06e65e413bf2593ff16a79fb3?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6
+      "rating": 6,
+      "playTime30Days": 0
     }
   ]
 }

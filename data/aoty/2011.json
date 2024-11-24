@@ -29,7 +29,8 @@
         }
       ],
       "rating": 10.4,
-      "playTime": 374
+      "playTime": 374,
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd",
@@ -60,7 +61,8 @@
       ],
       "rating": 10.7,
       "playTime": 390,
-      "genre": "Alternative R&B"
+      "genre": "Alternative R&B",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7",
@@ -90,7 +92,8 @@
         }
       ],
       "rating": 10.2,
-      "playTime": 211
+      "playTime": 211,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz",
@@ -120,7 +123,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 431
+      "playTime": 431,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q",
@@ -151,7 +155,8 @@
       ],
       "rating": 9.5,
       "genre": "R&B",
-      "playTime": 421
+      "playTime": 421,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG",
@@ -181,7 +186,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 139
+      "playTime": 139,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J",
@@ -211,7 +217,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 126
+      "playTime": 126,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/intl-de/album/182D7nDZqcYghZKQxnSJ03",
@@ -228,7 +235,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b5c2a89cf491b55f67512713c8042f48c9b23b11?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3
+      "rating": 8.3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5nozPsVrPay3O2qGOd1pZg",
@@ -236,14 +244,16 @@
       "title": "Goblin",
       "artist": "Tyler, The Creator",
       "rating": 3,
-      "playTime": 42
+      "playTime": 42,
+      "playTime30Days": 0
     },
     {
       "url": "https://soundcloud.com/912000/travis-scott-jason-eric-cruisn-usa-full-mixtape-2011",
       "imgUrl": "https://i1.sndcdn.com/artworks-X8ImNOIkQ3Dsj2E1-gduHgg-t500x500.jpg",
       "title": "Crusi'n USA",
       "artist": "Travis Scott,\nJason Eric",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2if1gb3t6IkhiKzrtS9Glc",
@@ -260,7 +270,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/fa6750682952352b12eecfa246ea3dddab10383d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6
+      "rating": 6,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5",
@@ -286,7 +297,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 38
+      "playTime": 38,
+      "playTime30Days": 0
     }
   ]
 }

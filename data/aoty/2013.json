@@ -31,7 +31,8 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 520
+      "playTime": 520,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
@@ -62,7 +63,8 @@
       ],
       "rating": 9.7,
       "playTime": 428,
-      "genre": "Experimental Rap"
+      "genre": "Experimental Rap",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
@@ -92,7 +94,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 214
+      "playTime": 214,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5pC8b5mAkXOQTKgG3WVv8K",
@@ -122,7 +125,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 307
+      "playTime": 307,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v",
@@ -152,7 +156,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 41
+      "playTime": 41,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -178,7 +183,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 85
+      "playTime": 85,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/00YvpfulLYvaJp0s6nC7f2",
@@ -204,7 +210,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 33
+      "playTime": 33,
+      "playTime30Days": 0
     },
     {
       "url": "https://soundcloud.com/travisscott-2/sets/owl-pharaoh",
@@ -212,7 +219,8 @@
       "title": "Owl Pharaoh",
       "artist": "Travis Scott",
       "rating": 6.9,
-      "playTime": 93
+      "playTime": 93,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB",
@@ -242,7 +250,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 68
+      "playTime": 68,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu",
@@ -271,7 +280,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2a1d6c2cc3ca1506baccab03c37eda3b3f3e29e2?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3
+      "rating": 8.3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
@@ -293,7 +303,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 112
+      "playTime": 112,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue",
@@ -315,7 +326,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 13
+      "playTime": 13,
+      "playTime30Days": 0
     }
   ]
 }

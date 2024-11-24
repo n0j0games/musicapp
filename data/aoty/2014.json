@@ -29,7 +29,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 53
+      "playTime": 53,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q",
@@ -59,7 +60,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 94
+      "playTime": 94,
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/78KtSyGocoTvmcgw1lUHp4",
@@ -89,7 +91,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 83
+      "playTime": 83,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY",
@@ -119,7 +122,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 59
+      "playTime": 59,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3fUl3udC3ZyjuRnRvrDroL",
@@ -145,7 +149,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 52
+      "playTime": 52,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId",
@@ -171,7 +176,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 267
+      "playTime": 267,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd",
@@ -189,7 +195,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 16
+      "playTime": 16,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj",
@@ -207,7 +214,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 4
+      "playTime": 4,
+      "playTime30Days": 0
     }
   ]
 }

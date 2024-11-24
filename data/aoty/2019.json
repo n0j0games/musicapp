@@ -29,7 +29,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 422
+      "playTime": 423,
+      "playTime30Days": 43
     },
     {
       "url": "https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D",
@@ -59,7 +60,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 116
+      "playTime": 116,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
@@ -95,7 +97,8 @@
       "rating": 10.7,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 814
+      "playTime": 814,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk",
@@ -130,7 +133,8 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 306
+      "playTime": 306,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A",
@@ -160,7 +164,8 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 76
+      "playTime": 76,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF",
@@ -190,7 +195,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 281
+      "playTime": 281,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7FzVARL5hF1iZPpOTCyMpp",
@@ -220,7 +226,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 171
+      "playTime": 171,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6QfaZ05cdm3h2mOp8D7GD4",
@@ -250,7 +257,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 180
+      "playTime": 180,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj",
@@ -280,7 +288,8 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 108
+      "playTime": 108,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
@@ -314,7 +323,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 87
+      "playTime": 87,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx",
@@ -336,7 +346,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 110
+      "playTime": 110,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2K7TaTlsxwcV3YrgKPRy2O",
@@ -362,7 +373,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 123
+      "playTime": 123,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf",
@@ -388,7 +400,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 74
+      "playTime": 74,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv",
@@ -414,7 +427,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 22
+      "playTime": 22,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0hMHWx2YRMNIE4v8pj5B6o",
@@ -440,7 +454,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 46
+      "playTime": 46,
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj",
@@ -470,7 +485,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 32
+      "playTime": 32,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9",
@@ -478,7 +494,8 @@
       "title": "JESUS IS KING",
       "artist": "Kanye West",
       "rating": 5.5,
-      "playTime": 145
+      "playTime": 145,
+      "playTime30Days": 0
     },
     {
       "url": "https://www.albumoftheyear.org/album/165954-kanye-west-yandhi.php",
@@ -486,21 +503,24 @@
       "title": "Yandhi",
       "artist": "Kanye West",
       "rating": 8.5,
-      "playTime": 69
+      "playTime": 69,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a4cba447b322609cd47fb9d3",
       "title": "AI YoungBoy 2",
       "artist": "YoungBoy Never Broke Again",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5vc7GCjUpkbDUodoFc1FTI",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e019b932c5c19eebf82d3d73",
       "title": "Berlin lebt 2",
       "artist": "Capital Bra,\nSamra",
-      "rating": 3
+      "rating": 3,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58",
@@ -508,14 +528,16 @@
       "title": "ERYS",
       "artist": "Jaden",
       "rating": 4,
-      "playTime": 20
+      "playTime": 20,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4PKdUHGtcJtsjhIaR4fjMk",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea5c803c889b985833ae8b8e",
       "title": "Freewave 3",
       "artist": "LUCKI",
-      "rating": 4
+      "rating": 4,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR",
@@ -537,7 +559,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 67
+      "playTime": 67,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi",
@@ -559,7 +582,8 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 116
+      "playTime": 116,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1vb7b2AGw1Ko98yX0gJaN1",
@@ -581,7 +605,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 42
+      "playTime": 42,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2t73pvBOZ6UmSUTyO0tb8X",
@@ -603,7 +628,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 75
+      "playTime": 75,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO",
@@ -625,7 +651,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 14
+      "playTime": 14,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F",
@@ -647,7 +674,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 13
+      "playTime": 13,
+      "playTime30Days": 0
     }
   ]
 }

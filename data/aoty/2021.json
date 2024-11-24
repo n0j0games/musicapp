@@ -31,7 +31,8 @@
       "rating": 9.7,
       "onVinyl": true,
       "playTime": 602,
-      "genre": "Rap"
+      "genre": "Rap",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW",
@@ -61,7 +62,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 136
+      "playTime": 136,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk",
@@ -91,7 +93,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 150
+      "playTime": 150,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR",
@@ -121,7 +124,8 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 121
+      "playTime": 121,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7kHYB1VwzhCvT1gzKZTnKB",
@@ -151,7 +155,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 258
+      "playTime": 258,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5hJBhKMawLC4LJ5jP22WfF",
@@ -181,7 +186,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 168
+      "playTime": 168,
+      "playTime30Days": 32
     },
     {
       "url": "https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO",
@@ -215,7 +221,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 139
+      "playTime": 139,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX",
@@ -245,7 +252,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 112
+      "playTime": 112,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC",
@@ -275,7 +283,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 445
+      "playTime": 445,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -305,7 +314,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 141
+      "playTime": 141,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1RFWXLqxR7tP7hyunSO13H",
@@ -335,7 +345,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 186
+      "playTime": 186,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
@@ -362,7 +373,8 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 594
+      "playTime": 594,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
@@ -388,7 +400,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 244
+      "playTime": 244,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5W8W0mN0WyQ2eYSso2mpH9",
@@ -414,7 +427,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 22
+      "playTime": 22,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ",
@@ -440,7 +454,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 129
+      "playTime": 129,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz",
@@ -467,7 +482,8 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 658
+      "playTime": 658,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE",
@@ -493,7 +509,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 15
+      "playTime": 15,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G",
@@ -519,7 +536,8 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 100
+      "playTime": 100,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t",
@@ -546,7 +564,8 @@
       ],
       "rating": 7,
       "genre": "Rap",
-      "playTime": 75
+      "playTime": 69,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq",
@@ -573,7 +592,8 @@
       ],
       "rating": 7.3,
       "genre": "Pop",
-      "playTime": 87
+      "playTime": 87,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj",
@@ -599,14 +619,16 @@
         }
       ],
       "rating": 7,
-      "playTime": 28
+      "playTime": 28,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734fc2bc1fbb295ceabbf5a658",
       "title": "Sincerely, Kentrell",
       "artist": "YoungBoy Never Broke Again",
-      "rating": 2
+      "rating": 2,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew",
@@ -614,7 +636,8 @@
       "title": "Fighting Demons (Deluxe)",
       "artist": "Juice WRLD",
       "rating": 4,
-      "playTime": 11
+      "playTime": 11,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL",
@@ -623,7 +646,8 @@
       "artist": "Pop Smoke",
       "rating": 4,
       "playTime": 145,
-      "genre": "Rap"
+      "genre": "Rap",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3KAtEV9jbwMKd1BPbN4XfV",
@@ -631,7 +655,8 @@
       "title": "100 Pro",
       "artist": "Bausa",
       "rating": 4,
-      "playTime": 9
+      "playTime": 9,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3Mqu6AiWCitdC3XrSYz4Lb",
@@ -649,7 +674,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 38
+      "playTime": 38,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6HwNzBItWtIVYPXda2VFoJ",
@@ -671,7 +697,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 228
+      "playTime": 228,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV",
@@ -694,7 +721,8 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 276
+      "playTime": 276,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ",
@@ -715,7 +743,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a7e77d85845354aad09ef639223f947111dcd6dd?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6
+      "rating": 6,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m",
@@ -737,7 +766,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 10
+      "playTime": 10,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/16tuI6FDT9bCFznFAQn8sJ",
@@ -763,7 +793,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 29
+      "playTime": 29,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3",
@@ -785,7 +816,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 56
+      "playTime": 56,
+      "playTime30Days": 0
     }
   ]
 }
