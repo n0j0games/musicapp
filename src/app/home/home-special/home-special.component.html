@@ -1,14 +1,20 @@
 <div class="flex-column gap-xl">
     <p class="p-b-i fs-xl">highlights</p>
     <div class="outer-highlight-card flex-column gap-l">
-        <div class="highlight-card highlight-card-movie">
+        <!--<div class="highlight-card highlight-card-movie">
             <a
                     class="flex-column gap-s align-center"
                     [routerLink]="['/movie-home']"
             >
                 <span class="fs-xl p-b">movies & shows</span>
             </a>
-        </div>
+        </div>-->
+        <app-item
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'recent'"
+                [text]="'my rotation'"
+        ></app-item>
         <app-item
                 [item]="{year: 0, week: 0}"
                 [isAoty]="'LIST'"

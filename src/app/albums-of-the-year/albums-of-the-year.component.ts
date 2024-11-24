@@ -39,6 +39,9 @@ export class AlbumsOfTheYearComponent implements OnInit {
       this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
       return;
     }
+    for (let album of this.albumsOfTheYear.albums) {
+      album.year = this.activeYear;
+    }
     this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating).filter(value => value.rating > 0);
   }
 

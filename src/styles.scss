@@ -163,6 +163,10 @@ body {
   margin-bottom: 15px;
 }
 
+.fake-gap-b-s {
+  margin-bottom: 10px;
+}
+
 .flex-row {
   display: flex;
   flex-direction: row;
@@ -390,6 +394,10 @@ img {
 
   .fake-gap-b {
     margin-bottom: 10px;
+  }
+
+  .fake-gap-b-s {
+    margin-bottom: 8px;
   }
 
   .counter {

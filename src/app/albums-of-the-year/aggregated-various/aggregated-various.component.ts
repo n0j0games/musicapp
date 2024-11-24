@@ -27,6 +27,7 @@ export class AggregatedVariousComponent implements OnInit {
   average : number | null = null;
   aliases : string [] | null = null;
   isGroup : boolean = false;
+  showRecentPlays : boolean = false;
 
   constructor(private route: ActivatedRoute,
               private router: Router,
@@ -44,6 +45,7 @@ export class AggregatedVariousComponent implements OnInit {
     this.average = 0;
     this.aliases = null;
     this.isGroup = false;
+    this.showRecentPlays = false;
 
     const aggregation = this.route.snapshot.paramMap.get('query');
     const queryParam = this.route.snapshot.queryParamMap.get('type');
@@ -64,6 +66,10 @@ export class AggregatedVariousComponent implements OnInit {
       case "alphabetical":
         this.getAlphabeticalAlbums();
         this.aggregatedTitle = "every album I've rated";
+        break;
+      case "recent":
+        this.getRecentAlbums();
+        this.aggregatedTitle = "my current album rotation";
         break;
       case "fav-albums":
         this.getFavAlbums(false);
@@ -100,7 +106,17 @@ export class AggregatedVariousComponent implements OnInit {
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums
         .sort((a, b) => a.title.localeCompare(b.title))
         .sort((a, b) => (b.playTime ? b.playTime : 0) - (a.playTime ? a.playTime : 0)); //.filter(value => value.rating >= 5);
-    console.log("AD", this.aggreatedAlbums.albums)
+  }
+
+  private getRecentAlbums() {
+    let aotyList = this.aotyService.getAotyList();
+    const queryYears = aotyList!.items!.map(value => value.year);
+    let albums = this.getAggregatedAlbums(queryYears);
+    this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
+    this.aggreatedAlbums.albums = this.aggreatedAlbums.albums
+        .sort((a, b) => a.title.localeCompare(b.title))
+        .sort((a, b) => (b.playTime30Days ? b.playTime30Days : 0) - (a.playTime30Days ? a.playTime30Days : 0)).filter(album => album.playTime30Days! >= 15);
+    this.showRecentPlays = true;
   }
 
   private getArtistAlbums(artist : string, activeSince : number, strict : boolean) {
@@ -172,7 +188,11 @@ export class AggregatedVariousComponent implements OnInit {
     aotyItems = aotyItems.sort((a, b) => a.year - b.year);
     let albums : Album[] = [];
     for (const item of aotyItems) {
-      albums = albums.concat(item.albums);
+      const albums_ = item.albums.slice();
+      for (const album of albums_) {
+        album.year = item.year;
+      }
+      albums = albums.concat(albums_);
     }
     return albums;
   }

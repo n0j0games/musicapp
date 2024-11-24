@@ -10,6 +10,7 @@ import {SongInfo} from "../../common/models/songinfo";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
+import {LastfmBadge} from "../../common/components/lastfm-badge/lastfm-badge";
 
 @Component({
   selector: 'app-album-detail',
@@ -24,7 +25,8 @@ import {ContentBadgeComponent} from "../../common/components/content-badge/conte
         NgClass,
         VinylComponent,
         RouterLink,
-        ContentBadgeComponent
+        ContentBadgeComponent,
+        LastfmBadge
     ],
   templateUrl: './album-detail.component.html'
 })
@@ -35,6 +37,7 @@ export class AlbumDetailComponent implements OnInit {
 
   @Input() album! : Album;
   @Input() index! : number;
+  @Input() showRecentPlays! : boolean;
 
   songinfo! : SongInfo[];
   albumNames! : string;

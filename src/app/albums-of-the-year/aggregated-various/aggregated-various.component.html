@@ -19,6 +19,7 @@
             *ngFor="let album of aggreatedAlbums.albums; index as i"
             [album]="album"
             [index]="i+1"
+            [showRecentPlays]="showRecentPlays"
     ></app-album-detail>
 </div>
 <div *ngIf="aggreatedAlbums!.albums.length === 0">

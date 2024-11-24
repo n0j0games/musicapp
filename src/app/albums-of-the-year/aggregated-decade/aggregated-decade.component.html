@@ -4,6 +4,7 @@
             *ngFor="let album of albumsOfTheDecade.albums; index as i"
             [album]="album"
             [index]="i+1"
+            [showRecentPlays]="false"
     ></app-album-detail>
 </div>
 <div *ngIf="albumsOfTheDecade === null">

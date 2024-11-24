@@ -40,7 +40,11 @@ export class AggregatedDecadeComponent implements OnInit {
     aotyItems = aotyItems.sort((a, b) => b.year - a.year)
     let albums : Album[] = [];
     for (const item of aotyItems) {
-      albums = albums.concat(item.albums);
+      const albums_ = item.albums.slice();
+      for (const album of albums_) {
+        album.year = item.year;
+      }
+      albums = albums.concat(albums_);
     }
     albums = albums.filter(value => value.rating > 4);
     this.albumsOfTheDecade = { year : parseInt(decade), albums : albums, isDecade : true };
