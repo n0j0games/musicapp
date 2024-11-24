@@ -2231,6 +2231,70 @@
       "genre": "Art Pop",
       "playTime": 193,
       "playTime30Days": 193
+    },
+    {
+      "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+      "title": "GNX",
+      "artist": "Kendrick Lamar",
+      "songs": [
+        {
+          "title": "wacced out murals",
+          "preview_url": "https://p.scdn.co/mp3-preview/19fa10696b3e603fad23d9947832cc403873ff8e?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "squabble up",
+          "preview_url": "https://p.scdn.co/mp3-preview/7cb4f6fbd7ec470550d430dd3b057d8b8f110218?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "man at the garden",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccfc8e9ed715423ad9e1cc869a392c4f24ef968b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "reincarnated",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c7c347692b80fa8e3ce02f35ef917253fa12439?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "heart pt. 6",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3184f894375e8cf32244da7a753f101213ac9ab?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 8,
+      "playTime": 79,
+      "genre": "Rap",
+      "playTime30Days": 79
+    },
+    {
+      "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cf551ccbbb1341bff8817a36",
+      "title": "bis einer weint",
+      "artist": "BIBIZA",
+      "songs": [
+        {
+          "title": "aufnimmawiederschaun",
+          "preview_url": "https://p.scdn.co/mp3-preview/b299613af56b7780526ce64d32591794ffd12329?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Wunschkonzert",
+          "preview_url": "https://p.scdn.co/mp3-preview/25c832728238284de147c4f2ae67777d7d8755f1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tanzen",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f116b56d2778ef7272d484fa1b489b6a641a7b6?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "DONAU",
+          "preview_url": "https://p.scdn.co/mp3-preview/393cfa15bc3be53497085ddfe23f629c2beb86e8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "schwimmen",
+          "preview_url": "https://p.scdn.co/mp3-preview/96aedfd72c844647576b012aabb403d43dcecc00?cid=941103e4872f4d3fad60066c677df34f"
+        }
+      ],
+      "rating": 9,
+      "playTime": 93,
+      "genre": "Deutschpop",
+      "playTime30Days": 93
     }
   ]
 }
