@@ -223,7 +223,7 @@
     {
       "url": "https://open.spotify.com/intl-de/album/182D7nDZqcYghZKQxnSJ03",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c5ea481d67824f3c61ff26d7",
-      "title": "Nostalgia Ultra",
+      "title": "nostalgia, ultra.",
       "artist": "Frank Ocean",
       "songs": [
         {
@@ -236,7 +236,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 61
     },
     {
       "url": "https://open.spotify.com/album/5nozPsVrPay3O2qGOd1pZg",

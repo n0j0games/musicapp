@@ -2083,7 +2083,7 @@
       "genre": "Deutscher Indie",
       "playTime": 176,
       "playTime30Days": 176,
-      "onVinyl" : true
+      "onVinyl": true
     },
     {
       "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
@@ -2112,7 +2112,7 @@
       "genre": "Rap",
       "playTime": 297,
       "playTime30Days": 297,
-      "onVinyl" : true
+      "onVinyl": true
     },
     {
       "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV",
@@ -2197,7 +2197,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/76cf692c753a52fa9e4d4f8c8fca24187bb9959d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
+      "rating": 8,
       "genre": "R&B",
       "playTime": 93,
       "playTime30Days": 93

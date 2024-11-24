@@ -126,7 +126,7 @@
     {
       "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
-      "title": "Stoney - Deluxe",
+      "title": "Stoney",
       "artist": "Post Malone",
       "songs": [
         {
@@ -147,7 +147,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 33
     },
     {
       "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4",

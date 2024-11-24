@@ -144,7 +144,7 @@
     {
       "url": "https://open.spotify.com/album/2Hq2mf6ck5t5hYIvd3AVvA",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730bff0d14e5569bc07279de48",
-      "title": "Body Talk pt. 2",
+      "title": "Body Talk",
       "artist": "Robyn",
       "songs": [
         {
@@ -161,7 +161,8 @@
         }
       ],
       "rating": 6,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 14
     },
     {
       "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB",

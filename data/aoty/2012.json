@@ -100,7 +100,7 @@
       "url": "https://open.spotify.com/album/2dSLWOAettty18g9KTmi6E",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734ee35a7450f3c8476654a256",
       "title": "SEEED",
-      "artist": "Seeed, Peter Fox",
+      "artist": "Seeed,\nPeter Fox",
       "songs": [
         {
           "title": "Beautiful",
@@ -124,7 +124,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 122
     },
     {
       "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm",

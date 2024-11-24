@@ -559,7 +559,7 @@
     {
       "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c",
-      "title": "Luv Is Rage 2 - Deluxe",
+      "title": "Luv Is Rage 2",
       "artist": "Lil Uzi Vert",
       "songs": [
         {
@@ -572,7 +572,8 @@
         }
       ],
       "rating": 5,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 47
     },
     {
       "url": "https://open.spotify.com/album/0k3311qEFcwoTNZxhhBqJ1",
@@ -642,7 +643,7 @@
     {
       "url": "https://open.spotify.com/album/4ZGMPQcvFLMF7SKO01yaZg",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27333a05856381d7dc016fdd3c8",
-      "title": "Dua Lipa - Complete Edition",
+      "title": "Dua Lipa",
       "artist": "Dua Lipa",
       "songs": [
         {
@@ -659,7 +660,8 @@
         }
       ],
       "rating": 6,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 12
     },
     {
       "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK",
