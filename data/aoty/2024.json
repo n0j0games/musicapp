@@ -2082,7 +2082,8 @@
       "rating": 9.1,
       "genre": "Deutscher Indie",
       "playTime": 176,
-      "playTime30Days": 176
+      "playTime30Days": 176,
+      "onVinyl" : true
     },
     {
       "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
@@ -2110,7 +2111,8 @@
       "rating": 7.9,
       "genre": "Rap",
       "playTime": 297,
-      "playTime30Days": 297
+      "playTime30Days": 297,
+      "onVinyl" : true
     },
     {
       "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV",
