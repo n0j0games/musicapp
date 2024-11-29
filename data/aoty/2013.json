@@ -183,7 +183,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 85,
+      "playTime": 86,
       "playTime30Days": 0
     },
     {
@@ -281,7 +281,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 99
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",

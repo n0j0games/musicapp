@@ -29,7 +29,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 97
     },
     {
       "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
@@ -91,7 +92,8 @@
       ],
       "rating": 8.8,
       "onVinyl": true,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 14
     },
     {
       "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh",

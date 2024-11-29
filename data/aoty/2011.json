@@ -30,7 +30,7 @@
       ],
       "rating": 10.4,
       "playTime": 374,
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd",
@@ -156,7 +156,7 @@
       "rating": 9.5,
       "genre": "R&B",
       "playTime": 421,
-      "playTime30Days": 10
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG",
@@ -217,8 +217,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 126,
-      "playTime30Days": 12
+      "playTime": 134,
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/intl-de/album/182D7nDZqcYghZKQxnSJ03",
