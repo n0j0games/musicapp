@@ -62,8 +62,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 337,
-      "playTime30Days": 13
+      "playTime": 339,
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF",
@@ -399,7 +399,7 @@
       "rating": 8.8,
       "genre": "Rap",
       "playTime": 501,
-      "playTime30Days": 8
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u",
@@ -628,7 +628,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 16,
+      "playTime": 17,
       "playTime30Days": 0
     },
     {
@@ -670,7 +670,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 40,
+      "playTime": 41,
       "playTime30Days": 0
     },
     {

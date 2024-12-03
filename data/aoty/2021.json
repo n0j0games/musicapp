@@ -187,7 +187,7 @@
       ],
       "rating": 9,
       "playTime": 169,
-      "playTime30Days": 32
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO",
@@ -373,8 +373,8 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 594,
-      "playTime30Days": 0
+      "playTime": 596,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
@@ -400,7 +400,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 244,
+      "playTime": 245,
       "playTime30Days": 0
     },
     {
@@ -645,7 +645,7 @@
       "title": "Faith",
       "artist": "Pop Smoke",
       "rating": 4,
-      "playTime": 145,
+      "playTime": 146,
       "genre": "Rap",
       "playTime30Days": 0
     },

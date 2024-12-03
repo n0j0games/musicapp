@@ -31,7 +31,7 @@
       "rating": 9.4,
       "genre": "Deutschrap",
       "playTime": 233,
-      "playTime30Days": 51
+      "playTime30Days": 50
     },
     {
       "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
@@ -158,8 +158,8 @@
       ],
       "rating": 8.9,
       "genre": "Deutscher Indie",
-      "playTime": 439,
-      "playTime30Days": 17
+      "playTime": 441,
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
@@ -382,7 +382,7 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 64,
+      "playTime": 67,
       "playTime30Days": 0
     },
     {
@@ -602,7 +602,7 @@
       ],
       "rating": 8,
       "genre": "Experimental Hip-Hop",
-      "playTime": 79,
+      "playTime": 80,
       "playTime30Days": 0
     },
     {
@@ -798,8 +798,8 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 432,
-      "playTime30Days": 11
+      "playTime": 433,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
@@ -994,8 +994,8 @@
       ],
       "rating": 7.5,
       "genre": "Experimental Rap",
-      "playTime": 43,
-      "playTime30Days": 10
+      "playTime": 46,
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L",
@@ -1106,7 +1106,7 @@
       ],
       "rating": 7,
       "genre": "Deutschrap",
-      "playTime": 26,
+      "playTime": 27,
       "playTime30Days": 0
     },
     {
@@ -1773,7 +1773,7 @@
       ],
       "rating": 6.1,
       "genre": "Rap",
-      "playTime": 119,
+      "playTime": 120,
       "playTime30Days": 0
     },
     {
@@ -2002,7 +2002,7 @@
       "rating": 7.8,
       "genre": "Deutschrap",
       "playTime": 85,
-      "playTime30Days": 32
+      "playTime30Days": 22
     },
     {
       "url": "https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b",
@@ -2030,7 +2030,7 @@
       "rating": 7.5,
       "genre": "Deutschrap",
       "playTime": 106,
-      "playTime30Days": 14
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf",
@@ -2050,7 +2050,7 @@
       "rating": 6.1,
       "genre": "Deutschrap",
       "playTime": 78,
-      "playTime30Days": 24
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn",
@@ -2081,8 +2081,8 @@
       ],
       "rating": 9.1,
       "genre": "Deutscher Indie",
-      "playTime": 178,
-      "playTime30Days": 86,
+      "playTime": 186,
+      "playTime30Days": 77,
       "onVinyl": true
     },
     {
@@ -2111,7 +2111,7 @@
       "rating": 7.9,
       "genre": "Rap",
       "playTime": 300,
-      "playTime30Days": 168,
+      "playTime30Days": 117,
       "onVinyl": true
     },
     {
@@ -2140,7 +2140,7 @@
       "rating": 7.5,
       "genre": "Deutscher Indie",
       "playTime": 74,
-      "playTime30Days": 73
+      "playTime30Days": 43
     },
     {
       "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR",
@@ -2262,9 +2262,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 181,
+      "playTime": 217,
       "genre": "Rap",
-      "playTime30Days": 181
+      "playTime30Days": 217
     },
     {
       "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa",
@@ -2294,9 +2294,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 265,
+      "playTime": 274,
       "genre": "Deutschpop",
-      "playTime30Days": 265
+      "playTime30Days": 274
     }
   ]
 }

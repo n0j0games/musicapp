@@ -33,7 +33,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 252,
+      "playTime": 253,
       "playTime30Days": 0
     },
     {
@@ -156,7 +156,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1726,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
@@ -187,7 +187,7 @@
       ],
       "rating": 10,
       "onVinyl": true,
-      "playTime": 292,
+      "playTime": 293,
       "playTime30Days": 27
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rating": 9.8,
       "playTime": 185,
-      "playTime30Days": 10
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi",
