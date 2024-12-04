@@ -10,10 +10,10 @@
     <div class="wide-only">
         <div class="flex-grow"></div>
         <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/sotw', currentYear.toString() + currentWeek.toString()]">fav songs from last week</a>
-        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/soty', currentYear.toString()]">fav songs of {{ currentYear.toString() }}</a>
-        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/aoty', currentYear.toString()]">albums of {{ currentYear.toString() }}</a>
-        <p class="text-margin fix-bottom">|</p>
-        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/moty', currentYear.toString()]">movies & shows of {{ currentYear.toString() }}</a>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/soty', 2024]">fav songs of 2024</a>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/aoty/recap', 2024]">albums of 2024</a>
+        <!--<p class="text-margin fix-bottom">|</p>
+        <a [ngClass]="{ 'a-movie' : onMovieSite }" class="text-margin fix-bottom" [routerLink]="['/moty', currentYear.toString()]">movies & shows of {{ currentYear.toString() }}</a>-->
     </div>
 </div>
 <!-- <div class="sub-body mobile gap-l">

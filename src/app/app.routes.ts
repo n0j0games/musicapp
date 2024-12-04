@@ -17,12 +17,14 @@ import {AliasResolverService} from "./common/resolver/alias.resolver.service";
 import {MoviesOfTheYearComponent} from "./movies-of-the-year/movies-of-the-year.component";
 import {MotyResolverService} from "./common/resolver/moty.resolver.service";
 import {HomeMoviesComponent} from "./home/home-movies/home-movies.component";
+import {RecapComponent} from "./albums-of-the-year/recap/recap.component";
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
   { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService] },
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty/:year', component: AlbumsOfTheYearComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
+  { path: 'aoty/recap/:year', component: RecapComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'soty/:year', component: AggregatedSotyComponent, resolve: [SotwResolverService, AotyResolverService, SotwAggregateResolverService] },
   { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyDecadeAggregateResolverService] },
   { path: 'aoty-lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },

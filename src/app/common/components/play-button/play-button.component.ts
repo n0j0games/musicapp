@@ -12,24 +12,36 @@ import {SongInfo} from "../../models/songinfo";
   ],
   templateUrl: './play-button.component.html'
 })
-export class PlayButtonComponent implements OnDestroy {
+export class PlayButtonComponent implements OnInit, OnDestroy {
 
   @Input() isPlaying! : boolean;
   @Input() url! : SongInfo | SongInfo[];
   @Input() isOnlyStopButton: boolean = false;
+  isPaused = false;
 
   constructor(private audioService: AudioService) {
+
+  }
+
+  ngOnInit() {
+    this.audioService.pausedChanged$.subscribe(pauseStatus => {
+      this.isPaused = pauseStatus;
+    })
   }
 
   playAudio() {
-    if (this.isPlaying) {
-      this.audioService.stopAudio();
-    } else if (this.isOnlyStopButton) {
-      return;
-    } else if (this.url instanceof SongInfo) {
-      this.audioService.playAudio(this.url);
+    if (this.isOnlyStopButton) {
+      if (this.isPlaying) {
+        this.audioService.pause();
+      }
     } else {
-      this.audioService.playAudioFromList(this.url);
+      if (this.isPlaying) {
+        this.audioService.pause();
+      } else if (this.url instanceof SongInfo) {
+        this.audioService.playAudio(this.url);
+      } else {
+        this.audioService.playAudioFromList(this.url);
+      }
     }
 
   }

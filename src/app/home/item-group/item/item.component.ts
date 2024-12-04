@@ -32,7 +32,7 @@ export class ItemComponent implements OnInit {
     if (this.isDecade) {
       this.routerLink = ['/aoty-decade', this.item.year.toString()];
     } else if (this.isAoty === "AOTY") {
-      this.routerLink = ['/aoty', this.item.year.toString()];
+      this.routerLink = ['/aoty/recap', this.item.year.toString()];
     } else if (this.isAoty === "SOTW") {
       this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);
       this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]

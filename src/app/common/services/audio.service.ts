@@ -10,15 +10,19 @@ export class AudioService {
     private audio = new Audio();
     private playlist : SongInfo[] = [];
     public playStatusChanged$ = new Subject<string | null>();
+    public pausedChanged$ = new Subject<boolean>();
     public audioLengthChanged$ = new Subject<number | null>();
     private track : string | null = null;
     private artist: string | null = null;
+    private DEFAULT_VOLUME: number = 0.2;
+    private volume: number = this.DEFAULT_VOLUME;
 
     constructor() {
         const context = this;
         this.audio.preload = "metadata";
         this.audio.onloadedmetadata = function() {
             context.audioLengthChanged$.next(context.audio.duration);
+            context.pausedChanged$.next(context.audio.paused);
         };
         this.audio.addEventListener("ended", function () {
             context.onSongEnded(context);
@@ -54,24 +58,44 @@ export class AudioService {
         if (!this.audio.paused) {
             this.audio.pause();
         }
-        this.audio.volume = 0.3;
+        this.audio.volume = this.volume;
         this.audio.src = previewUrl.url;
         this.track = previewUrl.track;
         this.artist = previewUrl.artist;
         this.audio.load();
         this.audio.play().then(() => console.log("Playing " + this.audio.src));
         this.playStatusChanged$.next(this.audio.src);
+        this.pausedChanged$.next(false);
     }
 
-    stopAudio() {
+    stopAudio(force = false) {
         this.playlist = [];
         this.track = null;
         this.artist = null;
-        if (!this.audio.paused) {
+        if (!this.audio.paused || force) {
             this.audio.pause();
             console.log("Stopped audio")
         }
         this.playStatusChanged$.next(null);
+        this.pausedChanged$.next(true);
+    }
+
+    pause() {
+        if (!this.audio.paused) {
+            this.audio.pause();
+        } else {
+            this.audio.play();
+        }
+        this.pausedChanged$.next(this.audio.paused);
+    }
+
+    mute() {
+        if (this.volume === this.DEFAULT_VOLUME) {
+            this.volume = 0;
+        } else {
+            this.volume = this.DEFAULT_VOLUME;
+        }
+        this.audio.volume = this.volume;
     }
 
     private onSongEnded(context : AudioService) {

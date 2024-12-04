@@ -18,6 +18,7 @@ import {RemoveFeatPipe} from "../../pipes/remove-feat.pipe";
 export class PlayTrackComponent implements OnInit {
 
   isPlaying: boolean = false;
+  isPaused: boolean = false;
   duration: number = 1;
   active: number = 0;
   url: string | null = null;
@@ -30,6 +31,12 @@ export class PlayTrackComponent implements OnInit {
     this.audioService.audioLengthChanged$.subscribe(duration => {
       this.setAudioLength(duration, this.audioService.getUrl())
       this.track = this.audioService.getTrack();
+    })
+    this.audioService.pausedChanged$.subscribe(pauseStatus => {
+        this.isPaused = pauseStatus;
+        if (this.isPlaying && !this.isPaused) {
+          this.timeout(this, this.url!)
+        }
     })
   }
 
@@ -45,12 +52,12 @@ export class PlayTrackComponent implements OnInit {
     this.duration = duration;
     this.isPlaying = true;
     this.active = 0;
-    this.timeout(this, url);
+    //this.timeout(this, url);
   }
 
   private timeout(context : PlayTrackComponent, activeUrl : string) {
     setTimeout(function () {
-      if (!context.isPlaying || activeUrl !== context.url) {
+      if (!context.isPlaying || activeUrl !== context.url || context.isPaused) {
         return; // finished
       }
       context.active += 0.5;

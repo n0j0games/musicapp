@@ -87,7 +87,7 @@ export class AotyService {
   getAlbumsOfTheYear(year : number): AotyItem | null {
     for (const item of this.aotyItems) {
       if (item.year == year) {
-        return item;
+        return {...item};
       }
     }
     return null;
