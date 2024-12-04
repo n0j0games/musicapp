@@ -13,6 +13,7 @@ export class Album {
                 public onVinyl? : boolean,
                 public playTime? : number,
                 public playTime30Days? : number,
+                public color? : string,
                 public year? : number) {
     }
 
