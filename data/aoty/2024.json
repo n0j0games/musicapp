@@ -94,7 +94,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/24201038f84362ecafd1be4bbb9c4de53581cf9f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9,
+      "rating": 8.7,
       "genre": "Pop",
       "playTime": 733,
       "playTime30Days": 0,
@@ -107,6 +107,10 @@
       "artist": "Clairo",
       "songs": [
         {
+          "title": "Juna",
+          "preview_url": "https://p.scdn.co/mp3-preview/e0cacf9faae5ba4d910170a4905549bb26adf860?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Nomad",
           "preview_url": "https://p.scdn.co/mp3-preview/d7f0b59404db6116ceb4795b7805686b53290bc0?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -117,10 +121,6 @@
         {
           "title": "Second Nature",
           "preview_url": "https://p.scdn.co/mp3-preview/811adc83124d3dce5657ce91bef3055281bd4680?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Juna",
-          "preview_url": "https://p.scdn.co/mp3-preview/e0cacf9faae5ba4d910170a4905549bb26adf860?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Echo",
@@ -292,7 +292,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/48f0fac7c131ff2951635df599672598d6609783?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.4,
+      "rating": 8.0,
       "genre": "Indie Rock",
       "playTime": 126,
       "playTime30Days": 0,
@@ -305,12 +305,12 @@
       "artist": "Jassin",
       "songs": [
         {
-          "title": "Kinder können fies sein",
-          "preview_url": "https://p.scdn.co/mp3-preview/cd0a9009ee990af4df1ee8e51581c9e1b3e3e59c?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Pretty Privilege",
           "preview_url": "https://p.scdn.co/mp3-preview/f89a3a05f4fe32b42de9be8d9fd77534474a5b6d?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Kinder können fies sein",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd0a9009ee990af4df1ee8e51581c9e1b3e3e59c?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Venedig",
@@ -358,7 +358,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3acfa0f749f96e81e645748c0d7f2aad0eda116?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5,
+      "rating": 8.4,
       "genre": "Rock",
       "playTime": 152,
       "playTime30Days": 0,
@@ -404,16 +404,16 @@
       "artist": "Jamie xx",
       "songs": [
         {
+          "title": "Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/261bc3bd3192ef4158b1ca42e95262113241a326?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Treat Each Other Right",
           "preview_url": "https://p.scdn.co/mp3-preview/a518fdb34284daa9a2298fd5491d6cede24a3e01?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Waited All Night",
           "preview_url": "https://p.scdn.co/mp3-preview/b7820ac10349ca374242240f69887c073a4980f2?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Life",
-          "preview_url": "https://p.scdn.co/mp3-preview/261bc3bd3192ef4158b1ca42e95262113241a326?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Every Single Weekend - Interlude",
@@ -424,7 +424,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2fa5fc5e733495719170f672a07b172bf678a89f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.2,
       "genre": "Electronic",
       "playTime": 184,
       "playTime30Days": 0,
@@ -486,7 +486,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4814f4a565c2e5dbfbdaeb5630e3afc885d28e97?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.6,
+      "rating": 8.5,
       "genre": "Jazz",
       "playTime": 24,
       "playTime30Days": 0,
@@ -552,7 +552,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b0586f1329a096ac47a89218898dc64d9474a5a6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.1,
+      "rating": 8.0,
       "genre": "Dreampop",
       "playTime": 7,
       "playTime30Days": 0,
@@ -565,16 +565,16 @@
       "artist": "Vampire Weekend",
       "songs": [
         {
+          "title": "Capricorn",
+          "preview_url": "https://p.scdn.co/mp3-preview/9742fae573fd3636928f078f87bee7c1e02b33fe?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Ice Cream Piano",
           "preview_url": "https://p.scdn.co/mp3-preview/ccaa2193e439fa69a5949a90d400ec8b97b35397?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Classical",
           "preview_url": "https://p.scdn.co/mp3-preview/bc6713caada8a67282f417214c0efd8efc63271c?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Capricorn",
-          "preview_url": "https://p.scdn.co/mp3-preview/9742fae573fd3636928f078f87bee7c1e02b33fe?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Connect",
@@ -647,7 +647,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/01f58f75e473ed7e6919f1df3a6f33fb0f3baca6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8,
+      "rating": 8.1,
       "genre": "Synthpop",
       "playTime": 192,
       "playTime30Days": 6,
@@ -2133,7 +2133,8 @@
       "genre": "Rap",
       "playTime": 300,
       "playTime30Days": 117,
-      "onVinyl": true
+      "onVinyl": true,
+      "color" : "#158836FF"
     },
     {
       "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV",
@@ -2218,7 +2219,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/76cf692c753a52fa9e4d4f8c8fca24187bb9959d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8,
+      "rating": 7.9,
       "genre": "R&B",
       "playTime": 103,
       "playTime30Days": 103,
@@ -2230,6 +2231,10 @@
       "title": "Petrichor",
       "artist": "070 Shake",
       "songs": [
+        {
+          "title": "What's Wrong With Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e477ea2463f88d4dca84bbde67efa48d1ae1f16?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Elephant",
           "preview_url": "https://p.scdn.co/mp3-preview/02e2160eb0a06e5936d2c2eb52f6c5078b9f6c1f?cid=941103e4872f4d3fad60066c677df34f"
@@ -2243,15 +2248,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1ae32f69e3ec87963412ccd17d26ad5cc4082dec?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "What's Wrong With Me",
-          "preview_url": "https://p.scdn.co/mp3-preview/4e477ea2463f88d4dca84bbde67efa48d1ae1f16?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Blood On Your Hands",
           "preview_url": "https://p.scdn.co/mp3-preview/1aa2488ba40e28954e4c3214605d21bed1fc9d5b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8,
+      "rating": 8.2,
       "genre": "Art Pop",
       "playTime": 210,
       "playTime30Days": 210,
@@ -2268,6 +2269,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/19fa10696b3e603fad23d9947832cc403873ff8e?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
+          "title": "reincarnated",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c7c347692b80fa8e3ce02f35ef917253fa12439?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "squabble up",
           "preview_url": "https://p.scdn.co/mp3-preview/7cb4f6fbd7ec470550d430dd3b057d8b8f110218?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -2276,15 +2281,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ccfc8e9ed715423ad9e1cc869a392c4f24ef968b?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "reincarnated",
-          "preview_url": "https://p.scdn.co/mp3-preview/0c7c347692b80fa8e3ce02f35ef917253fa12439?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "heart pt. 6",
           "preview_url": "https://p.scdn.co/mp3-preview/f3184f894375e8cf32244da7a753f101213ac9ab?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8,
+      "rating": 8.6,
       "playTime": 217,
       "genre": "Rap",
       "playTime30Days": 217,
@@ -2317,7 +2318,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/96aedfd72c844647576b012aabb403d43dcecc00?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9,
+      "rating": 9.1,
       "playTime": 274,
       "genre": "Deutschpop",
       "playTime30Days": 274,
