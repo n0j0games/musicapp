@@ -3,7 +3,7 @@ import {AotyItem} from "../../common/models/aoty-item";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {AotyService} from "../../common/services/aoty.service";
 import {Album} from "../../common/models/album";
-import {AsyncPipe, LowerCasePipe, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
+import {AsyncPipe, LowerCasePipe, NgForOf, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
 import {SongInfo} from "../../common/models/songinfo";
 import {AudioService} from "../../common/services/audio.service";
 import {animate, AnimationBuilder, keyframes, state, style, transition, trigger} from "@angular/animations";
@@ -19,7 +19,8 @@ import {map} from "rxjs";
         NgIf,
         NgStyle,
         AsyncPipe,
-        RouterLink
+        RouterLink,
+        NgForOf
     ],
     templateUrl: './recap.component.html',
     styleUrl: './recap.component.scss'
@@ -37,7 +38,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
     activeYear: number = 0;
     albumsOfTheYear!: AotyItem | null;
-    allowedYears = ['2022','2023','2024'];
+    allowedYears = ['2024'];
 
     activeAlbum!: Album;
     maxAlbums = 25;
@@ -178,7 +179,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
     updateActiveAlbum(reverse: boolean) {
         this.activeAlbum = this.albumsOfTheYear!.albums[this.activeAlbumNumber-1];
-        this.typedText$ = this.typeWriterService.getTypewriterEffect([this.activeAlbum.title.toLowerCase()], 50).pipe(map((text) => text))
+        this.typedText$ = this.typeWriterService.getTypewriterEffect([this.activeAlbum.title.toLowerCase()], 100, 700).pipe(map((text) => text))
         this.typedArtist$ = this.typeWriterService.getTypewriterEffect([this.activeAlbum.artist.toLowerCase()], 100).pipe(map((text) => text))
         this.playAudio();
         this.makeAnimation(reverse);

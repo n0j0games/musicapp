@@ -14,16 +14,17 @@ export class TypewriterService {
         );
     }
 
-    typeEffect(word: string, speed : number) {
+    typeEffect(word: string, speed : number, startDelay : number) {
         return concat(
+            of('').pipe(delay(startDelay), ignoreElements()),
             this.type({ word, speed: speed }),
             of('').pipe(delay(1200), ignoreElements()),
         );
     }
 
-    getTypewriterEffect(titles: string[], speed : number) {
+    getTypewriterEffect(titles: string[], speed : number, startDelay : number = 0) {
         return from(titles).pipe(
-            concatMap(title => this.typeEffect(title, speed))
+            concatMap(title => this.typeEffect(title, speed, startDelay))
         );
     }
 

@@ -8,17 +8,19 @@ import {AudioService} from "../common/services/audio.service";
 import {PlayTrackComponent} from "../common/components/play-track/play-track.component";
 import {SongInfo} from "../common/models/songinfo";
 import {NgClass, NgIf} from "@angular/common";
+import {MuteButtonComponent} from "../common/components/mute-button/mute-button.component";
 
 @Component({
   selector: 'app-header',
   standalone: true,
-  imports: [
-    RouterLink,
-    PlayButtonComponent,
-    PlayTrackComponent,
-    NgClass,
-    NgIf
-  ],
+    imports: [
+        RouterLink,
+        PlayButtonComponent,
+        PlayTrackComponent,
+        NgClass,
+        NgIf,
+        MuteButtonComponent
+    ],
   templateUrl: './header.component.html',
   styleUrl: './header.component.scss'
 })

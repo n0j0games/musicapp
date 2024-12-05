@@ -217,7 +217,7 @@ body {
   flex-wrap: wrap;
 }
 
-.play-button {
+.play-button, .mute-button {
   font-size: 20px;
   width: 25px;
   height: 25px;
@@ -228,7 +228,7 @@ body {
   text-decoration: none;
 }
 
-.play-button-header {
+.play-button-header, .mute-button {
   color: $secondary-color;
   padding: 0 0 9px 0;
 }
@@ -237,7 +237,7 @@ body {
   color: $secondary-color;
 }
 
-.play-button-header:hover i {
+.play-button-header:hover i, .mute-button:hover i {
   color: white;
 }
 
@@ -347,10 +347,18 @@ img {
   opacity: 50%;
 }
 
-@media (width < 600px) {
+.mobile {
+  display: none;
+}
+
+@media (width < 600px) or (height < 700px) {
 
   .non-mobile, .non-mobile-inline {
     display: none;
+  }
+
+  .mobile {
+    display: flex;
   }
 
   img {
@@ -388,7 +396,7 @@ img {
     font-size: 16px;
   }
 
-  .play-button {
+  .play-button, .mute-button {
     font-size: 16px;
   }
 

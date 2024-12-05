@@ -1,0 +1,7 @@
+<button
+        class="mute-button flex-column align-center justify-center"
+        (click)="mute()"
+>
+    <i *ngIf="!isMuted" class="fa-solid fa-volume-low"></i>
+    <i *ngIf="isMuted" class="fa-solid fa-volume-xmark"></i>
+</button>

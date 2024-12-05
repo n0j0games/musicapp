@@ -1,7 +1,8 @@
-<div class="upper flex-row align-center justify-center">
+<div class="non-mobile upper flex-row align-center justify-center">
     <p class="p-i fs-recap-xl">ALBUM OF THE YEAR {{ activeYear }}</p>
 </div>
 <div class="outer" #outer>
+    <p class="mobile p-i fs-recap-xl">ALBUM OF THE YEAR {{ activeYear }}</p>
     <div class="content flex-column align-center justify-center recap-gap">
         <p class="p-b-i fs-recap-number">#{{ activeAlbumNumber }}</p>
         <img class="recap-cover" src="{{activeAlbum.imgUrl}}" alt="">
@@ -10,11 +11,18 @@
             <p class="p-b-i fs-recap-title">{{ typedText$ | async }}</p>
         </div>
     </div>
+    <div class="mobile lower flex-column align-center justify-center gap-l">
+        <div class="lower-in flex-row align-center justify-center gap-l">
+            <button class="next-button" [disabled]="activeAlbumNumber >= maxAlbums" (click)="prevAlbum()"><i class="fa-solid fa-backward"></i></button>
+            <a class="p-b" [routerLink]="['/aoty', activeYear]">VIEW ALL</a>
+            <button class="next-button" [disabled]="activeAlbumNumber <= 1" (click)="nextAlbum()"><i class="fa-solid fa-forward"></i></button>
+        </div>
+    </div>
 </div>
-<div class="lower flex-row align-center justify-center gap-l">
-    <a [routerLink]="['/aoty', activeYear]">VIEW ALL</a>
-    <button [disabled]="activeAlbumNumber >= maxAlbums" (click)="prevAlbum()">PREV</button>
-    <button [disabled]="activeAlbumNumber <= 1" (click)="nextAlbum()">NEXT</button>
-    <button (click)="pause()">PAUSE / UNPAUSE</button>
-    <button (click)="mute()">MUTE / UNMUTE</button>
+<div class="non-mobile lower flex-row align-center justify-center gap-l">
+    <div class="lower-in flex-row align-center justify-center gap-l">
+        <button class="next-button" [disabled]="activeAlbumNumber >= maxAlbums" (click)="prevAlbum()"><i class="fa-solid fa-backward"></i></button>
+        <a class="p-b" [routerLink]="['/aoty', activeYear]">VIEW ALL</a>
+        <button class="next-button" [disabled]="activeAlbumNumber <= 1" (click)="nextAlbum()"><i class="fa-solid fa-forward"></i></button>
+    </div>
 </div>

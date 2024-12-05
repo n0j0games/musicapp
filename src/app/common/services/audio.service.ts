@@ -12,10 +12,12 @@ export class AudioService {
     public playStatusChanged$ = new Subject<string | null>();
     public pausedChanged$ = new Subject<boolean>();
     public audioLengthChanged$ = new Subject<number | null>();
+    public volumeChanged$ = new Subject<number | null>();
+
     private track : string | null = null;
     private artist: string | null = null;
-    private DEFAULT_VOLUME: number = 0.2;
-    private volume: number = this.DEFAULT_VOLUME;
+    private defaultVolume: number = 0.2;
+    private volume: number = this.defaultVolume;
 
     constructor() {
         const context = this;
@@ -34,6 +36,10 @@ export class AudioService {
         })
     }
 
+    getVolume() {
+        return this.volume;
+    }
+
     getUrl() {
         return this.audio.src;
     }
@@ -47,6 +53,11 @@ export class AudioService {
     }
 
     playAudioFromList(previewUrls : SongInfo[]) {
+        const localVolume = localStorage.getItem("volume");
+        if (localVolume !== null) {
+            this.volume = <number><unknown>localVolume;
+        }
+        this.volumeChanged$.next(this.volume);
         this.playlist = previewUrls.slice();
         const firstSong = this.playlist.shift();
         if (firstSong !== undefined) {
@@ -90,12 +101,14 @@ export class AudioService {
     }
 
     mute() {
-        if (this.volume === this.DEFAULT_VOLUME) {
+        if (this.volume != 0) {
             this.volume = 0;
         } else {
-            this.volume = this.DEFAULT_VOLUME;
+            this.volume = 0.2;
         }
+        localStorage.setItem("volume",<string><unknown>this.volume);
         this.audio.volume = this.volume;
+        this.volumeChanged$.next(this.volume);
     }
 
     private onSongEnded(context : AudioService) {
