@@ -805,12 +805,12 @@
       "artist": "OG Keemo",
       "songs": [
         {
-          "title": "Tasche",
-          "preview_url": "https://p.scdn.co/mp3-preview/24077b4bf7c80bc2d7c412763894e0dce5e265fc?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Tórshavn",
           "preview_url": "https://p.scdn.co/mp3-preview/45af055dc1052507348766ee06b3bf01ee81cd14?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tasche",
+          "preview_url": "https://p.scdn.co/mp3-preview/24077b4bf7c80bc2d7c412763894e0dce5e265fc?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Bee Gees",
@@ -995,7 +995,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/62e61581db66bacf5c32a13aeab180b1e0c12f21?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0,
+      "rating": 6.9,
       "genre": "Pop Rap",
       "playTime": 31,
       "playTime30Days": 0,
@@ -1056,7 +1056,8 @@
       "rating": 7.3,
       "genre": "Rap",
       "playTime": 70,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2b4742"
     },
     {
       "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD",
@@ -2021,20 +2022,20 @@
       "artist": "Boondawg",
       "songs": [
         {
-          "title": "KULT INTRO",
-          "preview_url": "https://p.scdn.co/mp3-preview/74a55098fb16b4307b6e4ca7b8cd8aaa7c0022df?cid=941103e4872f4d3fad60066c677df34f"
+          "title": "HOMERUN",
+          "preview_url": "https://p.scdn.co/mp3-preview/499eee1176977d872a6f5b36d0f6b428dd9ed905?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "ZAHLTAG",
           "preview_url": "https://p.scdn.co/mp3-preview/87c8671968e65031392f73733dae869bd0204d5f?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "HOMERUN",
-          "preview_url": "https://p.scdn.co/mp3-preview/499eee1176977d872a6f5b36d0f6b428dd9ed905?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "NRW",
           "preview_url": "https://p.scdn.co/mp3-preview/99f3281b0d4ad29a192eb363d4ef4506c662cc3f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "KULT INTRO",
+          "preview_url": "https://p.scdn.co/mp3-preview/74a55098fb16b4307b6e4ca7b8cd8aaa7c0022df?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 7.8,
@@ -2192,16 +2193,16 @@
       "artist": "Cordae",
       "songs": [
         {
+          "title": "Nothings Promised",
+          "preview_url": "https://p.scdn.co/mp3-preview/9db62ea6a3f824856b743298fc1e91c6f4b45501?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "06 dreamin",
           "preview_url": "https://p.scdn.co/mp3-preview/f29d3eff01ebba1369a056651f2a6bf516580aa1?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Summer Drop (feat. Anderson .Paak)",
           "preview_url": "https://p.scdn.co/mp3-preview/ef34dae9fd4f4d5b54cc991a5867e5405ccc77d4?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Nothings Promised",
-          "preview_url": "https://p.scdn.co/mp3-preview/9db62ea6a3f824856b743298fc1e91c6f4b45501?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Saturday Mornings (feat. Lil Wayne)",

@@ -30,7 +30,8 @@
       ],
       "rating": 8,
       "playTime": 192,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#ad1247"
     },
     {
       "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH",
@@ -61,7 +62,8 @@
       ],
       "rating": 9.6,
       "playTime": 462,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#687d84"
     },
     {
       "url": "https://open.spotify.com/album/1T5Io9YOcBoLJQIBJ7WsOa",
@@ -96,7 +98,8 @@
       ],
       "rating": 9,
       "playTime": 146,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#3b5a22"
     },
     {
       "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH",
@@ -127,12 +130,13 @@
       ],
       "rating": 8.6,
       "playTime": 246,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#8c8f95"
     },
     {
       "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cec31736d4e88743ce5bb414",
-      "title": "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
+      "title": "Praise A Lord Who Chews But Which Does Not Consume",
       "artist": "Yves Tumor",
       "songs": [
         {
@@ -158,7 +162,8 @@
       ],
       "rating": 8,
       "playTime": 173,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#4f717b"
     },
     {
       "url": "https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ",
@@ -189,7 +194,8 @@
       ],
       "rating": 8.5,
       "playTime": 339,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#a30a02"
     },
     {
       "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br",
@@ -220,7 +226,8 @@
       ],
       "rating": 8.1,
       "playTime": 109,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#b8260f"
     },
     {
       "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs",
@@ -251,7 +258,8 @@
       ],
       "rating": 9.7,
       "playTime": 215,
-      "playTime30Days": 19
+      "playTime30Days": 19,
+      "color" : "#a96073"
     },
     {
       "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ",
@@ -282,7 +290,8 @@
       ],
       "rating": 9.2,
       "playTime": 228,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#434754"
     },
     {
       "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan",
@@ -317,7 +326,8 @@
       ],
       "rating": 8,
       "playTime": 231,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#872550"
     },
     {
       "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ",
@@ -349,11 +359,12 @@
       "rating": 9.5,
       "genre": "Rap",
       "playTime": 1180,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#513a39"
     },
     {
       "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27384b0f86a83fa8c6154438d49",
+      "imgUrl": "https://i.scdn.co/image/ab67616d00001e029fb52116a804cc8d8b3780d0",
       "title": "How Do You Sleep At Night? With You",
       "artist": "Teezo Touchdown",
       "songs": [
@@ -380,7 +391,8 @@
       ],
       "rating": 8,
       "playTime": 42,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#353630"
     },
     {
       "url": "https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9",
@@ -411,7 +423,8 @@
       ],
       "rating": 8,
       "playTime": 100,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#745d4b"
     },
     {
       "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK",
@@ -443,7 +456,8 @@
       "rating": 8.9,
       "genre": "Psychadelic Rock",
       "playTime": 609,
-      "playTime30Days": 16
+      "playTime30Days": 16,
+      "color" : "#4c4559"
     },
     {
       "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6",
@@ -474,7 +488,8 @@
       ],
       "rating": 8.4,
       "playTime": 78,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#a96f63"
     },
     {
       "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze",
@@ -501,7 +516,8 @@
       ],
       "rating": 7.9,
       "playTime": 104,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#3c5b80"
     },
     {
       "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6",
@@ -528,7 +544,8 @@
       ],
       "rating": 7.5,
       "playTime": 98,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#105300"
     },
     {
       "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja",
@@ -553,9 +570,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d37c3d9eea9b8f2b25d42357d61ade8734ee87d0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.5,
+      "rating": 7.7,
       "playTime": 107,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#43549f"
     },
     {
       "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv",
@@ -582,7 +600,8 @@
       ],
       "rating": 7.7,
       "playTime": 231,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#539390"
     },
     {
       "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92",
@@ -668,7 +687,8 @@
       ],
       "rating": 7.8,
       "playTime": 33,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#364147"
     },
     {
       "url": "https://open.spotify.com/album/0xJEL0q2jaHqIOamFxE7yq",
@@ -695,7 +715,8 @@
       ],
       "rating": 7.6,
       "playTime": 23,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#755e4d"
     },
     {
       "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3",
@@ -722,7 +743,8 @@
       ],
       "rating": 7.9,
       "playTime": 45,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#6a9294"
     },
     {
       "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs",
@@ -776,7 +798,8 @@
       ],
       "rating": 7.4,
       "playTime": 24,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#32169e"
     },
     {
       "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT",
@@ -803,7 +826,8 @@
       ],
       "rating": 7.8,
       "playTime": 28,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#4b4b4b"
     },
     {
       "url": "https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW",
@@ -830,7 +854,8 @@
       ],
       "rating": 7.6,
       "playTime": 11,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#9c2321"
     },
     {
       "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq",
@@ -856,7 +881,8 @@
         }
       ],
       "rating": 7.6,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#87827a"
     },
     {
       "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y",
@@ -910,7 +936,8 @@
       ],
       "rating": 7.8,
       "playTime": 14,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#967354"
     },
     {
       "url": "https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx",
@@ -937,7 +964,8 @@
       ],
       "rating": 7.6,
       "playTime": 105,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#0151d8"
     },
     {
       "url": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx",
@@ -964,7 +992,8 @@
       ],
       "rating": 7.2,
       "playTime": 55,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2c1a18"
     },
     {
       "url": "https://open.spotify.com/album/2e8OKkHsD0az8l9toegEG4",
@@ -1016,9 +1045,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3fce99902857703b6dff59884b08a539debad23d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8,
+      "rating": 7.3,
       "playTime": 14,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#5e3c60"
     },
     {
       "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn",
@@ -1045,7 +1075,8 @@
       ],
       "rating": 7.5,
       "playTime": 57,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#66639e"
     },
     {
       "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM",
@@ -1077,7 +1108,7 @@
     {
       "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee",
-      "title": "GUTS (spilled)",
+      "title": "GUTS",
       "artist": "Olivia Rodrigo",
       "songs": [
         {
@@ -1098,7 +1129,8 @@
         }
       ],
       "rating": 7.7,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#3d2e57"
     },
     {
       "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0",
@@ -1125,7 +1157,8 @@
       ],
       "rating": 7.6,
       "playTime": 133,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#251c2d"
     },
     {
       "url": "https://open.spotify.com/album/6SiGiwZ6Ylwah87qJ23KTN",
@@ -1152,7 +1185,8 @@
       ],
       "rating": 7.5,
       "playTime": 106,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#894636"
     },
     {
       "url": "https://rateyourmusic.com/release/unauth/kanye-west/thank-god-for-drugs-1/",
