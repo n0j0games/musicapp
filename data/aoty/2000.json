@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 776,
-      "playTime30Days": 5
+      "playTime": 788,
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -66,7 +66,7 @@
         }
       ],
       "rating": 10.2,
-      "playTime": 384,
+      "playTime": 385,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -282,7 +282,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 326,
+      "playTime": 327,
       "playTime30Days": 8
     },
     {
@@ -407,7 +407,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 162,
+      "playTime": 163,
       "playTime30Days": 0
     },
     {
@@ -810,7 +810,7 @@
       ],
       "rating": 8.5,
       "playTime": 70,
-      "playTime30Days": 11
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk",

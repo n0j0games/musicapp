@@ -32,7 +32,7 @@
       "genre": "Deutschrap",
       "playTime": 233,
       "playTime30Days": 50,
-      "color" : "#878787"
+      "color": "#878787"
     },
     {
       "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7",
@@ -63,9 +63,9 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 518,
-      "playTime30Days": 0,
-      "color" : "#5b8801"
+      "playTime": 524,
+      "playTime30Days": 6,
+      "color": "#5b8801"
     },
     {
       "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
@@ -96,9 +96,9 @@
       ],
       "rating": 8.7,
       "genre": "Country Pop",
-      "playTime": 733,
-      "playTime30Days": 0,
-      "color" : "#40469e"
+      "playTime": 741,
+      "playTime30Days": 9,
+      "color": "#40469e"
     },
     {
       "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
@@ -127,11 +127,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a616bb02acc1940c11c9e6c2b2036af0dfb79ee7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9,
+      "rating": 8.5,
       "genre": "Indie Pop",
       "playTime": 135,
-      "playTime30Days": 8,
-      "color" : "#5c5212"
+      "playTime30Days": 5,
+      "color": "#5c5212"
     },
     {
       "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa",
@@ -162,9 +162,9 @@
       ],
       "rating": 8.9,
       "genre": "Deutscher Indie",
-      "playTime": 441,
-      "playTime30Days": 19,
-      "color" : "#8a5e57"
+      "playTime": 448,
+      "playTime30Days": 26,
+      "color": "#8a5e57"
     },
     {
       "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
@@ -195,9 +195,9 @@
       ],
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
-      "playTime": 174,
-      "playTime30Days": 11,
-      "color" : "#9a6c1f"
+      "playTime": 178,
+      "playTime30Days": 15,
+      "color": "#9a6c1f"
     },
     {
       "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
@@ -230,7 +230,7 @@
       "genre": "Synthpop",
       "playTime": 207,
       "playTime30Days": 0,
-      "color" : "#12497e"
+      "color": "#12497e"
     },
     {
       "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo",
@@ -261,9 +261,9 @@
       ],
       "rating": 8.8,
       "genre": "Latin",
-      "playTime": 304,
+      "playTime": 306,
       "playTime30Days": 0,
-      "color" : "#a065b1"
+      "color": "#a065b1"
     },
     {
       "url": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa",
@@ -292,11 +292,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/48f0fac7c131ff2951635df599672598d6609783?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
+      "rating": 8,
       "genre": "Neo Psychadelia",
-      "playTime": 126,
+      "playTime": 127,
       "playTime30Days": 0,
-      "color" : "#aa6c27"
+      "color": "#aa6c27"
     },
     {
       "url": "https://open.spotify.com/album/013tXdkWpzhE8TQ8IJRmRw",
@@ -329,7 +329,7 @@
       "genre": "Deutscher Indie",
       "playTime": 59,
       "playTime30Days": 0,
-      "color" : "#958929"
+      "color": "#958929"
     },
     {
       "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f",
@@ -360,9 +360,9 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 152,
-      "playTime30Days": 0,
-      "color" : "#66260e"
+      "playTime": 161,
+      "playTime30Days": 9,
+      "color": "#66260e"
     },
     {
       "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw",
@@ -395,7 +395,7 @@
       "genre": "Dreampop",
       "playTime": 67,
       "playTime30Days": 0,
-      "color" : "#104e73"
+      "color": "#104e73"
     },
     {
       "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP",
@@ -428,7 +428,7 @@
       "genre": "Electronic",
       "playTime": 184,
       "playTime30Days": 0,
-      "color" : "#595959"
+      "color": "#595959"
     },
     {
       "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG",
@@ -457,7 +457,7 @@
       "genre": "Indie Pop",
       "playTime": 44,
       "playTime30Days": 0,
-      "color" : "#2c3863"
+      "color": "#2c3863"
     },
     {
       "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL",
@@ -490,7 +490,7 @@
       "genre": "Jazz",
       "playTime": 24,
       "playTime30Days": 0,
-      "color" : "#345a1d"
+      "color": "#345a1d"
     },
     {
       "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5",
@@ -523,7 +523,7 @@
       "genre": "Rock",
       "playTime": 44,
       "playTime30Days": 0,
-      "color" : "#357a31"
+      "color": "#357a31"
     },
     {
       "url": "https://open.spotify.com/album/3Vo6p72T0ffD4SHmpuPenP",
@@ -556,7 +556,7 @@
       "genre": "Dreampop",
       "playTime": 7,
       "playTime30Days": 0,
-      "color" : "#332a63"
+      "color": "#332a63"
     },
     {
       "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y",
@@ -589,7 +589,7 @@
       "genre": "Indie Rock",
       "playTime": 69,
       "playTime30Days": 0,
-      "color" : "#57574a"
+      "color": "#57574a"
     },
     {
       "url": "https://open.spotify.com/album/2uoD60Oip7rq3vjXxZ2VaD",
@@ -620,9 +620,9 @@
       ],
       "rating": 8,
       "genre": "Experimental Rap",
-      "playTime": 80,
+      "playTime": 81,
       "playTime30Days": 0,
-      "color" : "#4b534a"
+      "color": "#4b534a"
     },
     {
       "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF",
@@ -631,16 +631,16 @@
       "artist": "Magdalena Bay",
       "songs": [
         {
+          "title": "That's My Floor",
+          "preview_url": "https://p.scdn.co/mp3-preview/30922592ac307fae25c328beba07ab239e980f76?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Image",
           "preview_url": "https://p.scdn.co/mp3-preview/bc27de27e4513edbcacddbc8078ee3542bdc8c81?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Vampire in the Corner",
           "preview_url": "https://p.scdn.co/mp3-preview/f4c2b6acb957990e5e45694dc021de422a9bf6eb?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "That's My Floor",
-          "preview_url": "https://p.scdn.co/mp3-preview/30922592ac307fae25c328beba07ab239e980f76?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Cry for Me",
@@ -651,7 +651,7 @@
       "genre": "Synthpop",
       "playTime": 192,
       "playTime30Days": 6,
-      "color" : "#376893"
+      "color": "#376893"
     },
     {
       "url": "https://open.spotify.com/album/0CDJRywET2yNxEEl4R6cNq",
@@ -680,7 +680,7 @@
       "genre": "R&B",
       "playTime": 7,
       "playTime30Days": 0,
-      "color" : "#bc744a"
+      "color": "#bc744a"
     },
     {
       "url": "https://open.spotify.com/album/0G92BFcckQ8LKXhxmEvLat",
@@ -709,7 +709,7 @@
       "genre": "Shoegaze",
       "playTime": 15,
       "playTime30Days": 0,
-      "color" : "#ab8c4d"
+      "color": "#ab8c4d"
     },
     {
       "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x",
@@ -738,7 +738,7 @@
       "genre": "Synthpop",
       "playTime": 65,
       "playTime30Days": 0,
-      "color" : "#5b2421"
+      "color": "#5b2421"
     },
     {
       "url": "https://open.spotify.com/album/2ej3ZX7h1N7noej8defaj1",
@@ -767,7 +767,7 @@
       "genre": "Schweizer Indie",
       "playTime": 109,
       "playTime30Days": 0,
-      "color" : "#832114"
+      "color": "#832114"
     },
     {
       "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86",
@@ -794,9 +794,9 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 90,
+      "playTime": 91,
       "playTime30Days": 0,
-      "color" : "#872d11"
+      "color": "#872d11"
     },
     {
       "url": "https://open.spotify.com/album/7dGH4nr5sFVyGJQ2f6D3jl",
@@ -823,9 +823,9 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 433,
+      "playTime": 436,
       "playTime30Days": 10,
-      "color" : "#7d716f"
+      "color": "#7d716f"
     },
     {
       "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
@@ -854,7 +854,7 @@
       "genre": "West Coast Hip Hop",
       "playTime": 27,
       "playTime30Days": 0,
-      "color" : "#464646"
+      "color": "#464646"
     },
     {
       "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf",
@@ -883,7 +883,7 @@
       "genre": "Rap",
       "playTime": 43,
       "playTime30Days": 0,
-      "color" : "#7b0b16"
+      "color": "#7b0b16"
     },
     {
       "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV",
@@ -912,7 +912,7 @@
       "genre": "Rap",
       "playTime": 24,
       "playTime30Days": 0,
-      "color" : "#606060"
+      "color": "#606060"
     },
     {
       "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh",
@@ -941,7 +941,7 @@
       "genre": "R&B",
       "playTime": 19,
       "playTime30Days": 0,
-      "color" : "#1f677f"
+      "color": "#1f677f"
     },
     {
       "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV",
@@ -970,7 +970,7 @@
       "genre": "Jazz",
       "playTime": 17,
       "playTime30Days": 0,
-      "color" : "#828282"
+      "color": "#828282"
     },
     {
       "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
@@ -999,7 +999,7 @@
       "genre": "Pop Rap",
       "playTime": 31,
       "playTime30Days": 0,
-      "color" : "#646464"
+      "color": "#646464"
     },
     {
       "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2",
@@ -1027,7 +1027,7 @@
       "rating": 7.5,
       "genre": "Experimental Rap",
       "playTime": 46,
-      "playTime30Days": 13,
+      "playTime30Days": 8,
       "color": "#453f32"
     },
     {
@@ -1057,7 +1057,7 @@
       "genre": "Rap",
       "playTime": 70,
       "playTime30Days": 0,
-      "color" : "#2b4742"
+      "color": "#2b4742"
     },
     {
       "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD",
@@ -1086,7 +1086,7 @@
       "genre": "Darkwave",
       "playTime": 50,
       "playTime30Days": 0,
-      "color" : "#2f341a"
+      "color": "#2f341a"
     },
     {
       "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv",
@@ -1115,7 +1115,7 @@
       "genre": "Latin",
       "playTime": 54,
       "playTime30Days": 0,
-      "color" : "#012c63"
+      "color": "#012c63"
     },
     {
       "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8",
@@ -1144,7 +1144,7 @@
       "genre": "Deutschrap",
       "playTime": 27,
       "playTime30Days": 0,
-      "color" : "#79815b"
+      "color": "#79815b"
     },
     {
       "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry",
@@ -1173,7 +1173,7 @@
       "genre": "West Coast Hip-Hop",
       "playTime": 37,
       "playTime30Days": 0,
-      "color" : "#60333e"
+      "color": "#60333e"
     },
     {
       "url": "https://open.spotify.com/album/6eoPGdVb2vSvEURaBOFk6O",
@@ -1202,7 +1202,7 @@
       "genre": "Electronic",
       "playTime": 10,
       "playTime30Days": 0,
-      "color" : "#2b2c4a"
+      "color": "#2b2c4a"
     },
     {
       "url": "https://open.spotify.com/album/3bHBja0WHDXuhZjFzWFImc",
@@ -1227,11 +1227,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/23e097fb99c8b4b81cbe3c1bf27ddc2d5c5dd6d6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "genre": "Synthpop",
       "playTime": 81,
       "playTime30Days": 0,
-      "color" : "#2f676a"
+      "color": "#2f676a"
     },
     {
       "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93",
@@ -1552,7 +1552,7 @@
       "genre": "Rap",
       "playTime": 32,
       "playTime30Days": 0,
-      "color" : "#4b4b4b"
+      "color": "#4b4b4b"
     },
     {
       "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc",
@@ -1601,7 +1601,7 @@
       "genre": "Pop Rap",
       "playTime": 46,
       "playTime30Days": 0,
-      "color" : "#2f564f"
+      "color": "#2f564f"
     },
     {
       "url": "https://open.spotify.com/album/07adipgH8erKf9uvJu0lkt",
@@ -2013,7 +2013,7 @@
       "genre": "Deutscher Indie",
       "playTime": 45,
       "playTime30Days": 0,
-      "color" : "#593e21"
+      "color": "#593e21"
     },
     {
       "url": "https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz",
@@ -2041,8 +2041,8 @@
       "rating": 7.8,
       "genre": "Deutschrap",
       "playTime": 85,
-      "playTime30Days": 22,
-      "color" : "#55351c"
+      "playTime30Days": 20,
+      "color": "#55351c"
     },
     {
       "url": "https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b",
@@ -2069,9 +2069,9 @@
       ],
       "rating": 7.5,
       "genre": "Deutschrap",
-      "playTime": 106,
-      "playTime30Days": 12,
-      "color" : "#000000"
+      "playTime": 109,
+      "playTime30Days": 14,
+      "color": "#000000"
     },
     {
       "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf",
@@ -2091,7 +2091,7 @@
       "rating": 6.1,
       "genre": "Deutschrap",
       "playTime": 78,
-      "playTime30Days": 20
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn",
@@ -2122,10 +2122,10 @@
       ],
       "rating": 9.1,
       "genre": "Deutscher Indie",
-      "playTime": 186,
-      "playTime30Days": 77,
+      "playTime": 191,
+      "playTime30Days": 75,
       "onVinyl": true,
-      "color" : "#4c6c8c"
+      "color": "#4c6c8c"
     },
     {
       "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
@@ -2153,9 +2153,9 @@
       "rating": 7.9,
       "genre": "Experimental Rap",
       "playTime": 300,
-      "playTime30Days": 117,
+      "playTime30Days": 101,
       "onVinyl": true,
-      "color" : "#158836FF"
+      "color": "#158836FF"
     },
     {
       "url": "https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV",
@@ -2183,8 +2183,8 @@
       "rating": 7.7,
       "genre": "Deutscher Indie",
       "playTime": 74,
-      "playTime30Days": 43,
-      "color" : "#34758c"
+      "playTime30Days": 40,
+      "color": "#34758c"
     },
     {
       "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR",
@@ -2245,7 +2245,7 @@
       "genre": "R&B",
       "playTime": 103,
       "playTime30Days": 103,
-      "color" : "#6c2222"
+      "color": "#6c2222"
     },
     {
       "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E",
@@ -2276,9 +2276,9 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 210,
-      "playTime30Days": 210,
-      "color" : "#332737"
+      "playTime": 224,
+      "playTime30Days": 224,
+      "color": "#332737"
     },
     {
       "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
@@ -2308,10 +2308,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 217,
+      "playTime": 252,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 217,
-      "color" : "#6c6c6c"
+      "playTime30Days": 252,
+      "color": "#6c6c6c"
     },
     {
       "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa",
@@ -2341,10 +2341,10 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 274,
+      "playTime": 281,
       "genre": "Wiener Pop",
-      "playTime30Days": 274,
-      "color" : "#c51919"
+      "playTime30Days": 281,
+      "color": "#c51919"
     }
   ]
 }
