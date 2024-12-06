@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.8,
-      "genre": "Synthpop",
+      "genre": "Electropop",
       "playTime": 518,
       "playTime30Days": 0,
       "color" : "#5b8801"
@@ -95,7 +95,7 @@
         }
       ],
       "rating": 8.7,
-      "genre": "Pop",
+      "genre": "Country Pop",
       "playTime": 733,
       "playTime30Days": 0,
       "color" : "#40469e"
@@ -194,7 +194,7 @@
         }
       ],
       "rating": 8.8,
-      "genre": "Rap",
+      "genre": "Hardcore Hip Hop",
       "playTime": 174,
       "playTime30Days": 11,
       "color" : "#9a6c1f"
@@ -293,7 +293,7 @@
         }
       ],
       "rating": 8.0,
-      "genre": "Indie Rock",
+      "genre": "Neo Psychadelia",
       "playTime": 126,
       "playTime30Days": 0,
       "color" : "#aa6c27"
@@ -359,7 +359,7 @@
         }
       ],
       "rating": 8.4,
-      "genre": "Rock",
+      "genre": "Neo Psychadelia",
       "playTime": 152,
       "playTime30Days": 0,
       "color" : "#66260e"
@@ -552,7 +552,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b0586f1329a096ac47a89218898dc64d9474a5a6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
+      "rating": 7.8,
       "genre": "Dreampop",
       "playTime": 7,
       "playTime30Days": 0,
@@ -619,7 +619,7 @@
         }
       ],
       "rating": 8,
-      "genre": "Experimental Hip-Hop",
+      "genre": "Experimental Rap",
       "playTime": 80,
       "playTime30Days": 0,
       "color" : "#4b534a"
@@ -676,10 +676,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8ce34ab34963659449b843617f6fc051f52a890c?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8,
+      "rating": 7.7,
       "genre": "R&B",
       "playTime": 7,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#bc744a"
     },
     {
       "url": "https://open.spotify.com/album/0G92BFcckQ8LKXhxmEvLat",
@@ -704,10 +705,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8d78554cfc5edc85a806328f5dfafea8ee9558dd?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.8,
+      "rating": 7.7,
       "genre": "Shoegaze",
       "playTime": 15,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#ab8c4d"
     },
     {
       "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x",
@@ -735,7 +737,8 @@
       "rating": 7.8,
       "genre": "Synthpop",
       "playTime": 65,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#5b2421"
     },
     {
       "url": "https://open.spotify.com/album/2ej3ZX7h1N7noej8defaj1",
@@ -761,9 +764,10 @@
         }
       ],
       "rating": 7.6,
-      "genre": "Deutscher Indie",
+      "genre": "Schweizer Indie",
       "playTime": 109,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#832114"
     },
     {
       "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86",
@@ -789,9 +793,10 @@
         }
       ],
       "rating": 7.5,
-      "genre": "Electronic",
+      "genre": "French Electro",
       "playTime": 90,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#872d11"
     },
     {
       "url": "https://open.spotify.com/album/7dGH4nr5sFVyGJQ2f6D3jl",
@@ -819,7 +824,8 @@
       "rating": 7.7,
       "genre": "Deutschrap",
       "playTime": 433,
-      "playTime30Days": 10
+      "playTime30Days": 10,
+      "color" : "#7d716f"
     },
     {
       "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
@@ -844,10 +850,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/860f23770ea2d9c0b37e17905408cfe23a58f779?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.7,
-      "genre": "Rap",
+      "rating": 7.9,
+      "genre": "West Coast Hip Hop",
       "playTime": 27,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#464646"
     },
     {
       "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf",
@@ -855,6 +862,10 @@
       "title": "Bad Cameo",
       "artist": "James Blake,\nLil Yachty",
       "songs": [
+        {
+          "title": "Red Carpet",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d3bb1d6b635b6d6d87c858531e632b45d4c427d?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Save The Savior",
           "preview_url": "https://p.scdn.co/mp3-preview/e5ea70346ac68d66c9eecbc8a703a435194c0bd4?cid=941103e4872f4d3fad60066c677df34f"
@@ -866,16 +877,13 @@
         {
           "title": "Run Away From The Rabbit",
           "preview_url": "https://p.scdn.co/mp3-preview/20f23b07139dedaf42a1c5d67ed4231ba39191df?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Red Carpet",
-          "preview_url": "https://p.scdn.co/mp3-preview/8d3bb1d6b635b6d6d87c858531e632b45d4c427d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 7.3,
       "genre": "Rap",
       "playTime": 43,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#7b0b16"
     },
     {
       "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV",
@@ -883,6 +891,10 @@
       "title": "King Of The Mischievous South Vol. 2",
       "artist": "Denzel Curry",
       "songs": [
+        {
+          "title": "SKED (with Kenny Mason & Project Pat)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0fa3c9147e23b6f86c8324eba95b877302976dc6?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "HOT ONE (with TiaCorine & A$AP Ferg)",
           "preview_url": "https://p.scdn.co/mp3-preview/b15cc3610c55924c5f6b0bc0325736c4647951bb?cid=941103e4872f4d3fad60066c677df34f"
@@ -892,10 +904,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4874a9d5e45515da6469fda2effd4ecc8cfe243e?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "SKED (with Kenny Mason & Project Pat)",
-          "preview_url": "https://p.scdn.co/mp3-preview/0fa3c9147e23b6f86c8324eba95b877302976dc6?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
           "preview_url": "https://p.scdn.co/mp3-preview/f5c751bda071c87592abb3fc03de3d8a0fbc0f40?cid=941103e4872f4d3fad60066c677df34f"
         }
@@ -903,7 +911,8 @@
       "rating": 7,
       "genre": "Rap",
       "playTime": 24,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#606060"
     },
     {
       "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh",
@@ -912,12 +921,12 @@
       "artist": "Omar Apollo",
       "songs": [
         {
-          "title": "Be Careful With Me",
-          "preview_url": "https://p.scdn.co/mp3-preview/be9ebc49ae3f8e283b52e599f6d238aa942500c3?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Spite",
           "preview_url": "https://p.scdn.co/mp3-preview/21517a52fb4012e489d4c2edf3e7b1729086346f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Be Careful With Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/be9ebc49ae3f8e283b52e599f6d238aa942500c3?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Less of You",
@@ -931,7 +940,8 @@
       "rating": 7.4,
       "genre": "R&B",
       "playTime": 19,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#1f677f"
     },
     {
       "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV",
@@ -959,7 +969,8 @@
       "rating": 7.7,
       "genre": "Jazz",
       "playTime": 17,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#828282"
     },
     {
       "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
@@ -984,10 +995,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/62e61581db66bacf5c32a13aeab180b1e0c12f21?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.3,
+      "rating": 7.0,
       "genre": "Pop Rap",
       "playTime": 31,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#646464"
     },
     {
       "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2",
@@ -1000,22 +1012,23 @@
           "preview_url": "https://p.scdn.co/mp3-preview/471632dcf96823b06c6900c1b7356534295e520a?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "New Black History (feat. Vince Staples)",
-          "preview_url": "https://p.scdn.co/mp3-preview/406fb6a60cdc58a694d3cfa39d611a2292f0dfab?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Exmilitary",
           "preview_url": "https://p.scdn.co/mp3-preview/96c06496d4d4419789c73204ae55f294fafa98d2?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "JPEGULTRA! (feat. Denzel Curry)",
           "preview_url": "https://p.scdn.co/mp3-preview/4ab18df6122de198fa05d48548eb615a2e9dced5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "New Black History (feat. Vince Staples)",
+          "preview_url": "https://p.scdn.co/mp3-preview/406fb6a60cdc58a694d3cfa39d611a2292f0dfab?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 7.5,
       "genre": "Experimental Rap",
       "playTime": 46,
-      "playTime30Days": 13
+      "playTime30Days": 13,
+      "color": "#453f32"
     },
     {
       "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L",
@@ -1069,9 +1082,10 @@
         }
       ],
       "rating": 7.5,
-      "genre": "Synthpop",
+      "genre": "Darkwave",
       "playTime": 50,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2f341a"
     },
     {
       "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv",
@@ -1096,10 +1110,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b3f72dd6e86db685a1477bae22775c6c5839527e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.7,
+      "rating": 7.8,
       "genre": "Latin",
       "playTime": 54,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#012c63"
     },
     {
       "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8",
@@ -1107,10 +1122,6 @@
       "title": "ICKE",
       "artist": "Filow",
       "songs": [
-        {
-          "title": "Tante Emma",
-          "preview_url": "https://p.scdn.co/mp3-preview/0e0bcf155bc518b04bfffb4c3ebef53d4a2aecfa?cid=941103e4872f4d3fad60066c677df34f"
-        },
         {
           "title": "Atze seit Tag 1",
           "preview_url": "https://p.scdn.co/mp3-preview/47a7eaf21afb2945bb5b4efad982638b0edda90d?cid=941103e4872f4d3fad60066c677df34f"
@@ -1122,12 +1133,17 @@
         {
           "title": "Rasenschach",
           "preview_url": "https://p.scdn.co/mp3-preview/d08f7162c91d3fb97d663564d37c3748e78bf3fa?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Tante Emma",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e0bcf155bc518b04bfffb4c3ebef53d4a2aecfa?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 7,
       "genre": "Deutschrap",
       "playTime": 27,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#79815b"
     },
     {
       "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry",
@@ -1136,12 +1152,12 @@
       "artist": "ScHoolboy Q",
       "songs": [
         {
-          "title": "Funny Guy",
-          "preview_url": "https://p.scdn.co/mp3-preview/461e0b76e9336f37b8ad6e62db36ed2d3c1cc6ef?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Pop (feat. Rico Nasty)",
           "preview_url": "https://p.scdn.co/mp3-preview/05c267ec329cf71177171abfe96122ebf01884e4?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Funny Guy",
+          "preview_url": "https://p.scdn.co/mp3-preview/461e0b76e9336f37b8ad6e62db36ed2d3c1cc6ef?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "THank god 4 me",
@@ -1153,9 +1169,10 @@
         }
       ],
       "rating": 7.5,
-      "genre": "Rap",
+      "genre": "West Coast Hip-Hop",
       "playTime": 37,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#60333e"
     },
     {
       "url": "https://open.spotify.com/album/6eoPGdVb2vSvEURaBOFk6O",
@@ -1183,7 +1200,8 @@
       "rating": 7.3,
       "genre": "Electronic",
       "playTime": 10,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2b2c4a"
     },
     {
       "url": "https://open.spotify.com/album/3bHBja0WHDXuhZjFzWFImc",
@@ -1208,10 +1226,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/23e097fb99c8b4b81cbe3c1bf27ddc2d5c5dd6d6?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7,
+      "rating": 7.0,
       "genre": "Synthpop",
       "playTime": 81,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2f676a"
     },
     {
       "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93",
@@ -1531,7 +1550,8 @@
       "rating": 5,
       "genre": "Rap",
       "playTime": 32,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#4b4b4b"
     },
     {
       "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc",
@@ -1579,7 +1599,8 @@
       "rating": 6,
       "genre": "Pop Rap",
       "playTime": 46,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2f564f"
     },
     {
       "url": "https://open.spotify.com/album/07adipgH8erKf9uvJu0lkt",
@@ -1971,30 +1992,27 @@
       "artist": "$OHO BANI",
       "songs": [
         {
-          "title": "JERSEY POP (genies)",
-          "preview_url": "https://p.scdn.co/mp3-preview/187f0d89a40d697f0552232b78729029742e5b58?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "YO HABIB",
-          "preview_url": "https://p.scdn.co/mp3-preview/b6a9f873d24bfb40f67744a3266b2394b2fe1866?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "STORY OF MY LIFE",
-          "preview_url": "https://p.scdn.co/mp3-preview/9d5011edca8fb7e69ea97f5cc24af01b714f1de4?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "perfekt(er)",
           "preview_url": "https://p.scdn.co/mp3-preview/76cbc3f2490d1b96552ae1c0dc8fab81e5dbd727?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "ZEIT, DASS SICH WAS DREHT",
           "preview_url": "https://p.scdn.co/mp3-preview/5d1723a16c2d4496fb365605673bc714ff08fad5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "JERSEY POP (genies)",
+          "preview_url": "https://p.scdn.co/mp3-preview/187f0d89a40d697f0552232b78729029742e5b58?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "YO HABIB",
+          "preview_url": "https://p.scdn.co/mp3-preview/b6a9f873d24bfb40f67744a3266b2394b2fe1866?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.5,
+      "rating": 7.2,
       "genre": "Deutscher Indie",
       "playTime": 45,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#593e21"
     },
     {
       "url": "https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz",
@@ -2022,7 +2040,8 @@
       "rating": 7.8,
       "genre": "Deutschrap",
       "playTime": 85,
-      "playTime30Days": 22
+      "playTime30Days": 22,
+      "color" : "#55351c"
     },
     {
       "url": "https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b",
@@ -2050,7 +2069,8 @@
       "rating": 7.5,
       "genre": "Deutschrap",
       "playTime": 106,
-      "playTime30Days": 12
+      "playTime30Days": 12,
+      "color" : "#000000"
     },
     {
       "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf",
@@ -2130,7 +2150,7 @@
         }
       ],
       "rating": 7.9,
-      "genre": "Rap",
+      "genre": "Experimental Rap",
       "playTime": 300,
       "playTime30Days": 117,
       "onVinyl": true,
@@ -2159,10 +2179,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c6fe3aa83b1bb16ce63e9d9dd9c01356b980ae87?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.5,
+      "rating": 7.7,
       "genre": "Deutscher Indie",
       "playTime": 74,
-      "playTime30Days": 43
+      "playTime30Days": 43,
+      "color" : "#34758c"
     },
     {
       "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR",
@@ -2188,7 +2209,7 @@
         }
       ],
       "rating": 7.8,
-      "genre": "Rap",
+      "genre": "Southern Hip Hop",
       "playTime": 87,
       "playTime30Days": 87
     },
@@ -2287,7 +2308,7 @@
       ],
       "rating": 8.6,
       "playTime": 217,
-      "genre": "Rap",
+      "genre": "West Coast Hip Hop",
       "playTime30Days": 217,
       "color" : "#6c6c6c"
     },
@@ -2320,7 +2341,7 @@
       ],
       "rating": 9.1,
       "playTime": 274,
-      "genre": "Deutschpop",
+      "genre": "Wiener Pop",
       "playTime30Days": 274,
       "color" : "#c51919"
     }
