@@ -3,7 +3,7 @@ import {AotyItem} from "../../common/models/aoty-item";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {AotyService} from "../../common/services/aoty.service";
 import {Album} from "../../common/models/album";
-import {AsyncPipe, LowerCasePipe, NgForOf, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
+import {AsyncPipe, LowerCasePipe, NgClass, NgForOf, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
 import {SongInfo} from "../../common/models/songinfo";
 import {AudioService} from "../../common/services/audio.service";
 import {animate, AnimationBuilder, keyframes, state, style, transition, trigger} from "@angular/animations";
@@ -20,7 +20,8 @@ import {map} from "rxjs";
         NgStyle,
         AsyncPipe,
         RouterLink,
-        NgForOf
+        NgForOf,
+        NgClass
     ],
     templateUrl: './recap.component.html',
     styleUrl: './recap.component.scss'
@@ -38,7 +39,8 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
     activeYear: number = 0;
     albumsOfTheYear!: AotyItem | null;
-    allowedYears = ['2024'];
+    allowedYears = ['2024','2023','2022'];
+    maxAlbumsPerAllowedYear = [50, 35, 30]
 
     activeAlbum!: Album;
     maxAlbums = 25;
@@ -117,7 +119,9 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
             return;
         }
         this.activeYear = <number><unknown>year;
-        console.log(this.allowedYears, this.activeYear);
+        this.maxAlbums = this.maxAlbumsPerAllowedYear[this.allowedYears.indexOf(year)];
+        this.activeAlbumNumber = this.maxAlbums;
+        console.log(this.allowedYears, this.activeYear, this.maxAlbums);
         if (!this.allowedYears.includes(this.activeYear.toString())) {
             this.router.navigate(['/aoty', this.activeYear]).then(() => console.log("Unsupported year, routed to aoty"));
         }
@@ -194,14 +198,14 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
             if (album.songs == undefined) {
                 console.log(album, "undef songs")
             } else {
-                for (let i=0; i<1; i++) {
+                for (let i=0; i<3; i++) {
                     aggregatedSongsPerAlbum.push({
                         track: album.songs[i].title,
                         url: album.songs[i].preview_url,
                         artist: album.artist
                     })
-                    this.linearGradients.push(album.color != null ? album.color : this.defaultGradient)
                 }
+                this.linearGradients.push(album.color != null ? album.color : this.defaultGradient)
                 aggregatedSongs.push(aggregatedSongsPerAlbum);
             }
         }

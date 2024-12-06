@@ -70,6 +70,7 @@ export class AudioService {
             this.audio.pause();
         }
         this.audio.volume = this.volume;
+        this.audio.muted = this.volume === 0;
         this.audio.src = previewUrl.url;
         this.track = previewUrl.track;
         this.artist = previewUrl.artist;
@@ -107,7 +108,7 @@ export class AudioService {
             this.volume = 0.2;
         }
         localStorage.setItem("volume",<string><unknown>this.volume);
-        this.audio.volume = this.volume;
+        this.audio.muted = this.volume === 0;
         this.volumeChanged$.next(this.volume);
     }
 
