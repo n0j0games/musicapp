@@ -39,8 +39,8 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
     activeYear: number = 0;
     albumsOfTheYear!: AotyItem | null;
-    allowedYears = ['2024','2023'];
-    maxAlbumsPerAllowedYear = [50, 35]
+    allowedYears = ['2024','2023','2022'];
+    maxAlbumsPerAllowedYear = [50, 35, 35]
 
     activeAlbum!: Album;
     maxAlbums = 25;

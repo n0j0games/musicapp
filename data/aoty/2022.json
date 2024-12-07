@@ -31,7 +31,8 @@
       "rating": 10.6,
       "genre": "Dance Pop",
       "playTime": 838,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#465b6b"
     },
     {
       "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g",
@@ -62,7 +63,8 @@
       ],
       "rating": 10,
       "playTime": 670,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#191711"
     },
     {
       "url": "https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv",
@@ -93,7 +95,8 @@
       ],
       "rating": 9.7,
       "playTime": 347,
-      "playTime30Days": 6
+      "playTime30Days": 6,
+      "color" : "#576351"
     },
     {
       "url": "https://open.spotify.com/album/6k02YcfRBdVlttVDPrjhkS",
@@ -125,7 +128,8 @@
       "rating": 9.8,
       "onVinyl": true,
       "playTime": 455,
-      "playTime30Days": 8
+      "playTime30Days": 8,
+      "color" : "#61615f"
     },
     {
       "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC",
@@ -158,7 +162,8 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 929,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#123b49"
     },
     {
       "url": "https://open.spotify.com/album/5dFqidhoMEed1Nx9gO9M71",
@@ -190,7 +195,8 @@
       "rating": 9.4,
       "onVinyl": true,
       "playTime": 312,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#c3a928"
     },
     {
       "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX",
@@ -222,7 +228,8 @@
       "rating": 9.2,
       "genre": "Rap",
       "playTime": 984,
-      "playTime30Days": 10
+      "playTime30Days": 10,
+      "color" : "#4e270c"
     },
     {
       "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo",
@@ -253,7 +260,8 @@
       ],
       "rating": 9.1,
       "playTime": 305,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#ea3840"
     },
     {
       "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh",
@@ -284,7 +292,8 @@
       ],
       "rating": 8.9,
       "playTime": 723,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#183399"
     },
     {
       "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd",
@@ -315,7 +324,8 @@
       ],
       "rating": 8.3,
       "playTime": 60,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#6c4c2a"
     },
     {
       "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP",
@@ -351,7 +361,8 @@
       "rating": 8.5,
       "genre": "Rap",
       "playTime": 857,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#0f1a1c"
     },
     {
       "url": "https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB",
@@ -382,7 +393,8 @@
       ],
       "rating": 8.8,
       "playTime": 95,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#076435"
     },
     {
       "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru",
@@ -413,7 +425,8 @@
       ],
       "rating": 8.2,
       "playTime": 266,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#28251b"
     },
     {
       "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q",
@@ -444,7 +457,8 @@
       ],
       "rating": 8.4,
       "playTime": 214,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#008165"
     },
     {
       "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN",
@@ -475,7 +489,8 @@
       ],
       "rating": 8.5,
       "playTime": 187,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#8d410d"
     },
     {
       "url": "https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner",
@@ -506,7 +521,8 @@
       ],
       "rating": 8,
       "playTime": 252,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#141c36"
     },
     {
       "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD",
@@ -537,7 +553,8 @@
       ],
       "rating": 8.4,
       "playTime": 161,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#0676c1"
     },
     {
       "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj",
@@ -569,7 +586,8 @@
       "rating": 8.4,
       "onVinyl": true,
       "playTime": 227,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#394e0a"
     },
     {
       "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG",
@@ -600,7 +618,8 @@
       ],
       "rating": 8.1,
       "playTime": 391,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#001732"
     },
     {
       "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH",
@@ -631,7 +650,8 @@
       ],
       "rating": 8,
       "playTime": 278,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#c33d15"
     },
     {
       "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard",
@@ -662,7 +682,8 @@
       ],
       "rating": 7.3,
       "playTime": 120,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#3d7a77"
     },
     {
       "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa",
@@ -716,7 +737,8 @@
       ],
       "rating": 7.3,
       "playTime": 60,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#83462e"
     },
     {
       "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT",
@@ -743,7 +765,8 @@
       ],
       "rating": 7.4,
       "playTime": 23,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#20361e"
     },
     {
       "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V",
@@ -770,7 +793,8 @@
       ],
       "rating": 7,
       "playTime": 23,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#ce673c"
     },
     {
       "url": "https://open.spotify.com/album/02SRvzvwKNQJpqjdehWAif",
@@ -797,7 +821,8 @@
       ],
       "rating": 7,
       "playTime": 208,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#1d2226"
     },
     {
       "url": "https://open.spotify.com/album/2pOBRxQRaf5uArhBtvRjoj",
@@ -824,7 +849,8 @@
       ],
       "rating": 7.1,
       "playTime": 153,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#8b7f69"
     },
     {
       "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf",
@@ -851,7 +877,8 @@
       ],
       "rating": 7.4,
       "playTime": 39,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#7d70c8"
     },
     {
       "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3",
@@ -878,7 +905,8 @@
       ],
       "rating": 7.8,
       "playTime": 37,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#916b2f"
     },
     {
       "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE",
@@ -886,6 +914,10 @@
       "title": "DRILL MUSIC IN ZION",
       "artist": "Lupe Fiasco",
       "songs": [
+        {
+          "title": "MS. MURAL",
+          "preview_url": "https://p.scdn.co/mp3-preview/03fc7349db646ac40d1704f912a4816926a3a40b?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "AUTOBOTO",
           "preview_url": "https://p.scdn.co/mp3-preview/0eb9e28ed47560189fcb673e2939b96e40b75225?cid=941103e4872f4d3fad60066c677df34f"
@@ -897,15 +929,12 @@
         {
           "title": "KIOSK",
           "preview_url": "https://p.scdn.co/mp3-preview/ae7a7c24cac01e50c85cdf3f2eeae817c7e1335c?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "MS. MURAL",
-          "preview_url": "https://p.scdn.co/mp3-preview/03fc7349db646ac40d1704f912a4816926a3a40b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 7.2,
       "playTime": 83,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#ad911b"
     },
     {
       "url": "https://open.spotify.com/album/262gaWJO1L6l4XxHIZ7tRc",
@@ -913,6 +942,10 @@
       "title": "roter frühling ep",
       "artist": "Tiavo",
       "songs": [
+        {
+          "title": "teufel trägt prada",
+          "preview_url": "https://p.scdn.co/mp3-preview/f8e29652995f7d0845fb16464e4439c8891bf4ca?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "roter frühling",
           "preview_url": "https://p.scdn.co/mp3-preview/26c2c2dcdc5b432bbe530eab4d49e6ddf73763e7?cid=941103e4872f4d3fad60066c677df34f"
@@ -922,17 +955,14 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6a0759d748f51fc0fe46f6814cbc18b5df4e5d4d?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "teufel trägt prada",
-          "preview_url": "https://p.scdn.co/mp3-preview/f8e29652995f7d0845fb16464e4439c8891bf4ca?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "abspann",
           "preview_url": "https://p.scdn.co/mp3-preview/13e2d2ca9d9bf5eb257592bc41cb87824dfc7eb8?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 7.2,
       "playTime": 210,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#921515"
     },
     {
       "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm",
@@ -957,9 +987,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cf0649f5510caa21370f8076cd110be13435b952?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7.9,
+      "rating": 8.0,
       "playTime": 16,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2c3d3c"
     },
     {
       "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81",
@@ -986,7 +1017,8 @@
       ],
       "rating": 7.8,
       "playTime": 38,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#272727"
     },
     {
       "url": "https://open.spotify.com/album/65qvJgkTyLzOgZOlQcqUfg",
@@ -1319,9 +1351,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/081ffd90ad182d399e7f5310c22abd10742f98a2?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6,
+      "rating": 6.9,
       "playTime": 154,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#5d3939"
     },
     {
       "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM",
@@ -1875,7 +1908,8 @@
       ],
       "rating": 7.5,
       "playTime": 48,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#755353"
     }
   ]
 }

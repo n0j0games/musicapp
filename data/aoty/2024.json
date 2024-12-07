@@ -2345,6 +2345,61 @@
       "genre": "Wiener Pop",
       "playTime30Days": 281,
       "color": "#c51919"
+    },
+    {
+      "url": "https://open.spotify.com/album/3CwJLj0pRWUrdKNcuaETfX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d17ddc65da5e1094ccc0d4c7",
+      "title": "COBALT",
+      "artist": "Ramzey",
+      "songs": [
+        {
+          "title": "UNTER EINER SONNE",
+          "preview_url": "https://p.scdn.co/mp3-preview/c37704dc14d8d0d45d95a422dca5c76004c3a7c8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "LALA LAND",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6486818704f30ab9a31051744cb6a3f6680e554?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "COBALT",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1b506333195a04ba09a8d49786fc133dfdaa3d3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "RAMMBOCK",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b445360daf40194f957a032d49b05d523f938b6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.3,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "color" : "#023d96"
+    },
+    {
+      "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734aaf2413384c1efcc38353c6",
+      "title": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+      "artist": "Arcane,\nLeague of Legends",
+      "songs": [
+        {
+          "title": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+          "preview_url": "https://p.scdn.co/mp3-preview/57c39b130b4d0247833d8b006e3b757954054f43?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+          "preview_url": "https://p.scdn.co/mp3-preview/494024ae7538d4d041da5f45c8cde894d77771d2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Can't Hear It Now (from the series Arcane League of Legends)",
+          "preview_url": "https://p.scdn.co/mp3-preview/6cfd896950d59f612cf450fc9f939246b4085bfb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Enemy with JID (Opening Title Version)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4057ef5b64a2d688863b0b654e7fc3153360bae6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.9,
+      "playTime": 0,
+      "genre": "Soundtrack"
     }
   ]
 }
