@@ -29,8 +29,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 429,
-      "playTime30Days": 23,
+      "playTime": 432,
+      "playTime30Days": 24,
       "onVinyl": true
     },
     {
@@ -258,7 +258,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 180,
+      "playTime": 182,
       "playTime30Days": 0
     },
     {
@@ -428,7 +428,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 22,
+      "playTime": 24,
       "playTime30Days": 0
     },
     {
@@ -455,8 +455,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 50,
-      "playTime30Days": 7
+      "playTime": 56,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj",
@@ -495,7 +495,7 @@
       "title": "JESUS IS KING",
       "artist": "Kanye West",
       "rating": 5.5,
-      "playTime": 145,
+      "playTime": 146,
       "playTime30Days": 0
     },
     {

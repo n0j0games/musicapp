@@ -30,9 +30,9 @@
       ],
       "rating": 10.6,
       "genre": "Dance Pop",
-      "playTime": 838,
+      "playTime": 839,
       "playTime30Days": 0,
-      "color" : "#465b6b"
+      "color": "#465b6b"
     },
     {
       "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g",
@@ -62,9 +62,9 @@
         }
       ],
       "rating": 10,
-      "playTime": 670,
+      "playTime": 672,
       "playTime30Days": 0,
-      "color" : "#191711"
+      "color": "#191711"
     },
     {
       "url": "https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv",
@@ -94,9 +94,9 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 347,
-      "playTime30Days": 6,
-      "color" : "#576351"
+      "playTime": 348,
+      "playTime30Days": 7,
+      "color": "#576351"
     },
     {
       "url": "https://open.spotify.com/album/6k02YcfRBdVlttVDPrjhkS",
@@ -128,8 +128,8 @@
       "rating": 9.8,
       "onVinyl": true,
       "playTime": 455,
-      "playTime30Days": 8,
-      "color" : "#61615f"
+      "playTime30Days": 7,
+      "color": "#61615f"
     },
     {
       "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC",
@@ -163,7 +163,7 @@
       "genre": "Synthpop",
       "playTime": 929,
       "playTime30Days": 0,
-      "color" : "#123b49"
+      "color": "#123b49"
     },
     {
       "url": "https://open.spotify.com/album/5dFqidhoMEed1Nx9gO9M71",
@@ -194,9 +194,9 @@
       ],
       "rating": 9.4,
       "onVinyl": true,
-      "playTime": 312,
+      "playTime": 315,
       "playTime30Days": 0,
-      "color" : "#c3a928"
+      "color": "#c3a928"
     },
     {
       "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX",
@@ -227,9 +227,9 @@
       ],
       "rating": 9.2,
       "genre": "Rap",
-      "playTime": 984,
+      "playTime": 985,
       "playTime30Days": 10,
-      "color" : "#4e270c"
+      "color": "#4e270c"
     },
     {
       "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo",
@@ -261,7 +261,7 @@
       "rating": 9.1,
       "playTime": 305,
       "playTime30Days": 0,
-      "color" : "#ea3840"
+      "color": "#ea3840"
     },
     {
       "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh",
@@ -291,9 +291,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 723,
+      "playTime": 724,
       "playTime30Days": 0,
-      "color" : "#183399"
+      "color": "#183399"
     },
     {
       "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd",
@@ -325,7 +325,7 @@
       "rating": 8.3,
       "playTime": 60,
       "playTime30Days": 0,
-      "color" : "#6c4c2a"
+      "color": "#6c4c2a"
     },
     {
       "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP",
@@ -360,9 +360,9 @@
       ],
       "rating": 8.5,
       "genre": "Rap",
-      "playTime": 857,
+      "playTime": 858,
       "playTime30Days": 0,
-      "color" : "#0f1a1c"
+      "color": "#0f1a1c"
     },
     {
       "url": "https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB",
@@ -392,9 +392,9 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 95,
+      "playTime": 96,
       "playTime30Days": 0,
-      "color" : "#076435"
+      "color": "#076435"
     },
     {
       "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru",
@@ -426,7 +426,7 @@
       "rating": 8.2,
       "playTime": 266,
       "playTime30Days": 0,
-      "color" : "#28251b"
+      "color": "#28251b"
     },
     {
       "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q",
@@ -458,7 +458,7 @@
       "rating": 8.4,
       "playTime": 214,
       "playTime30Days": 0,
-      "color" : "#008165"
+      "color": "#008165"
     },
     {
       "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN",
@@ -490,7 +490,7 @@
       "rating": 8.5,
       "playTime": 187,
       "playTime30Days": 0,
-      "color" : "#8d410d"
+      "color": "#8d410d"
     },
     {
       "url": "https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner",
@@ -522,7 +522,7 @@
       "rating": 8,
       "playTime": 252,
       "playTime30Days": 0,
-      "color" : "#141c36"
+      "color": "#141c36"
     },
     {
       "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD",
@@ -554,7 +554,7 @@
       "rating": 8.4,
       "playTime": 161,
       "playTime30Days": 0,
-      "color" : "#0676c1"
+      "color": "#0676c1"
     },
     {
       "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj",
@@ -587,7 +587,7 @@
       "onVinyl": true,
       "playTime": 227,
       "playTime30Days": 0,
-      "color" : "#394e0a"
+      "color": "#394e0a"
     },
     {
       "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG",
@@ -617,9 +617,9 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 391,
+      "playTime": 392,
       "playTime30Days": 0,
-      "color" : "#001732"
+      "color": "#001732"
     },
     {
       "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH",
@@ -651,7 +651,7 @@
       "rating": 8,
       "playTime": 278,
       "playTime30Days": 0,
-      "color" : "#c33d15"
+      "color": "#c33d15"
     },
     {
       "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard",
@@ -683,7 +683,7 @@
       "rating": 7.3,
       "playTime": 120,
       "playTime30Days": 0,
-      "color" : "#3d7a77"
+      "color": "#3d7a77"
     },
     {
       "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa",
@@ -738,7 +738,7 @@
       "rating": 7.3,
       "playTime": 60,
       "playTime30Days": 0,
-      "color" : "#83462e"
+      "color": "#83462e"
     },
     {
       "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT",
@@ -766,7 +766,7 @@
       "rating": 7.4,
       "playTime": 23,
       "playTime30Days": 0,
-      "color" : "#20361e"
+      "color": "#20361e"
     },
     {
       "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V",
@@ -794,7 +794,7 @@
       "rating": 7,
       "playTime": 23,
       "playTime30Days": 0,
-      "color" : "#ce673c"
+      "color": "#ce673c"
     },
     {
       "url": "https://open.spotify.com/album/02SRvzvwKNQJpqjdehWAif",
@@ -822,7 +822,7 @@
       "rating": 7,
       "playTime": 208,
       "playTime30Days": 0,
-      "color" : "#1d2226"
+      "color": "#1d2226"
     },
     {
       "url": "https://open.spotify.com/album/2pOBRxQRaf5uArhBtvRjoj",
@@ -850,7 +850,7 @@
       "rating": 7.1,
       "playTime": 153,
       "playTime30Days": 0,
-      "color" : "#8b7f69"
+      "color": "#8b7f69"
     },
     {
       "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf",
@@ -876,9 +876,9 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 39,
+      "playTime": 40,
       "playTime30Days": 0,
-      "color" : "#7d70c8"
+      "color": "#7d70c8"
     },
     {
       "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3",
@@ -906,7 +906,7 @@
       "rating": 7.8,
       "playTime": 37,
       "playTime30Days": 0,
-      "color" : "#916b2f"
+      "color": "#916b2f"
     },
     {
       "url": "https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE",
@@ -934,7 +934,7 @@
       "rating": 7.2,
       "playTime": 83,
       "playTime30Days": 0,
-      "color" : "#ad911b"
+      "color": "#ad911b"
     },
     {
       "url": "https://open.spotify.com/album/262gaWJO1L6l4XxHIZ7tRc",
@@ -962,7 +962,7 @@
       "rating": 7.2,
       "playTime": 210,
       "playTime30Days": 0,
-      "color" : "#921515"
+      "color": "#921515"
     },
     {
       "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm",
@@ -987,10 +987,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cf0649f5510caa21370f8076cd110be13435b952?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
+      "rating": 8,
       "playTime": 16,
       "playTime30Days": 0,
-      "color" : "#2c3d3c"
+      "color": "#2c3d3c"
     },
     {
       "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81",
@@ -1018,7 +1018,7 @@
       "rating": 7.8,
       "playTime": 38,
       "playTime30Days": 0,
-      "color" : "#272727"
+      "color": "#272727"
     },
     {
       "url": "https://open.spotify.com/album/65qvJgkTyLzOgZOlQcqUfg",
@@ -1091,7 +1091,7 @@
       "title": "GOD DID",
       "artist": "DJ Khaled",
       "rating": 2,
-      "playTime": 63,
+      "playTime": 64,
       "playTime30Days": 0
     },
     {
@@ -1354,7 +1354,7 @@
       "rating": 6.9,
       "playTime": 154,
       "playTime30Days": 0,
-      "color" : "#5d3939"
+      "color": "#5d3939"
     },
     {
       "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM",
@@ -1909,7 +1909,7 @@
       "rating": 7.5,
       "playTime": 48,
       "playTime30Days": 0,
-      "color" : "#755353"
+      "color": "#755353"
     }
   ]
 }

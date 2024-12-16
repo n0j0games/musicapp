@@ -193,8 +193,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 341,
-      "playTime30Days": 5,
+      "playTime": 342,
+      "playTime30Days": 0,
       "color": "#a30a02"
     },
     {
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 215,
-      "playTime30Days": 17,
+      "playTime": 219,
+      "playTime30Days": 10,
       "color": "#a96073"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 228,
+      "playTime": 229,
       "playTime30Days": 0,
       "color": "#434754"
     },
@@ -422,7 +422,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 100,
+      "playTime": 101,
       "playTime30Days": 0,
       "color": "#745d4b"
     },
@@ -456,7 +456,7 @@
       "rating": 8.9,
       "genre": "Psychadelic Rock",
       "playTime": 609,
-      "playTime30Days": 16,
+      "playTime30Days": 15,
       "color": "#4c4559"
     },
     {
@@ -487,7 +487,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 78,
+      "playTime": 79,
       "playTime30Days": 0,
       "color": "#a96f63"
     },
@@ -515,7 +515,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 104,
+      "playTime": 106,
       "playTime30Days": 0,
       "color": "#3c5b80"
     },
@@ -543,7 +543,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 98,
+      "playTime": 99,
       "playTime30Days": 0,
       "color": "#105300"
     },
@@ -1157,7 +1157,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 133,
+      "playTime": 134,
       "playTime30Days": 0,
       "color": "#251c2d"
     },
@@ -1497,8 +1497,8 @@
         }
       ],
       "rating": 5,
-      "playTime": 55,
-      "playTime30Days": 17
+      "playTime": 56,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC",

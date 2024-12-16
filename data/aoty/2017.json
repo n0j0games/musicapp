@@ -182,7 +182,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 57,
+      "playTime": 58,
       "playTime30Days": 0
     },
     {
@@ -277,7 +277,7 @@
       "rating": 8.4,
       "genre": "Rap",
       "playTime": 627,
-      "playTime30Days": 11
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0",
@@ -303,7 +303,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 148,
+      "playTime": 150,
       "playTime30Days": 0
     },
     {
@@ -334,8 +334,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 85,
-      "playTime30Days": 23
+      "playTime": 95,
+      "playTime30Days": 32
     },
     {
       "url": "https://open.spotify.com/album/5nwBXqCfgl5zXuFHagkMNY",
@@ -499,7 +499,7 @@
       "title": "Banditorinho",
       "artist": "Luciano",
       "rating": 2,
-      "playTime": 27,
+      "playTime": 28,
       "playTime30Days": 0
     },
     {

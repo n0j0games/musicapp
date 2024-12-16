@@ -1,0 +1,38 @@
+{
+  "year": 2024,
+  "week": 51,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/9ea1ff57052d1634e22eda9980abe83d5b862ba8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f12f57e52663dcbd14c4ef1d",
+      "title": "Karatas",
+      "artist": "Daimajin",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/2sR9PLnYStk1ALbcscbCCj"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/36f85f34faa091bcbe9629bbc2439e7c599680be?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e7703feecc35f947b64d6f3e",
+      "title": "BANDZ",
+      "artist": "Yung Kafa & Kücük Efendi, Ufo361, Jimmy Torrio, Bawer",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/54QEFaoyMXOvt395UkQZwJ"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/27b484499f582836d72905408b52f0c7d6336de5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739f058eedeed2ae730a803702",
+      "title": "Waldbrand",
+      "artist": "Nina Chuba",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/68Obsp7H5akdfFR4geTZpD"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/8d343c4005209c9d6a4d0274fbe567508ca7998c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736b49e74a914fe17acc5465ad",
+      "title": "Salz",
+      "artist": "fyne",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/7GQ5d2bSKkVSEyvw9LOBP3"
+    }
+  ]
+}
