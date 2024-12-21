@@ -2402,6 +2402,14 @@
       "playTime": 137,
       "genre": "Soundtrack",
       "playTime30Days": 137
+    },
+    {
+      "url": "https://www.geocities.ws/ccqsk/",
+      "imgUrl": "https://www.geocities.ws/ccqsk/DIAMOND%20JUBILEE/DJ%20FRONT%20COVER.png",
+      "title": "Diamond Jubilee",
+      "artist": "Cindy Lee",
+      "rating": 7.5,
+      "genre": "Ambient"
     }
   ]
 }

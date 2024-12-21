@@ -205,9 +205,9 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
                         artist: album.artist
                     })
                 }
-                this.linearGradients.push(album.color != null ? album.color : this.defaultGradient)
-                aggregatedSongs.push(aggregatedSongsPerAlbum);
             }
+            this.linearGradients.push(album.color != null ? album.color : this.defaultGradient)
+            aggregatedSongs.push(aggregatedSongsPerAlbum);
         }
         return aggregatedSongs;
     }
