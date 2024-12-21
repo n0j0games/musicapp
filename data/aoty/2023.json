@@ -29,7 +29,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 192,
+      "playTime": 193,
       "playTime30Days": 0,
       "color": "#ad1247"
     },
@@ -61,7 +61,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 462,
+      "playTime": 464,
       "playTime30Days": 0,
       "color": "#687d84"
     },
@@ -97,8 +97,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 149,
-      "playTime30Days": 0,
+      "playTime": 151,
+      "playTime30Days": 5,
       "color": "#3b5a22"
     },
     {
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 219,
-      "playTime30Days": 10,
+      "playTime": 224,
+      "playTime30Days": 14,
       "color": "#a96073"
     },
     {
@@ -543,7 +543,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 99,
+      "playTime": 100,
       "playTime30Days": 0,
       "color": "#105300"
     },
@@ -578,7 +578,7 @@
     {
       "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aa95a399fd30fbb4f6f59fca",
-      "title": "CALL ME IF YOU GET LOST: The Estate Sale (Deluxe Songs Only)",
+      "title": "CALL ME IF YOU GET LOST: The Estate Sale",
       "artist": "Tyler, The Creator",
       "songs": [
         {
@@ -687,7 +687,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 33,
+      "playTime": 34,
       "playTime30Days": 0,
       "color": "#364147"
     },
@@ -1497,7 +1497,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 56,
+      "playTime": 57,
       "playTime30Days": 8
     },
     {
@@ -1572,7 +1572,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 130,
+      "playTime": 131,
       "playTime30Days": 0
     },
     {

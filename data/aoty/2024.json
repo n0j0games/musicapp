@@ -31,7 +31,7 @@
       "rating": 9.4,
       "genre": "Deutschrap",
       "playTime": 256,
-      "playTime30Days": 39,
+      "playTime30Days": 25,
       "color": "#878787"
     },
     {
@@ -63,8 +63,8 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 546,
-      "playTime30Days": 28,
+      "playTime": 547,
+      "playTime30Days": 29,
       "color": "#5b8801"
     },
     {
@@ -162,8 +162,8 @@
       ],
       "rating": 8.9,
       "genre": "Deutscher Indie",
-      "playTime": 458,
-      "playTime30Days": 36,
+      "playTime": 471,
+      "playTime30Days": 32,
       "color": "#8a5e57"
     },
     {
@@ -195,8 +195,8 @@
       ],
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
-      "playTime": 180,
-      "playTime30Days": 17,
+      "playTime": 199,
+      "playTime30Days": 25,
       "color": "#9a6c1f"
     },
     {
@@ -327,8 +327,8 @@
       ],
       "rating": 8.7,
       "genre": "Deutscher Indie",
-      "playTime": 72,
-      "playTime30Days": 17,
+      "playTime": 77,
+      "playTime30Days": 22,
       "color": "#958929"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "rating": 7.6,
       "genre": "Schweizer Indie",
-      "playTime": 109,
+      "playTime": 110,
       "playTime30Days": 0,
       "color": "#832114"
     },
@@ -1084,8 +1084,8 @@
       ],
       "rating": 7.5,
       "genre": "Darkwave",
-      "playTime": 50,
-      "playTime30Days": 0,
+      "playTime": 55,
+      "playTime30Days": 5,
       "color": "#2f341a"
     },
     {
@@ -1282,7 +1282,7 @@
     {
       "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27386bd6d30108e309239baa21b",
-      "title": "C,XOXO - Magic City Edition",
+      "title": "C,XOXO",
       "artist": "Camila Cabello",
       "rating": 3,
       "genre": "Pop",
@@ -1343,15 +1343,6 @@
       "rating": 3,
       "genre": "Rap",
       "playTime": 84,
-      "playTime30Days": 0
-    },
-    {
-      "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739cf15c7323fb85b7112197d5",
-      "title": "Clancy",
-      "artist": "Twenty One Pilots",
-      "rating": 4,
-      "genre": "Alt Pop",
       "playTime30Days": 0
     },
     {
@@ -1575,8 +1566,8 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 46,
-      "playTime30Days": 18
+      "playTime": 48,
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r",
@@ -1887,7 +1878,7 @@
       ],
       "rating": 6.1,
       "genre": "Electronic",
-      "playTime": 58,
+      "playTime": 59,
       "playTime30Days": 0
     },
     {
@@ -2040,8 +2031,8 @@
       ],
       "rating": 7.8,
       "genre": "Deutschrap",
-      "playTime": 85,
-      "playTime30Days": 6,
+      "playTime": 98,
+      "playTime30Days": 18,
       "color": "#55351c"
     },
     {
@@ -2123,7 +2114,7 @@
       "rating": 9.1,
       "genre": "Deutscher Indie",
       "playTime": 192,
-      "playTime30Days": 33,
+      "playTime30Days": 21,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2153,7 +2144,7 @@
       "rating": 7.9,
       "genre": "Experimental Rap",
       "playTime": 302,
-      "playTime30Days": 26,
+      "playTime30Days": 11,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2183,7 +2174,7 @@
       "rating": 7.7,
       "genre": "Deutscher Indie",
       "playTime": 74,
-      "playTime30Days": 9,
+      "playTime30Days": 0,
       "color": "#34758c"
     },
     {
@@ -2212,7 +2203,7 @@
       "rating": 7.8,
       "genre": "Southern Hip Hop",
       "playTime": 87,
-      "playTime30Days": 35
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR",
@@ -2243,8 +2234,8 @@
       ],
       "rating": 7.9,
       "genre": "R&B",
-      "playTime": 103,
-      "playTime30Days": 48,
+      "playTime": 112,
+      "playTime30Days": 25,
       "color": "#6c2222"
     },
     {
@@ -2277,7 +2268,7 @@
       "rating": 8.2,
       "genre": "Art Pop",
       "playTime": 224,
-      "playTime30Days": 112,
+      "playTime30Days": 45,
       "color": "#332737"
     },
     {
@@ -2308,9 +2299,9 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 288,
+      "playTime": 294,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 288,
+      "playTime30Days": 294,
       "color": "#6c6c6c"
     },
     {
@@ -2399,9 +2390,9 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 137,
+      "playTime": 141,
       "genre": "Soundtrack",
-      "playTime30Days": 137
+      "playTime30Days": 141
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",
@@ -2409,7 +2400,34 @@
       "title": "Diamond Jubilee",
       "artist": "Cindy Lee",
       "rating": 7.5,
-      "genre": "Ambient"
+      "genre": "Ambient",
+      "color": "#5d7284",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+      "title": "LANA",
+      "artist": "SZA",
+      "songs": [
+        {
+          "title": "30 For 30 (with Kendrick Lamar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7975027bc5c568f41334dbb4bd8bba0b17eeacd6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Saturn",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a075d97cc50dadf4ba5913acd9b6367719fd4ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Another Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/a96230572516b97fb7bb78be50e82039efd1468f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.9,
+      "playTime": 0,
+      "genre": "R&B",
+      "color": "#002e36",
+      "playTime30Days": 0
     }
   ]
 }

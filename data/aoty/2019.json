@@ -29,8 +29,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 432,
-      "playTime30Days": 24,
+      "playTime": 435,
+      "playTime30Days": 26,
       "onVinyl": true
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 306,
+      "playTime": 308,
       "playTime30Days": 0
     },
     {
@@ -258,8 +258,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 182,
-      "playTime30Days": 0
+      "playTime": 185,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj",
@@ -455,7 +455,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 56,
+      "playTime": 57,
       "playTime30Days": 12
     },
     {
@@ -504,7 +504,7 @@
       "title": "Yandhi",
       "artist": "Kanye West",
       "rating": 8.5,
-      "playTime": 69,
+      "playTime": 70,
       "playTime30Days": 0
     },
     {

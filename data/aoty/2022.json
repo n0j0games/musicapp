@@ -62,7 +62,7 @@
         }
       ],
       "rating": 10,
-      "playTime": 672,
+      "playTime": 673,
       "playTime30Days": 0,
       "color": "#191711"
     },
@@ -127,8 +127,8 @@
       ],
       "rating": 9.8,
       "onVinyl": true,
-      "playTime": 455,
-      "playTime30Days": 7,
+      "playTime": 456,
+      "playTime30Days": 6,
       "color": "#61615f"
     },
     {
@@ -194,8 +194,8 @@
       ],
       "rating": 9.4,
       "onVinyl": true,
-      "playTime": 315,
-      "playTime30Days": 0,
+      "playTime": 334,
+      "playTime30Days": 22,
       "color": "#c3a928"
     },
     {
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 187,
+      "playTime": 188,
       "playTime30Days": 0,
       "color": "#8d410d"
     },
@@ -617,8 +617,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 392,
-      "playTime30Days": 0,
+      "playTime": 418,
+      "playTime30Days": 27,
       "color": "#001732"
     },
     {
@@ -1907,7 +1907,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 48,
+      "playTime": 49,
       "playTime30Days": 0,
       "color": "#755353"
     }

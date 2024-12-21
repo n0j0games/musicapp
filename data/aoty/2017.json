@@ -30,7 +30,7 @@
       ],
       "rating": 10.6,
       "genre": "Pop Rap",
-      "playTime": 732,
+      "playTime": 733,
       "playTime30Days": 0
     },
     {
@@ -62,8 +62,8 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 291,
-      "playTime30Days": 0
+      "playTime": 306,
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",
@@ -277,7 +277,7 @@
       "rating": 8.4,
       "genre": "Rap",
       "playTime": 627,
-      "playTime30Days": 8
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0",
@@ -473,7 +473,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 47,
+      "playTime": 48,
       "playTime30Days": 0
     },
     {
@@ -482,7 +482,7 @@
       "title": "Huncho Jack, Jack Huncho",
       "artist": "Huncho Jack,\nTravis Scott,\nQuavo",
       "rating": 5,
-      "playTime": 101,
+      "playTime": 102,
       "playTime30Days": 0
     },
     {
@@ -573,7 +573,7 @@
       ],
       "rating": 5,
       "playTime30Days": 0,
-      "playTime": 47
+      "playTime": 48
     },
     {
       "url": "https://open.spotify.com/album/0k3311qEFcwoTNZxhhBqJ1",

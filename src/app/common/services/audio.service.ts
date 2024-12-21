@@ -58,6 +58,9 @@ export class AudioService {
             this.volume = <number><unknown>localVolume;
         }
         this.volumeChanged$.next(this.volume);
+        if (previewUrls.length === 0) {
+            return;
+        }
         this.playlist = previewUrls.slice();
         const firstSong = this.playlist.shift();
         if (firstSong !== undefined) {
