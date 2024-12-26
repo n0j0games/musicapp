@@ -94,8 +94,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 348,
-      "playTime30Days": 7,
+      "playTime": 349,
+      "playTime30Days": 8,
       "color": "#576351"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rating": 9.8,
       "onVinyl": true,
-      "playTime": 456,
+      "playTime": 458,
       "playTime30Days": 6,
       "color": "#61615f"
     },
@@ -161,7 +161,7 @@
       "rating": 9.5,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 929,
+      "playTime": 931,
       "playTime30Days": 0,
       "color": "#123b49"
     },
@@ -194,8 +194,8 @@
       ],
       "rating": 9.4,
       "onVinyl": true,
-      "playTime": 334,
-      "playTime30Days": 22,
+      "playTime": 337,
+      "playTime30Days": 25,
       "color": "#c3a928"
     },
     {
@@ -227,7 +227,7 @@
       ],
       "rating": 9.2,
       "genre": "Rap",
-      "playTime": 985,
+      "playTime": 986,
       "playTime30Days": 10,
       "color": "#4e270c"
     },
@@ -259,7 +259,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 305,
+      "playTime": 306,
       "playTime30Days": 0,
       "color": "#ea3840"
     },
@@ -291,8 +291,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 724,
-      "playTime30Days": 0,
+      "playTime": 726,
+      "playTime30Days": 5,
       "color": "#183399"
     },
     {
@@ -424,8 +424,8 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 266,
-      "playTime30Days": 0,
+      "playTime": 271,
+      "playTime30Days": 5,
       "color": "#28251b"
     },
     {
@@ -520,7 +520,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 252,
+      "playTime": 253,
       "playTime30Days": 0,
       "color": "#141c36"
     },
@@ -649,7 +649,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 278,
+      "playTime": 279,
       "playTime30Days": 0,
       "color": "#c33d15"
     },
@@ -848,7 +848,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 153,
+      "playTime": 154,
       "playTime30Days": 0,
       "color": "#8b7f69"
     },
@@ -1352,7 +1352,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 154,
+      "playTime": 155,
       "playTime30Days": 0,
       "color": "#5d3939"
     },
@@ -1811,7 +1811,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 127,
+      "playTime": 128,
       "playTime30Days": 0
     },
     {
@@ -1907,7 +1907,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 49,
+      "playTime": 51,
       "playTime30Days": 0,
       "color": "#755353"
     }

@@ -198,7 +198,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
             if (album.songs == undefined) {
                 console.log(album, "undef songs")
             } else {
-                for (let i=0; i<3; i++) {
+                for (let i=0; i<1; i++) {
                     aggregatedSongsPerAlbum.push({
                         track: album.songs[i].title,
                         url: album.songs[i].preview_url,

@@ -72,8 +72,8 @@
       "rating": 11,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 972,
-      "playTime30Days": 17
+      "playTime": 974,
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
@@ -105,7 +105,7 @@
       "rating": 10.3,
       "genre": "Synthpop",
       "playTime": 766,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv",
@@ -167,7 +167,7 @@
       ],
       "rating": 8.7,
       "genre": "Rap",
-      "playTime": 292,
+      "playTime": 293,
       "playTime30Days": 0
     },
     {
@@ -323,8 +323,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 147,
-      "playTime30Days": 0
+      "playTime": 148,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",

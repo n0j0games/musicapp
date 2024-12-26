@@ -1,0 +1,42 @@
+{
+  "year": 2024,
+  "week": 51,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/094ace70484c9bf4dcd9fd5ee5925099d9d4c9ce?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+      "title": "30 For 30 (with Kendrick Lamar)",
+      "artist": "SZA",
+      "rating": 8.1,
+      "album": "SOS Deluxe: LANA",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/106a4ddbc19d0f87a22e038294d1189c2187f29d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+      "title": "Crybaby",
+      "artist": "SZA",
+      "rating": 7,
+      "album": "SOS Deluxe: LANA",
+      "url": "https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/cf8a2802cfa65fb878004b7675ca7e2e9ce8849c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+      "title": "Another Life",
+      "artist": "SZA",
+      "rating": 8,
+      "album": "SOS Deluxe: LANA",
+      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5f0c75cefa1c6bcbbe845b7df2f6a11e9ba31bc0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+      "title": "Kitchen",
+      "artist": "SZA",
+      "rating": 8,
+      "album": "SOS Deluxe: LANA",
+      "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"
+    }
+  ]
+}

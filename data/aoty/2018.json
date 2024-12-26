@@ -30,7 +30,7 @@
       ],
       "rating": 10.3,
       "genre": "R&B",
-      "playTime": 511,
+      "playTime": 512,
       "playTime30Days": 0
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 649,
+      "playTime": 650,
       "playTime30Days": 0
     },
     {
@@ -158,8 +158,8 @@
       ],
       "rating": 9.8,
       "onVinyl": true,
-      "playTime": 444,
-      "playTime30Days": 0
+      "playTime": 445,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp",
@@ -286,7 +286,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 188,
+      "playTime": 189,
       "playTime30Days": 0
     },
     {
@@ -379,7 +379,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 323,
+      "playTime": 324,
       "playTime30Days": 0
     },
     {
@@ -630,7 +630,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 34,
+      "playTime": 35,
       "playTime30Days": 0
     },
     {
@@ -872,7 +872,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 61,
+      "playTime": 62,
       "playTime30Days": 0
     },
     {
