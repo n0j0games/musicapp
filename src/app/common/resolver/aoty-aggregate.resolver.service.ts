@@ -15,7 +15,7 @@ export class AotyAggregateResolverService implements Resolve<(AotyItem|HttpError
 
     resolve(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): MaybeAsync<(AotyItem|HttpErrorResponse)[]> {
 
-        const aggregation = route.paramMap.get("query");
+        const aggregation = route.url[0].path === "home" ? "recent" : route.paramMap.get("query");
         if (aggregation === undefined || aggregation === null) {
             throw new Error("Invalid query");
         }

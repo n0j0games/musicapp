@@ -1,0 +1,103 @@
+<div class="flex-row m-flex-column gap-xxl flex-wrap align-start">
+    <div class="flex-column gap-xxl flex-wrap justify-center">
+        <div class="flex-column align-center justify-center">
+            <img class="favicon" src="assets/favicon.png">
+            <p class="p-b-i fs-xl">rankings of my favorite albums & songs</p>
+        </div>
+        <div class="flex-row m-flex-column gap-xl align-center justify-center">
+            <app-item
+                    [item]="{year: 0, week: 0, preview : rotationList}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'recent'"
+                    [text]="'my rotation'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0, preview : [
+                    'https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36',
+                    'https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44',
+                    'https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3',
+                    'https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160'
+                    ]}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'alphabetical'"
+                    [text]="'all albums by playtime'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0, preview : ['https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160',
+                'https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5',
+                'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9',
+                'https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511']}"
+                    [isAoty]="'LIST'"
+                    [queryParam]="'fav-albums'"
+                    [text]="'all time favorites'"
+            ></app-item>
+        </div>
+        <div class="flex-row m-flex-column gap-xl align-center justify-center">
+            <div class="highlight-card">
+                <a
+                        class="flex-column gap-s align-center"
+                        [routerLink]="['/aoty/recap/2024']"
+                >
+                    <span class="fs-xl p-b">watch AOTY recap</span>
+                    <span class="fs-l">my fav albums of 2024</span>
+                </a>
+            </div>
+            <div class="highlight-card">
+                <a
+                        class="flex-column gap-s align-center"
+                        [routerLink]="['/soty/2024']"
+                >
+                    <span class="fs-xl p-b">SOTY list</span>
+                    <span class="fs-l">my fav songs of 2024</span>
+                </a>
+            </div>
+        </div>
+        <div class="outer-highlight-card">
+            <a
+                    class="flex-column gap-s align-center"
+                    [routerLink]="['/home/list']"
+            >
+                <span class="fs-xl p-b">show all years & lists</span>
+            </a>
+        </div>
+    </div>
+    <div class="flex-column gap-xxl flex-wrap justify-center">
+        <div class="flex-column align-center justify-center">
+            <img class="favicon" src="assets/favicon-movies.png">
+            <p class="p-b-i fs-xl">rankings of my favorite movies & shows</p>
+            <p class="fs-m">work in progress</p>
+        </div>
+        <div class="flex-row m-flex-column gap-xl align-center justify-center">
+            <app-item
+                    [item]="{year: 0, week: 0, preview : [
+                'https://a.ltrbxd.com/resized/film-poster/2/7/0/4/2704-forrest-gump-0-1000-0-1500-crop.jpg?v=173bc04cf0',
+                'https://a.ltrbxd.com/resized/sm/upload/bz/1x/em/jr/yPisjyLweCl1tbgwgtzBCNCBle-0-1000-0-1500-crop.jpg?v=ca5215c5a9',
+                'https://a.ltrbxd.com/resized/film-poster/4/9/0/6/2/49062-howl-s-moving-castle-0-1000-0-1500-crop.jpg?v=fde81bda52',
+                'https://a.ltrbxd.com/resized/film-poster/5/0/8/2/5/50825-iron-man-0-1000-0-1500-crop.jpg?v=f03c15122c',
+                ]}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all-movies'"
+                    [text]="'movies: all time favorites'"
+            ></app-item>
+            <app-item
+                    [item]="{year: 0, week: 0, preview : [
+                'https://serializd-tmdb-images.b-cdn.net/t/p/w500/bw6DlqljVFIinhBA7uDSNha6Lnp.jpg',
+                'https://serializd-tmdb-images.b-cdn.net/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg',
+                'https://serializd-tmdb-images.b-cdn.net/t/p/w500/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg',
+                'https://serializd-tmdb-images.b-cdn.net/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg'
+                ]}"
+                    [isAoty]="'MLIST'"
+                    [queryParam]="'all-shows'"
+                    [text]="'shows: all time favorites'"
+            ></app-item>
+        </div>
+        <div class="outer-highlight-card outer-highlight-card-movie">
+            <a
+                    class="flex-column gap-s align-center"
+                    [routerLink]="['/movie-home']"
+            >
+                <span class="fs-xl p-b">show all years & lists</span>
+            </a>
+        </div>
+    </div>
+</div>

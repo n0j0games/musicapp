@@ -18,9 +18,11 @@ import {MoviesOfTheYearComponent} from "./movies-of-the-year/movies-of-the-year.
 import {MotyResolverService} from "./common/resolver/moty.resolver.service";
 import {HomeMoviesComponent} from "./home/home-movies/home-movies.component";
 import {RecapComponent} from "./albums-of-the-year/recap/recap.component";
+import {HomeNewComponent} from "./home/home-new/home-new.component";
 
 export const routes: Routes = [
-  { path: 'home', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
+  { path: 'home', component: HomeNewComponent, resolve: [AotyResolverService, AotyAggregateResolverService] },
+  { path: 'home/list', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
   { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService] },
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty/:year', component: AlbumsOfTheYearComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
