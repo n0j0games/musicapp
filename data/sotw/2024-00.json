@@ -1100,6 +1100,15 @@
       "artist": "JID",
       "rating": 7.5,
       "url": "https://www.youtube.com/watch?v=FcTWj3UZmEk"
+    },
+    {
+      "previewUrl" : "https://p.scdn.co/mp3-preview/57c39b130b4d0247833d8b006e3b757954054f43?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734aaf2413384c1efcc38353c6",
+      "title" : "Ma Meilleure Ennemie",
+      "artist" : "Stromae",
+      "rating" : 9.0,
+      "url" : "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7",
+      "album" : "Arcane League of Legends: Season 2"
     }
   ]
 }
