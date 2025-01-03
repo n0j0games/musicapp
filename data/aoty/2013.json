@@ -31,7 +31,7 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 522,
+      "playTime": 525,
       "playTime30Days": 0
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 433,
+      "playTime": 434,
       "genre": "Experimental Rap",
       "playTime30Days": 5
     },
@@ -94,7 +94,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 216,
+      "playTime": 218,
       "playTime30Days": 0
     },
     {
@@ -282,7 +282,7 @@
       ],
       "rating": 8.3,
       "playTime30Days": 0,
-      "playTime": 99
+      "playTime": 100
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
