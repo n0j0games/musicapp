@@ -1553,22 +1553,23 @@
       "artist": "Doechii",
       "songs": [
         {
+          "title": "DENIAL IS A RIVER",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7df13b937a5c387ebf1e7f33106c10f3cc2b5a0?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "STANKA POOH",
           "preview_url": "https://p.scdn.co/mp3-preview/db763bcbc6ebfb1fad56f37d1f748ecdc454f2fc?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "BOILED PEANUTS",
           "preview_url": "https://p.scdn.co/mp3-preview/02a8eeb3bd53181a6d271ce42ec09ba693a5fea5?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "DENIAL IS A RIVER",
-          "preview_url": "https://p.scdn.co/mp3-preview/c7df13b937a5c387ebf1e7f33106c10f3cc2b5a0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6,
+      "rating": 7.9,
       "genre": "Rap",
       "playTime": 67,
-      "playTime30Days": 38
+      "playTime30Days": 38,
+      "color": "#092508"
     },
     {
       "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r",
