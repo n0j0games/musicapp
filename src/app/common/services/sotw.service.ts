@@ -32,6 +32,7 @@ export class SotwService {
       }
     }
     const weeksOfYear = this.getWeeksOfYear(year);
+    console.log(weeksOfYear, aggregatedYearItems);
     if (aggregatedYearItems.length === 0 || aggregatedYearItems.length !== weeksOfYear) {
       return null;
     }
