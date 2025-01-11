@@ -35,7 +35,7 @@
       "rating": 11.5,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 310,
+      "playTime": 311,
       "playTime30Days": 9
     },
     {
@@ -132,7 +132,7 @@
       "rating": 9.1,
       "genre": "Rock",
       "playTime": 73,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",

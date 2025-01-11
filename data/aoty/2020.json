@@ -64,7 +64,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 119,
+      "playTime": 120,
       "playTime30Days": 0
     },
     {
@@ -95,8 +95,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 276,
-      "playTime30Days": 6
+      "playTime": 289,
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m",
@@ -155,8 +155,8 @@
       "rating": 11.1,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 1742,
-      "playTime30Days": 16
+      "playTime": 1745,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
@@ -187,7 +187,7 @@
       ],
       "rating": 10,
       "onVinyl": true,
-      "playTime": 295,
+      "playTime": 296,
       "playTime30Days": 0
     },
     {
@@ -218,7 +218,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 186,
+      "playTime": 189,
       "playTime30Days": 0
     },
     {
@@ -312,7 +312,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 129,
+      "playTime": 132,
       "playTime30Days": 0
     },
     {
@@ -467,8 +467,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 98,
-      "playTime30Days": 0
+      "playTime": 113,
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5",
@@ -498,7 +498,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 189,
+      "playTime": 190,
       "playTime30Days": 0
     },
     {
@@ -529,7 +529,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 144,
+      "playTime": 146,
       "playTime30Days": 0
     },
     {
@@ -557,7 +557,7 @@
       ],
       "rating": 7.5,
       "genre": "Rap",
-      "playTime": 213,
+      "playTime": 214,
       "playTime30Days": 0
     },
     {
@@ -800,7 +800,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 21,
+      "playTime": 22,
       "playTime30Days": 0
     },
     {
@@ -819,7 +819,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 17,
+      "playTime": 18,
       "playTime30Days": 0
     },
     {
@@ -865,8 +865,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 139,
-      "playTime30Days": 0
+      "playTime": 144,
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
@@ -915,7 +915,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 67,
+      "playTime": 70,
       "playTime30Days": 0
     }
   ]

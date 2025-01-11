@@ -63,7 +63,7 @@
       ],
       "rating": 9.6,
       "playTime": 142,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk",
@@ -93,7 +93,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 151,
+      "playTime": 153,
       "playTime30Days": 0
     },
     {
@@ -221,7 +221,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 140,
+      "playTime": 141,
       "playTime30Days": 0
     },
     {
@@ -252,7 +252,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 115,
+      "playTime": 116,
       "playTime30Days": 0
     },
     {
@@ -283,8 +283,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 453,
-      "playTime30Days": 7
+      "playTime": 454,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -345,8 +345,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 187,
-      "playTime30Days": 0
+      "playTime": 197,
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
@@ -373,7 +373,7 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 598,
+      "playTime": 599,
       "playTime30Days": 0
     },
     {
@@ -400,7 +400,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 247,
+      "playTime": 248,
       "playTime30Days": 0
     },
     {
@@ -766,7 +766,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 12,
+      "playTime": 13,
       "playTime30Days": 0
     },
     {

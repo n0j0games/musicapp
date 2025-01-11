@@ -30,8 +30,8 @@
       ],
       "rating": 10.3,
       "genre": "R&B",
-      "playTime": 518,
-      "playTime30Days": 7
+      "playTime": 522,
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I",
@@ -63,7 +63,7 @@
       "rating": 9.9,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1134,
+      "playTime": 1135,
       "playTime30Days": 0
     },
     {
@@ -94,7 +94,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 264,
+      "playTime": 268,
       "playTime30Days": 0
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 650,
+      "playTime": 653,
       "playTime30Days": 0
     },
     {
@@ -159,7 +159,7 @@
       "rating": 9.8,
       "onVinyl": true,
       "playTime": 445,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp",
@@ -286,7 +286,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 189,
+      "playTime": 191,
       "playTime30Days": 0
     },
     {
@@ -348,7 +348,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 75,
+      "playTime": 76,
       "playTime30Days": 0
     },
     {
@@ -410,7 +410,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 166,
+      "playTime": 168,
       "playTime30Days": 0
     },
     {
@@ -523,8 +523,8 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 302,
-      "playTime30Days": 7
+      "playTime": 304,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq",
@@ -657,7 +657,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 108,
+      "playTime": 109,
       "playTime30Days": 0
     },
     {
@@ -950,7 +950,7 @@
       "title": "Culture II",
       "artist": "Migos",
       "rating": 4,
-      "playTime": 44,
+      "playTime": 45,
       "playTime30Days": 0
     }
   ]

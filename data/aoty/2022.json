@@ -30,7 +30,7 @@
       ],
       "rating": 10.6,
       "genre": "Dance Pop",
-      "playTime": 845,
+      "playTime": 846,
       "playTime30Days": 7,
       "color": "#465b6b"
     },
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 10,
-      "playTime": 674,
+      "playTime": 675,
       "playTime30Days": 0,
       "color": "#191711"
     },
@@ -95,7 +95,7 @@
       ],
       "rating": 9.7,
       "playTime": 350,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#576351"
     },
     {
@@ -127,8 +127,8 @@
       ],
       "rating": 9.8,
       "onVinyl": true,
-      "playTime": 458,
-      "playTime30Days": 0,
+      "playTime": 463,
+      "playTime30Days": 8,
       "color": "#61615f"
     },
     {
@@ -194,8 +194,8 @@
       ],
       "rating": 9.4,
       "onVinyl": true,
-      "playTime": 354,
-      "playTime30Days": 42,
+      "playTime": 355,
+      "playTime30Days": 43,
       "color": "#c3a928"
     },
     {
@@ -259,7 +259,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 307,
+      "playTime": 308,
       "playTime30Days": 0,
       "color": "#ea3840"
     },
@@ -360,7 +360,7 @@
       ],
       "rating": 8.5,
       "genre": "Rap",
-      "playTime": 860,
+      "playTime": 861,
       "playTime30Days": 0,
       "color": "#0f1a1c"
     },
@@ -392,8 +392,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 96,
-      "playTime30Days": 0,
+      "playTime": 108,
+      "playTime30Days": 13,
       "color": "#076435"
     },
     {
@@ -424,8 +424,8 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 271,
-      "playTime30Days": 5,
+      "playTime": 273,
+      "playTime30Days": 7,
       "color": "#28251b"
     },
     {
@@ -456,7 +456,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 214,
+      "playTime": 215,
       "playTime30Days": 0,
       "color": "#008165"
     },
@@ -488,8 +488,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 192,
-      "playTime30Days": 5,
+      "playTime": 194,
+      "playTime30Days": 7,
       "color": "#8d410d"
     },
     {
@@ -617,8 +617,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 418,
-      "playTime30Days": 27,
+      "playTime": 421,
+      "playTime30Days": 29,
       "color": "#001732"
     },
     {
@@ -709,7 +709,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 41,
+      "playTime": 42,
       "playTime30Days": 0
     },
     {
@@ -736,7 +736,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 62,
+      "playTime": 63,
       "playTime30Days": 0,
       "color": "#83462e"
     },
@@ -876,7 +876,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 40,
+      "playTime": 41,
       "playTime30Days": 0,
       "color": "#7d70c8"
     },
@@ -1352,8 +1352,8 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 157,
-      "playTime30Days": 0,
+      "playTime": 160,
+      "playTime30Days": 6,
       "color": "#5d3939"
     },
     {
@@ -1391,7 +1391,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 64,
+      "playTime": 65,
       "playTime30Days": 0
     },
     {
@@ -1604,7 +1604,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 39,
+      "playTime": 40,
       "playTime30Days": 0
     },
     {
@@ -1834,7 +1834,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 80,
+      "playTime": 81,
       "playTime30Days": 0
     },
     {
