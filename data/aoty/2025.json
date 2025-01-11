@@ -9,6 +9,33 @@
       "rating": 4,
       "playTime": 0,
       "genre": "Rap"
+    },
+    {
+      "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "title": "DeBÍ TiRAR MáS FOToS",
+      "artist": "Bad Bunny",
+      "songs": [
+        {
+          "title": "EL CLúB",
+          "preview_url": "https://p.scdn.co/mp3-preview/ceb76da38415ae2cf0546ae175ef58fbbf208f1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "NUEVAYoL",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a3b57ab0ac75e0b0b46072bea45826de80b7e1a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "PERFuMITO NUEVO",
+          "preview_url": "https://p.scdn.co/mp3-preview/0a64756da233a5380ecf92ee8f250611f2ba1f06?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CAFé CON RON",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3ac094516a56e20f0eae6d56641a25098fcc6f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 0,
+      "genre": "Latin"
     }
   ]
 }
