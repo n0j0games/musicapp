@@ -76,7 +76,7 @@ export class AggregatedVariousComponent implements OnInit {
         this.aggregatedTitle = "all the albums I love";
         break;
       case "rosalia":
-        this.getArtistAlbums("rosalía", 2018, isStrict);
+        this.getArtistAlbums("rosalía", 2017, isStrict);
         break;
       case "tyler-the-creator":
         this.getArtistAlbums("tyler, the creator", 2000, isStrict);
