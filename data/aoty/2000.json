@@ -838,6 +838,33 @@
       "rating": 7.3,
       "playTime": 33,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bf7c317a63c4f128b8823406",
+      "title": "For Emma, Forever Ago",
+      "artist": "Bon Iver",
+      "songs": [
+        {
+          "title": "Flume",
+          "preview_url": "https://p.scdn.co/mp3-preview/bafa9f194cb8a8d58d2c280cd89e2b48f62ad155?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Skinny Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/1515eb484a60f93e23e70b40acdcea8351365cef?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Creature Fear",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9e41f7fb284ba1ef711c83d66507267b6266e8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "For Emma",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c82cc281270623395c01483e1c4d18b307014c6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Folk"
     }
   ]
 }

@@ -713,6 +713,29 @@
       "rating": 7,
       "playTime": 30,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c76ccdb32228d3ea38a9f5d6",
+      "title": "Los Ángeles",
+      "artist": "ROSALÍA",
+      "songs": [
+        {
+          "title": "Si Tú Supieras Compañero",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6cf8f3599cda2e1a1e799b3ec6ccb69be500a97?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Catalina",
+          "preview_url": "https://p.scdn.co/mp3-preview/79838909016a9277ac858bf27f7ff3ccb6d52815?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I See A Darkness",
+          "preview_url": "https://p.scdn.co/mp3-preview/97dc2dddf92efaf5be0e7b5cd0048091f2bff6bf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.9,
+      "playTime": 0,
+      "genre": "Spanish Folk"
     }
   ]
 }
