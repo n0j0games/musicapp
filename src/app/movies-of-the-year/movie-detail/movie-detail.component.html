@@ -1,6 +1,6 @@
 <div [ngClass]="{ 'halfTransparent' : false }" class="flex-row align-center gap-l">
     <p class="p-b-i fs-xl counter">{{ index }}</p>
-    <img class="movie-poster" src="{{movie.imgUrl}}" alt="">
+    <img class="movie-poster" src="{{movie.imgSrc}}" alt="">
     <div class="flex-column align-start gap-s">
         <a class="p-b-i fs-l left-text movies-less-important-link" [routerLink]="['/moty-lists', movie.creator.replaceAll(' ','-').toLowerCase()]" ><span class="m-counter">{{ index }}. </span>{{ movie.creator }}</a>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">

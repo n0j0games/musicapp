@@ -33,7 +33,7 @@ export class WeekHelper {
             return Date.now().toLocaleString("de-DE");
         }
         const dayOfYear : number = (1 + (week - 1) * 7); // 1st of January + 7 days for each week
-        const friday : Date = new Date(year, 0, dayOfYear + 4);
+        const friday : Date = new Date(year, 0, dayOfYear + (year == 2024 ? 4 : 2));
         return friday.toLocaleDateString("de-DE");
     }
 

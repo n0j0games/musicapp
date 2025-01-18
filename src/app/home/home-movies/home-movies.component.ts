@@ -32,7 +32,7 @@ export class HomeMoviesComponent implements OnInit {
     const motyItems : MotyItem[] = this.motyService.getAllMovies();
     motyItems.sort((a, b) => b.year! - a.year!);
     for (const motyItem of motyItems) {
-      this.motyItemsGroupedByYear.push({ year : motyItem.year!, preview : motyItem.items.sort((a, b) => this.getSeasonalRating(b) - this.getSeasonalRating(a)).map(value => value.imgUrl).slice(0, 4) });
+      this.motyItemsGroupedByYear.push({ year : motyItem.year!, preview : motyItem.items.sort((a, b) => this.getSeasonalRating(b) - this.getSeasonalRating(a)).map(value => value.imgSrc).slice(0, 4) });
     }
   }
 

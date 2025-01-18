@@ -4,7 +4,7 @@
     {
       "title": "Ant-Man",
       "year": 2015,
-      "imgSrc": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/myC8VQDoWIFq2WAnu9AAyJVTQRH.jpg",
+      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/myC8VQDoWIFq2WAnu9AAyJVTQRH.jpg",
       "creator": "Peyton Reed",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/ant-man/"
@@ -12,7 +12,7 @@
     {
       "title": "Avengers: Age of Ultron",
       "year": 2015,
-      "imgSrc": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/woAP8YaiVIuo7YXTeqVQEhXBdfz.jpg",
+      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/woAP8YaiVIuo7YXTeqVQEhXBdfz.jpg",
       "creator": "Joss Whedon",
       "rating": 7,
       "url": "https://letterboxd.com/n0j0/film/avengers-age-of-ultron/"
@@ -20,7 +20,7 @@
     {
       "title": "Star Wars: The Force Awakens",
       "year": 2015,
-      "imgSrc": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5QC9jLAUzeeUgUAG94LFdCq4lcv.jpg",
+      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/5QC9jLAUzeeUgUAG94LFdCq4lcv.jpg",
       "creator": "J.J. Abrams",
       "rating": 7,
       "url": "https://letterboxd.com/n0j0/film/star-wars-the-force-awakens/"

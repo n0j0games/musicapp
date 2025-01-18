@@ -39,31 +39,29 @@ export class MotyService {
     }
 
     addToMoviesOfTheYear(movie: Movie) {
-        for (let i=0; i<movie.years.length; i++) {
-            this.addMovieToYear(movie, movie.years[i], i);
-        }
+        this.addMovieToYear(movie, movie.year);
         this.unsortedMotyItems.items.push(movie);
     }
 
-    addMovieToYear(movie : Movie, year : number, index : number) {
+    addMovieToYear(movie : Movie, year : number) {
         for (const item in this.motyItems) {
             if (this.motyItems[item].year === year) {
-                this.motyItems[item].items.push(this.copyMovie(movie, index));
+                this.motyItems[item].items.push(this.copyMovie(movie));
                 return;
             }
         }
-        this.motyItems.push(new MotyItem([this.copyMovie(movie, index)], year));
+        this.motyItems.push(new MotyItem([this.copyMovie(movie)], year));
     }
 
-    copyMovie(movie : Movie, index : number) : Movie {
-        const item = new Movie(movie.title, movie.creator, movie.years, movie.rating, movie.url, movie.imgUrl);
+    copyMovie(movie : Movie) : Movie {
+        const item = new Movie(movie.title, movie.creator, movie.year, movie.rating, movie.url, movie.imgSrc);
         if (movie.franchise) {
             item.franchise = movie.franchise;
         }
         if (movie.seasons) {
             item.seasons = movie.seasons;
         }
-        item.activeSeason = index+1;
+        //item.activeSeason = index+1;
         return item;
     }
 

@@ -3,14 +3,6 @@
     <div class="flex-column gap-xl">
         <p class="p-b-i fs-xl">highlights</p>
         <div class="outer-highlight-card outer-highlight-card-movie flex-column gap-l">
-            <div class="highlight-card">
-                <a
-                        class="flex-column gap-s align-center"
-                        [routerLink]="['/home']"
-                >
-                    <span class="fs-xl p-b">music & songs</span>
-                </a>
-            </div>
             <app-item
                     [item]="{year: 0, week: 0}"
                     [isAoty]="'MLIST'"
@@ -23,12 +15,12 @@
                     [queryParam]="'all-movies'"
                     [text]="'all movies'"
             ></app-item>
-            <app-item
+            <!--<app-item
                     [item]="{year: 0, week: 0}"
                     [isAoty]="'MLIST'"
                     [queryParam]="'all-shows'"
                     [text]="'all shows'"
-            ></app-item>
+            ></app-item>-->
         </div>
     </div>
 
