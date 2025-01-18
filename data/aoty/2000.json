@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 802,
-      "playTime30Days": 6
+      "playTime": 804,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -98,8 +98,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 374,
-      "playTime30Days": 0,
+      "playTime": 377,
+      "playTime30Days": 5,
       "onVinyl": true
     },
     {
@@ -163,7 +163,7 @@
       "rating": 9.8,
       "genre": "Rap",
       "playTime": 549,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
@@ -282,8 +282,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 332,
-      "playTime30Days": 0
+      "playTime": 334,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
@@ -344,7 +344,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 110,
+      "playTime": 111,
       "playTime30Days": 0
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 417,
+      "playTime": 419,
       "playTime30Days": 0
     },
     {
@@ -643,8 +643,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 54,
-      "playTime30Days": 0
+      "playTime": 56,
+      "playTime30Days": 6
     },
     {
       "url": "https://www.albumoftheyear.org/album/2200-tyler-the-creator-bastard.php",
@@ -862,9 +862,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4c82cc281270623395c01483e1c4d18b307014c6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 0,
-      "genre": "Folk"
+      "rating": 8,
+      "playTime": 32,
+      "genre": "Folk",
+      "playTime30Days": 12
     }
   ]
 }

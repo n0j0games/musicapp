@@ -35,9 +35,45 @@
         }
       ],
       "rating": 8,
-      "playTime": 103,
+      "playTime": 114,
       "genre": "Latin",
-      "playTime30Days": 103
+      "playTime30Days": 114
+    },
+    {
+      "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739a9c4cd69a6f514dfbb7305a",
+      "title": "Balloonerism",
+      "artist": "Mac Miller",
+      "songs": [
+        {
+          "title": "DJ's Chord Organ (feat. SZA)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec4c697e044e6e06e459b86237a62e261cd68a94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "5 Dollar Pony Rides",
+          "preview_url": "https://p.scdn.co/mp3-preview/443797e32d7179f126db68d1703eedcfd114aa0c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Funny Papers",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e080e1039a0346476e92d5b2d0658e27dd053e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Rick's Piano",
+          "preview_url": "https://p.scdn.co/mp3-preview/5db2ccd87cab0fbafecb3a9fb1a36a8b1840df0d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Rap"
+    },
+    {
+      "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735eaab7e7b92b58e5cd862e9f",
+      "title": "Gesegnet",
+      "artist": "Apache 207,\nLuciano",
+      "rating": 3.0,
+      "playTime": 0,
+      "genre": "Deutschrap"
     }
   ]
 }

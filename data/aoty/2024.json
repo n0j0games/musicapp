@@ -31,7 +31,7 @@
       "rating": 9.4,
       "genre": "Deutschrap",
       "playTime": 258,
-      "playTime30Days": 16,
+      "playTime30Days": 0,
       "color": "#878787"
     },
     {
@@ -63,8 +63,8 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 564,
-      "playTime30Days": 18,
+      "playTime": 568,
+      "playTime30Days": 21,
       "color": "#5b8801"
     },
     {
@@ -163,7 +163,7 @@
       "rating": 8.9,
       "genre": "Deutscher Indie",
       "playTime": 474,
-      "playTime30Days": 19,
+      "playTime30Days": 16,
       "color": "#8a5e57"
     },
     {
@@ -196,7 +196,7 @@
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
       "playTime": 201,
-      "playTime30Days": 21,
+      "playTime30Days": 0,
       "color": "#9a6c1f"
     },
     {
@@ -228,8 +228,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 211,
-      "playTime30Days": 0,
+      "playTime": 213,
+      "playTime30Days": 5,
       "color": "#12497e"
     },
     {
@@ -261,8 +261,8 @@
       ],
       "rating": 8.8,
       "genre": "Latin",
-      "playTime": 312,
-      "playTime30Days": 0,
+      "playTime": 313,
+      "playTime30Days": 5,
       "color": "#a065b1"
     },
     {
@@ -328,7 +328,7 @@
       "rating": 8.7,
       "genre": "Deutscher Indie",
       "playTime": 78,
-      "playTime30Days": 14,
+      "playTime30Days": 0,
       "color": "#958929"
     },
     {
@@ -360,7 +360,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 165,
+      "playTime": 166,
       "playTime30Days": 0,
       "color": "#66260e"
     },
@@ -455,8 +455,8 @@
       ],
       "rating": 8.5,
       "genre": "Indie Pop",
-      "playTime": 47,
-      "playTime30Days": 0,
+      "playTime": 60,
+      "playTime30Days": 16,
       "color": "#2c3863"
     },
     {
@@ -649,7 +649,7 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 192,
+      "playTime": 193,
       "playTime30Days": 0,
       "color": "#376893"
     },
@@ -765,7 +765,7 @@
       ],
       "rating": 7.6,
       "genre": "Schweizer Indie",
-      "playTime": 110,
+      "playTime": 114,
       "playTime30Days": 0,
       "color": "#832114"
     },
@@ -794,7 +794,7 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 93,
+      "playTime": 94,
       "playTime30Days": 0,
       "color": "#872d11"
     },
@@ -823,8 +823,8 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 450,
-      "playTime30Days": 9,
+      "playTime": 451,
+      "playTime30Days": 10,
       "color": "#7d716f"
     },
     {
@@ -1026,8 +1026,8 @@
       ],
       "rating": 7.5,
       "genre": "Experimental Rap",
-      "playTime": 66,
-      "playTime30Days": 20,
+      "playTime": 70,
+      "playTime30Days": 24,
       "color": "#453f32"
     },
     {
@@ -1055,7 +1055,7 @@
       ],
       "rating": 7.3,
       "genre": "Rap",
-      "playTime": 71,
+      "playTime": 72,
       "playTime30Days": 0,
       "color": "#2b4742"
     },
@@ -1085,7 +1085,7 @@
       "rating": 7.5,
       "genre": "Darkwave",
       "playTime": 55,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#2f341a"
     },
     {
@@ -1567,8 +1567,8 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 70,
-      "playTime30Days": 30,
+      "playTime": 78,
+      "playTime30Days": 32,
       "color": "#092508"
     },
     {
@@ -1592,7 +1592,7 @@
       ],
       "rating": 6,
       "genre": "Pop Rap",
-      "playTime": 46,
+      "playTime": 47,
       "playTime30Days": 0,
       "color": "#2f564f"
     },
@@ -1688,7 +1688,7 @@
       ],
       "rating": 6,
       "genre": "R&B",
-      "playTime": 52,
+      "playTime": 53,
       "playTime30Days": 0
     },
     {
@@ -1976,8 +1976,8 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 91,
-      "playTime30Days": 9
+      "playTime": 94,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2034,7 +2034,7 @@
       "rating": 7.8,
       "genre": "Deutschrap",
       "playTime": 98,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "color": "#55351c"
     },
     {
@@ -2115,8 +2115,8 @@
       ],
       "rating": 9.1,
       "genre": "Deutscher Indie",
-      "playTime": 194,
-      "playTime30Days": 0,
+      "playTime": 197,
+      "playTime30Days": 5,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2145,7 +2145,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 303,
+      "playTime": 304,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2237,7 +2237,7 @@
       "rating": 7.9,
       "genre": "R&B",
       "playTime": 112,
-      "playTime30Days": 9,
+      "playTime30Days": 0,
       "color": "#6c2222"
     },
     {
@@ -2301,9 +2301,9 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 339,
+      "playTime": 341,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 62,
+      "playTime30Days": 52,
       "color": "#6c6c6c"
     },
     {
@@ -2336,7 +2336,7 @@
       "rating": 9.1,
       "playTime": 349,
       "genre": "Wiener Pop",
-      "playTime30Days": 18,
+      "playTime30Days": 15,
       "color": "#c51919"
     },
     {
@@ -2392,9 +2392,9 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 158,
+      "playTime": 163,
       "genre": "Soundtrack",
-      "playTime30Days": 29
+      "playTime30Days": 24
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

@@ -30,7 +30,7 @@
       ],
       "rating": 10.8,
       "playTime": 442,
-      "playTime30Days": 12,
+      "playTime30Days": 7,
       "onVinyl": true
     },
     {
@@ -61,7 +61,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 116,
+      "playTime": 117,
       "playTime30Days": 0
     },
     {
@@ -98,7 +98,7 @@
       "rating": 10.7,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 816,
+      "playTime": 817,
       "playTime30Days": 0
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 308,
+      "playTime": 310,
       "playTime30Days": 0
     },
     {
@@ -165,8 +165,8 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 82,
-      "playTime30Days": 6
+      "playTime": 86,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF",
@@ -258,8 +258,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 187,
-      "playTime30Days": 6
+      "playTime": 197,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj",
@@ -456,7 +456,7 @@
       ],
       "rating": 7.3,
       "playTime": 62,
-      "playTime30Days": 6
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj",
