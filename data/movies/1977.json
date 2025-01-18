@@ -4,7 +4,7 @@
     {
       "title": "Star Wars",
       "year": 1977,
-      "imgSrc": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/crUUE14AROxNWsMdmyyqZNcUB6L.jpg",
+      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/crUUE14AROxNWsMdmyyqZNcUB6L.jpg",
       "creator": "George Lucas",
       "rating": 10,
       "url": "https://letterboxd.com/n0j0/film/star-wars/"
