@@ -5,8 +5,8 @@
       "title": "Captain America: The Winter Soldier",
       "year": 2014,
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/14vWmCoZHXajYmtqSsswWpSOdrd.jpg",
-      "creator": "Joe Russo",
-      "rating": 10,
+      "creator": "Joe Russo, Anthony Russo",
+      "rating": 9,
       "url": "https://letterboxd.com/n0j0/film/captain-america-the-winter-soldier/"
     },
     {
@@ -16,6 +16,14 @@
       "creator": "James Gunn",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/guardians-of-the-galaxy/"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/hHdhfkkzt0Mwec33Ux177Z7CO8w.jpg",
+      "creator": "Christopher Nolan",
+      "rating": 10,
+      "url": "https://letterboxd.com/n0j0/film/interstellar/1/"
     },
     {
       "title": "Kingsman: The Secret Service",

@@ -5,8 +5,8 @@
       "title": "Captain America: Civil War",
       "year": 2016,
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/3wx55r7qFwo4SAdNJ9DLRQzQsAq.jpg",
-      "creator": "Joe Russo",
-      "rating": 9,
+      "creator": "Joe Russo, Anthony Russo",
+      "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/captain-america-civil-war/"
     },
     {
@@ -31,7 +31,7 @@
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/hqbgu5PI5OWmUnPp1nRUctNvFOE.jpg",
       "creator": "Gareth Edwards",
       "rating": 9,
-      "url": "https://letterboxd.com/n0j0/film/rogue-one-a-star-wars-story/"
+      "url": "https://letterboxd.com/n0j0/film/rogue-one-a-star-wars-story/1/"
     }
   ]
 }
