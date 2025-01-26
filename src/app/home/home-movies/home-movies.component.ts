@@ -38,7 +38,7 @@ export class HomeMoviesComponent implements OnInit {
 
   getSeasonalRating(movie : Movie) {
     if (Array.isArray(movie.rating)) {
-      return movie.rating[movie.activeSeason!-1];
+      return movie.rating[0];
     }
     return movie.rating
   }

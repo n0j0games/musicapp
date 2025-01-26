@@ -36,7 +36,8 @@
       "onVinyl": true,
       "genre": "Soul",
       "playTime": 317,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "year": 1976
     },
     {
       "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc",
@@ -68,7 +69,8 @@
       "rating": 11.8,
       "genre": "Rock",
       "playTime": 117,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year": 1975
     },
     {
       "url": "https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7",
@@ -100,7 +102,8 @@
       "rating": 9.6,
       "genre": "Jazz",
       "playTime": 133,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1975
     },
     {
       "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
@@ -132,7 +135,8 @@
       "rating": 9.1,
       "genre": "Rock",
       "playTime": 73,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1973
     },
     {
       "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",
@@ -165,7 +169,8 @@
       "onVinyl": true,
       "genre": "Rock",
       "playTime": 18,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1979
     },
     {
       "url": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
@@ -197,7 +202,8 @@
       "rating": 8.2,
       "genre": "Jazz",
       "playTime": 79,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1979
     },
     {
       "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
@@ -229,7 +235,8 @@
       "rating": 8.4,
       "genre": "Rock",
       "playTime": 15,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1971
     },
     {
       "url": "https://open.spotify.com/album/5EVlXlHbRQI8ybuNt4ArXI",
@@ -261,7 +268,8 @@
       "rating": 8.1,
       "genre": "Country",
       "playTime": 21,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1970
     },
     {
       "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L",
@@ -289,7 +297,8 @@
       "rating": 7.8,
       "genre": "Electronic",
       "playTime": 6,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1976
     },
     {
       "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
@@ -321,7 +330,8 @@
       "rating": 7,
       "genre": "Rock",
       "playTime": 14,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1976
     },
     {
       "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
@@ -349,7 +359,8 @@
       "rating": 7.3,
       "genre": "Disco",
       "playTime": 18,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1976
     },
     {
       "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C",
@@ -377,7 +388,8 @@
       "rating": 7.3,
       "genre": "Punk",
       "playTime": 8,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1975
     },
     {
       "url": "https://open.spotify.com/album/7LGVdC9fFwgWYaIrZwsSv6",
@@ -409,7 +421,8 @@
       "rating": 8.2,
       "genre": "Metal",
       "playTime": 15,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1970
     },
     {
       "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo",
@@ -441,7 +454,36 @@
       "rating": 9,
       "genre": "Disco",
       "playTime": 40,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1978
+    },
+    {
+      "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736b75d57d2d070c0c4afb3f9a",
+      "title": "Head Hunters",
+      "artist": "Herbie Hancock",
+      "songs": [
+        {
+          "title": "Chameleon",
+          "preview_url": "https://p.scdn.co/mp3-preview/b377de79d3feccc6b10115659358cec4f0a70375?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Watermelon Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/96385abba3c0f2377d6286a849e5bb75e0d6cd7f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sly",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c28d42036f0ffc36b5223a324e42c027c734eeb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Vein Melter",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab4b2e66519171d657d35f89210581e10fddd847?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Jazz",
+      "year" : 1973
     }
   ]
 }

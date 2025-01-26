@@ -36,7 +36,8 @@
       "onVinyl": true,
       "genre": "Alt Rock",
       "playTime": 813,
-      "playTime30Days": 13
+      "playTime30Days": 13,
+      "year" : 2007
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -101,7 +102,8 @@
       "rating": 10.8,
       "playTime": 379,
       "playTime30Days": 7,
-      "onVinyl": true
+      "onVinyl": true,
+      "year" : 2001
     },
     {
       "url": "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk",
@@ -132,7 +134,8 @@
       ],
       "rating": 9.5,
       "playTime": 171,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2007
     },
     {
       "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g",
@@ -164,7 +167,8 @@
       "rating": 9.8,
       "genre": "Rap",
       "playTime": 549,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2005
     },
     {
       "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
@@ -195,7 +199,8 @@
       ],
       "rating": 9.9,
       "playTime": 432,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2005
     },
     {
       "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
@@ -226,7 +231,8 @@
       ],
       "rating": 9.2,
       "playTime": 356,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2004
     },
     {
       "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq",
@@ -253,7 +259,8 @@
       ],
       "rating": 9.7,
       "playTime": 8,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2000
     },
     {
       "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
@@ -284,7 +291,8 @@
       ],
       "rating": 9.7,
       "playTime": 337,
-      "playTime30Days": 6
+      "playTime30Days": 6,
+      "year" : 2001
     },
     {
       "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
@@ -315,7 +323,8 @@
       ],
       "rating": 8.8,
       "playTime": 47,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2009
     },
     {
       "url": "https://open.spotify.com/album/1OnCqi7IuzjnrOh2ZNvJHd",
@@ -346,7 +355,8 @@
       ],
       "rating": 8.9,
       "playTime": 112,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2009
     },
     {
       "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
@@ -378,7 +388,8 @@
       "rating": 8.8,
       "genre": "Rap",
       "playTime": 432,
-      "playTime30Days": 5
+      "playTime30Days": 5,
+      "year" : 2008
     },
     {
       "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H",
@@ -409,7 +420,8 @@
       ],
       "rating": 8.9,
       "playTime": 165,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2008
     },
     {
       "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq",
@@ -440,7 +452,8 @@
       ],
       "rating": 8.3,
       "playTime": 19,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year": 2007
     },
     {
       "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
@@ -471,7 +484,8 @@
       ],
       "rating": 8.7,
       "playTime": 420,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2007
     },
     {
       "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z",
@@ -502,7 +516,8 @@
       ],
       "rating": 8,
       "playTime": 27,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year": 2004
     },
     {
       "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo",
@@ -533,7 +548,8 @@
       ],
       "rating": 8.1,
       "playTime": 37,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2002
     },
     {
       "url": "https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0",
@@ -564,7 +580,8 @@
       ],
       "rating": 8.3,
       "playTime": 88,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2001
     },
     {
       "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu",
@@ -591,7 +608,8 @@
       ],
       "rating": 7.7,
       "playTime": 47,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2005
     },
     {
       "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5",
@@ -618,7 +636,8 @@
       ],
       "rating": 7.8,
       "playTime": 137,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2003
     },
     {
       "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH",
@@ -645,7 +664,8 @@
       ],
       "rating": 8.5,
       "playTime": 59,
-      "playTime30Days": 8
+      "playTime30Days": 8,
+      "year" : 2000
     },
     {
       "url": "https://www.albumoftheyear.org/album/2200-tyler-the-creator-bastard.php",
@@ -653,7 +673,8 @@
       "title": "Bastard",
       "artist": "Tyler, The Creator",
       "rating": 5,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2009
     },
     {
       "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q",
@@ -684,7 +705,8 @@
       ],
       "rating": 8.5,
       "playTime": 108,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2000
     },
     {
       "url": "https://soundcloud.com/user-26289382/sets/travis-cott-chris-holloway-the-graduates-ep",
@@ -692,7 +714,8 @@
       "title": "The Graduates",
       "artist": "Travis Scott & Chris Holloway",
       "rating": 1,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2008
     },
     {
       "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX",
@@ -711,7 +734,8 @@
       ],
       "rating": 5,
       "playTime": 23,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2009
     },
     {
       "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh",
@@ -730,7 +754,8 @@
       ],
       "rating": 5,
       "playTime": 134,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2009
     },
     {
       "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk",
@@ -753,7 +778,8 @@
       ],
       "rating": 6,
       "playTime": 31,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2004
     },
     {
       "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC",
@@ -776,7 +802,8 @@
       ],
       "rating": 6,
       "playTime": 18,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2000
     },
     {
       "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA",
@@ -811,7 +838,8 @@
       ],
       "rating": 8.5,
       "playTime": 74,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2004
     },
     {
       "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk",
@@ -838,7 +866,8 @@
       ],
       "rating": 7.3,
       "playTime": 33,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2003
     },
     {
       "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM",
@@ -866,7 +895,8 @@
       "rating": 8,
       "playTime": 39,
       "genre": "Folk",
-      "playTime30Days": 19
+      "playTime30Days": 19,
+      "year" : 2007
     }
   ]
 }

@@ -54,14 +54,13 @@ export class MotyService {
     }
 
     copyMovie(movie : Movie) : Movie {
-        const item = new Movie(movie.title, movie.creator, movie.year, movie.rating, movie.url, movie.imgSrc);
-        if (movie.franchise) {
-            item.franchise = movie.franchise;
+        const item = new Movie(movie.title, movie.year, movie.rating, movie.url, movie.imgSrc);
+        if (movie.creator) {
+            item.creator = movie.creator;
         }
-        if (movie.seasons) {
-            item.seasons = movie.seasons;
+        if (movie.subtitle) {
+            item.subtitle = movie.subtitle;
         }
-        //item.activeSeason = index+1;
         return item;
     }
 

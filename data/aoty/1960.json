@@ -31,7 +31,8 @@
       "rating": 9.3,
       "genre": "Rock",
       "playTime": 28,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1969
     },
     {
       "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
@@ -63,7 +64,8 @@
       "rating": 9,
       "genre": "Rock",
       "playTime": 69,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year": 1966
     },
     {
       "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
@@ -95,7 +97,8 @@
       "rating": 8.5,
       "genre": "Rock",
       "playTime": 25,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1969
     },
     {
       "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez",
@@ -127,7 +130,8 @@
       "rating": 8.2,
       "genre": "Soul",
       "playTime": 12,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1965
     },
     {
       "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG",
@@ -159,7 +163,8 @@
       "rating": 8,
       "genre": "Soul",
       "playTime": 18,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 1968
     }
   ]
 }

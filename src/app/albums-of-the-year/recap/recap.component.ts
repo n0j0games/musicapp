@@ -132,7 +132,9 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
             return;
         }
         for (let album of this.albumsOfTheYear.albums) {
-            album.year = this.activeYear;
+            if (album.year === undefined) {
+                album.year = this.activeYear;
+            }
         }
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.slice();
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating).slice(0, this.maxAlbums)

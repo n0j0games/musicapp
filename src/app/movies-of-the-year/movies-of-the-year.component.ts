@@ -50,16 +50,12 @@ export class MoviesOfTheYearComponent implements OnInit {
   updateAggregatedMovies(query : string | null) {
     switch (query) {
       case "all":
-        this.getAlphabeticalAlbums();
+        this.getAllMoviesOrShows();
         this.aggregatedTitle = "every movie & show I've watched";
         break;
       case "all-movies":
-        this.getAllMoviesOrShows(true);
+        this.getAllMoviesOrShows();
         this.aggregatedTitle = "every movie I've watched";
-        break;
-      case "all-shows":
-        this.getAllMoviesOrShows(false);
-        this.aggregatedTitle = "every show I've watched";
         break;
       default:
         this.getMoviesByCreator(query!);
@@ -75,7 +71,7 @@ export class MoviesOfTheYearComponent implements OnInit {
     } else {
       this.aliases = [creator];
     }
-    const movies = this.getAggregatedMovies().filter(value => value.creator.toLowerCase().includes(creator) || this.includedInAliases(value.creator.toLowerCase()));
+    const movies = this.getAggregatedMovies().filter(value => value.creator!.toLowerCase().includes(creator) || this.includedInAliases(value.creator!.toLowerCase()));
     this.moviesOfTheYear = new MotyItem([], 0);
     this.moviesOfTheYear.items = movies.sort((a, b) => this.getPeakRating(b) - this.getPeakRating(a));
     this.aggregatedTitle = "my fav movies & shows by " + creator;
@@ -100,16 +96,7 @@ export class MoviesOfTheYearComponent implements OnInit {
     return motyItem.items;
   }
 
-  getAllMoviesOrShows(onlyMovies : boolean) {
-    this.getAlphabeticalAlbums();
-    if (onlyMovies) {
-      this.moviesOfTheYear!.items = this.moviesOfTheYear!.items.filter(value => value.seasons === undefined);
-    } else {
-      this.moviesOfTheYear!.items = this.moviesOfTheYear!.items.filter(value => value.seasons !== undefined);
-    }
-  }
-
-  getAlphabeticalAlbums() {
+  getAllMoviesOrShows() {
     this.moviesOfTheYear = this.motyService.getAllUnsortedMovies();
     if (this.moviesOfTheYear == null) {
       this.router.navigate(['**']).then(() => console.error("Empty list, routed to 404"));
@@ -131,7 +118,7 @@ export class MoviesOfTheYearComponent implements OnInit {
   getCurrentRating(movie : Movie) : number {
     if (Array.isArray(movie.rating)) {
       return this.activeYear !== 0 ?
-          movie.rating[this.getActiveSeason(movie)!-1] :
+          movie.rating[0] :
           Math.max(...movie.rating);
     }
     return movie.rating;
@@ -142,20 +129,6 @@ export class MoviesOfTheYearComponent implements OnInit {
       return Math.max(...movie.rating);
     }
     return movie.rating
-  }
-
-  getActiveSeason(movie : Movie) : number | undefined {
-    if (!movie.seasons || this.activeYear === 0) {
-      return undefined;
-    }
-    return movie.activeSeason;
-    /*for (const yearIndex in movie.years) {
-      if (movie.years[yearIndex] == this.activeYear) {
-        const num = <number><unknown>yearIndex;
-        return num - (-1);
-      }
-    }
-    return 0;*/
   }
 
 }

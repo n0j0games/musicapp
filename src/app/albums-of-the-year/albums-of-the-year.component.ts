@@ -40,13 +40,11 @@ export class AlbumsOfTheYearComponent implements OnInit {
       return;
     }
     for (let album of this.albumsOfTheYear.albums) {
-      album.year = this.activeYear;
+      if (album.year === undefined) {
+        album.year = this.activeYear;
+      }
     }
     this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating).filter(value => value.rating > 0);
-  }
-
-  toggleShowBad() {
-    this.showBad = !this.showBad;
   }
 
 }

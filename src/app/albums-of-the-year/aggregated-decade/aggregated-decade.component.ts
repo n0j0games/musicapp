@@ -42,7 +42,9 @@ export class AggregatedDecadeComponent implements OnInit {
     for (const item of aotyItems) {
       const albums_ = item.albums.slice();
       for (const album of albums_) {
-        album.year = item.year;
+        if (album.year === undefined) {
+          album.year = item.year;
+        }
       }
       albums = albums.concat(albums_);
     }
