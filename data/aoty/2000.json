@@ -68,7 +68,8 @@
       "rating": 10.4,
       "playTime": 387,
       "genre": "Rap",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "year" : 2004
     },
     {
       "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",

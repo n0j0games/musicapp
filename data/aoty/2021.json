@@ -818,6 +818,25 @@
       "rating": 6,
       "playTime": 56,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3fpKxPhPny52NtB8JkeNnp",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b4332749de0fcb5d33b62085",
+      "title": "Lebe wie ein Hippie",
+      "artist": "BIBIZA",
+      "songs": [
+        {
+          "title": "Foto",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b1edb47d769f4a9091a675bcdda8217a0ce32e0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fick die Welt",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a81f8a3756cac294b2d972664380d76b77f5e43?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Deutschpop"
     }
   ]
 }
