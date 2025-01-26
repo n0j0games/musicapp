@@ -30,8 +30,8 @@
       ],
       "rating": 10.6,
       "genre": "Dance Pop",
-      "playTime": 850,
-      "playTime30Days": 11,
+      "playTime": 852,
+      "playTime30Days": 13,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 10,
-      "playTime": 675,
+      "playTime": 676,
       "playTime30Days": 0,
       "color": "#191711"
     },
@@ -95,7 +95,7 @@
       ],
       "rating": 9.7,
       "playTime": 353,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#576351"
     },
     {
@@ -128,7 +128,7 @@
       "rating": 9.9,
       "onVinyl": true,
       "playTime": 466,
-      "playTime30Days": 10,
+      "playTime30Days": 8,
       "color": "#61615f"
     },
     {
@@ -161,7 +161,7 @@
       "rating": 9.5,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 931,
+      "playTime": 933,
       "playTime30Days": 0,
       "color": "#123b49"
     },
@@ -192,10 +192,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1e4ff164b4c68ca4ec006d62e2614693298fde00?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.7,
+      "rating": 10.3,
       "onVinyl": true,
-      "playTime": 357,
-      "playTime30Days": 31,
+      "playTime": 358,
+      "playTime30Days": 20,
       "color": "#c3a928"
     },
     {
@@ -227,7 +227,7 @@
       ],
       "rating": 9.6,
       "genre": "Rap",
-      "playTime": 987,
+      "playTime": 988,
       "playTime30Days": 0,
       "color": "#4e270c"
     },
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 313,
-      "playTime30Days": 8,
+      "playTime": 323,
+      "playTime30Days": 17,
       "color": "#ea3840"
     },
     {
@@ -425,7 +425,7 @@
       ],
       "rating": 8.2,
       "playTime": 274,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "color": "#28251b"
     },
     {
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 195,
+      "playTime": 197,
       "playTime30Days": 8,
       "color": "#8d410d"
     },
@@ -552,8 +552,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 164,
-      "playTime30Days": 0,
+      "playTime": 166,
+      "playTime30Days": 5,
       "color": "#0676c1"
     },
     {
@@ -617,7 +617,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 421,
+      "playTime": 422,
       "playTime30Days": 0,
       "color": "#001732"
     },
@@ -681,7 +681,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 120,
+      "playTime": 121,
       "playTime30Days": 0,
       "color": "#3d7a77"
     },
@@ -988,7 +988,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 17,
+      "playTime": 18,
       "playTime30Days": 0,
       "color": "#2c3d3c"
     },
@@ -1016,7 +1016,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 38,
+      "playTime": 39,
       "playTime30Days": 0,
       "color": "#272727"
     },
@@ -1352,8 +1352,8 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 161,
-      "playTime30Days": 7,
+      "playTime": 164,
+      "playTime30Days": 9,
       "color": "#5d3939"
     },
     {
@@ -1765,7 +1765,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 27,
+      "playTime": 28,
       "playTime30Days": 0
     },
     {

@@ -72,8 +72,8 @@
       "rating": 11,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 977,
-      "playTime30Days": 5
+      "playTime": 978,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
@@ -135,7 +135,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 257,
+      "playTime": 258,
       "playTime30Days": 0
     },
     {

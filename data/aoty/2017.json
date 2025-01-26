@@ -30,8 +30,8 @@
       ],
       "rating": 10.6,
       "genre": "Pop Rap",
-      "playTime": 734,
-      "playTime30Days": 0
+      "playTime": 748,
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh",
@@ -60,10 +60,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4671d1aa1268202225a569c0cfb029ff6e5b8e90?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.1,
+      "rating": 10.2,
       "onVinyl": true,
-      "playTime": 315,
-      "playTime30Days": 9
+      "playTime": 324,
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",
@@ -182,7 +182,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 60,
+      "playTime": 61,
       "playTime30Days": 0
     },
     {
@@ -276,7 +276,7 @@
       ],
       "rating": 8.4,
       "genre": "Rap",
-      "playTime": 629,
+      "playTime": 630,
       "playTime30Days": 0
     },
     {
@@ -734,9 +734,9 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 18,
+      "playTime": 21,
       "genre": "Spanish Folk",
-      "playTime30Days": 18
+      "playTime30Days": 21
     }
   ]
 }

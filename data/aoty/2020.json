@@ -33,7 +33,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 254,
+      "playTime": 255,
       "playTime30Days": 0
     },
     {
@@ -95,8 +95,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 297,
-      "playTime30Days": 23
+      "playTime": 299,
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m",
@@ -156,7 +156,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1746,
-      "playTime30Days": 10
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
@@ -187,7 +187,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 297,
+      "playTime": 298,
       "playTime30Days": 0
     },
     {
@@ -436,7 +436,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 203,
+      "playTime": 204,
       "playTime30Days": 0
     },
     {
@@ -529,8 +529,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 148,
-      "playTime30Days": 0
+      "playTime": 150,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv",
@@ -709,7 +709,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 41,
+      "playTime": 42,
       "playTime30Days": 0
     },
     {
@@ -865,8 +865,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 146,
-      "playTime30Days": 11
+      "playTime": 153,
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
@@ -892,7 +892,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 29,
+      "playTime": 30,
       "playTime30Days": 0
     },
     {
@@ -915,8 +915,8 @@
         }
       ],
       "rating": 6,
-      "playTime": 71,
-      "playTime30Days": 5
+      "playTime": 74,
+      "playTime30Days": 7
     }
   ]
 }

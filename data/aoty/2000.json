@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 804,
-      "playTime30Days": 8
+      "playTime": 813,
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -65,7 +65,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4e7c3cece7c9ee0d47c381cde116f93c0b1aea99?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.2,
+      "rating": 10.4,
       "playTime": 387,
       "genre": "Rap",
       "playTime30Days": 0
@@ -98,8 +98,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 377,
-      "playTime30Days": 5,
+      "playTime": 379,
+      "playTime30Days": 7,
       "onVinyl": true
     },
     {
@@ -130,7 +130,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 170,
+      "playTime": 171,
       "playTime30Days": 0
     },
     {
@@ -193,7 +193,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 431,
+      "playTime": 432,
       "playTime30Days": 0
     },
     {
@@ -282,8 +282,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 334,
-      "playTime30Days": 5
+      "playTime": 337,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
@@ -344,7 +344,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 111,
+      "playTime": 112,
       "playTime30Days": 0
     },
     {
@@ -469,7 +469,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 419,
+      "playTime": 420,
       "playTime30Days": 0
     },
     {
@@ -562,7 +562,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 87,
+      "playTime": 88,
       "playTime30Days": 0
     },
     {
@@ -589,7 +589,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 46,
+      "playTime": 47,
       "playTime30Days": 0
     },
     {
@@ -616,7 +616,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 136,
+      "playTime": 137,
       "playTime30Days": 0
     },
     {
@@ -643,8 +643,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 56,
-      "playTime30Days": 6
+      "playTime": 59,
+      "playTime30Days": 8
     },
     {
       "url": "https://www.albumoftheyear.org/album/2200-tyler-the-creator-bastard.php",
@@ -682,7 +682,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 107,
+      "playTime": 108,
       "playTime30Days": 0
     },
     {
@@ -863,9 +863,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 32,
+      "playTime": 39,
       "genre": "Folk",
-      "playTime30Days": 12
+      "playTime30Days": 19
     }
   ]
 }

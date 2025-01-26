@@ -61,7 +61,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 468,
+      "playTime": 469,
       "playTime30Days": 5,
       "color": "#687d84"
     },
@@ -98,7 +98,7 @@
       ],
       "rating": 9,
       "playTime": 154,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#3b5a22"
     },
     {
@@ -129,8 +129,8 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 251,
-      "playTime30Days": 5,
+      "playTime": 252,
+      "playTime30Days": 0,
       "color": "#8c8f95"
     },
     {
@@ -193,8 +193,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 345,
-      "playTime30Days": 0,
+      "playTime": 371,
+      "playTime30Days": 29,
       "color": "#a30a02"
     },
     {
@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 109,
+      "playTime": 110,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 234,
-      "playTime30Days": 10,
+      "playTime": 235,
+      "playTime30Days": 7,
       "color": "#a96073"
     },
     {
@@ -290,7 +290,7 @@
       ],
       "rating": 9.2,
       "playTime": 234,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#434754"
     },
     {
@@ -325,8 +325,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 237,
-      "playTime30Days": 6,
+      "playTime": 240,
+      "playTime30Days": 9,
       "color": "#872550"
     },
     {
@@ -358,7 +358,7 @@
       ],
       "rating": 9.5,
       "genre": "Rap",
-      "playTime": 1182,
+      "playTime": 1183,
       "playTime30Days": 0,
       "color": "#513a39"
     },
@@ -422,7 +422,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 101,
+      "playTime": 102,
       "playTime30Days": 0,
       "color": "#745d4b"
     },
@@ -455,8 +455,8 @@
       ],
       "rating": 8.9,
       "genre": "Psychadelic Rock",
-      "playTime": 619,
-      "playTime30Days": 10,
+      "playTime": 620,
+      "playTime30Days": 11,
       "color": "#4c4559"
     },
     {
@@ -487,7 +487,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0,
       "color": "#a96f63"
     },
@@ -515,7 +515,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 106,
+      "playTime": 107,
       "playTime30Days": 0,
       "color": "#3c5b80"
     },
@@ -743,7 +743,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 48,
+      "playTime": 49,
       "playTime30Days": 0,
       "color": "#6a9294"
     },
@@ -798,7 +798,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 27,
+      "playTime": 28,
       "playTime30Days": 0,
       "color": "#32169e"
     },
@@ -909,7 +909,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 203,
+      "playTime": 204,
       "playTime30Days": 0
     },
     {
@@ -1157,8 +1157,8 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 134,
-      "playTime30Days": 0,
+      "playTime": 139,
+      "playTime30Days": 5,
       "color": "#251c2d"
     },
     {
@@ -1310,7 +1310,7 @@
       "title": "For All The Dogs",
       "artist": "Drake",
       "rating": 4,
-      "playTime": 32,
+      "playTime": 33,
       "playTime30Days": 0
     },
     {
@@ -1614,7 +1614,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 87,
+      "playTime": 88,
       "playTime30Days": 0
     },
     {
@@ -1844,7 +1844,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 14,
+      "playTime": 15,
       "playTime30Days": 0
     },
     {

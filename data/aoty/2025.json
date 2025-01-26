@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 114,
+      "playTime": 148,
       "genre": "Latin",
-      "playTime30Days": 114
+      "playTime30Days": 148
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -62,18 +62,66 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5db2ccd87cab0fbafecb3a9fb1a36a8b1840df0d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 0,
-      "genre": "Rap"
+      "rating": 8,
+      "playTime": 124,
+      "genre": "Rap",
+      "playTime30Days": 124
     },
     {
       "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735eaab7e7b92b58e5cd862e9f",
       "title": "Gesegnet",
       "artist": "Apache 207,\nLuciano",
-      "rating": 3.0,
+      "rating": 3,
+      "playTime": 19,
+      "genre": "Deutschrap",
+      "playTime30Days": 19
+    },
+    {
+      "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bd5d937814595eeb925ab03f",
+      "title": "EUSEXUA",
+      "artist": "FKA twigs",
+      "songs": [
+        {
+          "title": "Eusexua",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f368a4c3de30d51cc4f14acc0d0c843a9f0df29?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Perfect Stranger",
+          "preview_url": "https://p.scdn.co/mp3-preview/c78dc4467c7c86fd580cd7047bbf1a9f22651f7d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Childlike Things",
+          "preview_url": "https://p.scdn.co/mp3-preview/82bfa5e0c4309a0388b03e83374093973a801409?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Girl Feels Good",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f3546a00b524a0048f7072491f4c26fbe330a1c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
       "playTime": 0,
-      "genre": "Deutschrap"
+      "genre": "Electronic"
+    },
+    {
+      "url": "https://open.spotify.com/album/3fpKxPhPny52NtB8JkeNnp",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b4332749de0fcb5d33b62085",
+      "title": "Lebe wie ein Hippie",
+      "artist": "BIBIZA",
+      "songs": [
+        {
+          "title": "Foto",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b1edb47d769f4a9091a675bcdda8217a0ce32e0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fick die Welt",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a81f8a3756cac294b2d972664380d76b77f5e43?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Deutschpop"
     }
   ]
 }
