@@ -9,7 +9,8 @@
       "artist": "Apsilon",
       "rating": 11.2,
       "album": "Haut wie Pelz",
-      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4"
+      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4",
+      "color" : "#2c414c"
     }
   ]
 }

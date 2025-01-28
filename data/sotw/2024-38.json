@@ -33,7 +33,8 @@
       "title": "Una Velita",
       "artist": "Bad Bunny",
       "rating": 10.2,
-      "url": "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF"
+      "url": "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF",
+      "color" : "#9f5012"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/02c770f024e189fd366fc65504f55add73473571?cid=941103e4872f4d3fad60066c677df34f",
@@ -81,7 +82,8 @@
       "title": "Kinder können fies sein",
       "artist": "Jassin",
       "rating": 10.4,
-      "url": "https://open.spotify.com/track/10UojyIuYmx1wX2SdD10I2"
+      "url": "https://open.spotify.com/track/10UojyIuYmx1wX2SdD10I2",
+      "color": "#958929"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5722e22b98748f355d073bbe757311ad41862800?cid=941103e4872f4d3fad60066c677df34f",

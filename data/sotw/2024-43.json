@@ -45,7 +45,8 @@
       "artist": "Berq",
       "rating": 11.0,
       "album": "berq",
-      "url": "https://open.spotify.com/track/3cNJmuEwsZpEfFj10wcvpz"
+      "url": "https://open.spotify.com/track/3cNJmuEwsZpEfFj10wcvpz",
+      "color": "#4c6c8c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7b868aef9b9a59bdec8ff3e75d3339323f9b0cab?cid=941103e4872f4d3fad60066c677df34f",
@@ -54,7 +55,8 @@
       "artist": "Berq",
       "rating": 11.3,
       "album": "berq",
-      "url": "https://open.spotify.com/track/3aeRQ9xGSLAUg1R7CZ5QKv"
+      "url": "https://open.spotify.com/track/3aeRQ9xGSLAUg1R7CZ5QKv",
+      "color": "#4c6c8c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e3dea06abe828efbc6a66b753620f809e7c7123e?cid=941103e4872f4d3fad60066c677df34f",
@@ -96,7 +98,8 @@
       "title": "Andy Warhol",
       "artist": "Schlotte, laurin",
       "rating": 10.6,
-      "url": "https://open.spotify.com/track/1ntKmi4apttIwXDvoe0fst"
+      "url": "https://open.spotify.com/track/1ntKmi4apttIwXDvoe0fst",
+      "color" : "#059e28"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/925c2075c9d7f450a92c99ae1e6f676647726093?cid=941103e4872f4d3fad60066c677df34f",

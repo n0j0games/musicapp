@@ -3,22 +3,14 @@
   "week": 0,
   "songs": [
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/b7dec2ba5d1aa02f8ea04a81b0b961b08b112239?cid=941103e4872f4d3fad60066c677df34f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730fc93fe41791c5aa51ae9645",
-      "title": "Skyfall (feat. Young Thug)",
-      "artist": "Travis Scott, Young Thug",
-      "rating": 10.7,
-      "album": "DAYS BEFORE RODEO",
-      "url": "https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=941103e4872f4d3fad60066c677df34f",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
       "title": "CHIHIRO",
       "artist": "Billie Eilish",
-      "rating": 11.9,
+      "rating": 11.8,
       "album": "HIT ME HARD AND SOFT",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj",
+      "color": "#12497e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/f3796686b48611aff7f1608e755edb6015c1b407?cid=941103e4872f4d3fad60066c677df34f",
@@ -27,7 +19,8 @@
       "artist": "MGMT",
       "rating": 11.7,
       "album": "Loss Of Life",
-      "url": "https://open.spotify.com/track/6Cx35YvicjQ7EnRUPQMaxg"
+      "url": "https://open.spotify.com/track/6Cx35YvicjQ7EnRUPQMaxg",
+      "color": "#aa6c27"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/04b62c4cfb3f6fe11b4be089c248b8ebc08cbee1?cid=941103e4872f4d3fad60066c677df34f",
@@ -35,7 +28,8 @@
       "title": "Weird World",
       "artist": "Allie X",
       "rating": 10.9,
-      "url": "https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0"
+      "url": "https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0",
+      "color" : "#3e364f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/b44d240ed53434af512d30d17d2814a1e20be658?cid=941103e4872f4d3fad60066c677df34f",
@@ -44,7 +38,8 @@
       "artist": "Paula Hartmann",
       "rating": 11.8,
       "album": "kleine Feuer",
-      "url": "https://open.spotify.com/track/0VEYuLzn5V4DhjLFOnrP9P"
+      "url": "https://open.spotify.com/track/0VEYuLzn5V4DhjLFOnrP9P",
+      "color": "#8a5e57"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/8d142964f88c64d9e53d8c41a7df85bbb19ecc79?cid=941103e4872f4d3fad60066c677df34f",
@@ -53,7 +48,8 @@
       "artist": "Charli xcx",
       "rating": 11.6,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/821def30e24f965adb480145744e4ed2a0f37903?cid=941103e4872f4d3fad60066c677df34f",
@@ -61,7 +57,8 @@
       "title": "Not Like Us",
       "artist": "Kendrick Lamar",
       "rating": 11.4,
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "color" : "#3d5257"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/bc27de27e4513edbcacddbc8078ee3542bdc8c81?cid=941103e4872f4d3fad60066c677df34f",
@@ -70,15 +67,17 @@
       "artist": "Magdalena Bay",
       "rating": 10.8,
       "album": "Imaginal Disk",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB",
+      "color": "#376893"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/703fa78f595071c3a162899f481a200d2b3f571b?cid=941103e4872f4d3fad60066c677df34f",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b21b78e708a0b8012745293d",
       "title": "Genesis.",
       "artist": "RAYE",
-      "rating": 11.5,
-      "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
+      "rating": 11.9,
+      "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN",
+      "color" : "#d06e82"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/dbf8e63c907a16d129867a56f03a0ba45bb29757?cid=941103e4872f4d3fad60066c677df34f",
@@ -87,7 +86,8 @@
       "artist": "St. Vincent",
       "rating": 10.2,
       "album": "All Born Screaming",
-      "url": "https://open.spotify.com/track/3LLpaB6tOUeSZRAkHBUEPU"
+      "url": "https://open.spotify.com/track/3LLpaB6tOUeSZRAkHBUEPU",
+      "color": "#66260e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/665d867f8417057b9b695424237d14e175c9a140?cid=941103e4872f4d3fad60066c677df34f",
@@ -96,7 +96,8 @@
       "artist": "Beyoncé",
       "rating": 10.2,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/6K2Iut8nSQigP83yvbiqi8"
+      "url": "https://open.spotify.com/track/6K2Iut8nSQigP83yvbiqi8",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a8742ce4b1598a9c702bcb582ada7617dde41e6e?cid=941103e4872f4d3fad60066c677df34f",
@@ -104,7 +105,8 @@
       "title": "One Night/All Night",
       "artist": "Justice, Tame Impala",
       "rating": 10.0,
-      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm",
+      "color": "#872d11"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/52e776cb6306d8b366e83f2e980bbf966bb32110?cid=941103e4872f4d3fad60066c677df34f",
@@ -113,7 +115,8 @@
       "artist": "Kali Uchis",
       "rating": 10.5,
       "album": "ORQUÍDEAS",
-      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
+      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx",
+      "color": "#a065b1"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ebb117c037a0d7589ac979da444e2e6e44da1b77?cid=941103e4872f4d3fad60066c677df34f",
@@ -139,7 +142,8 @@
       "title": "Rose Tint",
       "artist": "ADA",
       "rating": 10.0,
-      "url": "https://open.spotify.com/track/254Ret7ooBILmdINMe17Al"
+      "url": "https://open.spotify.com/track/254Ret7ooBILmdINMe17Al",
+      "color" : "#3b1b1a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7902142f1bb83521978a28ea6ad17e9e74c973aa?cid=941103e4872f4d3fad60066c677df34f",
@@ -156,7 +160,8 @@
       "artist": "Future, Metro Boomin, Kendrick Lamar",
       "rating": 10.1,
       "album": "WE DON'T TRUST YOU",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf",
+      "color" : "#1c0f47"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/061327e94564f0e6e287c6e42e6453bacf910a64?cid=941103e4872f4d3fad60066c677df34f",
@@ -164,16 +169,18 @@
       "title": "dark days",
       "artist": "21 Savage, Mariah the Scientist",
       "rating": 10.0,
-      "url": "https://open.spotify.com/track/18eTC8x3COqWP7od8kW3KQ"
+      "url": "https://open.spotify.com/track/18eTC8x3COqWP7od8kW3KQ",
+      "color" : "#182c40"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a6cf2eac7569e8c890121f3fbe40364013b0107b?cid=941103e4872f4d3fad60066c677df34f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dd56be9db600cc220330c7bd",
       "title": "Club classics",
       "artist": "Charli xcx",
       "rating": 10.5,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
+      "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/1a782e33f0c910129167914a89fc7b53edc52264?cid=941103e4872f4d3fad60066c677df34f",
@@ -182,7 +189,8 @@
       "artist": "Charli xcx",
       "rating": 7,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a95501e13d90974998ad04d943fdd3f96f29331e?cid=941103e4872f4d3fad60066c677df34f",
@@ -191,16 +199,18 @@
       "artist": "Charli xcx",
       "rating": 8,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
+      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7faf86e041f0fc977545aadc2b4f852eb5f145d4?cid=941103e4872f4d3fad60066c677df34f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735a933871a40c5b9e1deea8d3",
       "title": "Von dutch",
       "artist": "Charli xcx",
       "rating": 11.0,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c",
+      "color": "#cb14c9"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5be757b41702e580d4f9a6af7bc46a7b9d3545da?cid=941103e4872f4d3fad60066c677df34f",
@@ -209,7 +219,8 @@
       "artist": "Charli xcx",
       "rating": 8,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
+      "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/559ebf2f3d0f42be978363adae4c42d603c535d2?cid=941103e4872f4d3fad60066c677df34f",
@@ -218,7 +229,8 @@
       "artist": "Charli xcx",
       "rating": 7,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY"
+      "url": "https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/993ab5777d444f809ba425879f69ec902ee7c364?cid=941103e4872f4d3fad60066c677df34f",
@@ -227,16 +239,18 @@
       "artist": "Charli xcx",
       "rating": 10.4,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB"
+      "url": "https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/24f17d70cf00e3f11c8c3163b3f2e681bca65978?cid=941103e4872f4d3fad60066c677df34f",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27349339fbaeaf999c8ea5e4c88",
       "title": "Girl, so confusing featuring lorde",
       "artist": "Charli xcx, Lorde",
-      "rating": 11.9,
+      "rating": 11.8,
       "album": "Brat and it’s completely different but also still brat",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R",
+      "color": "#bdb133"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5dc202f078d5351424ca63c2d0751031f1106ba8?cid=941103e4872f4d3fad60066c677df34f",
@@ -245,7 +259,8 @@
       "artist": "Charli xcx",
       "rating": 8,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+      "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/20224e86d963a79f56461f92503dd4196d9842fb?cid=941103e4872f4d3fad60066c677df34f",
@@ -254,7 +269,8 @@
       "artist": "Charli xcx",
       "rating": 8,
       "album": "BRAT",
-      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
+      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/25e992dea95d98cbfe3d27799705dd324a392575?cid=941103e4872f4d3fad60066c677df34f",
@@ -263,7 +279,8 @@
       "artist": "Beyoncé",
       "rating": 10.1,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/652fc2fe08f02327124d3a3f438f1e9c89463528?cid=941103e4872f4d3fad60066c677df34f",
@@ -272,7 +289,8 @@
       "artist": "Beyoncé",
       "rating": 9.6,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/0hWCzWl04zT7P6vMy63XCN"
+      "url": "https://open.spotify.com/track/0hWCzWl04zT7P6vMy63XCN",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/269881d309fe75ac5d67dec06062d61d6e3dec9b?cid=941103e4872f4d3fad60066c677df34f",
@@ -281,7 +299,8 @@
       "artist": "Beyoncé, Linda Martell, Shaboozey",
       "rating": 9.3,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/32c70c11c2d3286ae0b8d8d339b9ea0d9ff12f78?cid=941103e4872f4d3fad60066c677df34f",
@@ -290,7 +309,8 @@
       "artist": "Beyoncé, Dolly Parton",
       "rating": 9.9,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/24201038f84362ecafd1be4bbb9c4de53581cf9f?cid=941103e4872f4d3fad60066c677df34f",
@@ -299,7 +319,8 @@
       "artist": "Beyoncé, Shaboozey",
       "rating": 9.9,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl"
+      "url": "https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/1da0bd44d3c5dadcc394efad4b2eee23bff8126e?cid=941103e4872f4d3fad60066c677df34f",
@@ -308,7 +329,8 @@
       "artist": "Beyoncé",
       "rating": 8,
       "album": "COWBOY CARTER",
-      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV",
+      "color": "#40469e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7bc36fe41306df91a552a41305af3d53bb5a9d84?cid=941103e4872f4d3fad60066c677df34f",
@@ -451,7 +473,8 @@
       "artist": "Paula Hartmann, Domiziana, Verifiziert",
       "rating": 10.6,
       "album": "kleine Feuer",
-      "url": "https://open.spotify.com/track/01WUvIYeuBUI5v8kd5SQ7L"
+      "url": "https://open.spotify.com/track/01WUvIYeuBUI5v8kd5SQ7L",
+      "color": "#8a5e57"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6f64a2a0fae1cc6a798efccac20de8aa496f8cbf?cid=941103e4872f4d3fad60066c677df34f",
@@ -464,12 +487,13 @@
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d265c70c01c7a6ac01992e4bf7d825d4a752fd65?cid=941103e4872f4d3fad60066c677df34f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273202c4fbb9f05eb6301f9ec25",
+      "imgUrl": "https://www.lifeonstage.de/test/wp-content/uploads/2024/01/Paula-Hartmann_TLOW_Sagwas_cover.jpg",
       "title": "sag was",
       "artist": "Paula Hartmann, t-low",
       "rating": 10.3,
       "album": "kleine Feuer",
-      "url": "https://open.spotify.com/track/6cyvFvADtpjU64L1gQWTK0"
+      "url": "https://open.spotify.com/track/6cyvFvADtpjU64L1gQWTK0",
+      "color": "#8a5e57"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2012a10995e8b87b2dd90e03dd3645327bde6f99?cid=941103e4872f4d3fad60066c677df34f",
@@ -496,7 +520,8 @@
       "artist": "NewDad",
       "rating": 10.4,
       "album": "MADRA",
-      "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ"
+      "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ",
+      "color": "#104e73"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/1d0839be99decf412993e130df6e0d9fec1c16bb?cid=941103e4872f4d3fad60066c677df34f",
@@ -595,7 +620,8 @@
       "artist": "OG Keemo",
       "rating": 10.0,
       "album": "Fieber",
-      "url": "https://open.spotify.com/track/3GvMbcVCIJjANUWkUxw9VY"
+      "url": "https://open.spotify.com/track/3GvMbcVCIJjANUWkUxw9VY",
+      "color": "#7d716f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6890d6f0749ecec39ce0bc1811b144ba1c19f7ee?cid=941103e4872f4d3fad60066c677df34f",
@@ -694,7 +720,8 @@
       "title": "Saturn",
       "artist": "SZA",
       "rating": 10.0,
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ",
+      "color" : "#4e9bb6"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0f137d3b1fce534e1c9b3adac096dc724315d5e4?cid=941103e4872f4d3fad60066c677df34f",
@@ -726,7 +753,8 @@
       "title": "Trips To Paris",
       "artist": "Badius, DESTIN CONRAD",
       "rating": 10.4,
-      "url": "https://open.spotify.com/track/6uaNE8bWMRIv3b6kQhQxHF"
+      "url": "https://open.spotify.com/track/6uaNE8bWMRIv3b6kQhQxHF",
+      "color" : "#3a343d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d6486818704f30ab9a31051744cb6a3f6680e554?cid=941103e4872f4d3fad60066c677df34f",
@@ -753,7 +781,8 @@
       "artist": "The Marías",
       "rating": 10.4,
       "album": "Submarine",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA",
+      "color": "#2c3863"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/178ed09818736eb0056e3d53ccd2162a7d8bf886?cid=941103e4872f4d3fad60066c677df34f",
@@ -773,11 +802,12 @@
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/3d21001480809fab1243caa09c2d328880f7024c?cid=941103e4872f4d3fad60066c677df34f",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ba8b74f6b8523c328be1bdd2",
+      "imgUrl": "https://images.genius.com/43878221238cd6a7fc39c453c2bfe40d.1000x1000x1.png",
       "title": "meet the grahams",
       "artist": "Kendrick Lamar",
       "rating": 10.5,
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR",
+      "color" : "#000000"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/8a68b2d27d7eabc900ab6adfc8167c5d87b20875?cid=941103e4872f4d3fad60066c677df34f",
@@ -785,7 +815,8 @@
       "title": "euphoria",
       "artist": "Kendrick Lamar",
       "rating": 10.2,
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q",
+      "color" : "#414b51"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/1e4eea2082249ef2edc50fa9c4aac68be72bd3a1?cid=941103e4872f4d3fad60066c677df34f",
@@ -869,7 +900,8 @@
       "artist": "Apsilon",
       "rating": 10.1,
       "album": "Haut wie Pelz",
-      "url": "https://open.spotify.com/track/3GOVyFJHRW3FtBHJINoRzq"
+      "url": "https://open.spotify.com/track/3GOVyFJHRW3FtBHJINoRzq",
+      "color" : "#133c2b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/dbc1b5e48e934d332f96bc1a7b6228fb49d11ec6?cid=941103e4872f4d3fad60066c677df34f",
@@ -886,7 +918,8 @@
       "title": "Lithonia",
       "artist": "Childish Gambino",
       "rating": 10.0,
-      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23",
+      "color" : "#002b00"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d52524604fe3c3d8a1939e8af3db91c3996cd775?cid=941103e4872f4d3fad60066c677df34f",
@@ -937,7 +970,8 @@
       "title": "Liebe teilen",
       "artist": "Lena&Linus, JEREMIAS, TYM, Tim Tautorat",
       "rating": 10.7,
-      "url": "https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti"
+      "url": "https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti",
+      "color" : "#fc4817"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a52c1cd15892aceeb583f8dbbe52deafef96fbb5?cid=941103e4872f4d3fad60066c677df34f",
@@ -954,7 +988,8 @@
       "artist": "Charli xcx, Billie Eilish",
       "rating": 10.8,
       "album": "Brat and it’s completely different but also still brat",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v",
+      "color": "#5b8801"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e0cacf9faae5ba4d910170a4905549bb26adf860?cid=941103e4872f4d3fad60066c677df34f",
@@ -963,7 +998,8 @@
       "artist": "Clairo",
       "rating": 10.1,
       "album": "Charm",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN",
+      "color": "#5c5212"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/f4c2b6acb957990e5e45694dc021de422a9bf6eb?cid=941103e4872f4d3fad60066c677df34f",
@@ -999,7 +1035,8 @@
       "artist": "Joey Valence & Brae",
       "rating": 10.5,
       "album": "NO HANDS",
-      "url": "https://open.spotify.com/track/5KyBEJ04Ixunyc2AJVGwbK"
+      "url": "https://open.spotify.com/track/5KyBEJ04Ixunyc2AJVGwbK",
+      "color": "#9a6c1f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d8033fc6285830f38a83afc21af22c4a97901fad?cid=941103e4872f4d3fad60066c677df34f",
@@ -1007,7 +1044,8 @@
       "title": "Perfekte Welle (feat. Juli)",
       "artist": "Verifiziert, Juli",
       "rating": 10.2,
-      "url": "https://open.spotify.com/track/473pag6qCiVAI3Yeq1dktT"
+      "url": "https://open.spotify.com/track/473pag6qCiVAI3Yeq1dktT",
+      "color" : "#355561"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/96ffb849de3824222b4ea8b5471aef514351a98d?cid=941103e4872f4d3fad60066c677df34f",
@@ -1106,9 +1144,10 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734aaf2413384c1efcc38353c6",
       "title" : "Ma Meilleure Ennemie",
       "artist" : "Stromae",
-      "rating" : 9.0,
+      "rating" : 10.1,
       "url" : "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7",
-      "album" : "Arcane League of Legends: Season 2"
+      "album" : "Arcane League of Legends: Season 2",
+      "color" : "#013469"
     }
   ]
 }

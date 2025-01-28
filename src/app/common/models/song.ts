@@ -8,7 +8,8 @@ export class Song {
               public imgUrl : string,
               public previewUrl : string,
               public rating : number,
-              public album? : string) {
+              public album? : string,
+              public color? : string) {
   }
 
 }

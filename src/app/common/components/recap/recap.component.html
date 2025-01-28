@@ -1,12 +1,12 @@
 <div class="non-mobile upper flex-column align-center justify-center gap-xl">
     <a class="recap-title" [routerLink]="['/home']"><img [src]="'assets/favicon.png'"><p class="p-b-i">rate now cry later</p></a>
-    <p class="p-b fs-recap-xl">ALBUM OF THE YEAR {{ activeYear }}</p>
+    <p class="p-b fs-recap-xl">{{ title }}</p>
 </div>
 <div class="outer" #outer>
-    <p class="mobile p-i fs-recap-xl">ALBUM OF THE YEAR {{ activeYear }}</p>
+    <p class="mobile p-i fs-recap-xl">{{ title }}</p>
     <div class="content flex-column align-center justify-center recap-gap">
         <p class="p-b-i fs-recap-number">#{{ activeAlbumNumber }}</p>
-        <img class="recap-cover" src="{{activeAlbum.imgUrl}}" alt="">
+        <img class="recap-cover" src="{{activeRecapItem?.imgUrl}}" alt="">
         <div>
             <p class="p-b-i fs-recap-artist">{{ typedArtist$ | async }}</p>
             <p class="p-b-i fs-recap-title">{{ typedText$ | async }}</p>
