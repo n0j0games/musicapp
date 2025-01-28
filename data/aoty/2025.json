@@ -46,6 +46,10 @@
       "artist": "Mac Miller",
       "songs": [
         {
+          "title": "Funny Papers",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e080e1039a0346476e92d5b2d0658e27dd053e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
           "title": "DJ's Chord Organ (feat. SZA)",
           "preview_url": "https://p.scdn.co/mp3-preview/ec4c697e044e6e06e459b86237a62e261cd68a94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
@@ -54,12 +58,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/443797e32d7179f126db68d1703eedcfd114aa0c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Funny Papers",
-          "preview_url": "https://p.scdn.co/mp3-preview/9e080e1039a0346476e92d5b2d0658e27dd053e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "Rick's Piano",
           "preview_url": "https://p.scdn.co/mp3-preview/5db2ccd87cab0fbafecb3a9fb1a36a8b1840df0d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Manakins",
+          "preview_url": "https://p.scdn.co/mp3-preview/962d3b346180aa3509717e18c84af09d6921bede?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
       "rating": 8,
