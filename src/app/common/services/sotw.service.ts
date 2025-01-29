@@ -26,12 +26,14 @@ export class SotwService {
 
   getSongsOfTheYear(year : number): SotwItem[] | null {
     const aggregatedYearItems : SotwItem[] = [];
+    console.log("A", this.sotwItems);
     for (const item of this.sotwItems) {
       if (item.year === year) {
         aggregatedYearItems.push(item);
       }
     }
     const weeksOfYear = this.getWeeksOfYear(year);
+    console.log("X", weeksOfYear, year, aggregatedYearItems.length);
     console.log(weeksOfYear, aggregatedYearItems);
     if (aggregatedYearItems.length === 0 || aggregatedYearItems.length !== weeksOfYear) {
       return null;
@@ -43,7 +45,7 @@ export class SotwService {
     if (!this.sotwList.items) {
       return 0;
     }
-    let count = 1;
+    let count = year === 0 ? 0 : 1;
     for (const item of this.sotwList.items) {
       if (parseInt(item.year.toString()) === year) {
         count++;

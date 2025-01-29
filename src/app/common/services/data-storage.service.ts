@@ -85,7 +85,10 @@ export class DataStorageService {
 
 
     fetchAggregatedSotwItems(year: number, validWeeks: number[]): Observable<(SotwItem | HttpErrorResponse)[]> {
-        const urls = validWeeks.map(week => this.fetchSingleAggregatedSotwItem(year, week));
+        console.log("YEAR", year)
+        const urls = year === 0 ?
+            [this.fetchSingleAggregatedSotwItem(0, 0)] :
+            validWeeks.map(week => this.fetchSingleAggregatedSotwItem(year, week));
         return forkJoin<(SotwItem | HttpErrorResponse)[]>(urls).pipe(
             map((value: (SotwItem | HttpErrorResponse)[]) => {
                 const res: (SotwItem | HttpErrorResponse)[] = [];

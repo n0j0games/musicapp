@@ -32,6 +32,7 @@ export class AggregatedSotyComponent implements OnInit {
     }
     this.activeYear = parseInt(year);
     const sotyItem = this.sotwService.getSongsOfTheYear(this.activeYear);
+    console.log("SOTY", this.songsOfTheYear)
     if (sotyItem == null) {
       this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
       return;
