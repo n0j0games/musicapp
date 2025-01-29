@@ -5,16 +5,16 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/76993b34a8a399ac28677e5a9ec2c4f06c9e0869?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5",
-      "title": "Shine On You Crazy Diamond, Pts. 1-5 - 2011 Remaster",
+      "title": "Shine On You Crazy Diamond, Pts. 1-5",
       "artist": "Pink Floyd",
       "rating": 0,
-      "album": "Wish You Were Here (Remastered Version)",
+      "album": "Wish You Were Here",
       "url": "https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c357bde24bdd21336d2c218f4331909bc3a458ea?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160",
-      "title": "90210 (feat. Kacy Hill)",
+      "title": "90210",
       "artist": "Travis Scott, Kacy Hill",
       "rating": 0,
       "album": "Rodeo",
@@ -122,7 +122,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
-      "title": "Touch (feat. Paul Williams)",
+      "title": "Touch",
       "artist": "Daft Punk, Paul Williams",
       "rating": 0,
       "album": "Random Access Memories",
@@ -169,7 +169,7 @@
       "title": "Mirror",
       "artist": "Lil Wayne, Bruno Mars",
       "rating": 0,
-      "album": "Tha Carter IV (Complete Edition)",
+      "album": "Tha Carter IV",
       "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
     },
     {
@@ -187,6 +187,7 @@
       "title": "L$D",
       "artist": "A$AP Rocky",
       "rating": 0,
+      "album" : "AT.LONG.LAST.A$AP",
       "url": "https://open.spotify.com/track/33BC1kE0ewdO9vaB4wbct8"
     },
     {
@@ -195,6 +196,7 @@
       "title": "Insomnia (feat. Giant Rooks)",
       "artist": "RIN, Giant Rooks",
       "rating": 0,
+      "album" : "Kleinstadt",
       "url": "https://open.spotify.com/track/3wvC1UaLIFHnUyq2u5KliM"
     },
     {
@@ -293,7 +295,6 @@
       "title": "Careless Whisper",
       "artist": "George Michael",
       "rating": 0,
-      "album": "Ladies And Gentlemen... The Best Of George Michael",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
     },
     {
@@ -347,6 +348,7 @@
       "title": "Daydreaming",
       "artist": "Radiohead",
       "rating": 0,
+      "album" : "A Moon Shaped Pool",
       "url": "https://open.spotify.com/track/1roDUhDOM7O1tWy9C6u3pP"
     },
     {
@@ -433,10 +435,9 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d69101dbd66295473706112d3edf978b70fc4550?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
-      "title": "Sweet Dreams (Are Made of This) - 2005 Remaster",
-      "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+      "title": "Sweet Dreams",
+      "artist": "Eurythmics",
       "rating": 0,
-      "album": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
@@ -454,7 +455,7 @@
       "title": "Borrowed Love (feat. Swae Lee & WizKid)",
       "artist": "Metro Boomin, Swae Lee, Wizkid",
       "rating": 0,
-      "album": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+      "album": "NOT ALL HEROES WEAR CAPES",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
     },
     {
@@ -481,7 +482,7 @@
       "title": "House Of Balloons / Glass Table Girls",
       "artist": "The Weeknd",
       "rating": 0,
-      "album": "House Of Balloons (Original)",
+      "album": "House Of Balloons",
       "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
     },
     {
@@ -550,7 +551,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
-      "title": "See You Again (feat. Kali Uchis)",
+      "title": "See You Again",
       "artist": "Tyler, The Creator, Kali Uchis",
       "rating": 0,
       "album": "Flower Boy",
@@ -559,7 +560,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/337c8d45ac66899bc2db9ef3ed9438fe1d035ab1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
-      "title": "Stairway to Heaven - Remaster",
+      "title": "Stairway to Heaven",
       "artist": "Led Zeppelin",
       "rating": 0,
       "album": "Led Zeppelin IV (Deluxe Edition)",
@@ -577,7 +578,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/93de8b97f51f60e086c141c9d27622ab37944cc3?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
-      "title": "The Chain - 2004 Remaster",
+      "title": "The Chain",
       "artist": "Fleetwood Mac",
       "rating": 0,
       "album": "Rumours",
@@ -649,10 +650,10 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5a047d1b5950ed4c508eb0703c0544a83b4190fe?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c41f4e1133b0e6c5fcf58680",
-      "title": "Moonage Daydream - 2012 Remaster",
+      "title": "Moonage Daydream",
       "artist": "David Bowie",
       "rating": 0,
-      "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
       "url": "https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho"
     },
     {
@@ -765,7 +766,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c15926498305e40937548f27399433d80d32d952?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a64fc4fc6c165980f22429db",
-      "title": "/iˈlek.trɪ.faɪ/",
+      "title": "Elecrified",
       "artist": "TYM",
       "rating": 0,
       "url": "https://open.spotify.com/track/6FZkogSuP0V5oTmnKURl6M"
@@ -800,7 +801,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ac6f34cbd904d8a177a47c15085329e7766b7f27?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8",
-      "title": "Guwop (feat. Quavo, Offset and Young Scooter)",
+      "title": "Guwop",
       "artist": "Young Thug, Quavo, Offset, Young Scooter",
       "rating": 0,
       "album": "JEFFERY",
@@ -861,19 +862,17 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/29caf0ec9a10369c9c92e0012df6dfc09ac6f4df?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cba36fe491c113e89562cc6",
-      "title": "The Hologram / Binary Sunset - From \"Star Wars: A New Hope\"",
-      "artist": "London Voices, London Symphony Orchestra, John Williams, New London Children's Choir",
+      "title": "The Hologram / Binary Sunset",
+      "artist": "John Williams",
       "rating": 0,
-      "album": "Star Wars Sampler",
       "url": "https://open.spotify.com/track/4JxgEgwk7rhipjEGgPU4gv"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d070af22e781b899b0ac537dab0fbe51097f5777?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739360d5124f68d9cf9c6a0822",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cba36fe491c113e89562cc6",
       "title": "Across the Stars",
-      "artist": "John Williams, André Rieu, Johann Strauss Orchestra, Michel Tirabosco",
+      "artist": "John Williams",
       "rating": 0,
-      "album": "The Sound of Heaven",
       "url": "https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X"
     },
     {
@@ -882,7 +881,6 @@
       "title": "Ending Song - The Promise of the World - Merry-Go-Round of Life",
       "artist": "Chieko Baisho",
       "rating": 0,
-      "album": "Howl's Moving Castle Soundtrack",
       "url": "https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"
     },
     {
