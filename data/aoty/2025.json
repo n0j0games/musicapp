@@ -108,6 +108,33 @@
       "playTime": 65,
       "genre": "Electronic",
       "playTime30Days": 64
+    },
+    {
+      "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
+      "title": "Hurry Up Tomorrow",
+      "artist": "The Weeknd",
+      "songs": [
+        {
+          "title": "Wake Me Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/f64a0c0342f2819ab4a77883de06744bd054b5de?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Abyss",
+          "preview_url": "https://p.scdn.co/mp3-preview/dcf7b19ba488d7c234d34dc7a9a5324e9bcece0b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Without a Warning",
+          "preview_url": "https://p.scdn.co/mp3-preview/16ba6a81ef0574a9e235e7877af7abced54f2d13?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hurry Up Tomorrow",
+          "preview_url": "https://p.scdn.co/mp3-preview/be79470f6a0f3c5aa46bc7db2def3da8f5ea184b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.9,
+      "playTime": 0,
+      "genre": "Pop"
     }
   ]
 }

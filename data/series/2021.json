@@ -1,0 +1,75 @@
+{
+  "year": 2021,
+  "items": [
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/88329/season/122165/1",
+      "title": "Hawkeye",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19541071",
+      "url": "https://www.serializd.com/show/Hawkeye-88329",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/A5AWgciOOq7UE4HzeXahn8VFoPD.jpg",
+      "rating": 3
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/84958/season/114355/1",
+      "title": "Loki",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/24583611",
+      "url": "https://www.serializd.com/show/Loki-84958",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg",
+      "rating": 4.5
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/115036/season/173106/1",
+      "title": "The Book of Boba Fett",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19541273",
+      "url": "https://www.serializd.com/show/The-Book-of-Boba-Fett-115036",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/3IAghjAacZKP2aomDmZsUDuq812.jpg",
+      "rating": 2
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/88396/season/156676/1",
+      "title": "The Falcon and the Winter Soldier",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19541047",
+      "url": "https://www.serializd.com/show/The-Falcon-and-the-Winter-Soldier-88396",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+      "rating": 2.5
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/71912/season/201716/2",
+      "title": "The Witcher",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/19541115",
+      "url": "https://www.serializd.com/show/The-Witcher-71912",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/e4ALUvmGoQL1LhAwdc0ORs0BSd0.jpg",
+      "rating": 2.5
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/93808/season/132907/1",
+      "title": "Tribes of Europa",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/19541010",
+      "url": "https://www.serializd.com/show/Tribes-of-Europa-93808",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+      "rating": 3
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/85271/season/114993/1",
+      "title": "WandaVision",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19541314",
+      "url": "https://www.serializd.com/show/WandaVision-85271",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "rating": 4.5
+    }
+  ]
+}

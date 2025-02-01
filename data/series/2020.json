@@ -1,0 +1,25 @@
+{
+  "year": 2020,
+  "items": [
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/1429/season/126952/4",
+      "title": "Attack on Titan",
+      "subtitle": "The Final Season",
+      "reviewHref": "https://www.serializd.com/review/24854994",
+      "url": "https://www.serializd.com/show/Attack-on-Titan-1429",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/zQkFdyhbsZAAVkCCsZRCKL4HI4r.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/4194/season/130578/7",
+      "title": "Star Wars: The Clone Wars",
+      "subtitle": "Season 7",
+      "reviewHref": "https://www.serializd.com/review/19541302",
+      "url": "https://www.serializd.com/show/Star-Wars%3A-The-Clone-Wars-4194",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/kjGRsE9fWWoXNodtiuGHDwtlHpj.jpg",
+      "rating": 5
+    }
+  ]
+}

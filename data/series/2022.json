@@ -1,0 +1,55 @@
+{
+  "year": 2022,
+  "items": [
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/94997/season/134965/1",
+      "title": "House of the Dragon",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/24583567",
+      "url": "https://www.serializd.com/show/House-of-the-Dragon-94997",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/lx6hsqWXq4aVrXPjCqnMHFrGL5u.jpg",
+      "rating": 4
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/92749/season/130604/1",
+      "title": "Moon Knight",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19541058",
+      "url": "https://www.serializd.com/show/Moon-Knight-92749",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/cs2jc3fYZluM0e0Zhf1DwDc4i3Q.jpg",
+      "rating": 3.5
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/92830/season/130857/1",
+      "title": "Obi-Wan Kenobi",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19540878",
+      "url": "https://www.serializd.com/show/Obi-Wan-Kenobi-92830",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/oPkm7vwYCa1McT8jEIFWLj393s4.jpg",
+      "rating": 3
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/83867/season/112257/1",
+      "title": "Star Wars: Andor",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/19540728",
+      "url": "https://www.serializd.com/show/Star-Wars%3A-Andor-83867",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+      "rating": 4.5
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/203085/season/295484/1",
+      "title": "Star Wars: Tales of the Jedi",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19540712",
+      "url": "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Jedi-203085",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/l6p2eG9YDt7x6OgTC2PCW8yvVqb.jpg",
+      "rating": 2.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "year": 2024,
+  "items": [
+    {
+      "year": 2024,
+      "seasonHref": "https://www.serializd.com/show/94997/season/368014/2",
+      "title": "House of the Dragon",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/24583568",
+      "url": "https://www.serializd.com/show/House-of-the-Dragon-94997",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/cQ3ZR3avsgSMpiUK7qydgVPVci6.jpg",
+      "rating": 3.5
+    },
+    {
+      "year": 2024,
+      "seasonHref": "https://www.serializd.com/show/251091/season/387075/1",
+      "title": "Star Wars: Tales of the Empire",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19540706",
+      "url": "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Empire-251091",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/qA28nLteurVboSSzltuyYt1lvlC.jpg",
+      "rating": 2
+    }
+  ]
+}

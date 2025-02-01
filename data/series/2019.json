@@ -1,0 +1,35 @@
+{
+  "year": 2019,
+  "items": [
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/87108/season/119454/1",
+      "title": "Chernobyl",
+      "subtitle": "Miniseries",
+      "reviewHref": "https://www.serializd.com/review/19540844",
+      "url": "https://www.serializd.com/show/Chernobyl-87108",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/aV0PbVnDPsfy5HFZqjiZfNNgcTU.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/1399/season/107971/8",
+      "title": "Game of Thrones",
+      "subtitle": "Season 8",
+      "reviewHref": "https://www.serializd.com/review/19541921",
+      "url": "https://www.serializd.com/show/Game-of-Thrones-1399",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/vGjvMWMPZR6bBl7IR1ySIa0Krur.jpg",
+      "rating": 0.5
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/71912/season/88731/1",
+      "title": "The Witcher",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/19541108",
+      "url": "https://www.serializd.com/show/The-Witcher-71912",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/5BvFJfi3qBxTFaLKsft202YeqGl.jpg",
+      "rating": 4.5
+    }
+  ]
+}

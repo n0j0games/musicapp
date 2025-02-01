@@ -1,0 +1,35 @@
+{
+  "year": 2023,
+  "items": [
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/114461/season/171668/1",
+      "title": "Ahsoka",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/19540738",
+      "url": "https://www.serializd.com/show/Ahsoka-114461",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/laCJxobHoPVaLQTKxc14Y2zV64J.jpg",
+      "rating": 4
+    },
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/205715/season/300323/1",
+      "title": "Gen V",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/19540596",
+      "url": "https://www.serializd.com/show/Gen-V-205715",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg",
+      "rating": 3
+    },
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/84958/season/341180/2",
+      "title": "Loki",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/24583617",
+      "url": "https://www.serializd.com/show/Loki-84958",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+      "rating": 4
+    }
+  ]
+}
