@@ -64,7 +64,7 @@
       "rating": 9.8,
       "genre": "Electropop",
       "playTime": 568,
-      "playTime30Days": 17,
+      "playTime30Days": 0,
       "color": "#5b8801"
     },
     {
@@ -228,8 +228,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 214,
-      "playTime30Days": 6,
+      "playTime": 215,
+      "playTime30Days": 5,
       "color": "#12497e"
     },
     {
@@ -261,8 +261,8 @@
       ],
       "rating": 8.8,
       "genre": "Latin",
-      "playTime": 321,
-      "playTime30Days": 13,
+      "playTime": 322,
+      "playTime30Days": 14,
       "color": "#a065b1"
     },
     {
@@ -456,7 +456,7 @@
       "rating": 8.5,
       "genre": "Indie Pop",
       "playTime": 63,
-      "playTime30Days": 19,
+      "playTime30Days": 17,
       "color": "#2c3863"
     },
     {
@@ -522,7 +522,7 @@
       "rating": 8.3,
       "genre": "Rock",
       "playTime": 54,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "color": "#357a31"
     },
     {
@@ -1027,7 +1027,7 @@
       "rating": 7.5,
       "genre": "Experimental Rap",
       "playTime": 70,
-      "playTime30Days": 24,
+      "playTime30Days": 20,
       "color": "#453f32"
     },
     {
@@ -1113,7 +1113,7 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 56,
+      "playTime": 58,
       "playTime30Days": 0,
       "color": "#012c63"
     },
@@ -1567,8 +1567,8 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 94,
-      "playTime30Days": 46,
+      "playTime": 100,
+      "playTime30Days": 52,
       "color": "#092508"
     },
     {
@@ -1689,7 +1689,7 @@
       "rating": 6,
       "genre": "R&B",
       "playTime": 55,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3",
@@ -1784,7 +1784,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 80,
+      "playTime": 81,
       "playTime30Days": 0
     },
     {
@@ -1977,7 +1977,7 @@
       "rating": 6,
       "genre": "Synthpop",
       "playTime": 94,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2115,8 +2115,8 @@
       ],
       "rating": 9.1,
       "genre": "Deutscher Indie",
-      "playTime": 198,
-      "playTime30Days": 0,
+      "playTime": 199,
+      "playTime30Days": 5,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2269,7 +2269,7 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 230,
+      "playTime": 231,
       "playTime30Days": 0,
       "color": "#332737"
     },
@@ -2303,7 +2303,7 @@
       "rating": 8.6,
       "playTime": 342,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 40,
+      "playTime30Days": 18,
       "color": "#6c6c6c"
     },
     {
@@ -2336,7 +2336,7 @@
       "rating": 9.1,
       "playTime": 353,
       "genre": "Wiener Pop",
-      "playTime30Days": 19,
+      "playTime30Days": 7,
       "color": "#c51919"
     },
     {
@@ -2392,9 +2392,9 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 169,
+      "playTime": 174,
       "genre": "Soundtrack",
-      "playTime30Days": 26
+      "playTime30Days": 23
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

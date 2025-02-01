@@ -30,9 +30,9 @@
       ],
       "rating": 10.2,
       "genre": "Alternative Rock",
-      "playTime": 411,
-      "playTime30Days": 16,
-      "year" : 1997
+      "playTime": 416,
+      "playTime30Days": 21,
+      "year": 1997
     },
     {
       "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG",
@@ -66,9 +66,9 @@
         }
       ],
       "rating": 11.7,
-      "playTime": 165,
-      "playTime30Days": 0,
-      "year" : 1992
+      "playTime": 167,
+      "playTime30Days": 6,
+      "year": 1992
     },
     {
       "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
@@ -98,9 +98,9 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 154,
-      "playTime30Days": 0,
-      "year" : 1999
+      "playTime": 157,
+      "playTime30Days": 5,
+      "year": 1999
     },
     {
       "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD",
@@ -132,7 +132,7 @@
       "rating": 9.8,
       "playTime": 127,
       "playTime30Days": 0,
-      "year" : 1998
+      "year": 1998
     },
     {
       "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
@@ -162,9 +162,9 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 81,
-      "playTime30Days": 0,
-      "year" : 1997
+      "playTime": 85,
+      "playTime30Days": 7,
+      "year": 1997
     },
     {
       "url": "https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ",
@@ -179,7 +179,7 @@
       ],
       "rating": 10.4,
       "playTime30Days": 0,
-      "year" : 1996
+      "year": 1996
     },
     {
       "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
@@ -209,9 +209,9 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 121,
-      "playTime30Days": 0,
-      "year" : 1990
+      "playTime": 122,
+      "playTime30Days": 5,
+      "year": 1990
     },
     {
       "url": "https://open.spotify.com/album/5K4YFkTizFoMOyN5Khfp7G",
@@ -243,7 +243,7 @@
       "rating": 8.9,
       "playTime": 80,
       "playTime30Days": 0,
-      "year" : 1998
+      "year": 1998
     },
     {
       "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
@@ -273,9 +273,9 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 59,
-      "playTime30Days": 5,
-      "year" : 1994
+      "playTime": 62,
+      "playTime30Days": 7,
+      "year": 1994
     },
     {
       "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt",
@@ -307,7 +307,7 @@
       "rating": 8.1,
       "playTime": 18,
       "playTime30Days": 0,
-      "year" : 1992
+      "year": 1992
     },
     {
       "url": "https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8",
@@ -339,7 +339,7 @@
       "rating": 8.5,
       "playTime": 74,
       "playTime30Days": 0,
-      "year" : 1990
+      "year": 1990
     },
     {
       "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP",
@@ -367,7 +367,7 @@
       "rating": 7.9,
       "playTime": 41,
       "playTime30Days": 0,
-      "year" : 1993
+      "year": 1993
     },
     {
       "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
@@ -395,7 +395,7 @@
       "rating": 7.5,
       "playTime": 11,
       "playTime30Days": 0,
-      "year" : 1991
+      "year": 1991
     },
     {
       "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o",
@@ -423,7 +423,7 @@
       "rating": 7,
       "playTime": 10,
       "playTime30Days": 0,
-      "year" : 1990
+      "year": 1990
     },
     {
       "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1",
@@ -455,7 +455,7 @@
       "rating": 9.3,
       "playTime": 35,
       "playTime30Days": 0,
-      "year" : 1994
+      "year": 1994
     },
     {
       "url": "https://open.spotify.com/album/14JahnBKUL2ou13zH2OOQP",
@@ -464,7 +464,7 @@
       "artist": "Eminem",
       "rating": 4,
       "playTime30Days": 0,
-      "year" : 1996
+      "year": 1996
     },
     {
       "url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul",
@@ -483,7 +483,7 @@
       ],
       "rating": 5,
       "playTime30Days": 0,
-      "year" : 1992
+      "year": 1992
     },
     {
       "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l",
@@ -507,7 +507,7 @@
       "rating": 6,
       "playTime": 42,
       "playTime30Days": 0,
-      "year" : 1999
+      "year": 1999
     },
     {
       "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y",
@@ -531,7 +531,7 @@
       "rating": 6,
       "playTime": 25,
       "playTime30Days": 0,
-      "year" : 1997
+      "year": 1997
     },
     {
       "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
@@ -554,7 +554,7 @@
       ],
       "rating": 6,
       "playTime30Days": 0,
-      "year" : 1994
+      "year": 1994
     }
   ]
 }

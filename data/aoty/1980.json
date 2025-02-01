@@ -29,9 +29,9 @@
         }
       ],
       "rating": 9.8,
-      "playTime30Days": 6,
-      "playTime": 103,
-      "year" : 1983
+      "playTime30Days": 9,
+      "playTime": 106,
+      "year": 1983
     },
     {
       "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
@@ -96,7 +96,7 @@
       "onVinyl": true,
       "playTime30Days": 0,
       "playTime": 14,
-      "year" : 1987
+      "year": 1987
     },
     {
       "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh",
@@ -128,7 +128,7 @@
       "rating": 8.5,
       "playTime": 27,
       "playTime30Days": 0,
-      "year" : 1985
+      "year": 1985
     },
     {
       "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5",
@@ -159,9 +159,9 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 88,
-      "playTime30Days": 0,
-      "year" : 1985
+      "playTime": 91,
+      "playTime30Days": 6,
+      "year": 1985
     },
     {
       "url": "https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44",
@@ -193,7 +193,7 @@
       "rating": 8.2,
       "playTime": 26,
       "playTime30Days": 0,
-      "year" : 1983
+      "year": 1983
     },
     {
       "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr",
@@ -225,7 +225,7 @@
       "rating": 8.1,
       "playTime": 139,
       "playTime30Days": 0,
-      "year" : 1983
+      "year": 1983
     },
     {
       "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh",
@@ -253,7 +253,7 @@
       "rating": 7.5,
       "onVinyl": true,
       "playTime30Days": 0,
-      "year":1985
+      "year": 1985
     },
     {
       "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh",
@@ -281,7 +281,7 @@
       "rating": 7.3,
       "playTime": 18,
       "playTime30Days": 0,
-      "year" : 1980
+      "year": 1980
     }
   ]
 }

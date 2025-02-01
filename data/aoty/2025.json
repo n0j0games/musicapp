@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 148,
+      "playTime": 163,
       "genre": "Latin",
-      "playTime30Days": 148
+      "playTime30Days": 163
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 124,
+      "playTime": 153,
       "genre": "Rap",
-      "playTime30Days": 124
+      "playTime30Days": 153
     },
     {
       "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
@@ -105,8 +105,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 0,
-      "genre": "Electronic"
+      "playTime": 65,
+      "genre": "Electronic",
+      "playTime30Days": 64
     }
   ]
 }

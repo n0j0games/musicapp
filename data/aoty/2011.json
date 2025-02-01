@@ -60,9 +60,9 @@
         }
       ],
       "rating": 10.7,
-      "playTime": 397,
+      "playTime": 401,
       "genre": "Alternative R&B",
-      "playTime30Days": 0
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7",
@@ -186,7 +186,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 145,
+      "playTime": 146,
       "playTime30Days": 6
     },
     {
@@ -245,7 +245,7 @@
       "title": "Goblin",
       "artist": "Tyler, The Creator",
       "rating": 3,
-      "playTime": 43,
+      "playTime": 44,
       "playTime30Days": 0
     },
     {

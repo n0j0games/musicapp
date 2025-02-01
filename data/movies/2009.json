@@ -8,6 +8,14 @@
       "creator": "James Cameron",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/avatar/"
+    },
+    {
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/wRxvEhv5UvJz0h4TgXpbQ3pd1hc.jpg",
+      "creator": "Quentin Tarantino",
+      "rating": 9,
+      "url": "https://letterboxd.com/n0j0/film/inglourious-basterds/"
     }
   ]
 }

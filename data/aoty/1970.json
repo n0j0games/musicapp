@@ -35,7 +35,7 @@
       "rating": 11.5,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 317,
+      "playTime": 318,
       "playTime30Days": 9,
       "year": 1976
     },
@@ -68,7 +68,7 @@
       ],
       "rating": 11.8,
       "genre": "Rock",
-      "playTime": 117,
+      "playTime": 120,
       "playTime30Days": 0,
       "year": 1975
     },
@@ -103,7 +103,7 @@
       "genre": "Jazz",
       "playTime": 133,
       "playTime30Days": 0,
-      "year" : 1975
+      "year": 1975
     },
     {
       "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
@@ -136,7 +136,7 @@
       "genre": "Rock",
       "playTime": 73,
       "playTime30Days": 0,
-      "year" : 1973
+      "year": 1973
     },
     {
       "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",
@@ -170,7 +170,7 @@
       "genre": "Rock",
       "playTime": 18,
       "playTime30Days": 0,
-      "year" : 1979
+      "year": 1979
     },
     {
       "url": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
@@ -203,7 +203,7 @@
       "genre": "Jazz",
       "playTime": 79,
       "playTime30Days": 0,
-      "year" : 1979
+      "year": 1979
     },
     {
       "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
@@ -236,7 +236,7 @@
       "genre": "Rock",
       "playTime": 15,
       "playTime30Days": 0,
-      "year" : 1971
+      "year": 1971
     },
     {
       "url": "https://open.spotify.com/album/5EVlXlHbRQI8ybuNt4ArXI",
@@ -269,7 +269,7 @@
       "genre": "Country",
       "playTime": 21,
       "playTime30Days": 0,
-      "year" : 1970
+      "year": 1970
     },
     {
       "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L",
@@ -298,7 +298,7 @@
       "genre": "Electronic",
       "playTime": 6,
       "playTime30Days": 0,
-      "year" : 1976
+      "year": 1976
     },
     {
       "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
@@ -331,7 +331,7 @@
       "genre": "Rock",
       "playTime": 14,
       "playTime30Days": 0,
-      "year" : 1976
+      "year": 1976
     },
     {
       "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9",
@@ -360,7 +360,7 @@
       "genre": "Disco",
       "playTime": 18,
       "playTime30Days": 0,
-      "year" : 1976
+      "year": 1976
     },
     {
       "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C",
@@ -389,7 +389,7 @@
       "genre": "Punk",
       "playTime": 8,
       "playTime30Days": 0,
-      "year" : 1975
+      "year": 1975
     },
     {
       "url": "https://open.spotify.com/album/7LGVdC9fFwgWYaIrZwsSv6",
@@ -422,7 +422,7 @@
       "genre": "Metal",
       "playTime": 15,
       "playTime30Days": 0,
-      "year" : 1970
+      "year": 1970
     },
     {
       "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo",
@@ -455,7 +455,7 @@
       "genre": "Disco",
       "playTime": 40,
       "playTime30Days": 0,
-      "year" : 1978
+      "year": 1978
     },
     {
       "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA",
@@ -483,7 +483,8 @@
       "rating": 0,
       "playTime": 0,
       "genre": "Jazz",
-      "year" : 1973
+      "year": 1973,
+      "playTime30Days": 0
     }
   ]
 }
