@@ -16,6 +16,8 @@ import {MotyService} from "./moty.service";
     providedIn: 'root'
 })
 export class DataStorageService {
+    
+    GITHUB_URL = 'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/vincc/data/'
 
     constructor(private http: HttpClient,
                 private sotwService: SotwService,
@@ -26,7 +28,7 @@ export class DataStorageService {
 
     fetchAliasList(): Observable<AliasList> {
         return this.http.get<AliasList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/artists.json',
+            this.GITHUB_URL + 'artists.json',
         ).pipe(
             tap((value: AliasList) => {
                 if (value != null) {
@@ -43,7 +45,7 @@ export class DataStorageService {
 
     fetchSotwList(): Observable<SotwList> {
         return this.http.get<SotwList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw-list.json',
+            this.GITHUB_URL + 'sotw-list.json',
         ).pipe(
             tap((value: SotwList) => {
                 if (value != null) {
@@ -60,7 +62,7 @@ export class DataStorageService {
 
     fetchSotwItem(week: number, year: number): Observable<SotwItem> {
         return this.http.get<SotwItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw/' + year + '-' + this.createWeekString(week) + '.json',
+            this.GITHUB_URL + 'sotw/' + year + '-' + this.createWeekString(week) + '.json',
         ).pipe(
             tap((value: SotwItem) => {
                 if (value != null) {
@@ -77,7 +79,7 @@ export class DataStorageService {
 
     fetchSingleAggregatedSotwItem(year : number, week : number) : Observable<SotwItem|HttpErrorResponse> {
         return this.http.get<SotwItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw/' + year + '-' + this.createWeekString(week) + '.json',
+            this.GITHUB_URL + 'sotw/' + year + '-' + this.createWeekString(week) + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
@@ -110,7 +112,7 @@ export class DataStorageService {
 
     fetchAotyList(): Observable<AotyList> {
         return this.http.get<AotyList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty-list.json',
+            this.GITHUB_URL + 'aoty-list.json',
         ).pipe(
             tap((value: AotyList) => {
                 if (value != null) {
@@ -127,7 +129,7 @@ export class DataStorageService {
 
     fetchAotyItem(year: number): Observable<AotyItem> {
         return this.http.get<AotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
+            this.GITHUB_URL + 'aoty/' + year + '.json',
         ).pipe(
             tap((value: AotyItem) => {
                 if (value != null) {
@@ -188,7 +190,7 @@ export class DataStorageService {
 
     fetchSingleMotyItem(url: number): Observable<MotyItem | HttpErrorResponse> {
         return this.http.get<MotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/movies/' + url + '.json',
+            this.GITHUB_URL + 'movies/' + url + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
@@ -196,7 +198,7 @@ export class DataStorageService {
 
     fetchSingleSeriesItem(url: number): Observable<MotyItem | HttpErrorResponse> {
         return this.http.get<MotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/series/' + url + '.json',
+            this.GITHUB_URL + 'series/' + url + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
@@ -225,7 +227,7 @@ export class DataStorageService {
 
     fetchSingleAggregatedAotyItem(year: number): Observable<AotyItem | HttpErrorResponse> {
         return this.http.get<AotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
+            this.GITHUB_URL + 'aoty/' + year + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
