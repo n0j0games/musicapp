@@ -26,6 +26,7 @@ export class HomeMoviesComponent implements OnInit {
   }
 
   motyItemsGroupedByYear : { year : number, week? : number, preview? : string[] }[] = [];
+  seriesItemsGroupedByYear : { year : number, week? : number, preview? : string[] }[] = [];
 
   ngOnInit() {
 
@@ -33,6 +34,12 @@ export class HomeMoviesComponent implements OnInit {
     motyItems.sort((a, b) => b.year! - a.year!);
     for (const motyItem of motyItems) {
       this.motyItemsGroupedByYear.push({ year : motyItem.year!, preview : motyItem.items.sort((a, b) => this.getSeasonalRating(b) - this.getSeasonalRating(a)).map(value => value.imgSrc).slice(0, 4) });
+    }
+
+    const seriesItems : MotyItem[] = this.motyService.getAllSeries();
+    seriesItems.sort((a, b) => b.year! - a.year!);
+    for (const seriesItem of seriesItems) {
+      this.seriesItemsGroupedByYear.push({ year : seriesItem.year!, preview : seriesItem.items.sort((a, b) => this.getSeasonalRating(b) - this.getSeasonalRating(a)).map(value => value.imgSrc).slice(0, 4) });
     }
   }
 

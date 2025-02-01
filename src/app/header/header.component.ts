@@ -43,7 +43,7 @@ export class HeaderComponent implements OnInit {
     this.sotwListChangedListener();
     this.router.events.subscribe((value) => {
       if (value instanceof NavigationEnd) {
-        this.onMovieSite = value.url.startsWith("/moty") || value.url.startsWith("/movie-home")
+        this.onMovieSite = value.url.startsWith("/moty") || value.url.startsWith("/movie-home") || value.url.startsWith("/series")
       }
     })
   }

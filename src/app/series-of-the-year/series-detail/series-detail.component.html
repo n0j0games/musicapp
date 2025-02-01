@@ -1,0 +1,20 @@
+<div [ngClass]="{ 'halfTransparent' : false }" class="flex-row align-center gap-l">
+    <p class="p-b-i fs-xl counter">{{ index }}</p>
+    <img class="movie-poster" src="{{movie.imgSrc}}" alt="">
+    <div class="flex-column align-start gap-s">
+        <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">
+            <a
+                    class="p-b-i movies-text fs-xl left-text max-width-800"
+                    href="{{movie.url}}"
+                    target="_blank"
+            >
+                {{ movie.title }}<span class="p-i" *ngIf="activeSeason">: Season {{activeSeason}}</span>
+                <p class="left-text fs-m p-b-i max-width-800" *ngIf="movie.subtitle !== undefined">{{ movie.subtitle }}</p>
+            </a>
+        </div>
+        <div class="flex-row align-center gap-s">
+            <app-rating [rating]="movie.rating" [activeSeason]="activeSeason"></app-rating>
+        </div>
+
+    </div>
+</div>

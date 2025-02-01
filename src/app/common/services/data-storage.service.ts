@@ -142,6 +142,28 @@ export class DataStorageService {
         );
     }
 
+    fetchSeriesItems(): Observable<(MotyItem | HttpErrorResponse)[]> {
+        const rawUrls = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
+        const urls = rawUrls.map(url => this.fetchSingleSeriesItem(url));
+        return forkJoin<(MotyItem | HttpErrorResponse)[]>(urls).pipe(
+            map((value: (MotyItem | HttpErrorResponse)[]) => {
+                const res: (MotyItem | HttpErrorResponse)[] = [];
+                for (const item of value) {
+                    if (!(item instanceof HttpErrorResponse)) {
+                        res.push(item)
+                    }
+                }
+                return res;
+            }),
+            tap((value: (MotyItem | HttpErrorResponse)[]) => {
+                if (value != null) {
+                    console.log("Requested SERIES items", value)
+                    this.motyService.setSeriesOfTheYear(value);
+                }
+            })
+        )
+    }
+
     fetchMotyItems(): Observable<(MotyItem | HttpErrorResponse)[]> {
         const rawUrls = [1977, 1980, 1983, 1990, 1993, 1994, 1997, 1998, 2001, 2003, 2004, 2005, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
         const urls = rawUrls.map(url => this.fetchSingleMotyItem(url));
@@ -167,6 +189,14 @@ export class DataStorageService {
     fetchSingleMotyItem(url: number): Observable<MotyItem | HttpErrorResponse> {
         return this.http.get<MotyItem>(
             'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/movies/' + url + '.json',
+        ).pipe(
+            catchError((err, caught) => of(err))
+        );
+    }
+
+    fetchSingleSeriesItem(url: number): Observable<MotyItem | HttpErrorResponse> {
+        return this.http.get<MotyItem>(
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/series/' + url + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );

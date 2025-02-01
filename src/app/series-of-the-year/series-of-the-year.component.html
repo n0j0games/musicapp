@@ -1,0 +1,13 @@
+<p *ngIf="!aggregatedTitle" class="p-i fs-xl title-gap-b"><span class="p-b-i"> my fav movies & shows of {{ seriesOfTheYear?.year }}</span><span *ngIf="seriesOfTheYear?.year === thisYear"> (so far)</span></p>
+<p *ngIf="aggregatedTitle" class="p-b-i fs-xl title-gap-b">{{ aggregatedTitle }}</p>
+<div *ngIf="seriesOfTheYear !== null" class="list gap-xl">
+    <app-series-detail
+            *ngFor="let series of seriesOfTheYear.items; index as i"
+            [movie]="series"
+            [index]="i+1"
+            [activeSeason]="0"
+    ></app-series-detail>
+</div>
+<div *ngIf="seriesOfTheYear === null">
+    <p> Something went wrong! </p>
+</div>

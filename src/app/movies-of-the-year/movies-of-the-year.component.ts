@@ -73,7 +73,7 @@ export class MoviesOfTheYearComponent implements OnInit {
     }
     const movies = this.getAggregatedMovies().filter(value => value.creator!.toLowerCase().includes(creator) || this.includedInAliases(value.creator!.toLowerCase()));
     this.moviesOfTheYear = new MotyItem([], 0);
-    this.moviesOfTheYear.items = movies.sort((a, b) => this.getPeakRating(b) - this.getPeakRating(a));
+    this.moviesOfTheYear.items = movies.sort((a, b) => b.rating - a.rating);
     this.aggregatedTitle = "my fav movies & shows by " + creator;
   }
 
@@ -102,7 +102,7 @@ export class MoviesOfTheYearComponent implements OnInit {
       this.router.navigate(['**']).then(() => console.error("Empty list, routed to 404"));
       return;
     }
-    this.moviesOfTheYear.items = this.moviesOfTheYear.items.sort((a, b) => this.getPeakRating(b) - this.getPeakRating(a));
+    this.moviesOfTheYear.items = this.moviesOfTheYear.items.sort((a, b) => b.rating - a.rating);
   }
 
   updateMovies(year : string | null) {
@@ -112,23 +112,7 @@ export class MoviesOfTheYearComponent implements OnInit {
       this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
       return;
     }
-    this.moviesOfTheYear.items = this.moviesOfTheYear.items.sort((a, b) => this.getCurrentRating(b) - this.getCurrentRating(a));
-  }
-
-  getCurrentRating(movie : Movie) : number {
-    if (Array.isArray(movie.rating)) {
-      return this.activeYear !== 0 ?
-          movie.rating[0] :
-          Math.max(...movie.rating);
-    }
-    return movie.rating;
-  }
-
-  getPeakRating(movie : Movie) {
-    if (Array.isArray(movie.rating)) {
-      return Math.max(...movie.rating);
-    }
-    return movie.rating
+    this.moviesOfTheYear.items = this.moviesOfTheYear.items.sort((a, b) => b.rating - a.rating);
   }
 
 }

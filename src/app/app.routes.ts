@@ -20,11 +20,13 @@ import {HomeMoviesComponent} from "./home/home-movies/home-movies.component";
 import {HomeNewComponent} from "./home/home-new/home-new.component";
 import {AotyRecapComponent} from "./albums-of-the-year/aoty-recap/aoty-recap.component";
 import {SotwRecapComponent} from "./songs-of-the-week/sotw-recap/sotw-recap.component";
+import {SeriesOfTheYearComponent} from "./series-of-the-year/series-of-the-year.component";
+import {SeriesResolverService} from "./common/resolver/series-resolver.service";
 
 export const routes: Routes = [
   { path: 'home', component: HomeNewComponent, resolve: [AotyResolverService, AotyAggregateResolverService] },
   { path: 'home/list', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
-  { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService] },
+  { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService, SeriesResolverService] },
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty/:year', component: AlbumsOfTheYearComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty/recap/:year', component: AotyRecapComponent, resolve: [AotyItemResolverService, SotwResolverService, AotyResolverService] },
@@ -33,7 +35,9 @@ export const routes: Routes = [
   { path: 'aoty-decade/:decade', component: AggregatedDecadeComponent, resolve: [AotyResolverService, SotwResolverService, AotyDecadeAggregateResolverService] },
   { path: 'aoty-lists/:query',  component: AggregatedVariousComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
   { path: 'moty/:year', component: MoviesOfTheYearComponent, resolve: [MotyResolverService] },
+  { path: 'series/:year', component: SeriesOfTheYearComponent, resolve: [SeriesResolverService] },
   { path: 'moty-lists/:query', component: MoviesOfTheYearComponent, resolve: [MotyResolverService] },
+  { path: 'series-lists/:query', component: SeriesOfTheYearComponent, resolve: [SeriesResolverService] },
   { path: 'error/404', component: NotFoundComponent, resolve: [SotwResolverService, AotyResolverService] },
   { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: '**', redirectTo: 'error/404', pathMatch: 'full' },

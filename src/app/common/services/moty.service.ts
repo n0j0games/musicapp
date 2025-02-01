@@ -11,12 +11,33 @@ export class MotyService {
     private motyItems : MotyItem[] = [];
     private unsortedMotyItems : MotyItem = new MotyItem([], 0);
 
+    private seriesItems : MotyItem[] = [];
+    private unsortedSeriesItems : MotyItem = new MotyItem([], 0);
+
+    getAllSeries() {
+        return this.seriesItems;
+    }
+
     getAllMovies() {
         return this.motyItems;
     }
 
     getAllUnsortedMovies() {
         return new MotyItem(this.unsortedMotyItems.items.slice(), 0);
+    }
+
+    getAllUnsortedSeries() {
+        return new MotyItem(this.unsortedSeriesItems.items.slice(), 0);
+    }
+
+    getSeriesOfTheYear(year: number): MotyItem | null {
+        for (const item of this.seriesItems) {
+            if (item.year == year) {
+                console.log(item);
+                return item;
+            }
+        }
+        return null;
     }
 
     getMoviesOfTheYear(year: number): MotyItem | null {
@@ -38,9 +59,24 @@ export class MotyService {
         }
     }
 
+    setSeriesOfTheYear(motyItems: (MotyItem|HttpErrorResponse)[]) {
+        for (const motyItem of motyItems) {
+            const tempItem : MotyItem = <MotyItem>motyItem;
+            for (const item of tempItem.items) {
+                this.addToSeriesOfTheYear(item)
+            }
+        }
+    }
+
+
     addToMoviesOfTheYear(movie: Movie) {
         this.addMovieToYear(movie, movie.year);
         this.unsortedMotyItems.items.push(movie);
+    }
+
+    addToSeriesOfTheYear(movie: Movie) {
+        this.addSerieToYear(movie, movie.year);
+        this.unsortedSeriesItems.items.push(movie);
     }
 
     addMovieToYear(movie : Movie, year : number) {
@@ -51,6 +87,16 @@ export class MotyService {
             }
         }
         this.motyItems.push(new MotyItem([this.copyMovie(movie)], year));
+    }
+
+    addSerieToYear(movie : Movie, year : number) {
+        for (const item in this.seriesItems) {
+            if (this.seriesItems[item].year === year) {
+                this.seriesItems[item].items.push(this.copyMovie(movie));
+                return;
+            }
+        }
+        this.seriesItems.push(new MotyItem([this.copyMovie(movie)], year));
     }
 
     copyMovie(movie : Movie) : Movie {

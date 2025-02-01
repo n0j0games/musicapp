@@ -40,8 +40,12 @@ export class ItemComponent implements OnInit {
       this.routerLink = ['/aoty-lists', this.queryParam];
     } else if (this.isAoty === "MOTY") {
       this.routerLink = ['/moty', this.item.year.toString()];
+    } else if (this.isAoty === "SERIES") {
+      this.routerLink = ['/series', this.item.year.toString()];
     } else if (this.isAoty === "MLIST") {
       this.routerLink = ['/moty-lists', this.queryParam];
+    } else if (this.isAoty === "SLIST") {
+      this.routerLink = ['/series-lists', this.queryParam];
     } else {
       throw new Error("unknown type");
     }

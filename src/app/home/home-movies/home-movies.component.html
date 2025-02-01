@@ -6,26 +6,20 @@
             <app-item
                     [item]="{year: 0, week: 0}"
                     [isAoty]="'MLIST'"
-                    [queryParam]="'all'"
-                    [text]="'all movies & shows'"
-            ></app-item>
-            <app-item
-                    [item]="{year: 0, week: 0}"
-                    [isAoty]="'MLIST'"
                     [queryParam]="'all-movies'"
                     [text]="'all movies'"
             ></app-item>
-            <!--<app-item
+            <app-item
                     [item]="{year: 0, week: 0}"
-                    [isAoty]="'MLIST'"
+                    [isAoty]="'SLIST'"
                     [queryParam]="'all-shows'"
                     [text]="'all shows'"
-            ></app-item>-->
+            ></app-item>
         </div>
     </div>
 
     <div class="flex-column gap-xl">
-        <p class="p-b-i fs-xl">my fav movies & shows of each year</p>
+        <p class="p-b-i fs-xl">my fav movies of each year</p>
         <app-item
                 *ngFor="let item of motyItemsGroupedByYear"
                 [item]="item"
@@ -35,5 +29,18 @@
                 [isDecade]="false"
         ></app-item>
     </div>
+
+    <div class="flex-column gap-xl">
+        <p class="p-b-i fs-xl">my fav shows of each year</p>
+        <app-item
+                *ngFor="let item of seriesItemsGroupedByYear"
+                [item]="item"
+                [isAoty]="'SERIES'"
+                [queryParam]="''"
+                [text]="''"
+                [isDecade]="false"
+        ></app-item>
+    </div>
+
 
 </div>

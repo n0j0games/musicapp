@@ -67,9 +67,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 153,
+      "playTime": 155,
       "genre": "Rap",
-      "playTime30Days": 153
+      "playTime30Days": 155
     },
     {
       "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
@@ -132,9 +132,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/be79470f6a0f3c5aa46bc7db2def3da8f5ea184b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.9,
-      "playTime": 0,
-      "genre": "Pop"
+      "rating": 8,
+      "playTime": 213,
+      "genre": "Pop",
+      "playTime30Days": 130
     }
   ]
 }
