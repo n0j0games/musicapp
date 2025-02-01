@@ -3,7 +3,13 @@
   "items": [
     {
       "year": 2025,
-      "decade": 2020
+      "decade": 2020,
+      "preview": [
+        "https://i.scdn.co/image/ab67616d0000b2739a9c4cd69a6f514dfbb7305a",
+        "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
+        "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+        "https://i.scdn.co/image/ab67616d0000b273bd5d937814595eeb925ab03f"
+      ]
     },
     {
       "year": 2024,
