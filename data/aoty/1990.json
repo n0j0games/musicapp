@@ -336,7 +336,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6ff6a2fb56482e1c614395df00242e30f7c5e12f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.5,
+      "rating": 8.8,
       "playTime": 74,
       "playTime30Days": 0,
       "year": 1990
@@ -555,6 +555,38 @@
       "rating": 6,
       "playTime30Days": 0,
       "year": 1994
+    },
+    {
+      "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b6f13e40fbd883767da606bc",
+      "title": "Emergency on Planet Earth (Remastered)",
+      "artist": "Jamiroquai",
+      "songs": [
+        {
+          "title": "When You Gonna Learn?",
+          "preview_url": "https://p.scdn.co/mp3-preview/91e2be580463257130eb8ea0af8267785fb92003?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Too Young to Die",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c4135d1033011c66c7ad67be1ee49ecacf0a162?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Emergency on Planet Earth",
+          "preview_url": "https://p.scdn.co/mp3-preview/22398ec0ee69d77062e3e4e472403a8eeb6e79e5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blow Your Mind",
+          "preview_url": "https://p.scdn.co/mp3-preview/95d9f972111818b03a1b9535d42e1f146709dfd6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Revolution 1993",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e2e00030fa2f8788047ebd3746f1caf7390e56c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.8,
+      "playTime": 0,
+      "genre": "Funk",
+      "year" : 1993
     }
   ]
 }
