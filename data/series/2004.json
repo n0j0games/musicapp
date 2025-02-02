@@ -1,0 +1,35 @@
+{
+  "year": 2004,
+  "items": [
+    {
+      "year": 2004,
+      "seasonHref": "https://www.serializd.com/show/693/season/2058/1",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935764",
+      "url": "https://www.serializd.com/review/25935764",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/loERayOsYU1xdTH2JLOuug1vHIK.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2004,
+      "seasonHref": "https://www.serializd.com/show/2290/season/7141/1",
+      "title": "Stargate Atlantis",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935317",
+      "url": "https://www.serializd.com/review/25935317",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/xeefYfz1O1JPbe2kxfz350EU7oo.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2004,
+      "seasonHref": "https://www.serializd.com/show/4629/season/14147/8",
+      "title": "Stargate SG-1",
+      "subtitle": "Season 8",
+      "reviewHref": "https://www.serializd.com/review/25935257",
+      "url": "https://www.serializd.com/review/25935257",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/47vubDA11B0y6edXbgVunQh9SBF.jpg",
+      "rating": 9
+    }
+  ]
+}

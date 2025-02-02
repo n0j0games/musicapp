@@ -1,0 +1,75 @@
+{
+  "year": 2010,
+  "items": [
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/1396/season/3575/3",
+      "title": "Breaking Bad",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25934130",
+      "url": "https://www.serializd.com/review/25934130",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/693/season/6928/7",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 7",
+      "reviewHref": "https://www.serializd.com/review/25935904",
+      "url": "https://www.serializd.com/review/25935904",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/8NzsZHHuCPITnaqoHw9ZvaNccy9.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43381/9",
+      "title": "Naruto Shippūden",
+      "subtitle": "Past Arc: The Locus of Konoha",
+      "reviewHref": "https://www.serializd.com/review/25934516",
+      "url": "https://www.serializd.com/review/25934516",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/zIoec9Wa0WtRhwSl9pTrBl9mUOb.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43380/8",
+      "title": "Naruto Shippūden",
+      "subtitle": "Two Saviors",
+      "reviewHref": "https://www.serializd.com/review/25934507",
+      "url": "https://www.serializd.com/review/25934507",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/g7yAuliC36kfy2vliU8yf9WPZCG.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43379/7",
+      "title": "Naruto Shippūden",
+      "subtitle": "The Six-Tailed Demon Slug",
+      "reviewHref": "https://www.serializd.com/review/25934480",
+      "url": "https://www.serializd.com/review/25934480",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ayXMHRPqT6LQlrAiNVL0eghdQL8.jpg",
+      "rating": 4
+    },
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/4194/season/12280/3",
+      "title": "Star Wars: The Clone Wars",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935092",
+      "url": "https://www.serializd.com/review/25935092",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/eQEuu8Fq2yjEftEgoKCIdWXtRNo.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2010,
+      "seasonHref": "https://www.serializd.com/show/5148/season/15028/2",
+      "title": "Stargate Universe",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936183",
+      "url": "https://www.serializd.com/review/25936183",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3vGy8NVfX0bis3YyTwJw3z5JAAQ.jpg",
+      "rating": 8
+    }
+  ]
+}

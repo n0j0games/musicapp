@@ -20,6 +20,86 @@
       "url": "https://www.serializd.com/show/Star-Wars%3A-The-Clone-Wars-4194",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/kjGRsE9fWWoXNodtiuGHDwtlHpj.jpg",
       "rating": 10
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/60059/season/136162/5",
+      "title": "Better Call Saul",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25937291",
+      "url": "https://www.serializd.com/review/25937291",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/rW3PaeEDNB7H7pKrRfeTdSn647b.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/76669/season/143700/3",
+      "title": "Elite",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25940110",
+      "url": "https://www.serializd.com/review/25940110",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/1403/season/147976/7",
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "subtitle": "Season 7",
+      "reviewHref": "https://www.serializd.com/review/25934991",
+      "url": "https://www.serializd.com/review/25934991",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qM95u55G8xVyfgoSZ2qTlY3MDl6.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/34307/season/142132/11",
+      "title": "Shameless",
+      "subtitle": "Season 11",
+      "reviewHref": "https://www.serializd.com/review/25934869",
+      "url": "https://www.serializd.com/review/25934869",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/79680/season/104013/1",
+      "title": "Snowpiercer",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25938670",
+      "url": "https://www.serializd.com/review/25938670",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/rTCHhQ5S5e1Boz8qmEHIJxYrRbE.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/76479/season/154681/2",
+      "title": "The Boys",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25938780",
+      "url": "https://www.serializd.com/review/25938780",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/63639/season/165228/5",
+      "title": "The Expanse",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25935500",
+      "url": "https://www.serializd.com/review/25935500",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/aiGapvUmuErjFochQMB3axeb7OZ.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2020,
+      "seasonHref": "https://www.serializd.com/show/82856/season/153254/2",
+      "title": "The Mandalorian",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935048",
+      "url": "https://www.serializd.com/review/25935048",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/pQ33MqEUEQGChyknPtvWODUza1q.jpg",
+      "rating": 7
     }
   ]
 }

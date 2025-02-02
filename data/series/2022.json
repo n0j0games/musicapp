@@ -50,6 +50,66 @@
       "url": "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Jedi-203085",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/l6p2eG9YDt7x6OgTC2PCW8yvVqb.jpg",
       "rating": 5
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/60059/season/243392/6",
+      "title": "Better Call Saul",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25937295",
+      "url": "https://www.serializd.com/review/25937295",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/124834/season/193509/1",
+      "title": "Heartstopper",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25840025",
+      "url": "https://www.serializd.com/review/25840025",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/6WULLvLZYQX3xNfs5S9H6BVFdgD.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/155094/season/238956/1",
+      "title": "jeen-yuhs: A Kanye Trilogy",
+      "subtitle": "jeen-yuhs: A Kanye Trilogy",
+      "reviewHref": "https://www.serializd.com/review/25934075",
+      "url": "https://www.serializd.com/review/25934075",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9UdwCTEEE9hocJdgqBktVlmL2tE.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/66732/season/163313/4",
+      "title": "Stranger Things",
+      "subtitle": "Stranger Things 4",
+      "reviewHref": "https://www.serializd.com/review/24930821",
+      "url": "https://www.serializd.com/review/24930821",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/5xiUqrCFgT6wU2KzynZMu5CXkM6.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/76479/season/215686/3",
+      "title": "The Boys",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25938784",
+      "url": "https://www.serializd.com/review/25938784",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2022,
+      "seasonHref": "https://www.serializd.com/show/125910/season/309029/2",
+      "title": "Young Royals",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935552",
+      "url": "https://www.serializd.com/review/25935552",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/yLm73dc5q1LENKvF9sgu1rIos56.jpg",
+      "rating": 8
     }
   ]
 }

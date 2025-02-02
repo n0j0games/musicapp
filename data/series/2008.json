@@ -1,0 +1,75 @@
+{
+  "year": 2008,
+  "items": [
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/1396/season/3572/1",
+      "title": "Breaking Bad",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25934141",
+      "url": "https://www.serializd.com/review/25934141",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/1BP4xYv9ZG4ZVHkL7ocOziBbSYH.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/693/season/6926/5",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25935823",
+      "url": "https://www.serializd.com/review/25935823",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/bkoReBnRmXzHXMoGLCQI84lisQR.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43377/5",
+      "title": "Naruto Shippūden",
+      "subtitle": "The Three-Tailed Demon Turtle",
+      "reviewHref": "https://www.serializd.com/review/25934413",
+      "url": "https://www.serializd.com/review/25934413",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/wcXrlA0knmk5U5e6rKoSh1Z8fan.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43376/4",
+      "title": "Naruto Shippūden",
+      "subtitle": "Immortal Devastators - Hidan & Kakuzu",
+      "reviewHref": "https://www.serializd.com/review/25934388",
+      "url": "https://www.serializd.com/review/25934388",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/szBCeaXBvKM0azDmJMGTkO02I9f.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43375/3",
+      "title": "Naruto Shippūden",
+      "subtitle": "Twelve Guardian Ninja",
+      "reviewHref": "https://www.serializd.com/review/25934364",
+      "url": "https://www.serializd.com/review/25934364",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/12NzQ0E270gaNU8wbpkpUJz7N3t.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/4194/season/12278/1",
+      "title": "Star Wars: The Clone Wars",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935079",
+      "url": "https://www.serializd.com/review/25935079",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/2rNUrLVj88W1Aw0sLAg45KNB7Q.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2008,
+      "seasonHref": "https://www.serializd.com/show/2290/season/7145/5",
+      "title": "Stargate Atlantis",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25935349",
+      "url": "https://www.serializd.com/review/25935349",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ysIj54F4yzl7KnhfuZDTwcA6Fc1.jpg",
+      "rating": 7
+    }
+  ]
+}

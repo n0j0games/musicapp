@@ -10,6 +10,66 @@
       "url": "https://www.serializd.com/show/Attack-on-Titan-1429",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/AgaD7s1vgIf4Soi3flAKN6Bte6u.jpg",
       "rating": 8
+    },
+    {
+      "year": 2013,
+      "seasonHref": "https://www.serializd.com/show/1399/season/3626/3",
+      "title": "Game of Thrones",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25934192",
+      "url": "https://www.serializd.com/review/25934192",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/5MkZjRnCKiIGn3bkXrXfndEzqOU.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2013,
+      "seasonHref": "https://www.serializd.com/show/1403/season/3648/1",
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25934930",
+      "url": "https://www.serializd.com/review/25934930",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/1CaKyPcZvzzMSwbNFJObxNsxTkK.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2013,
+      "seasonHref": "https://www.serializd.com/show/31910/season/68281/15",
+      "title": "Naruto Shippūden",
+      "subtitle": "The Fourth Great Ninja War - Sasuke & Itachi",
+      "reviewHref": "https://www.serializd.com/review/25934626",
+      "url": "https://www.serializd.com/review/25934626",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/t72j0m5fa98RRFQ47uEFxmdPUFI.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2013,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43386/14",
+      "title": "Naruto Shippūden",
+      "subtitle": "The Fourth Great Ninja War - Assailants From Afar",
+      "reviewHref": "https://www.serializd.com/review/25934614",
+      "url": "https://www.serializd.com/review/25934614",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/2YoIRNMqiGJTFRGXEwwXRvV66be.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2013,
+      "seasonHref": "https://www.serializd.com/show/34307/season/45140/3",
+      "title": "Shameless",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25934765",
+      "url": "https://www.serializd.com/review/25934765",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/j4tFVJ926chUO9rWfHxCVw6WP18.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2013,
+      "seasonHref": "https://www.serializd.com/show/44217/season/53334/1",
+      "title": "Vikings",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/24868072",
+      "url": "https://www.serializd.com/review/24868072",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/uYaskJzmBhBdvkitDTjlH6gj9Pt.jpg",
+      "rating": 8
     }
   ]
 }

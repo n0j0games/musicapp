@@ -10,6 +10,126 @@
       "url": "https://www.serializd.com/show/Westworld-63247",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/r3omqKtdo0KoBXQzT7O2GWdC3x0.jpg",
       "rating": 10
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/60059/season/72040/2",
+      "title": "Better Call Saul",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25937272",
+      "url": "https://www.serializd.com/review/25937272",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/67026/season/78328/1",
+      "title": "Designated Survivor",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/24973734",
+      "url": "https://www.serializd.com/review/24973734",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/1QHlD6z9FnXuuTDVLJnjrtLfVyq.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/1399/season/71881/6",
+      "title": "Game of Thrones",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25934211",
+      "url": "https://www.serializd.com/review/25934211",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/p1udLh0gfqyZFmXBGa393gk8go5.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/60708/season/79708/3",
+      "title": "Gotham",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25936048",
+      "url": "https://www.serializd.com/review/25936048",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/uAgmQGjH8T6J8edHcYFqyFacmFP.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/60863/season/76038/3",
+      "title": "Haikyu!!",
+      "subtitle": "Karasuno High School vs Shiratorizawa Academy",
+      "reviewHref": "https://www.serializd.com/review/25839772",
+      "url": "https://www.serializd.com/review/25839772",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/deFGQIm9cKYGr2xt136RUnA9sb5.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/61550/season/71006/2",
+      "title": "Marvel's Agent Carter",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936119",
+      "url": "https://www.serializd.com/review/25936119",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/h3yPRRiWZk6HrFD2oo3xqpLt6bc.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/1403/season/78514/4",
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25934961",
+      "url": "https://www.serializd.com/review/25934961",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ujrsbNuZCOrKO1hGx2FR2Rrr6zR.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/34307/season/77841/7",
+      "title": "Shameless",
+      "subtitle": "Season 7",
+      "reviewHref": "https://www.serializd.com/review/25934818",
+      "url": "https://www.serializd.com/review/25934818",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/8x0JX3E5LjA8Atzz359UObWaB9Z.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/34307/season/70404/6",
+      "title": "Shameless",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25934805",
+      "url": "https://www.serializd.com/review/25934805",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/AnA6suQeG9vBF0tx3IFKCLPdq3m.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/60554/season/80258/3",
+      "title": "Star Wars Rebels",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935132",
+      "url": "https://www.serializd.com/review/25935132",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/cJiw2BndvB5i4pakWwfVtn5ET6u.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/66732/season/77680/1",
+      "title": "Stranger Things",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/24930802",
+      "url": "https://www.serializd.com/review/24930802",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/hb4KmdA4F1XMnf0vVjevPKKBEjV.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2016,
+      "seasonHref": "https://www.serializd.com/show/44217/season/72979/4",
+      "title": "Vikings",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/24868053",
+      "url": "https://www.serializd.com/review/24868053",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/vDomkDsMrMFkTMIdzl6auzEDms7.jpg",
+      "rating": 9
     }
   ]
 }

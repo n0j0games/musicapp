@@ -1,0 +1,55 @@
+{
+  "year": 2009,
+  "items": [
+    {
+      "year": 2009,
+      "seasonHref": "https://www.serializd.com/show/1396/season/3573/2",
+      "title": "Breaking Bad",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25934136",
+      "url": "https://www.serializd.com/review/25934136",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/e3oGYpoTUhOFK0BJfloru5ZmGV.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2009,
+      "seasonHref": "https://www.serializd.com/show/693/season/6927/6",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25935895",
+      "url": "https://www.serializd.com/review/25935895",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/aDEPAc5DJjiXW1pcc7ZCeyGcbSE.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2009,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43378/6",
+      "title": "Naruto Shippūden",
+      "subtitle": "Master's Prophecy and Vengeance",
+      "reviewHref": "https://www.serializd.com/review/25934445",
+      "url": "https://www.serializd.com/review/25934445",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/g4E0AodxYUF62Q9gMJ6mcodnBpF.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2009,
+      "seasonHref": "https://www.serializd.com/show/4194/season/12279/2",
+      "title": "Star Wars: The Clone Wars",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935085",
+      "url": "https://www.serializd.com/review/25935085",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/hRuvYvhZgmMriibE8wsEscs7FMq.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2009,
+      "seasonHref": "https://www.serializd.com/show/5148/season/15027/1",
+      "title": "Stargate Universe",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936162",
+      "url": "https://www.serializd.com/review/25936162",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/goZWLm1I8o6Gri7dS26OMpXGRmM.jpg",
+      "rating": 6
+    }
+  ]
+}

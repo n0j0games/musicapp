@@ -20,6 +20,36 @@
       "url": "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Empire-251091",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/qA28nLteurVboSSzltuyYt1lvlC.jpg",
       "rating": 4
+    },
+    {
+      "year": 2024,
+      "seasonHref": "https://www.serializd.com/show/94605/season/351997/2",
+      "title": "Arcane",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936564",
+      "url": "https://www.serializd.com/review/25936564",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/oTGEwkp1mPgWNMgVSM53TWfzgSc.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2024,
+      "seasonHref": "https://www.serializd.com/show/76479/season/305753/4",
+      "title": "The Boys",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25938792",
+      "url": "https://www.serializd.com/review/25938792",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/nWwhdt7iOFJsWM8Lz1UtaUC6EUf.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2024,
+      "seasonHref": "https://www.serializd.com/show/125910/season/320069/3",
+      "title": "Young Royals",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935557",
+      "url": "https://www.serializd.com/review/25935557",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/rNDFNCfVbdkhRSIRGo7Kp2rR4Ec.jpg",
+      "rating": 8
     }
   ]
 }

@@ -30,6 +30,46 @@
       "url": "https://www.serializd.com/show/Loki-84958",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
       "rating": 8
+    },
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/124834/season/309720/2",
+      "title": "Heartstopper",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25840035",
+      "url": "https://www.serializd.com/review/25840035",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/kkiyNg5apmQSXuW8DygxLvfiqIE.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/95557/season/325266/2",
+      "title": "INVINCIBLE",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935403",
+      "url": "https://www.serializd.com/review/25935403",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/8JP5hIv4iqc5Dr4Uzt0NkMVf7yW.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/96677/season/310008/2",
+      "title": "Lupin",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936098",
+      "url": "https://www.serializd.com/review/25936098",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/jPe8HRnnqUTQF1MlVEwsqm6TWsw.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2023,
+      "seasonHref": "https://www.serializd.com/show/82856/season/308088/3",
+      "title": "The Mandalorian",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935054",
+      "url": "https://www.serializd.com/review/25935054",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/mYmFUlheJrXCLoZdS94kezG8Nuw.jpg",
+      "rating": 6
     }
   ]
 }

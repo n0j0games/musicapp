@@ -1,0 +1,35 @@
+{
+  "year": 2005,
+  "items": [
+    {
+      "year": 2005,
+      "seasonHref": "https://www.serializd.com/show/693/season/2059/2",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935783",
+      "url": "https://www.serializd.com/review/25935783",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/v3Yi3CqcKRr0pis0xnyNavnZj3D.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2005,
+      "seasonHref": "https://www.serializd.com/show/2290/season/7142/2",
+      "title": "Stargate Atlantis",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935326",
+      "url": "https://www.serializd.com/review/25935326",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/kS3BskcvtGo6IrGrM8k51mOueOD.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2005,
+      "seasonHref": "https://www.serializd.com/show/4629/season/14148/9",
+      "title": "Stargate SG-1",
+      "subtitle": "Season 9",
+      "reviewHref": "https://www.serializd.com/review/25935272",
+      "url": "https://www.serializd.com/review/25935272",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qthzwn3wvra7UXHeuGONacTO0lT.jpg",
+      "rating": 7
+    }
+  ]
+}

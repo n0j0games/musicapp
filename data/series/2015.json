@@ -1,0 +1,115 @@
+{
+  "year": 2015,
+  "items": [
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/60059/season/60223/1",
+      "title": "Better Call Saul",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25937264",
+      "url": "https://www.serializd.com/review/25937264",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/1399/season/62090/5",
+      "title": "Game of Thrones",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25934203",
+      "url": "https://www.serializd.com/review/25934203",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/7Q1Hy1AHxAzA2lsmzEMBvuWTX0x.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/60708/season/68824/2",
+      "title": "Gotham",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936040",
+      "url": "https://www.serializd.com/review/25936040",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/8SaXrtKanONwycmWqPiCZWliJbQ.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/60863/season/71126/2",
+      "title": "Haikyu!!",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25839779",
+      "url": "https://www.serializd.com/review/25839779",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3TUUTiiuvjKg8BcnrGbuuj2Ov5L.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/61550/season/63213/1",
+      "title": "Marvel's Agent Carter",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936111",
+      "url": "https://www.serializd.com/review/25936111",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/gqyjmfFOrKY8iouNTXWj9KW7cC5.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/1403/season/68416/3",
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25934948",
+      "url": "https://www.serializd.com/review/25934948",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/y0cxxcvCk9lEG4DEorTz5GxC9sj.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/31910/season/75231/20",
+      "title": "Naruto Shippūden",
+      "subtitle": "Infinite Tsukuyomi: The Invocation",
+      "reviewHref": "https://www.serializd.com/review/25934685",
+      "url": "https://www.serializd.com/review/25934685",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/pkNcN6tA6aKkIDEahQvLFIstKT9.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/34307/season/63466/5",
+      "title": "Shameless",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25934797",
+      "url": "https://www.serializd.com/review/25934797",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/mSSj9zjUOP9RWwXaIvQvyvJHMXg.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/60554/season/66362/2",
+      "title": "Star Wars Rebels",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935129",
+      "url": "https://www.serializd.com/review/25935129",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9qJT1qBBZK87Bc3S1Rd2xTYNDcX.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/63639/season/69635/1",
+      "title": "The Expanse",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935452",
+      "url": "https://www.serializd.com/review/25935452",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/x7DvVYy9qfQnusIVIwhJRaKQB2u.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2015,
+      "seasonHref": "https://www.serializd.com/show/44217/season/64422/3",
+      "title": "Vikings",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/24868060",
+      "url": "https://www.serializd.com/review/24868060",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/jICv5UxLDvUqCp1D2jAb0PSJWAw.jpg",
+      "rating": 8
+    }
+  ]
+}

@@ -10,6 +10,56 @@
       "url": "https://www.serializd.com/show/Attack-on-Titan-1429",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/gZvemDUAy6MIpqfdL9TgBDwyOuD.jpg",
       "rating": 10
+    },
+    {
+      "year": 2018,
+      "seasonHref": "https://www.serializd.com/show/60059/season/104603/4",
+      "title": "Better Call Saul",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25937288",
+      "url": "https://www.serializd.com/review/25937288",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/8zvIqLFOrBymKKI3L2W1AH8YZQI.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2018,
+      "seasonHref": "https://www.serializd.com/show/76669/season/98489/1",
+      "title": "Elite",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25940068",
+      "url": "https://www.serializd.com/review/25940068",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/hYC4bHfvjVYMfYuTpmwNofqAG0X.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2018,
+      "seasonHref": "https://www.serializd.com/show/69050/season/105507/3",
+      "title": "Riverdale",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25936374",
+      "url": "https://www.serializd.com/review/25936374",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/gskv297rlbyzLaTU1XZf8UBbxp0.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2018,
+      "seasonHref": "https://www.serializd.com/show/34307/season/104861/9",
+      "title": "Shameless",
+      "subtitle": "Season 9",
+      "reviewHref": "https://www.serializd.com/review/25934852",
+      "url": "https://www.serializd.com/review/25934852",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/von3HnQF4SokUopZV6FXt12NfXM.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2018,
+      "seasonHref": "https://www.serializd.com/show/63639/season/99857/3",
+      "title": "The Expanse",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935484",
+      "url": "https://www.serializd.com/review/25935484",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/peK8zqKMoWfba3NJ2pGv7HGAB4K.jpg",
+      "rating": 6
     }
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "year": 2012,
+  "items": [
+    {
+      "year": 2012,
+      "seasonHref": "https://www.serializd.com/show/1396/season/3578/5",
+      "title": "Breaking Bad",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25934122",
+      "url": "https://www.serializd.com/review/25934122",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/r3z70vunihrAkjILQKWHX0G2xzO.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2012,
+      "seasonHref": "https://www.serializd.com/show/1399/season/3625/2",
+      "title": "Game of Thrones",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25934186",
+      "url": "https://www.serializd.com/review/25934186",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9xfNkPwDOqyeUvfNhs1XlWA0esP.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2012,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43385/13",
+      "title": "Naruto Shippūden",
+      "subtitle": "The Seven Shinobi Swordsman",
+      "reviewHref": "https://www.serializd.com/review/25934594",
+      "url": "https://www.serializd.com/review/25934594",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/f6zh4A1yQI0n4c3xqhpGNuwBmQj.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2012,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43384/12",
+      "title": "Naruto Shippūden",
+      "subtitle": "Nine-Tailed Fox Taming and Karmic Encounters",
+      "reviewHref": "https://www.serializd.com/review/25934567",
+      "url": "https://www.serializd.com/review/25934567",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qo5231LMeauy4evn4cWMTEG6yWs.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2012,
+      "seasonHref": "https://www.serializd.com/show/34307/season/45138/2",
+      "title": "Shameless",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25934752",
+      "url": "https://www.serializd.com/review/25934752",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/v7yEZZCMXgSMoGBr4DRcj4wwBGt.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2012,
+      "seasonHref": "https://www.serializd.com/show/4194/season/62850/5",
+      "title": "Star Wars: The Clone Wars",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25935103",
+      "url": "https://www.serializd.com/review/25935103",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/euYkZXmsZw3g1HkSyl9KxM2BrCW.jpg",
+      "rating": 9
+    }
+  ]
+}

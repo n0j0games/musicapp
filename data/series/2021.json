@@ -70,6 +70,116 @@
       "url": "https://www.serializd.com/show/WandaVision-85271",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
       "rating": 9
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/94605/season/134187/1",
+      "title": "Arcane",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936558",
+      "url": "https://www.serializd.com/review/25936558",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/6FMWx79iAtZx8WHtOrRj0VlM8Tp.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/85937/season/215073/3",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "subtitle": "Entertainment District",
+      "reviewHref": "https://www.serializd.com/review/25839600",
+      "url": "https://www.serializd.com/review/25839600",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/gbmhcOtre5SeBgwR9gvTpUra5kZ.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/85937/season/181846/2",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "subtitle": "Mugen Train",
+      "reviewHref": "https://www.serializd.com/review/25839594",
+      "url": "https://www.serializd.com/review/25839594",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/pLGjaDyg2LeA2d9KZxBZCiiqC2B.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/76669/season/183342/4",
+      "title": "Elite",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25940119",
+      "url": "https://www.serializd.com/review/25940119",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/11Gm5X2KZLxevNgyvsCibtH68NG.jpg",
+      "rating": 2
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/95557/season/136020/1",
+      "title": "INVINCIBLE",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935397",
+      "url": "https://www.serializd.com/review/25935397",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/96677/season/157243/1",
+      "title": "Lupin",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936087",
+      "url": "https://www.serializd.com/review/25936087",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/i4OgrauapMFV21g6hWtMlQs6IpL.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/71446/season/201800/3",
+      "title": "Money Heist",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935984",
+      "url": "https://www.serializd.com/review/25935984",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/kJxqdEfInoai6Ca2tUEWbelveUP.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/79680/season/165233/2",
+      "title": "Snowpiercer",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25938684",
+      "url": "https://www.serializd.com/review/25938684",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/63639/season/214858/6",
+      "title": "The Expanse",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25935511",
+      "url": "https://www.serializd.com/review/25935511",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/smJPN02aTJcMVQ4z02CINKjg6L0.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/91363/season/134723/1",
+      "title": "What If...?",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936313",
+      "url": "https://www.serializd.com/review/25936313",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/tOpGZLH334to80RVGB4H6Xu0X43.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2021,
+      "seasonHref": "https://www.serializd.com/show/125910/season/195918/1",
+      "title": "Young Royals",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935545",
+      "url": "https://www.serializd.com/review/25935545",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/6CHznbr0BF78ar16zJwTVRYLLOX.jpg",
+      "rating": 9
     }
   ]
 }

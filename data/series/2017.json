@@ -10,6 +10,146 @@
       "url": "https://www.serializd.com/show/Attack-on-Titan-1429",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/r56nNRZUT19GZHKpWuJzuuUDosp.jpg",
       "rating": 9
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/60059/season/83956/3",
+      "title": "Better Call Saul",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25937279",
+      "url": "https://www.serializd.com/review/25937279",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/dHIMW3CkL21jYWtsHiAdwkCjAej.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/1399/season/81266/7",
+      "title": "Game of Thrones",
+      "subtitle": "Season 7",
+      "reviewHref": "https://www.serializd.com/review/25934219",
+      "url": "https://www.serializd.com/review/25934219",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/oX51n32QyHeFP5kErksemJsJljL.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/60708/season/89840/4",
+      "title": "Gotham",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25936054",
+      "url": "https://www.serializd.com/review/25936054",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/5FueTUiR5DIzAKJ9Sjc1xQ9YXHJ.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/1403/season/93742/5",
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25934976",
+      "url": "https://www.serializd.com/review/25934976",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/zndNDiqH0SvIlFHURYCWY060qE8.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/71446/season/87809/1",
+      "title": "Money Heist",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935962",
+      "url": "https://www.serializd.com/review/25935962",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/p0QHfM7Qn5sV8cDqyH0Eegqa5P8.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/69050/season/91793/2",
+      "title": "Riverdale",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936353",
+      "url": "https://www.serializd.com/review/25936353",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/yrsTz3PAUyKmLaNxvNOGX9alubu.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/69050/season/82752/1",
+      "title": "Riverdale",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936343",
+      "url": "https://www.serializd.com/review/25936343",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/iyLxqUGwOUurAKMOR8hSXmxMISU.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/34307/season/91214/8",
+      "title": "Shameless",
+      "subtitle": "Season 8",
+      "reviewHref": "https://www.serializd.com/review/25934833",
+      "url": "https://www.serializd.com/review/25934833",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/1E6asdJoCpoalo8mrFerAHFKANj.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/67198/season/78745/1",
+      "title": "Star Trek: Discovery",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936216",
+      "url": "https://www.serializd.com/review/25936216",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qVDvVdAjCwlQ9t301tPg11Ksq4o.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/60554/season/94056/4",
+      "title": "Star Wars Rebels",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25935137",
+      "url": "https://www.serializd.com/review/25935137",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4iMmQdiPUCWTOt2T4MYk1oHsy4U.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/66732/season/83248/2",
+      "title": "Stranger Things",
+      "subtitle": "Stranger Things 2",
+      "reviewHref": "https://www.serializd.com/review/24930811",
+      "url": "https://www.serializd.com/review/24930811",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/lXS60geme1LlEob5Wgvj3KilClA.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/74577/season/94165/1",
+      "title": "The End of the F***ing World",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25936135",
+      "url": "https://www.serializd.com/review/25936135",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3xzfmg9olP5XzrQrJgyku2nd6P0.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/63639/season/79720/2",
+      "title": "The Expanse",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935463",
+      "url": "https://www.serializd.com/review/25935463",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/aAik9W0gFWEzNbPoOxrJGy9Oecz.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2017,
+      "seasonHref": "https://www.serializd.com/show/44217/season/88459/5",
+      "title": "Vikings",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/24868082",
+      "url": "https://www.serializd.com/review/24868082",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/iOVC9GVEEVTGN3eYcDVkmDkOa11.jpg",
+      "rating": 6
     }
   ]
 }

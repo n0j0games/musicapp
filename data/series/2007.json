@@ -1,0 +1,45 @@
+{
+  "year": 2007,
+  "items": [
+    {
+      "year": 2007,
+      "seasonHref": "https://www.serializd.com/show/693/season/6925/4",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25935812",
+      "url": "https://www.serializd.com/review/25935812",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/z7a9U2OLfOJyCrLzyiVcLUfgHBL.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2007,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43374/2",
+      "title": "Naruto Shippūden",
+      "subtitle": "Long-Awaited Reunion",
+      "reviewHref": "https://www.serializd.com/review/25934349",
+      "url": "https://www.serializd.com/review/25934349",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/qb1AcfiKlXLKIiR3S4x8YZtr2po.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2007,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43373/1",
+      "title": "Naruto Shippūden",
+      "subtitle": "Kazekage Rescue",
+      "reviewHref": "https://www.serializd.com/review/25934328",
+      "url": "https://www.serializd.com/review/25934328",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/842myobV2MkoHZuoyxJDV9gdkvb.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2007,
+      "seasonHref": "https://www.serializd.com/show/2290/season/7144/4",
+      "title": "Stargate Atlantis",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25935338",
+      "url": "https://www.serializd.com/review/25935338",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ms74U2O9Qj9NCuAxWasAzz1X7Km.jpg",
+      "rating": 7
+    }
+  ]
+}

@@ -10,6 +10,76 @@
       "url": "https://www.serializd.com/show/Terra-Nova-32754",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/xmpVF5tzZvFS0UIdFS3VMxDkS9r.jpg",
       "rating": 7
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/1396/season/3576/4",
+      "title": "Breaking Bad",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25934126",
+      "url": "https://www.serializd.com/review/25934126",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
+      "rating": 10
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/693/season/6929/8",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 8",
+      "reviewHref": "https://www.serializd.com/review/25935913",
+      "url": "https://www.serializd.com/review/25935913",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/7z0zBMcfeADtovgdT8orm9vTl8Y.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/1399/season/3624/1",
+      "title": "Game of Thrones",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25934175",
+      "url": "https://www.serializd.com/review/25934175",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43383/11",
+      "title": "Naruto Shippūden",
+      "subtitle": "Paradise on the Ship",
+      "reviewHref": "https://www.serializd.com/review/25934547",
+      "url": "https://www.serializd.com/review/25934547",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/1lxahYOBIMpKqoKoB11qtmaBVP1.jpg",
+      "rating": 4
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/31910/season/43382/10",
+      "title": "Naruto Shippūden",
+      "subtitle": "The Gathering of the Five Kage",
+      "reviewHref": "https://www.serializd.com/review/25934532",
+      "url": "https://www.serializd.com/review/25934532",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/l0LFSQOJZyQ8ujaw3Mf4Z0TeZY7.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/34307/season/45137/1",
+      "title": "Shameless",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25934735",
+      "url": "https://www.serializd.com/review/25934735",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3L0ewQDnvgWdfL8rYi4fdHeiell.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2011,
+      "seasonHref": "https://www.serializd.com/show/4194/season/12282/4",
+      "title": "Star Wars: The Clone Wars",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25935098",
+      "url": "https://www.serializd.com/review/25935098",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/A2D1gsPYGyPmWso00wA9y2dxZMA.jpg",
+      "rating": 9
     }
   ]
 }

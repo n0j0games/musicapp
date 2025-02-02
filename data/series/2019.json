@@ -30,6 +30,146 @@
       "url": "https://www.serializd.com/show/The-Witcher-71912",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/5BvFJfi3qBxTFaLKsft202YeqGl.jpg",
       "rating": 9
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/85937/season/116882/1",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "subtitle": "Tanjiro Kamado, Unwavering Resolve",
+      "reviewHref": "https://www.serializd.com/review/25839583",
+      "url": "https://www.serializd.com/review/25839583",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/bV0ZCL0IqrTQKClu6EtXlZaJevD.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/76669/season/129087/2",
+      "title": "Elite",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25940097",
+      "url": "https://www.serializd.com/review/25940097",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/aJaVtEhdLTkQdoficiHPb6am54y.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/60708/season/110544/5",
+      "title": "Gotham",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/25936060",
+      "url": "https://www.serializd.com/review/25936060",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/1403/season/103782/6",
+      "title": "Marvel's Agents of S.H.I.E.L.D.",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25934981",
+      "url": "https://www.serializd.com/review/25934981",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/QU0NjcvDonZLKhjRuxRv6AVo5l.jpg",
+      "rating": 5
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/71446/season/122186/2",
+      "title": "Money Heist",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935979",
+      "url": "https://www.serializd.com/review/25935979",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/65f9SDRqooLZEnaC629TnDDiGzb.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/69050/season/129417/4",
+      "title": "Riverdale",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25936397",
+      "url": "https://www.serializd.com/review/25936397",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4X7o1ssOEvp4BFLim1AZmPNcYbU.jpg",
+      "rating": 2
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/34307/season/128829/10",
+      "title": "Shameless",
+      "subtitle": "Season 10",
+      "reviewHref": "https://www.serializd.com/review/25934862",
+      "url": "https://www.serializd.com/review/25934862",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/jNMceYdwAasW8jybOtsRNzJcR2r.jpg",
+      "rating": 6
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/67198/season/110143/2",
+      "title": "Star Trek: Discovery",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936222",
+      "url": "https://www.serializd.com/review/25936222",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ztdmT2JzCumvuXb4olmxzBRVKGe.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/66732/season/115216/3",
+      "title": "Stranger Things",
+      "subtitle": "Stranger Things 3",
+      "reviewHref": "https://www.serializd.com/review/24930816",
+      "url": "https://www.serializd.com/review/24930816",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/76479/season/98085/1",
+      "title": "The Boys",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25938772",
+      "url": "https://www.serializd.com/review/25938772",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/iikrapejulhIvbNgUjj468mUE0I.jpg",
+      "rating": 9
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/74577/season/133793/2",
+      "title": "The End of the F***ing World",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25936137",
+      "url": "https://www.serializd.com/review/25936137",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/e00rak9Xp3DSp42hm7EK3omnhQS.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/63639/season/110408/4",
+      "title": "The Expanse",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25935494",
+      "url": "https://www.serializd.com/review/25935494",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/8ngLHIIL0POcb0wXHFwyIz8QRRL.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/82856/season/110346/1",
+      "title": "The Mandalorian",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935044",
+      "url": "https://www.serializd.com/review/25935044",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/K45A0qGcnGsxNKEvaOItvfVrZx.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2019,
+      "seasonHref": "https://www.serializd.com/show/44217/season/133827/6",
+      "title": "Vikings",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/24868085",
+      "url": "https://www.serializd.com/review/24868085",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3VsziFTocbNyGQjM2QNLJF41ccX.jpg",
+      "rating": 6
     }
   ]
 }

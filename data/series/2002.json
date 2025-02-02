@@ -1,0 +1,25 @@
+{
+  "year": 2002,
+  "items": [
+    {
+      "year": 2002,
+      "seasonHref": "https://www.serializd.com/show/46260/season/54573/1",
+      "title": "Naruto",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/25935701",
+      "url": "https://www.serializd.com/review/25935701",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2002,
+      "seasonHref": "https://www.serializd.com/show/4629/season/14145/6",
+      "title": "Stargate SG-1",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/25935232",
+      "url": "https://www.serializd.com/review/25935232",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/hFSLju61oOogrqiq0VD4eLdjV84.jpg",
+      "rating": 8
+    }
+  ]
+}

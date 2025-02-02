@@ -1,0 +1,35 @@
+{
+  "year": 2006,
+  "items": [
+    {
+      "year": 2006,
+      "seasonHref": "https://www.serializd.com/show/693/season/2060/3",
+      "title": "Desperate Housewives",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935800",
+      "url": "https://www.serializd.com/review/25935800",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4Q64W87EgCaEjWMI9foQ4PI3NiN.jpg",
+      "rating": 7
+    },
+    {
+      "year": 2006,
+      "seasonHref": "https://www.serializd.com/show/2290/season/7143/3",
+      "title": "Stargate Atlantis",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935334",
+      "url": "https://www.serializd.com/review/25935334",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/q6lRO3LgTnYqwliG4O3SPF7jSqK.jpg",
+      "rating": 8
+    },
+    {
+      "year": 2006,
+      "seasonHref": "https://www.serializd.com/show/4629/season/14149/10",
+      "title": "Stargate SG-1",
+      "subtitle": "Season 10",
+      "reviewHref": "https://www.serializd.com/review/25935282",
+      "url": "https://www.serializd.com/review/25935282",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/zWQUWJ1NbLLQhMDcyQ9OImG6oGg.jpg",
+      "rating": 7
+    }
+  ]
+}
