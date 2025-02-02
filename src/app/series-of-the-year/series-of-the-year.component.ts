@@ -51,6 +51,8 @@ export class SeriesOfTheYearComponent implements OnInit {
         this.getAllSeries();
         this.aggregatedTitle = "every series I've watched";
         break;
+      default:
+        this.getSeriesByTitle(query!);
     }
   }
 
@@ -72,5 +74,23 @@ export class SeriesOfTheYearComponent implements OnInit {
     }
     this.seriesOfTheYear.items = this.seriesOfTheYear.items.sort((a, b) => b.rating - a.rating);
   }
+
+  private getSeriesByTitle(title : string) {
+    title = title.toLowerCase();
+    const series = this.getAggregatedSeries().filter(value => value.title!.toLowerCase().includes(title));
+    this.seriesOfTheYear = new MotyItem([], 0);
+    this.seriesOfTheYear.items = series.sort((a, b) => b.rating - a.rating);
+    this.aggregatedTitle = title;
+  }
+
+  private getAggregatedSeries() : Movie[] {
+    let motyItem = this.motyService.getAllUnsortedSeries();
+    if (motyItem == null) {
+      this.router.navigate(['**']).then(() => console.error("Empty query, routed to 404"));
+      return [];
+    }
+    return motyItem.items;
+  }
+
 
 }
