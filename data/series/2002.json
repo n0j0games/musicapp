@@ -20,6 +20,36 @@
       "url": "https://www.serializd.com/review/25935232",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/hFSLju61oOogrqiq0VD4eLdjV84.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/46260/season/54564/4",
+      "title": "Naruto",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/25935725",
+      "url": "https://www.serializd.com/review/25935725",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/2L7qUHd6C1RgMmm6upxH9rL5jjK.jpg",
+      "rating": 4,
+      "year": 2002
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/46260/season/54568/3",
+      "title": "Naruto",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/25935715",
+      "url": "https://www.serializd.com/review/25935715",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/uVf4TahDsV9iNgNgE0SVWkNZYw9.jpg",
+      "rating": 6,
+      "year": 2002
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/46260/season/54567/2",
+      "title": "Naruto",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/25935710",
+      "url": "https://www.serializd.com/review/25935710",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/yBHXns4g7gWcWuQfOzL4Jekj74e.jpg",
+      "rating": 7,
+      "year": 2002
     }
   ]
 }

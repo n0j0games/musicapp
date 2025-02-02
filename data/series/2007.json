@@ -40,6 +40,16 @@
       "url": "https://www.serializd.com/review/25935338",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/ms74U2O9Qj9NCuAxWasAzz1X7Km.jpg",
       "rating": 7
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/31910/season/72397/19",
+      "title": "Naruto Shippūden",
+      "subtitle": "Naruto's Back: The Tracks of His Friends",
+      "reviewHref": "https://www.serializd.com/review/25934675",
+      "url": "https://www.serializd.com/review/25934675",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/xxdmYAKEakoPYcbe9z812S4I2Ci.jpg",
+      "rating": 3,
+      "year": 2007
     }
   ]
 }
