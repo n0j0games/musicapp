@@ -9,7 +9,8 @@
       "artist": "Radiohead",
       "rating": 0,
       "album": "OK Computer",
-      "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY"
+      "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY",
+      "color" : "#194d64"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/76993b34a8a399ac28677e5a9ec2c4f06c9e0869?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -18,7 +19,8 @@
       "artist": "Pink Floyd",
       "rating": 0,
       "album": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45"
+      "url": "https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45",
+      "color" : "#546071"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c357bde24bdd21336d2c218f4331909bc3a458ea?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -27,7 +29,8 @@
       "artist": "Travis Scott, Kacy Hill",
       "rating": 0,
       "album": "Rodeo",
-      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP"
+      "url": "https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP",
+      "color" : "#291c13"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2cfd4012a9ac9bac50a308cfc17b4173a7a84aae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -36,7 +39,8 @@
       "artist": "Tame Impala",
       "rating": 0,
       "album": "Currents",
-      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed",
+      "color" : "#443152"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/1033d43959f5b9c1ceeedc1a1e3fe2229fad4d0e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -45,7 +49,8 @@
       "artist": "Kendrick Lamar, George Clinton, Thundercat",
       "rating": 0,
       "album": "To Pimp A Butterfly",
-      "url": "https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6"
+      "url": "https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6",
+      "color" : "#7c7a79"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/20658b82bd25e6c1c5769a73e30cffdb0469dd58?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -54,16 +59,18 @@
       "artist": "Radiohead",
       "rating": 0,
       "album": "In Rainbows",
-      "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV"
+      "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV",
+      "color" : "#873912"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/84c1d098ee9156918b4259535fad13a2bd621b46?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27332a8498ea892ccd4fcf3f6cf",
+      "imgUrl": "https://s3.amazonaws.com/media.thecrimson.com/photos/2023/10/11/211956_1365746.png",
       "title": "Will Anybody Ever Love Me?",
       "artist": "Sufjan Stevens",
       "rating": 0,
       "album": "Javelin",
-      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
+      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe",
+      "color" : "#89595f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5901e1331547247d90519fd06e462ec61fc3a2cd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -72,7 +79,8 @@
       "artist": "Weyes Blood",
       "rating": 0,
       "album": "Titanic Rising",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn",
+      "color" : "#0e3258"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0fff01329318a30ba0b7c2a872c0113e6742a364?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -81,7 +89,8 @@
       "artist": "Frank Ocean",
       "rating": 0,
       "album": "channel ORANGE",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
+      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
+      "color" : "#8d4313"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7d33c3053c08c5967bc9f5ff74cc4040b8a779cf?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -90,7 +99,8 @@
       "artist": "Kali Uchis",
       "rating": 0,
       "album": "Isolation",
-      "url": "https://open.spotify.com/track/2dDzrUEDCKXaLViMPa1jo5"
+      "url": "https://open.spotify.com/track/2dDzrUEDCKXaLViMPa1jo5",
+      "color" : "#0c3f83"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6b8fad287ed8ec9bd72afb59bebb400cce0b58bb?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -99,7 +109,8 @@
       "artist": "Björk",
       "rating": 0,
       "album": "Homogenic",
-      "url": "https://open.spotify.com/track/30j9ij28SJum1lp740MsHS"
+      "url": "https://open.spotify.com/track/30j9ij28SJum1lp740MsHS",
+      "color" : "#43495f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/88f12ff6844d0222fe6a775b26475d36ec5c447d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -108,7 +119,8 @@
       "artist": "Sampha",
       "rating": 0,
       "album": "Process",
-      "url": "https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt"
+      "url": "https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt",
+      "color" : "#413f38"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/bef1a42d0299c0f5a6b9be0bc604326038b50995?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -117,7 +129,8 @@
       "artist": "Tyler, The Creator",
       "rating": 0,
       "album": "IGOR",
-      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
+      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p",
+      "color" : "#73535b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a6440c207016cf6161fa40349d03b7d540eef4b6?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -126,7 +139,8 @@
       "artist": "OG Keemo",
       "rating": 0,
       "album": "Mann Beisst Hund",
-      "url": "https://open.spotify.com/track/0rTaDlcde6sL7GMOdsMQGA"
+      "url": "https://open.spotify.com/track/0rTaDlcde6sL7GMOdsMQGA",
+      "color" : "#2c2c2c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -135,7 +149,8 @@
       "artist": "Daft Punk, Paul Williams",
       "rating": 0,
       "album": "Random Access Memories",
-      "url": "https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz"
+      "url": "https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz",
+      "color" : "#64441f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/b01411c77500efa3830f69a04a0026d5cb01f3e7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -144,7 +159,8 @@
       "artist": "Kanye West, PARTYNEXTDOOR",
       "rating": 0,
       "album": "ye",
-      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM"
+      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+      "color" : "#152630"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/98893dda53ce0bba3995394a3ac7cd4fccec7b7e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -153,7 +169,8 @@
       "artist": "SZA",
       "rating": 0,
       "album": "Ctrl",
-      "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
+      "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG",
+      "color" : "#213f28"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a2d1261b4fe155d04583207fe6e220f13646db87?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -162,7 +179,8 @@
       "artist": "Phoebe Bridgers",
       "rating": 0,
       "album": "Punisher",
-      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
+      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI",
+      "color" : "#39141d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/959a6e2b9fd7c9e8a5fd5d1afdc652bee45f3b77?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -170,7 +188,8 @@
       "title": "Mach kaputt",
       "artist": "Schmyt, OG Keemo",
       "rating": 0,
-      "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh"
+      "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh",
+      "color" : "#13237d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/292b0599e75c30af8b65e2fad161144366cc0a7f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -179,7 +198,8 @@
       "artist": "Lil Wayne, Bruno Mars",
       "rating": 0,
       "album": "Tha Carter IV",
-      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
+      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj",
+      "color" : "#15494a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/afd45413f0398864f2eec0174da7391b680fcf19?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -188,7 +208,8 @@
       "artist": "Sade",
       "rating": 0,
       "album": "Love Deluxe",
-      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ",
+      "color" : "#3a322d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/417aec38ee59dce9251b00f92763ba5496613504?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -197,7 +218,8 @@
       "artist": "A$AP Rocky",
       "rating": 0,
       "album" : "AT.LONG.LAST.A$AP",
-      "url": "https://open.spotify.com/track/33BC1kE0ewdO9vaB4wbct8"
+      "url": "https://open.spotify.com/track/33BC1kE0ewdO9vaB4wbct8",
+      "color" : "#221d38"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d1ce7eecb3784fa597b2315b7bdd4175b7510243?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -206,7 +228,8 @@
       "artist": "M83",
       "rating": 0,
       "album": "Hurry up, We're Dreaming",
-      "url": "https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f"
+      "url": "https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f",
+      "color" : "#872001"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -215,7 +238,8 @@
       "artist": "The Weeknd",
       "rating": 0,
       "album": "After Hours",
-      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag",
+      "color" : "#242914"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/64db1616c8839309c68bafc68e32c45bcb4677c2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -224,16 +248,18 @@
       "artist": "Frank Ocean",
       "rating": 0,
       "album": "Blonde",
-      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS",
+      "color" : "#2f3f28"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/11612ececd3ee386d4d5ce82a03da4040b075409?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160",
-      "title": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+      "title": "Maria I'm Drunk",
       "artist": "Travis Scott, Justin Bieber, Young Thug",
       "rating": 0,
       "album": "Rodeo",
-      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
+      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw",
+      "color" : "#291c13"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7a8fa587f65b722b40b37a048ba6d8e3516c7175?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -242,7 +268,8 @@
       "artist": "ROSALÍA",
       "rating": 0,
       "album": "MOTOMAMI",
-      "url": "https://open.spotify.com/track/15pRGUlhmCxtewBs42ui1N"
+      "url": "https://open.spotify.com/track/15pRGUlhmCxtewBs42ui1N",
+      "color" : "#9b2227"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ac9e159b00ae870ee2d66c5863d1cf5dd004921e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -251,7 +278,8 @@
       "artist": "Lil Yachty",
       "rating": 0,
       "album": "Let’s Start Here.",
-      "url": "https://open.spotify.com/track/1rydhdFtKe2CRkiaVb7aGF"
+      "url": "https://open.spotify.com/track/1rydhdFtKe2CRkiaVb7aGF",
+      "color" : "#491d20"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/02caf0e645e160a37bd48fcfa4d0f9d142bba6fd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -260,7 +288,8 @@
       "artist": "Fishmans",
       "rating": 0,
       "album": "98.12.28 男達の別れ (Live)",
-      "url": "https://open.spotify.com/track/61QOvLPX4kjn3TQ7OJV2dL"
+      "url": "https://open.spotify.com/track/61QOvLPX4kjn3TQ7OJV2dL",
+      "color" : "#83250c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/9e43a81c5de34031083799a67df0baaa9b4d17c7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -269,7 +298,8 @@
       "artist": "Beach House",
       "rating": 0,
       "album": "Depression Cherry",
-      "url": "https://open.spotify.com/track/7aciebfpMZffzCTSg9rLIZ"
+      "url": "https://open.spotify.com/track/7aciebfpMZffzCTSg9rLIZ",
+      "color" : "#52050d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d63e55fd9c7601ca508bc7934a192ff914ba2b4f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -278,24 +308,27 @@
       "artist": "Anri",
       "rating": 0,
       "album": "Timely!!",
-      "url": "https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze"
+      "url": "https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze",
+      "color" : "#00598e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec1bc2abea061f5f09fa9b64",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Charli_XCX_-_Pop_2.png",
       "title": "Track 10",
       "artist": "Charli xcx",
       "rating": 0,
       "album": "Pop 2",
-      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc",
+      "color" : "#836990"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/686843f99c15ad0915f6d646a61fd05448c44319?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96",
+      "imgUrl": "https://1265745076.rsc.cdn77.org/1024/jpg/156203-george-michael-careless-whisper-LP-1-66a207e6f068b.jpg",
       "title": "Careless Whisper",
       "artist": "George Michael",
       "rating": 0,
-      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY",
+      "color" : "#5f0908"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/b13a1bb2d8a04132982a49b6efee933cc9d67c7e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -304,7 +337,8 @@
       "artist": "Gorillaz",
       "rating": 0,
       "album": "Demon Days",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+      "color" : "#001621"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e696d540ee3b6819bf76dd0f5e6acae360ca4ef8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -313,7 +347,8 @@
       "artist": "OG Keemo",
       "rating": 0,
       "album": "Skalp",
-      "url": "https://open.spotify.com/track/1zhV0LhmUcDfJpC8QC2rbb"
+      "url": "https://open.spotify.com/track/1zhV0LhmUcDfJpC8QC2rbb",
+      "color" : "#3f0a28"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/46557b2db3c49695104dddef73e29ccdafb0be74?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -322,7 +357,8 @@
       "artist": "Sigur Rós",
       "rating": 0,
       "album": "Ágætis byrjun",
-      "url": "https://open.spotify.com/track/3BKO2ztDJQEfV6P2qFAVrI"
+      "url": "https://open.spotify.com/track/3BKO2ztDJQEfV6P2qFAVrI",
+      "color" : "#001743"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d07a3033d1e8f07deb029a497cd001025e4f267a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -331,16 +367,18 @@
       "artist": "Mac Miller",
       "rating": 0,
       "album": "Swimming",
-      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
+      "color" : "#926d70"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/fdac4ed7d3486bfb6909fcb341ddd3d035384dd4?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+      "imgUrl": "https://i1.sndcdn.com/artworks-yap9IlZleMPEDebt-cflmGw-t500x500.jpg",
       "title": "tell me a joke",
       "artist": "Quadeca",
       "rating": 0,
       "album": "I Didn't Mean To Haunt You",
-      "url": "https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY"
+      "url": "https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY",
+      "color" : "#503741"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5ba28f0c38a4b8916d50915216553046cf9331d0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -349,17 +387,10 @@
       "artist": "Radiohead",
       "rating": 0,
       "album" : "A Moon Shaped Pool",
-      "url": "https://open.spotify.com/track/1roDUhDOM7O1tWy9C6u3pP"
+      "url": "https://open.spotify.com/track/1roDUhDOM7O1tWy9C6u3pP",
+      "color" : "#646464"
     },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/94d1a277b4b8b4598f8f1b5737a6389239c456d8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
-      "title": "STOP TRYING TO BE GOD",
-      "artist": "Travis Scott",
-      "rating": 0,
-      "album": "ASTROWORLD",
-      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
-    },
+
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/f36e2a9de9db417959c9bade60a1ad4d20b35850?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
@@ -367,7 +398,8 @@
       "artist": "Kanye West",
       "rating": 0,
       "album": "The Life Of Pablo",
-      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf",
+      "color" : "#a85f3b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/8bec5be4a3fe088682473fe5a4e66b09cedbbaf3?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -375,8 +407,9 @@
       "title": "Tears In The Rain",
       "artist": "The Weeknd",
       "rating": 0,
-      "album": "Kiss Land (Deluxe)",
-      "url": "https://open.spotify.com/track/7FeSiBUEyqxlKvjGbfwKku"
+      "album": "Kiss Land",
+      "url": "https://open.spotify.com/track/7FeSiBUEyqxlKvjGbfwKku",
+      "color" : "#25714c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/f433cfcd50790b98a4cbd4446fc209f7958e9ef9?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -385,7 +418,8 @@
       "artist": "Little Simz",
       "rating": 0,
       "album": "Sometimes I Might Be Introvert",
-      "url": "https://open.spotify.com/track/1Tva251P6CYwQWpJOedwQ8"
+      "url": "https://open.spotify.com/track/1Tva251P6CYwQWpJOedwQ8",
+      "color" : "#622d00"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e81d7343a4753c7dd8d4e48dde79bbf049c926ce?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -394,7 +428,8 @@
       "artist": "Daft Punk",
       "rating": 0,
       "album": "Discovery",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu",
+      "color" : "#0b100c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0c2897694588ea7cfc6c11d0ec22664a6718cd40?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -403,7 +438,8 @@
       "artist": "Paula Hartmann",
       "rating": 0,
       "album": "Nie verliebt",
-      "url": "https://open.spotify.com/track/4aMPHYcmR9BeU16iWGDriT"
+      "url": "https://open.spotify.com/track/4aMPHYcmR9BeU16iWGDriT",
+      "color" : "#456338"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/71550ef227a38a275cdd9afd170d619ba3b2f157?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -412,7 +448,8 @@
       "artist": "JID",
       "rating": 0,
       "album": "The Forever Story (Extended Version)",
-      "url": "https://open.spotify.com/track/6ZGoFntcQUWTPGGQPQmecY"
+      "url": "https://open.spotify.com/track/6ZGoFntcQUWTPGGQPQmecY",
+      "color" : "#1c1613"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/bedddc084583c0ba39914c4d825d4d919207319f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -421,7 +458,8 @@
       "artist": "Yves Tumor",
       "rating": 0,
       "album": "Heaven To A Tortured Mind",
-      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
+      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS",
+      "color" : "#233652"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a762ff9e61a34bf6695d0c181ea77738682d3fbe?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -430,7 +468,8 @@
       "artist": "Kendrick Lamar",
       "rating": 0,
       "album": "DAMN.",
-      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
+      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg",
+      "color" : "#8d5163"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d69101dbd66295473706112d3edf978b70fc4550?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -438,16 +477,8 @@
       "title": "Sweet Dreams",
       "artist": "Eurythmics",
       "rating": 0,
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
-      "title": "Borrowed Love (feat. Swae Lee & WizKid)",
-      "artist": "Metro Boomin, Swae Lee, Wizkid",
-      "rating": 0,
-      "album": "NOT ALL HEROES WEAR CAPES",
-      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS",
+      "color" : "#78888b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d6d2556bf783e481173a71c460fa113832295519?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -456,7 +487,8 @@
       "artist": "Radiohead",
       "rating": 0,
       "album": "Kid A",
-      "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8"
+      "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+      "color" : "#"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7f7d186102ddbbe02a84a3a81703be0560926ae8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -465,7 +497,8 @@
       "artist": "Erykah Badu",
       "rating": 0,
       "album": "Mama's Gun",
-      "url": "https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8"
+      "url": "https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8",
+      "color" : "#"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/46ae7e4578a8385e223cad06e4b0fc69473f3cf3?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -621,13 +654,13 @@
       "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/a58d1bc80d322dfdc2abb69853af0170b4270acd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
-      "title": "Roses",
-      "artist": "Outkast",
+      "previewUrl": "https://p.scdn.co/mp3-preview/0df568daa5c80106faadb49ab3b6834dd1843932?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e",
+      "title": "Barefoot In The Park (feat. ROSALÍA)",
+      "artist": "James Blake, ROSALÍA",
       "rating": 0,
-      "album": "Speakerboxxx/The Love Below",
-      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+      "album": "Assume Form",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ae4ae52e313377f6dd438dbf52162a2cb9aad809?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -862,6 +895,24 @@
       "artist": "Chieko Baisho",
       "rating": 0,
       "url": "https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/94d1a277b4b8b4598f8f1b5737a6389239c456d8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+      "title": "STOP TRYING TO BE GOD",
+      "artist": "Travis Scott",
+      "rating": 0,
+      "album": "ASTROWORLD",
+      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
+      "title": "Borrowed Love",
+      "artist": "Metro Boomin, Swae Lee, Wizkid",
+      "rating": 0,
+      "album": "NOT ALL HEROES WEAR CAPES",
+      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
