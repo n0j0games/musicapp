@@ -30,7 +30,7 @@
       ],
       "rating": 10.3,
       "genre": "R&B",
-      "playTime": 530,
+      "playTime": 531,
       "playTime30Days": 13
     },
     {
@@ -94,8 +94,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 274,
-      "playTime30Days": 10
+      "playTime": 287,
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj",
@@ -127,7 +127,7 @@
       "rating": 9.1,
       "genre": "Rap",
       "playTime": 657,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
@@ -220,7 +220,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 181,
+      "playTime": 182,
       "playTime30Days": 0
     },
     {
@@ -286,8 +286,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 196,
-      "playTime30Days": 7
+      "playTime": 197,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -379,8 +379,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 331,
-      "playTime30Days": 6
+      "playTime": 332,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/5cevXzPkQy57tCpDbuBnVh",
@@ -441,7 +441,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 227,
+      "playTime": 229,
       "playTime30Days": 0
     },
     {

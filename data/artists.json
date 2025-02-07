@@ -1,6 +1,10 @@
 {
   "items" : [
     {
+      "group" : "daimajin",
+      "members" : ["og keemo"]
+    },
+    {
       "group" : "the beatles",
       "members" : ["john lennon", "paul mccartney", "ringo starr", "george harrison"]
     },

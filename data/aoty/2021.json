@@ -63,7 +63,7 @@
       ],
       "rating": 9.6,
       "playTime": 146,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk",
@@ -283,8 +283,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 454,
-      "playTime30Days": 8
+      "playTime": 466,
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -314,7 +314,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 142,
+      "playTime": 143,
       "playTime30Days": 0
     },
     {
@@ -346,7 +346,7 @@
       ],
       "rating": 8,
       "playTime": 218,
-      "playTime30Days": 31
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
@@ -645,7 +645,7 @@
       "title": "Faith",
       "artist": "Pop Smoke",
       "rating": 4,
-      "playTime": 148,
+      "playTime": 149,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -838,6 +838,34 @@
       "playTime": 0,
       "genre": "Deutschpop",
       "playTime30Days": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/00RxYCXCK9vr6ee1n68Qqx",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736371047a600cf4ec7e01999a",
+      "title": "x6",
+      "artist": "Edo Saiya",
+      "songs": [
+        {
+          "title": "Kinofilm",
+          "preview_url": "https://p.scdn.co/mp3-preview/709a7f473bfe26dd3cb409bd64787ed7acac8eab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "2021",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9147d39d3beab490807c56e1fe0c6ab6039be95?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nov.10",
+          "preview_url": "https://p.scdn.co/mp3-preview/e19fa9baa48bba3fab7d01c91ae296f6fa0f8603?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tanz mit dem Teufel",
+          "preview_url": "https://p.scdn.co/mp3-preview/37801949f6b348e78824f190517efea8e8e9ef15?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 208,
+      "genre": "Deutschrap",
+      "playTime30Days": 0
     }
   ]
 }

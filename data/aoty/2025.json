@@ -9,7 +9,7 @@
       "rating": 4,
       "playTime": 7,
       "genre": "Rap",
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 163,
+      "playTime": 168,
       "genre": "Latin",
-      "playTime30Days": 163
+      "playTime30Days": 68
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 155,
+      "playTime": 189,
       "genre": "Rap",
-      "playTime30Days": 155
+      "playTime30Days": 189
     },
     {
       "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
@@ -105,9 +105,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 65,
+      "playTime": 78,
       "genre": "Electronic",
-      "playTime30Days": 64
+      "playTime30Days": 77
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -115,6 +115,14 @@
       "title": "Hurry Up Tomorrow",
       "artist": "The Weeknd",
       "songs": [
+        {
+          "title": "Big Sleep",
+          "preview_url": "https://p.scdn.co/mp3-preview/b3683ca25870de617e212baa595806124dc21161?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hurry Up Tomorrow",
+          "preview_url": "https://p.scdn.co/mp3-preview/be79470f6a0f3c5aa46bc7db2def3da8f5ea184b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
         {
           "title": "Wake Me Up",
           "preview_url": "https://p.scdn.co/mp3-preview/f64a0c0342f2819ab4a77883de06744bd054b5de?cid=bba9a824e2c249d1a89e21c0e2a2e845"
@@ -126,16 +134,52 @@
         {
           "title": "Without a Warning",
           "preview_url": "https://p.scdn.co/mp3-preview/16ba6a81ef0574a9e235e7877af7abced54f2d13?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "Hurry Up Tomorrow",
-          "preview_url": "https://p.scdn.co/mp3-preview/be79470f6a0f3c5aa46bc7db2def3da8f5ea184b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
       "rating": 8,
-      "playTime": 213,
-      "genre": "Pop",
-      "playTime30Days": 130
+      "playTime": 457,
+      "genre": "Synthpop",
+      "playTime30Days": 374
+    },
+    {
+      "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
+      "imgUrl": "https://images.genius.com/0dbd190153a3555ead1bc5be6d894784.1000x1000x1.png",
+      "title": "DAIMAJIN KOLLEKTION",
+      "artist": "DAIMAJIN",
+      "songs": [
+        {
+          "title": "Karatas",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ea1ff57052d1634e22eda9980abe83d5b862ba8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dadf703d00e5de83ee8432dd",
+      "title": "I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)",
+      "artist": "JPEGMAFIA",
+      "songs": [
+        {
+          "title": "PROTECT THE CROSS",
+          "preview_url": "https://p.scdn.co/mp3-preview/72ab5ee106b0afa71987c72259859d08c1c0b748?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CULT STATUS",
+          "preview_url": "https://p.scdn.co/mp3-preview/8c9e4493e82d7228577165448290fb2360d765da?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "ALLAH",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2300ce0592ad97b5a5d61fa9f7f28cbdbf1a1c9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 70,
+      "genre": "Experimental Rap",
+      "playTime30Days": 10
     }
   ]
 }

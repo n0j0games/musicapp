@@ -62,8 +62,8 @@
       ],
       "rating": 10.2,
       "onVinyl": true,
-      "playTime": 328,
-      "playTime30Days": 21
+      "playTime": 329,
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",
@@ -276,8 +276,8 @@
       ],
       "rating": 8.4,
       "genre": "Rap",
-      "playTime": 632,
-      "playTime30Days": 5
+      "playTime": 633,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0",
@@ -734,9 +734,9 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 25,
+      "playTime": 26,
       "genre": "Spanish Folk",
-      "playTime30Days": 25
+      "playTime30Days": 26
     }
   ]
 }

@@ -228,7 +228,7 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 215,
+      "playTime": 216,
       "playTime30Days": 5,
       "color": "#12497e"
     },
@@ -261,7 +261,7 @@
       ],
       "rating": 8.8,
       "genre": "Latin",
-      "playTime": 322,
+      "playTime": 325,
       "playTime30Days": 14,
       "color": "#a065b1"
     },
@@ -456,7 +456,7 @@
       "rating": 8.5,
       "genre": "Indie Pop",
       "playTime": 63,
-      "playTime30Days": 17,
+      "playTime30Days": 16,
       "color": "#2c3863"
     },
     {
@@ -1027,7 +1027,7 @@
       "rating": 7.5,
       "genre": "Experimental Rap",
       "playTime": 70,
-      "playTime30Days": 15,
+      "playTime30Days": 10,
       "color": "#453f32"
     },
     {
@@ -1113,8 +1113,8 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 58,
-      "playTime30Days": 0,
+      "playTime": 59,
+      "playTime30Days": 5,
       "color": "#012c63"
     },
     {
@@ -1567,8 +1567,8 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 100,
-      "playTime30Days": 52,
+      "playTime": 104,
+      "playTime30Days": 34,
       "color": "#092508"
     },
     {
@@ -1688,7 +1688,7 @@
       ],
       "rating": 6,
       "genre": "R&B",
-      "playTime": 55,
+      "playTime": 56,
       "playTime30Days": 0
     },
     {
@@ -1880,7 +1880,7 @@
       ],
       "rating": 6.1,
       "genre": "Electronic",
-      "playTime": 59,
+      "playTime": 60,
       "playTime30Days": 0
     },
     {
@@ -2113,7 +2113,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e3dea06abe828efbc6a66b753620f809e7c7123e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "genre": "Deutscher Indie",
       "playTime": 199,
       "playTime30Days": 5,
@@ -2145,7 +2145,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 304,
+      "playTime": 305,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2303,7 +2303,7 @@
       "rating": 8.6,
       "playTime": 342,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 18,
+      "playTime30Days": 5,
       "color": "#6c6c6c"
     },
     {
@@ -2333,10 +2333,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/96aedfd72c844647576b012aabb403d43dcecc00?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "playTime": 353,
       "genre": "Wiener Pop",
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#c51919"
     },
     {
@@ -2392,9 +2392,9 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 174,
+      "playTime": 175,
       "genre": "Soundtrack",
-      "playTime30Days": 23
+      "playTime30Days": 17
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

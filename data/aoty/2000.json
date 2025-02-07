@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 816,
+      "playTime": 818,
       "playTime30Days": 16,
       "year": 2007
     },
@@ -100,8 +100,8 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 381,
-      "playTime30Days": 9,
+      "playTime": 382,
+      "playTime30Days": 8,
       "onVinyl": true,
       "year": 2001
     },
@@ -166,8 +166,8 @@
       ],
       "rating": 9.8,
       "genre": "Rap",
-      "playTime": 593,
-      "playTime30Days": 46,
+      "playTime": 603,
+      "playTime30Days": 54,
       "year": 2005
     },
     {
@@ -198,8 +198,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 452,
-      "playTime30Days": 21,
+      "playTime": 454,
+      "playTime30Days": 23,
       "year": 2005
     },
     {
@@ -290,8 +290,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 341,
-      "playTime30Days": 9,
+      "playTime": 345,
+      "playTime30Days": 13,
       "year": 2001
     },
     {
@@ -388,7 +388,7 @@
       "rating": 8.8,
       "genre": "Rap",
       "playTime": 432,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 2008
     },
     {
@@ -579,7 +579,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 88,
+      "playTime": 89,
       "playTime30Days": 0,
       "year": 2001
     },
@@ -607,7 +607,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 47,
+      "playTime": 48,
       "playTime30Days": 0,
       "year": 2005
     },
@@ -664,7 +664,7 @@
       ],
       "rating": 8.8,
       "playTime": 62,
-      "playTime30Days": 10,
+      "playTime30Days": 8,
       "year": 2000
     },
     {
@@ -837,7 +837,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 75,
+      "playTime": 76,
       "playTime30Days": 0,
       "year": 2004
     },
