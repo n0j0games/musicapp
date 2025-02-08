@@ -150,7 +150,7 @@
       "rating": 0,
       "album": "Kid A",
       "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-      "color" : "#"
+      "color" : "#453c35"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/46557b2db3c49695104dddef73e29ccdafb0be74?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -209,7 +209,8 @@
       "artist": "Tears For Fears",
       "rating": 0,
       "album": "Songs From The Big Chair",
-      "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt"
+      "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt",
+      "color" : "#7e7e7e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/64db1616c8839309c68bafc68e32c45bcb4677c2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -242,12 +243,13 @@
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/333349ad660d769df4c7dbe970c34854150a7aed?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737a9bf5f82e32d33d4503fe7b",
+      "imgUrl": "https://images.universal-music.de/img/assets/345/345290/4/1200/hozier-take-me-to-church-cover.jpg",
       "title": "Take Me To Church",
       "artist": "Hozier",
       "rating": 0,
       "album": "Hozier",
-      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI",
+      "color" : "#c9642b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ba4215bea9ecb0e84be23ae3f20e2e04e8a8fdea?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -256,7 +258,8 @@
       "artist": "Kendrick Lamar",
       "rating": 0,
       "album": "good kid, m.A.A.d city",
-      "url": "https://open.spotify.com/track/69pkT3GewmjhQf6vQWcK2L"
+      "url": "https://open.spotify.com/track/69pkT3GewmjhQf6vQWcK2L",
+      "color" : "#7a8664"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/02caf0e645e160a37bd48fcfa4d0f9d142bba6fd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -285,7 +288,8 @@
       "artist": "Mac Miller",
       "rating": 0,
       "album": "Circles",
-      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
+      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY",
+      "color" : "#9d9d9d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/61c2cd8a2a552a5c528e9eff51a5b3e2307a9b03?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -294,7 +298,8 @@
       "artist": "Stevie Wonder",
       "rating": 0,
       "album": "Songs In The Key Of Life",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn",
+      "color" : "#f58e39"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/9e43a81c5de34031083799a67df0baaa9b4d17c7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -313,7 +318,8 @@
       "artist": "Ms. Lauryn Hill",
       "rating": 0,
       "album": "The Miseducation of Lauryn Hill",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg",
+      "color" : "#af8659"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7a8fa587f65b722b40b37a048ba6d8e3516c7175?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -422,7 +428,8 @@
       "artist": "The Weeknd",
       "rating": 0,
       "album": "House Of Balloons",
-      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
+      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV",
+      "color" : "#aaacac"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/bef1a42d0299c0f5a6b9be0bc604326038b50995?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -471,7 +478,8 @@
       "artist": "Peter Fox",
       "rating": 0,
       "album": "Stadtaffe",
-      "url": "https://open.spotify.com/track/5hqxBvQJ3XJDSbxT9vyyqA"
+      "url": "https://open.spotify.com/track/5hqxBvQJ3XJDSbxT9vyyqA",
+      "color" : "#588535"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/71550ef227a38a275cdd9afd170d619ba3b2f157?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -520,7 +528,7 @@
       "rating": 0,
       "album": "Mama's Gun",
       "url": "https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8",
-      "color" : "#"
+      "color" : "#49421a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/9f68f1187605b2c73436ea85633e329d2d183991?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -529,7 +537,8 @@
       "artist": "James Blake",
       "rating": 0,
       "album": "Playing Robots Into Heaven",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ",
+      "color" : "#919191"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/dc220247158f103e18dfc9eb500a86b85549900d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -538,7 +547,8 @@
       "artist": "Kanye West",
       "rating": 0,
       "album": "Yeezus",
-      "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh"
+      "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh",
+      "color" : "#396b65"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/f2a53e4860ce9c6c18c3cf70cc7600ca9d5b22a9?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -547,7 +557,8 @@
       "artist": "Beyoncé, Kendrick Lamar",
       "rating": 0,
       "album": "Lemonade",
-      "url": "https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY"
+      "url": "https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY",
+      "color" : "#437b76"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/1483e40cb10841c75431b3779740e667c6a4c7b2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -556,7 +567,8 @@
       "artist": "Lana Del Rey",
       "rating": 0,
       "album": "Norman Fucking Rockwell!",
-      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
+      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17",
+      "color" : "#6a9bac"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/686843f99c15ad0915f6d646a61fd05448c44319?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -584,7 +596,8 @@
       "artist": "Kid Cudi",
       "rating": 0,
       "album": "Man On The Moon III: The Chosen",
-      "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
+      "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a",
+      "color" : "#932e50"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/93de8b97f51f60e086c141c9d27622ab37944cc3?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -593,7 +606,8 @@
       "artist": "Fleetwood Mac",
       "rating": 0,
       "album": "Rumours",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc",
+      "color" : "#99968b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/fb9f4a9b0887326776b4fb7c6d331acd167a7778?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -602,7 +616,8 @@
       "artist": "Coldplay",
       "rating": 0,
       "album": "Viva La Vida or Death and All His Friends",
-      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea"
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea",
+      "color" : "#7a7368"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a12c96145fa9ce6b6cf35b36f2655d582c58fd6f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -611,7 +626,8 @@
       "artist": "Pink Floyd",
       "rating": 0,
       "album": "The Dark Side of the Moon",
-      "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
+      "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d",
+      "color" : "#335e5b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -630,7 +646,8 @@
       "artist": "Sufjan Stevens",
       "rating": 0,
       "album": "The Age of Adz",
-      "url": "https://open.spotify.com/track/4Zts9erRexAxILn5XjSwUN"
+      "url": "https://open.spotify.com/track/4Zts9erRexAxILn5XjSwUN",
+      "color" : "#6b5345"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/400f559fc43f3e120b4b5c4fbd311bc64dea2424?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -639,16 +656,18 @@
       "artist": "Beach House",
       "rating": 0,
       "album": "Bloom",
-      "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN"
+      "url": "https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN",
+      "color" : "#5f5f5f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0df568daa5c80106faadb49ab3b6834dd1843932?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e",
-      "title": "Barefoot In The Park (feat. ROSALÍA)",
+      "title": "Barefoot In The Park",
       "artist": "James Blake, ROSALÍA",
       "rating": 0,
       "album": "Assume Form",
-      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF",
+      "color" : "#1b1521"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ae4ae52e313377f6dd438dbf52162a2cb9aad809?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -657,7 +676,8 @@
       "artist": "Beyoncé",
       "rating": 0,
       "album": "RENAISSANCE",
-      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
+      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q",
+      "color" : "#54636e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/8897b4d060924eb9e71130b35d8960abf2eea9e2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -666,7 +686,8 @@
       "artist": "yeule",
       "rating": 0,
       "album": "Serotonin II",
-      "url": "https://open.spotify.com/track/5Pljdb5h9t6AwhDZAv2h1v"
+      "url": "https://open.spotify.com/track/5Pljdb5h9t6AwhDZAv2h1v",
+      "color" : "#001e28"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5a047d1b5950ed4c508eb0703c0544a83b4190fe?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -675,7 +696,8 @@
       "artist": "David Bowie",
       "rating": 0,
       "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
-      "url": "https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho"
+      "url": "https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho",
+      "color" : "#2f2b2e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e89062bbf34150fbbbc89dbd1c0deedd2d95df14?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -684,7 +706,8 @@
       "artist": "Smith Westerns",
       "rating": 0,
       "album": "Dye It Blonde",
-      "url": "https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih"
+      "url": "https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih",
+      "color" : "#a22f1b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e88b4671110d926325b5723d3348e3559109f9a0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -693,7 +716,8 @@
       "artist": "Mary J. Blige",
       "rating": 0,
       "album": "My Life",
-      "url": "https://open.spotify.com/track/06FtloatIAfp3wT004J1rG"
+      "url": "https://open.spotify.com/track/06FtloatIAfp3wT004J1rG",
+      "color" : "#171e2e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/697398e5bc187f498347021f875a66a40e44307f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -702,7 +726,8 @@
       "artist": "Cocteau Twins",
       "rating": 0,
       "album": "Heaven or Las Vegas",
-      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok",
+      "color" : "#bd3b25"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0d66e689b7127682e8d6e0c7aaef57e8cd411568?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -710,7 +735,8 @@
       "title": "Rote Flaggen",
       "artist": "Berq",
       "rating": 0,
-      "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
+      "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI",
+      "color" : "#86a2b5"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -719,7 +745,8 @@
       "artist": "Tyler, The Creator, Kali Uchis",
       "rating": 0,
       "album": "Flower Boy",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
+      "color" : "#f64e11"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2ab904ea67d70342d1911b14c9077cafd7d6b25e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -728,7 +755,8 @@
       "artist": "Sting",
       "rating": 0,
       "album": "Ten Summoner's Tales",
-      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH",
+      "color" : "#967f18"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/12ad0800feab7ef7620c36168b603842378ebacd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -737,7 +765,8 @@
       "artist": "Earth, Wind & Fire",
       "rating": 0,
       "album": "Raise!",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "color" : "#5c3b7a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/11612ececd3ee386d4d5ce82a03da4040b075409?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -756,7 +785,8 @@
       "artist": "Kid Cudi, MGMT, Ratatat",
       "rating": 0,
       "album": "Man On The Moon: The End Of Day (Int'l Version)",
-      "url": "https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa"
+      "url": "https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa",
+      "color" : "#ef6d2b"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/87e34f06982367effdf9ad72f5d925652a8ed9a5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -765,7 +795,8 @@
       "artist": "Travis Scott",
       "rating": 0,
       "album": "DAYS BEFORE RODEO",
-      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
+      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r",
+      "color" : "#022c64"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ed8decd296c060f4203abdca06f71bd4bae6a8d7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -774,16 +805,18 @@
       "artist": "Tame Impala",
       "rating": 0,
       "album": "The Slow Rush",
-      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc",
+      "color" : "#9b5031"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d6f4cc9a0ac1f52a7e49c3af8ee1e1bccc4d1a6e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27306d5233c538a1a1b41e08112",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737e1373d59b234b90713ddc79",
       "title": "Tausend Jahre sind ein Tag",
       "artist": "Udo Jürgens",
       "rating": 0,
       "album": "Best Of",
-      "url": "https://open.spotify.com/track/4wWfplH1ZR5dutgIfpzm6O"
+      "url": "https://open.spotify.com/track/4wWfplH1ZR5dutgIfpzm6O",
+      "color" : "#101828"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a82929f1971e35cbe42878a5d1df3d1216985c4c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -791,7 +824,8 @@
       "title": "Anthonio",
       "artist": "Annie",
       "rating": 0,
-      "url": "https://open.spotify.com/track/1MCpVJ7tFCQR7qPYmxFL2s"
+      "url": "https://open.spotify.com/track/1MCpVJ7tFCQR7qPYmxFL2s",
+      "color" : "#4a3966"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/337c8d45ac66899bc2db9ef3ed9438fe1d035ab1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -800,7 +834,8 @@
       "artist": "Led Zeppelin",
       "rating": 0,
       "album": "Led Zeppelin IV (Deluxe Edition)",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
+      "color" : "#5a636e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/87588593fca31550c3b9e7d6f3eab157907dd4d6?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -809,7 +844,8 @@
       "artist": "The Strokes",
       "rating": 0,
       "album": "Comedown Machine",
-      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
+      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp",
+      "color" : "#917d65"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -818,7 +854,8 @@
       "artist": "Elliott Smith",
       "rating": 0,
       "album": "Either/Or",
-      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
+      "color" : "#8e7162"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/b01411c77500efa3830f69a04a0026d5cb01f3e7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -828,7 +865,7 @@
       "rating": 0,
       "album": "ye",
       "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
-      "color" : "#152630"
+      "color" : "#32527c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d070af22e781b899b0ac537dab0fbe51097f5777?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -836,7 +873,18 @@
       "title": "Across the Stars",
       "artist": "John Williams",
       "rating": 0,
-      "url": "https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X"
+      "url": "https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X",
+      "color" : "#929293"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/6b4c397203176cc18b0b8939996c37bfc55c75a1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07",
+      "title": "Perfekte Welle",
+      "artist": "Juli",
+      "rating": 0,
+      "album": "Es ist Juli",
+      "url": "https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK",
+      "color" : "#538160"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/37381340356389c7213ea82e2e1f3ef76fa3816d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -844,7 +892,8 @@
       "title": "Insomnia",
       "artist": "RIN, Giant Rooks",
       "rating": 0,
-      "url": "https://open.spotify.com/track/3wvC1UaLIFHnUyq2u5KliM"
+      "url": "https://open.spotify.com/track/3wvC1UaLIFHnUyq2u5KliM",
+      "color" : "#742312"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6f77b7e85f510cf377906a1647c673373be14cc8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -852,15 +901,8 @@
       "title": "Merry-Go-Round of Life",
       "artist": "Chieko Baisho",
       "rating": 0,
-      "url": "https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/c15926498305e40937548f27399433d80d32d952?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a64fc4fc6c165980f22429db",
-      "title": "Elecrified",
-      "artist": "TYM",
-      "rating": 0,
-      "url": "https://open.spotify.com/track/6FZkogSuP0V5oTmnKURl6M"
+      "url": "https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E",
+      "color" : "#006590"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6ed5f66269d2f0aec2e176002086b1fc13a7d764?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -869,7 +911,8 @@
       "artist": "Lana Del Rey",
       "rating": 0,
       "album": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE",
+      "color" : "#454955"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d1b9ffbe694544c52684f0b39235b831eee1f1e4?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -877,7 +920,8 @@
       "title": "Light of the Seven",
       "artist": "Ramin Djawadi",
       "rating": 0,
-      "url": "https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ"
+      "url": "https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ",
+      "color" : "#0d3b56"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/29caf0ec9a10369c9c92e0012df6dfc09ac6f4df?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -885,7 +929,8 @@
       "title": "The Hologram / Binary Sunset",
       "artist": "John Williams",
       "rating": 0,
-      "url": "https://open.spotify.com/track/4JxgEgwk7rhipjEGgPU4gv"
+      "url": "https://open.spotify.com/track/4JxgEgwk7rhipjEGgPU4gv",
+      "color" : "#8c8e8f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/94d1a277b4b8b4598f8f1b5737a6389239c456d8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -894,7 +939,8 @@
       "artist": "Travis Scott",
       "rating": 0,
       "album": "ASTROWORLD",
-      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
+      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg",
+      "color" : "#4683b1"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -903,7 +949,8 @@
       "artist": "yeule",
       "rating": 0,
       "album": "softscars",
-      "url": "https://open.spotify.com/track/4YI6091q0mWguKWkPnky2B"
+      "url": "https://open.spotify.com/track/4YI6091q0mWguKWkPnky2B",
+      "color" : "#5b7d8c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -912,7 +959,17 @@
       "artist": "Metro Boomin, Swae Lee, Wizkid",
       "rating": 0,
       "album": "NOT ALL HEROES WEAR CAPES",
-      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh",
+      "color" : "#b06725"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/c15926498305e40937548f27399433d80d32d952?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a64fc4fc6c165980f22429db",
+      "title": "Elecrified",
+      "artist": "TYM",
+      "rating": 0,
+      "url": "https://open.spotify.com/track/6FZkogSuP0V5oTmnKURl6M",
+      "color" : "#404330"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -921,7 +978,8 @@
       "artist": "Billie Eilish",
       "rating": 0,
       "album": "HIT ME HARD AND SOFT",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj",
+      "color" : "#15486c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/703fa78f595071c3a162899f481a200d2b3f571b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -929,7 +987,8 @@
       "title": "Genesis.",
       "artist": "RAYE",
       "rating": 0,
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT",
+      "color" : "#ad7c89"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7186327d49f237decb23ecbce47835e8145556ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -937,7 +996,8 @@
       "title": "So leicht",
       "artist": "Apsilon",
       "rating": 0,
-      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4"
+      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4",
+      "color" : "#557a8d"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6c72809799382da2e441f704310b117f09f81340?cid=bba9a824e2c249d1a89e21c0e2a2e845",
