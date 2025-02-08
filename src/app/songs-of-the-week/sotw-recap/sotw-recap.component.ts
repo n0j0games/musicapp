@@ -54,7 +54,7 @@ export class SotwRecapComponent implements OnInit {
             return;
         }
         this.activeYear = <number><unknown>year;
-        this.title = this.activeYear != 0 ? 'FAV SONGS OF THE YEAR ' + this.activeYear : 'FAV SONGS OF ALL TIME';
+        this.title = this.activeYear != 0 ? 'FAV SONGS OF THE YEAR ' + this.activeYear : 'SOME OF MY FAV SONGS OF ALL TIME';
         this.maxAlbums = this.activeYear != 0 ? 50 : 100;
         this.activeSongNumber = this.maxAlbums;
         console.log(this.allowedYears, this.activeYear, this.maxAlbums);
