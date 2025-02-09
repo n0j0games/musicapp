@@ -282,6 +282,37 @@
       "playTime": 18,
       "playTime30Days": 0,
       "year": 1980
+    },
+    {
+      "url": "https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27375a8b4d86fb3a88401b38282",
+      "title": "Nightclubbing",
+      "artist": "Grace Jones",
+      "songs": [
+        {
+          "title": "Pull Up To The Bumper",
+          "preview_url": "https://p.scdn.co/mp3-preview/8654edcf814cd5a84af596895a53ae573bfdb66d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Walking In The Rain",
+          "preview_url": "https://p.scdn.co/mp3-preview/a677212230cef87cc4fc9442383430b412a935b9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nightclubbing",
+          "preview_url": "https://p.scdn.co/mp3-preview/dfafa471de286eadec682f8460cdf003d30153b6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I've Seen That Face Before (Libertango)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9bfa9539d013d15645b310107e7b674736cc137?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Feel Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/151bdd3c902d43f5d9bfa249e9dd82249994087b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.8,
+      "playTime": 0,
+      "genre": "New Wave"
     }
   ]
 }
