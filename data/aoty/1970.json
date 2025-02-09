@@ -37,7 +37,8 @@
       "genre": "Soul",
       "playTime": 318,
       "playTime30Days": 8,
-      "year": 1976
+      "year": 1976,
+      "color" : "#f58e39"
     },
     {
       "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc",
@@ -70,7 +71,8 @@
       "genre": "Rock",
       "playTime": 120,
       "playTime30Days": 0,
-      "year": 1975
+      "year": 1975,
+      "color" : "#546071"
     },
     {
       "url": "https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7",
@@ -103,7 +105,8 @@
       "genre": "Jazz",
       "playTime": 133,
       "playTime30Days": 0,
-      "year": 1975
+      "year": 1975,
+      "color" : "#8d1644"
     },
     {
       "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
@@ -136,7 +139,8 @@
       "genre": "Rock",
       "playTime": 73,
       "playTime30Days": 5,
-      "year": 1973
+      "year": 1973,
+      "color" : "#335e5b"
     },
     {
       "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",
@@ -265,7 +269,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b004f4f63e0165964ffa0ae5365201a5a517db43?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.9,
       "genre": "Country",
       "playTime": 21,
       "playTime30Days": 0,
@@ -455,7 +459,8 @@
       "genre": "Disco",
       "playTime": 40,
       "playTime30Days": 0,
-      "year": 1978
+      "year": 1978,
+      "color" : "#aa546d"
     },
     {
       "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA",
@@ -493,6 +498,10 @@
       "artist": "Marvin Gaye",
       "songs": [
         {
+          "title": "Mercy Mercy Me (The Ecology)",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb9335dcb2debb4801d96ebeaad7f682cee70a3d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
           "title": "What's Going On",
           "preview_url": "https://p.scdn.co/mp3-preview/2cfd1682c3ced4c2bfc7ef3ca415f8b63f69b9b5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
@@ -505,10 +514,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1a3695051e07605df5aadeeef8df79c913df645e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Mercy Mercy Me (The Ecology)",
-          "preview_url": "https://p.scdn.co/mp3-preview/fb9335dcb2debb4801d96ebeaad7f682cee70a3d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "Inner City Blues (Make Me Wanna Holler)",
           "preview_url": "https://p.scdn.co/mp3-preview/da2fbe110578dfd33625ff1fb996099592c986bf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
@@ -516,7 +521,8 @@
       "rating": 9.5,
       "playTime": 0,
       "genre": "Soul",
-      "year" : 1971
+      "year" : 1971,
+      "color" : "#4b796b"
     }
   ]
 }

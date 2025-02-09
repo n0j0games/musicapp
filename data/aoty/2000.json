@@ -8,6 +8,10 @@
       "artist": "Radiohead",
       "songs": [
         {
+          "title": "Reckoner",
+          "preview_url": "https://p.scdn.co/mp3-preview/b96dbc431830c75665f150959a628cebff536158?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "15 Step",
           "preview_url": "https://p.scdn.co/mp3-preview/fc4c0d544de2c85b4af5e44a0fbad41cba9b8bae?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -24,10 +28,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/84d22bb712ca5a5cc6d7f82ef097977e6b6d63e0?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Reckoner",
-          "preview_url": "https://p.scdn.co/mp3-preview/b96dbc431830c75665f150959a628cebff536158?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Jigsaw Falling Into Place",
           "preview_url": "https://p.scdn.co/mp3-preview/20658b82bd25e6c1c5769a73e30cffdb0469dd58?cid=941103e4872f4d3fad60066c677df34f"
         }
@@ -37,7 +37,8 @@
       "genre": "Alt Rock",
       "playTime": 818,
       "playTime30Days": 16,
-      "year": 2007
+      "year": 2007,
+      "color" : "#873912"
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -70,7 +71,8 @@
       "playTime": 387,
       "genre": "Rap",
       "playTime30Days": 0,
-      "year": 2004
+      "year": 2004,
+      "color" : "#693303"
     },
     {
       "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
@@ -79,16 +81,16 @@
       "artist": "Daft Punk",
       "songs": [
         {
+          "title": "Crescendolls",
+          "preview_url": "https://p.scdn.co/mp3-preview/9fa487146712b9c4f737dfcb7c9c0197c525c693?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "One More Time",
           "preview_url": "https://p.scdn.co/mp3-preview/5e7d7e1faefc00e347d0a1c958d4b7f52baa3a44?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Aerodynamic",
           "preview_url": "https://p.scdn.co/mp3-preview/084468bc8b4d33ece2742182d92ef780a8188daa?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Crescendolls",
-          "preview_url": "https://p.scdn.co/mp3-preview/9fa487146712b9c4f737dfcb7c9c0197c525c693?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Veridis Quo",
@@ -103,7 +105,8 @@
       "playTime": 382,
       "playTime30Days": 8,
       "onVinyl": true,
-      "year": 2001
+      "year": 2001,
+      "color" : "#0b100c"
     },
     {
       "url": "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk",
@@ -112,12 +115,12 @@
       "artist": "Daft Punk",
       "songs": [
         {
-          "title": "Touch It / Technologic",
-          "preview_url": "https://p.scdn.co/mp3-preview/51a679acd23198fdd384673a0a4ecb3fb2f91b72?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Television Rules the Nation / Crescendolls",
           "preview_url": "https://p.scdn.co/mp3-preview/e47dee8b61abf31d2684394e40822b5f1e03f720?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Touch It / Technologic",
+          "preview_url": "https://p.scdn.co/mp3-preview/51a679acd23198fdd384673a0a4ecb3fb2f91b72?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Around the World / Harder, Better, Faster, Stronger",
@@ -135,7 +138,8 @@
       "rating": 9.5,
       "playTime": 171,
       "playTime30Days": 0,
-      "year": 2007
+      "year": 2007,
+      "color" : "#006082"
     },
     {
       "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g",
@@ -168,7 +172,8 @@
       "genre": "Rap",
       "playTime": 603,
       "playTime30Days": 54,
-      "year": 2005
+      "year": 2005,
+      "color" : "#5e2e0c"
     },
     {
       "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
@@ -177,16 +182,16 @@
       "artist": "Gorillaz",
       "songs": [
         {
+          "title": "Every Planet We Reach Is Dead",
+          "preview_url": "https://p.scdn.co/mp3-preview/2faca2c2722adc8b2f54436566f0b940005fcbe7?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "O Green World",
           "preview_url": "https://p.scdn.co/mp3-preview/bf8e11b021760f908bca9b36c4bce43eb5ea4cf4?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Feel Good Inc.",
           "preview_url": "https://p.scdn.co/mp3-preview/b13a1bb2d8a04132982a49b6efee933cc9d67c7e?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Every Planet We Reach Is Dead",
-          "preview_url": "https://p.scdn.co/mp3-preview/2faca2c2722adc8b2f54436566f0b940005fcbe7?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "November Has Come",
@@ -200,7 +205,8 @@
       "rating": 9.9,
       "playTime": 454,
       "playTime30Days": 23,
-      "year": 2005
+      "year": 2005,
+      "color" : "#001621"
     },
     {
       "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
@@ -232,7 +238,8 @@
       "rating": 9.2,
       "playTime": 356,
       "playTime30Days": 0,
-      "year": 2004
+      "year": 2004,
+      "color" : "#ba5d2c"
     },
     {
       "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq",
@@ -257,10 +264,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/948c2672c53ed5ef986a2c691eec9a4dba0bb327?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.7,
+      "rating": 9.3,
       "playTime": 8,
       "playTime30Days": 0,
-      "year": 2000
+      "year": 2000,
+      "color" : "#8a5a4a"
     },
     {
       "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
@@ -292,7 +300,8 @@
       "rating": 9.7,
       "playTime": 345,
       "playTime30Days": 13,
-      "year": 2001
+      "year": 2001,
+      "color" : "#453c35"
     },
     {
       "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
@@ -356,7 +365,8 @@
       "rating": 8.9,
       "playTime": 112,
       "playTime30Days": 0,
-      "year": 2009
+      "year": 2009,
+      "color" : "#ad4362"
     },
     {
       "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
@@ -421,7 +431,8 @@
       "rating": 8.9,
       "playTime": 167,
       "playTime30Days": 0,
-      "year": 2008
+      "year": 2008,
+      "color" : "#588535"
     },
     {
       "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq",
@@ -896,7 +907,8 @@
       "playTime": 43,
       "genre": "Folk",
       "playTime30Days": 23,
-      "year": 2007
+      "year": 2007,
+      "color" : "#5a552c"
     },
     {
       "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL",

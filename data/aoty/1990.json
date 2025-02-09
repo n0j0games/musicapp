@@ -32,7 +32,8 @@
       "genre": "Alternative Rock",
       "playTime": 424,
       "playTime30Days": 27,
-      "year": 1997
+      "year": 1997,
+      "color" : "#194d64"
     },
     {
       "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG",
@@ -68,7 +69,8 @@
       "rating": 11.7,
       "playTime": 167,
       "playTime30Days": 6,
-      "year": 1992
+      "year": 1992,
+      "color" : "#3a322d"
     },
     {
       "url": "https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC",
@@ -100,7 +102,8 @@
       "rating": 9.8,
       "playTime": 157,
       "playTime30Days": 5,
-      "year": 1999
+      "year": 1999,
+      "color" : "#001743"
     },
     {
       "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD",
@@ -132,7 +135,8 @@
       "rating": 9.8,
       "playTime": 128,
       "playTime30Days": 0,
-      "year": 1998
+      "year": 1998,
+      "color" : "#933a2b"
     },
     {
       "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT",
@@ -164,7 +168,8 @@
       "rating": 9.6,
       "playTime": 85,
       "playTime30Days": 7,
-      "year": 1997
+      "year": 1997,
+      "color" : "#43495f"
     },
     {
       "url": "https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ",
@@ -179,7 +184,8 @@
       ],
       "rating": 10.4,
       "playTime30Days": 0,
-      "year": 1996
+      "year": 1996,
+      "color" : "#1f493c"
     },
     {
       "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E",
@@ -211,7 +217,8 @@
       "rating": 9.4,
       "playTime": 123,
       "playTime30Days": 5,
-      "year": 1990
+      "year": 1990,
+      "color" : "#3c456e"
     },
     {
       "url": "https://open.spotify.com/album/5K4YFkTizFoMOyN5Khfp7G",
@@ -243,7 +250,8 @@
       "rating": 8.9,
       "playTime": 80,
       "playTime30Days": 0,
-      "year": 1998
+      "year": 1998,
+      "color": "#13182e"
     },
     {
       "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
@@ -432,12 +440,12 @@
       "artist": "Nas",
       "songs": [
         {
-          "title": "The Genesis",
-          "preview_url": "https://p.scdn.co/mp3-preview/af176b11e12a9140d7d1529dafc15fdf9e451641?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "N.Y. State of Mind",
           "preview_url": "https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Genesis",
+          "preview_url": "https://p.scdn.co/mp3-preview/af176b11e12a9140d7d1529dafc15fdf9e451641?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Life's a Bitch (feat. AZ & Olu Dara)",
@@ -455,7 +463,8 @@
       "rating": 9.3,
       "playTime": 35,
       "playTime30Days": 0,
-      "year": 1994
+      "year": 1994,
+      "color" : "#702422"
     },
     {
       "url": "https://open.spotify.com/album/14JahnBKUL2ou13zH2OOQP",
@@ -587,7 +596,8 @@
       "playTime": 16,
       "genre": "Funk",
       "year": 1993,
-      "playTime30Days": 16
+      "playTime30Days": 16,
+      "color" : "#45493e"
     }
   ]
 }

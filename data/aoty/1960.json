@@ -32,7 +32,8 @@
       "genre": "Rock",
       "playTime": 28,
       "playTime30Days": 0,
-      "year": 1969
+      "year": 1969,
+      "color" : "#df6a62"
     },
     {
       "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR",
@@ -65,7 +66,8 @@
       "genre": "Rock",
       "playTime": 75,
       "playTime30Days": 8,
-      "year": 1966
+      "year": 1966,
+      "color" : "#838383"
     },
     {
       "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",

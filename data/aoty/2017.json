@@ -8,6 +8,10 @@
       "artist": "Tyler, The Creator",
       "songs": [
         {
+          "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e86369cce3156f3c73448cfc6f6871f77a5ea70?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "See You Again (feat. Kali Uchis)",
           "preview_url": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -20,10 +24,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/64c36bb59fe8c48d0ed5b38dc5a7b0189c1a642b?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
-          "preview_url": "https://p.scdn.co/mp3-preview/2e86369cce3156f3c73448cfc6f6871f77a5ea70?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "November",
           "preview_url": "https://p.scdn.co/mp3-preview/d061149b635697c4347dc218d9bf5f52f2a93266?cid=941103e4872f4d3fad60066c677df34f"
         }
@@ -31,7 +31,8 @@
       "rating": 10.6,
       "genre": "Pop Rap",
       "playTime": 749,
-      "playTime30Days": 15
+      "playTime30Days": 15,
+      "color" : "#965f0f"
     },
     {
       "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh",
@@ -63,7 +64,8 @@
       "rating": 10.2,
       "onVinyl": true,
       "playTime": 329,
-      "playTime30Days": 20
+      "playTime30Days": 20,
+      "color" : "#213f28"
     },
     {
       "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC",
@@ -71,6 +73,10 @@
       "title": "Pop 2",
       "artist": "Charli xcx",
       "songs": [
+        {
+          "title": "Track 10",
+          "preview_url": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Backseat (feat. Carly Rae Jepsen)",
           "preview_url": "https://p.scdn.co/mp3-preview/4b667e7adc961c83529861c8d3aeabd11cc89f15?cid=941103e4872f4d3fad60066c677df34f"
@@ -86,15 +92,12 @@
         {
           "title": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
           "preview_url": "https://p.scdn.co/mp3-preview/dd00763f726fa1cd6a28c8d57e9d50198ef4f9f5?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Track 10",
-          "preview_url": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9.7,
       "playTime": 150,
-      "playTime30Days": 6
+      "playTime30Days": 6,
+      "color" : "#8884ba"
     },
     {
       "url": "https://open.spotify.com/album/55tCqWut5gobjBTJMTQJ4h",
@@ -125,7 +128,8 @@
       ],
       "rating": 9.1,
       "playTime": 198,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#c1818f"
     },
     {
       "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv",

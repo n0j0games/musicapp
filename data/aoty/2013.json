@@ -32,7 +32,8 @@
       "onVinyl": true,
       "genre": "Alternative R&B",
       "playTime": 535,
-      "playTime30Days": 8
+      "playTime30Days": 8,
+      "color" : "#25714c"
     },
     {
       "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
@@ -64,7 +65,8 @@
       "rating": 9.7,
       "playTime": 440,
       "genre": "Experimental Rap",
-      "playTime30Days": 6
+      "playTime30Days": 6,
+      "color" : "#396b65"
     },
     {
       "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
@@ -72,6 +74,10 @@
       "title": "Random Access Memories",
       "artist": "Daft Punk",
       "songs": [
+        {
+          "title": "Instant Crush (feat. Julian Casablancas)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a52d000457fc91fdb18bfaa1f690c82bf7b1a036?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Give Life Back to Music",
           "preview_url": "https://p.scdn.co/mp3-preview/7974b74d938ac047700dd7a2a0766d1ede1ec023?cid=941103e4872f4d3fad60066c677df34f"
@@ -85,17 +91,14 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ffbe7c12252438f212fd67000bcbd8cdc5ba4525?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Instant Crush (feat. Julian Casablancas)",
-          "preview_url": "https://p.scdn.co/mp3-preview/a52d000457fc91fdb18bfaa1f690c82bf7b1a036?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Touch (feat. Paul Williams)",
           "preview_url": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9,
       "playTime": 225,
-      "playTime30Days": 6
+      "playTime30Days": 6,
+      "color" : "#64441f"
     },
     {
       "url": "https://open.spotify.com/album/5pC8b5mAkXOQTKgG3WVv8K",

@@ -8,6 +8,10 @@
       "artist": "Frank Ocean",
       "songs": [
         {
+          "title": "White Ferrari",
+          "preview_url": "https://p.scdn.co/mp3-preview/bff77236970b7f90cdfc274b18b55ce7bf584bcc?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Ivy",
           "preview_url": "https://p.scdn.co/mp3-preview/3eb4d77b749c0f49037e6aee78536eb35b5c88c7?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -22,17 +26,14 @@
         {
           "title": "Nights",
           "preview_url": "https://p.scdn.co/mp3-preview/478a51ff059dc1abb20548ac2f3d3d73d75c3cb7?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "White Ferrari",
-          "preview_url": "https://p.scdn.co/mp3-preview/bff77236970b7f90cdfc274b18b55ce7bf584bcc?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9.8,
       "onVinyl": true,
       "playTime": 724,
       "genre": "Alternative R&B",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#2f3f28"
     },
     {
       "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg",
@@ -63,7 +64,8 @@
       ],
       "rating": 9.8,
       "playTime": 374,
-      "playTime30Days": 10
+      "playTime30Days": 10,
+      "color" : "#99999d"
     },
     {
       "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF",
@@ -94,7 +96,8 @@
       ],
       "rating": 9.2,
       "playTime": 159,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "color" : "#437b76"
     },
     {
       "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd",
@@ -121,7 +124,8 @@
       ],
       "rating": 9.5,
       "playTime": 18,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#494a66"
     },
     {
       "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC",
@@ -305,7 +309,8 @@
       ],
       "rating": 8.9,
       "playTime": 139,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#9194cb"
     },
     {
       "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b",

@@ -31,7 +31,8 @@
       "rating": 9.9,
       "genre": "Rap",
       "playTime": 459,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#4d6559"
     },
     {
       "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7",
@@ -62,7 +63,8 @@
       ],
       "rating": 9.3,
       "playTime": 335,
-      "playTime30Days": 59
+      "playTime30Days": 59,
+      "color" : "#51aab9"
     },
     {
       "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8",
@@ -70,6 +72,10 @@
       "title": "channel ORANGE",
       "artist": "Frank Ocean",
       "songs": [
+        {
+          "title": "Bad Religion",
+          "preview_url": "https://p.scdn.co/mp3-preview/15cd6470fe16fa3123ad074262b5f87a7a5a884e?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Thinkin Bout You",
           "preview_url": "https://p.scdn.co/mp3-preview/b551ddae26560865215d1083bc08364f8f6edc0b?cid=941103e4872f4d3fad60066c677df34f"
@@ -83,10 +89,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2d314c23e818fcd708b5224bf920520ccf69832c?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Bad Religion",
-          "preview_url": "https://p.scdn.co/mp3-preview/15cd6470fe16fa3123ad074262b5f87a7a5a884e?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Pink Matter",
           "preview_url": "https://p.scdn.co/mp3-preview/9b20e40914a12dbd20a228ea79795f370213b539?cid=941103e4872f4d3fad60066c677df34f"
         }
@@ -94,7 +96,8 @@
       "rating": 9.8,
       "genre": "Alternative R&B",
       "playTime": 597,
-      "playTime30Days": 7
+      "playTime30Days": 7,
+      "color" : "#8d4313"
     },
     {
       "url": "https://open.spotify.com/album/2dSLWOAettty18g9KTmi6E",

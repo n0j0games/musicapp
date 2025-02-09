@@ -8,12 +8,12 @@
       "artist": "OG Keemo",
       "songs": [
         {
-          "title": "Nebel",
-          "preview_url": "https://p.scdn.co/mp3-preview/74aae08d2bcf76ca8fabb30e45141b53ec21d643?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "55 - Interlude",
           "preview_url": "https://p.scdn.co/mp3-preview/447cafccfbd2b3a1874d8b842844110213123c4b?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Nebel",
+          "preview_url": "https://p.scdn.co/mp3-preview/74aae08d2bcf76ca8fabb30e45141b53ec21d643?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Geist",
@@ -31,7 +31,8 @@
       "rating": 10.8,
       "playTime": 442,
       "playTime30Days": 0,
-      "onVinyl": true
+      "onVinyl": true,
+      "color" : "#0d4c40"
     },
     {
       "url": "https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D",
@@ -62,7 +63,8 @@
       ],
       "rating": 10.1,
       "playTime": 120,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#001e28"
     },
     {
       "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
@@ -99,7 +101,8 @@
       "onVinyl": true,
       "genre": "Neo Soul",
       "playTime": 820,
-      "playTime30Days": 5
+      "playTime30Days": 5,
+      "color" : "#73535b"
     },
     {
       "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk",
@@ -135,7 +138,8 @@
       "rating": 11.5,
       "onVinyl": true,
       "playTime": 315,
-      "playTime30Days": 7
+      "playTime30Days": 7,
+      "color" : "#0e3258"
     },
     {
       "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A",
@@ -166,7 +170,8 @@
       ],
       "rating": 9.1,
       "playTime": 91,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "color" : "#6a9bac"
     },
     {
       "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF",
@@ -259,7 +264,8 @@
       ],
       "rating": 8.9,
       "playTime": 197,
-      "playTime30Days": 10
+      "playTime30Days": 10,
+      "color" : "#933010"
     },
     {
       "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj",

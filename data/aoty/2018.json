@@ -31,7 +31,8 @@
       "rating": 10.3,
       "genre": "R&B",
       "playTime": 531,
-      "playTime30Days": 13
+      "playTime30Days": 13,
+      "color" : "#0c3f83"
     },
     {
       "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I",
@@ -64,7 +65,8 @@
       "onVinyl": true,
       "genre": "Rap",
       "playTime": 1143,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "color" : "#4683b1"
     },
     {
       "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
@@ -95,7 +97,8 @@
       ],
       "rating": 9.5,
       "playTime": 287,
-      "playTime30Days": 21
+      "playTime30Days": 21,
+      "color" : "#926d70"
     },
     {
       "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj",
@@ -127,7 +130,8 @@
       "rating": 9.1,
       "genre": "Rap",
       "playTime": 657,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#b06725"
     },
     {
       "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
@@ -135,6 +139,10 @@
       "title": "KIDS SEE GHOSTS",
       "artist": "KIDS SEE GHOSTS",
       "songs": [
+        {
+          "title": "Cudi Montage",
+          "preview_url": "https://p.scdn.co/mp3-preview/62d779236d5e71dd3c5c5dbb43d084bde21d003d?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Feel The Love",
           "preview_url": "https://p.scdn.co/mp3-preview/f4db77382a5e33c67343ffe313ebddc92fdbadc1?cid=941103e4872f4d3fad60066c677df34f"
@@ -150,16 +158,13 @@
         {
           "title": "Reborn",
           "preview_url": "https://p.scdn.co/mp3-preview/f75ac65c50fcc81e642f58220e7f3abaf827e77a?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Cudi Montage",
-          "preview_url": "https://p.scdn.co/mp3-preview/62d779236d5e71dd3c5c5dbb43d084bde21d003d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9.2,
       "onVinyl": true,
       "playTime": 445,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#608588"
     },
     {
       "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp",
@@ -190,7 +195,8 @@
       ],
       "rating": 9.4,
       "playTime": 209,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#8a7877"
     },
     {
       "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR",

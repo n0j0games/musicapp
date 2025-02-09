@@ -30,7 +30,8 @@
       ],
       "rating": 10,
       "playTime": 401,
-      "playTime30Days": 24
+      "playTime30Days": 24,
+      "color" : "#81202d"
     },
     {
       "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd",
@@ -62,7 +63,8 @@
       "rating": 10.7,
       "playTime": 427,
       "genre": "Alternative R&B",
-      "playTime30Days": 36
+      "playTime30Days": 36,
+      "color" : "#aaacac"
     },
     {
       "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7",
@@ -93,7 +95,8 @@
       ],
       "rating": 10.4,
       "playTime": 211,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#406e22"
     },
     {
       "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz",
@@ -133,6 +136,10 @@
       "artist": "Drake",
       "songs": [
         {
+          "title": "Marvins Room",
+          "preview_url": "https://p.scdn.co/mp3-preview/162e35b99b14ee33752088767604fa229127c347?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Headlines",
           "preview_url": "https://p.scdn.co/mp3-preview/570ddea0adb2c0bff50a1f0447a0e643c084fbe6?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -145,10 +152,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/576afa0b9a7724cac0378f64458d38cea6ee0524?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Marvins Room",
-          "preview_url": "https://p.scdn.co/mp3-preview/162e35b99b14ee33752088767604fa229127c347?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "We'll Be Fine",
           "preview_url": "https://p.scdn.co/mp3-preview/188077c990050ead79d3af81d883cf28bcfa52bf?cid=941103e4872f4d3fad60066c677df34f"
         }
@@ -156,7 +159,8 @@
       "rating": 9.2,
       "genre": "R&B",
       "playTime": 425,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#633316"
     },
     {
       "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG",
@@ -187,7 +191,8 @@
       ],
       "rating": 8.9,
       "playTime": 146,
-      "playTime30Days": 5
+      "playTime30Days": 5,
+      "color" : "#872001"
     },
     {
       "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J",

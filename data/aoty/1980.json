@@ -31,7 +31,8 @@
       "rating": 9.8,
       "playTime30Days": 9,
       "playTime": 106,
-      "year": 1983
+      "year": 1983,
+      "color" : "#00598e"
     },
     {
       "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
@@ -63,7 +64,8 @@
       "rating": 9.5,
       "playTime": 16,
       "playTime30Days": 0,
-      "year": 1982
+      "year": 1982,
+      "color" : "#637371"
     },
     {
       "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
@@ -161,7 +163,8 @@
       "onVinyl": true,
       "playTime": 92,
       "playTime30Days": 7,
-      "year": 1985
+      "year": 1985,
+      "color" : "#716f6e"
     },
     {
       "url": "https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44",
@@ -225,7 +228,8 @@
       "rating": 8.9,
       "playTime": 139,
       "playTime30Days": 0,
-      "year": 1983
+      "year": 1983,
+      "color" : "#5d5340"
     },
     {
       "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh",
@@ -285,7 +289,7 @@
     },
     {
       "url": "https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27375a8b4d86fb3a88401b38282",
+      "imgUrl": "https://m.media-amazon.com/images/I/81l68hYxZNL.jpg",
       "title": "Nightclubbing",
       "artist": "Grace Jones",
       "songs": [

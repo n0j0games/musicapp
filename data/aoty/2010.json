@@ -58,7 +58,8 @@
       "rating": 8.9,
       "genre": "Rap",
       "playTime": 510,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#ba1d33"
     },
     {
       "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL",
@@ -112,7 +113,8 @@
       ],
       "rating": 8.9,
       "playTime": 122,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#9a5630"
     },
     {
       "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud",

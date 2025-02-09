@@ -36,7 +36,8 @@
       "onVinyl": true,
       "genre": "Rap",
       "playTime": 1079,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "color" : "#291c13"
     },
     {
       "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
@@ -44,6 +45,10 @@
       "title": "To Pimp A Butterfly",
       "artist": "Kendrick Lamar",
       "songs": [
+        {
+          "title": "The Blacker The Berry",
+          "preview_url": "https://p.scdn.co/mp3-preview/61f14fab6135f9ce46eb31987d04d38adf6ffc60?cid=941103e4872f4d3fad60066c677df34f"
+        },
         {
           "title": "Wesley's Theory",
           "preview_url": "https://p.scdn.co/mp3-preview/1033d43959f5b9c1ceeedc1a1e3fe2229fad4d0e?cid=941103e4872f4d3fad60066c677df34f"
@@ -55,10 +60,6 @@
         {
           "title": "Alright",
           "preview_url": "https://p.scdn.co/mp3-preview/4b5c9d0de5c6c7643ca1d7a488e8b1d8afec1b4e?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "The Blacker The Berry",
-          "preview_url": "https://p.scdn.co/mp3-preview/61f14fab6135f9ce46eb31987d04d38adf6ffc60?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "i",
@@ -73,7 +74,8 @@
       "onVinyl": false,
       "genre": "Rap",
       "playTime": 979,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#7c7a79"
     },
     {
       "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
@@ -105,7 +107,8 @@
       "rating": 10.3,
       "genre": "Synthpop",
       "playTime": 801,
-      "playTime30Days": 31
+      "playTime30Days": 31,
+      "color" : "#443152"
     },
     {
       "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv",
@@ -114,16 +117,16 @@
       "artist": "Beach House",
       "songs": [
         {
+          "title": "Space Song",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b09d1d942390eccf99e2d8233843defeac9dd61?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Levitation",
           "preview_url": "https://p.scdn.co/mp3-preview/9e43a81c5de34031083799a67df0baaa9b4d17c7?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Sparks",
           "preview_url": "https://p.scdn.co/mp3-preview/e0eb4ff88a02f92a006c956429d104f6c14d8e15?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Space Song",
-          "preview_url": "https://p.scdn.co/mp3-preview/3b09d1d942390eccf99e2d8233843defeac9dd61?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "PPP",
@@ -136,7 +139,8 @@
       ],
       "rating": 9.8,
       "playTime": 262,
-      "playTime30Days": 6
+      "playTime30Days": 6,
+      "color" : "#52050d"
     },
     {
       "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
@@ -324,7 +328,8 @@
       ],
       "rating": 8.9,
       "playTime": 148,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#526b6e"
     },
     {
       "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
