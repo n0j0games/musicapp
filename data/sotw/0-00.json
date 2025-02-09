@@ -886,16 +886,6 @@
       "color" : "#32527c"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/6b4c397203176cc18b0b8939996c37bfc55c75a1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "424d2f",
-      "title": "Perfekte Welle",
-      "artist": "Juli",
-      "rating": 0,
-      "album": "Es ist Juli",
-      "url": "https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK",
-      "color" : "#538160"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/37381340356389c7213ea82e2e1f3ef76fa3816d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27386f336a7c1296c7fad019783",
       "title": "Insomnia",
@@ -1048,6 +1038,16 @@
       "album": "Best Of",
       "url": "https://open.spotify.com/track/4wWfplH1ZR5dutgIfpzm6O",
       "color" : "#101828"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/6b4c397203176cc18b0b8939996c37bfc55c75a1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "424d2f",
+      "title": "Perfekte Welle",
+      "artist": "Juli",
+      "rating": 0,
+      "album": "Es ist Juli",
+      "url": "https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK",
+      "color" : "#538160"
     }
   ]
 }
