@@ -141,16 +141,16 @@
       "artist": "Björk",
       "songs": [
         {
+          "title": "Bachelorette",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b8fad287ed8ec9bd72afb59bebb400cce0b58bb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Hunter",
           "preview_url": "https://p.scdn.co/mp3-preview/9ce908bd76f76be3ce3ce4fd2a16a7465af74100?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Jóga",
           "preview_url": "https://p.scdn.co/mp3-preview/babf9ee7f2aee1589fcc7479b13db683b404ddc3?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Bachelorette",
-          "preview_url": "https://p.scdn.co/mp3-preview/6b8fad287ed8ec9bd72afb59bebb400cce0b58bb?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Alarm Call",
@@ -216,7 +216,7 @@
     {
       "url": "https://open.spotify.com/album/5K4YFkTizFoMOyN5Khfp7G",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801",
-      "title": "98.12.28 男達の別れ (Live)",
+      "title": "98.12.28 (Live)",
       "artist": "Fishmans",
       "songs": [
         {
@@ -583,7 +583,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2e2e00030fa2f8788047ebd3746f1caf7390e56c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.9,
       "playTime": 16,
       "genre": "Funk",
       "year": 1993,

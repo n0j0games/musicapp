@@ -40,16 +40,16 @@
       "artist": "Travis Scott",
       "songs": [
         {
+          "title": "STOP TRYING TO BE GOD",
+          "preview_url": "https://p.scdn.co/mp3-preview/94d1a277b4b8b4598f8f1b5737a6389239c456d8?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "CAROUSEL",
           "preview_url": "https://p.scdn.co/mp3-preview/1d0d1d66e1fff4aefd1e7a3cd2a79337af24a9e8?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "SICKO MODE",
           "preview_url": "https://p.scdn.co/mp3-preview/8229545ded5cacf393f62b17af653dfc8171fc85?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "STOP TRYING TO BE GOD",
-          "preview_url": "https://p.scdn.co/mp3-preview/94d1a277b4b8b4598f8f1b5737a6389239c456d8?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "SKELETONS",
@@ -100,8 +100,8 @@
     {
       "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
-      "title": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-      "artist": "Metro Boomin,\n21 Savage",
+      "title": "NOT ALL HEROES WEAR CAPES",
+      "artist": "Metro Boomin",
       "songs": [
         {
           "title": "Overdue (with Travis Scott)",
@@ -156,7 +156,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/62d779236d5e71dd3c5c5dbb43d084bde21d003d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.7,
+      "rating": 9.2,
       "onVinyl": true,
       "playTime": 445,
       "playTime30Days": 0

@@ -153,7 +153,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/188077c990050ead79d3af81d883cf28bcfa52bf?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.5,
+      "rating": 9.2,
       "genre": "R&B",
       "playTime": 425,
       "playTime30Days": 0
@@ -165,6 +165,10 @@
       "artist": "M83",
       "songs": [
         {
+          "title": "My Tears Are Becoming a Sea",
+          "preview_url": "https://p.scdn.co/mp3-preview/d1ce7eecb3784fa597b2315b7bdd4175b7510243?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Midnight City",
           "preview_url": "https://p.scdn.co/mp3-preview/a3bbe39182561b00b4104b859c29361732c0978d?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -175,10 +179,6 @@
         {
           "title": "Wait",
           "preview_url": "https://p.scdn.co/mp3-preview/6e8a4504d2a4b0cf92fd19f2807e0179c897a17a?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "My Tears Are Becoming a Sea",
-          "preview_url": "https://p.scdn.co/mp3-preview/d1ce7eecb3784fa597b2315b7bdd4175b7510243?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Outro",

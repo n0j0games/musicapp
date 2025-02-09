@@ -12,19 +12,18 @@ import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";
 
 @Component({
-    selector: 'app-aoty-recap',
+    selector: 'app-all-albums-recap',
     standalone: true,
     imports: [
         RecapComponent
     ],
-    templateUrl: './aoty-recap.component.html'
+    templateUrl: './all-albums-recap.component.html'
 })
-export class AotyRecapComponent implements OnInit {
+export class AllAlbumsRecapComponent implements OnInit {
 
     constructor(private route: ActivatedRoute, private router: Router, private aotyService: AotyService) {
     }
 
-    activeYear: number = 0;
     albumsOfTheYear!: AotyItem | null;
     playTracks!: SongInfo[][];
     albumsOfTheYear$: BehaviorSubject<{
@@ -38,50 +37,15 @@ export class AotyRecapComponent implements OnInit {
         linearGradients: string[],
         maxAlbums: number
     }|null>(null)
-    allowedYears = ['0', '0000', '2024', '2023', '2022'];
-    maxAlbumsPerAllowedYear = [100, 100, 50, 35, 35]
-    maxAlbums = 25;
+    maxAlbums = 100;
     defaultGradient: string = "#252525";
     linearGradients: string[] = [];
-    title!: string;
+    title: string = 'FAV ALBUMS OF ALL TIME';
 
     ngOnInit(): void {
-        const year = this.route.snapshot.paramMap.get('year');
-        console.log(year);
-        if (year === undefined || year === null) {
-            this.router.navigate(['**']).then(() => console.error("Undefined year, routed to 404"));
-            return;
-        }
-        this.activeYear = <number><unknown>year;
-        this.title = 'ALBUMS OF THE YEAR ' + this.activeYear;
-        this.maxAlbums = this.maxAlbumsPerAllowedYear[this.allowedYears.indexOf(year)];
-        console.log("XY", this.activeYear, this.title, this.maxAlbums);
-        if (!this.allowedYears.includes(this.activeYear.toString())) {
-            this.router.navigate(['/aoty', this.activeYear]).then(() => console.log("Unsupported year, routed to aoty"));
-        }
-
-        if (this.activeYear == 0) {
-            this.getAllFavs();
-        } else {
-            this.getAlbumsFromYear();
-        }
+        this.getAllFavs();
         this.playTracks = this.aggregateSongs();
         this.albumsOfTheYear$.next({ items : this.albumsOfTheYear!.albums, playTracks : this.playTracks, linearGradients: this.linearGradients, maxAlbums: this.maxAlbums });
-    }
-
-    private getAlbumsFromYear() {
-        this.albumsOfTheYear = this.aotyService.getAlbumsOfTheYear(this.activeYear);
-        if (this.albumsOfTheYear == null) {
-            this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
-            return;
-        }
-        for (let album of this.albumsOfTheYear.albums) {
-            if (album.year === undefined) {
-                album.year = this.activeYear;
-            }
-        }
-        this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.slice();
-        this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating);
     }
 
     private getAllFavs() {
@@ -113,7 +77,6 @@ export class AotyRecapComponent implements OnInit {
         }
         return albums;
     }
-
 
     private aggregateSongs() {
         const albums: Album[] = <Album[]>this.albumsOfTheYear!.albums;

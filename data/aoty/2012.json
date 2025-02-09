@@ -8,12 +8,12 @@
       "artist": "Kendrick Lamar",
       "songs": [
         {
-          "title": "Bitch, Don’t Kill My Vibe",
-          "preview_url": "https://p.scdn.co/mp3-preview/6cea1dd25b2f28fc4d13e12448fa585de955872a?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Backseat Freestyle",
           "preview_url": "https://p.scdn.co/mp3-preview/c04bf8d5e9e2570f1dd3221d70221adab9dae478?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Bitch, Don’t Kill My Vibe",
+          "preview_url": "https://p.scdn.co/mp3-preview/6cea1dd25b2f28fc4d13e12448fa585de955872a?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Money Trees",
@@ -154,7 +154,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ed5c4ee886380f062594903b70e0acca7dd90aaa?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.4,
+      "rating": 8.8,
       "playTime": 58,
       "playTime30Days": 0
     },

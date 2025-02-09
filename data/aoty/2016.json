@@ -72,6 +72,10 @@
       "artist": "Beyoncé",
       "songs": [
         {
+          "title": "Freedom (feat. Kendrick Lamar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f2a53e4860ce9c6c18c3cf70cc7600ca9d5b22a9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Sorry",
           "preview_url": "https://p.scdn.co/mp3-preview/a6a0420394d426f9c33aaf6c058fff16c9c2634d?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -86,10 +90,6 @@
         {
           "title": "Sandcastles",
           "preview_url": "https://p.scdn.co/mp3-preview/8d704a7b91206ba5d2952f58a76b8c4f3fddc8f6?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Freedom (feat. Kendrick Lamar)",
-          "preview_url": "https://p.scdn.co/mp3-preview/f2a53e4860ce9c6c18c3cf70cc7600ca9d5b22a9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9.2,
@@ -98,7 +98,7 @@
     },
     {
       "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c5c6c436a141b53086884863",
+      "imgUrl": "https://1265745076.rsc.cdn77.org/1024/jpg/74519-charli-xcx-vroom-vroom-ep-LP-5f49ab42a3afe.jpg",
       "title": "Vroom Vroom EP",
       "artist": "Charli xcx",
       "songs": [

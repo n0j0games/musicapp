@@ -66,7 +66,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4e7c3cece7c9ee0d47c381cde116f93c0b1aea99?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.4,
+      "rating": 9.8,
       "playTime": 387,
       "genre": "Rap",
       "playTime30Days": 0,
@@ -164,7 +164,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1c58b393f5118beeccbd64f49f9db1f2c5d124a4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8,
+      "rating": 10.3,
       "genre": "Rap",
       "playTime": 603,
       "playTime30Days": 54,
@@ -209,12 +209,12 @@
       "artist": "Madvillain,\nMadlib,\nMF DOOM",
       "songs": [
         {
-          "title": "Accordion",
-          "preview_url": "https://p.scdn.co/mp3-preview/7103a45929d32e01aa879efbcb5e037fafdcc0b2?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Meat Grinder",
           "preview_url": "https://p.scdn.co/mp3-preview/05ae1c3f5b95fe9174f89c9b3b9d967d3c2e80f9?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Accordion",
+          "preview_url": "https://p.scdn.co/mp3-preview/7103a45929d32e01aa879efbcb5e037fafdcc0b2?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Figaro",
@@ -892,11 +892,43 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4c82cc281270623395c01483e1c4d18b307014c6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 8.9,
       "playTime": 43,
       "genre": "Folk",
       "playTime30Days": 23,
       "year": 2007
+    },
+    {
+      "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d",
+      "title": "Justice",
+      "artist": "Justice",
+      "songs": [
+        {
+          "title": "Genesis",
+          "preview_url": "https://p.scdn.co/mp3-preview/55472f0781a3baa60e650302ce348524bc2b1b4b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Let There Be Light",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c92bc366d3b92b041627f371bf9d07f529cdeda?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "D.A.N.C.E",
+          "preview_url": "https://p.scdn.co/mp3-preview/0412ef6b21192bc79fc1fb3389d8c95172e2c2bf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Phantom Pt. II",
+          "preview_url": "https://p.scdn.co/mp3-preview/b55609b89ea9ecbb46dad21a4ee6f074a5e4dd0e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stress",
+          "preview_url": "https://p.scdn.co/mp3-preview/86272117780f9c45af3a90ef4de522131375a064?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 0,
+      "genre": "French House",
+      "year" : 2007
     }
   ]
 }

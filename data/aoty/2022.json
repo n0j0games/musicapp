@@ -238,6 +238,10 @@
       "artist": "ROSALÍA",
       "songs": [
         {
+          "title": "SAKURA",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a8fa587f65b722b40b37a048ba6d8e3516c7175?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "LA FAMA",
           "preview_url": "https://p.scdn.co/mp3-preview/da91a4c518657ab68ed8a6c84e5372d56a31ca7f?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -252,13 +256,9 @@
         {
           "title": "HENTAI",
           "preview_url": "https://p.scdn.co/mp3-preview/ec39acb4ea235e6e8d8c6011fc86a1bd6f16f212?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "SAKURA",
-          "preview_url": "https://p.scdn.co/mp3-preview/7a8fa587f65b722b40b37a048ba6d8e3516c7175?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.1,
+      "rating": 9.3,
       "playTime": 332,
       "playTime30Days": 24,
       "color": "#ea3840"

@@ -38,6 +38,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     }|null>;
     @Input() activeYear: number = 0;
     @Input() title! : string;
+    @Input() link! : string[];
     maxAlbums! : number;
     recapItems!: Album[] | Song[];
 

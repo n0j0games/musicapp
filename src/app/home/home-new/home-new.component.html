@@ -32,33 +32,46 @@
                     [text]="'all time favorites'"
             ></app-item>
         </div>
-        <div class="flex-row m-flex-column gap-xl align-center justify-center">
-            <div class="highlight-card">
-                <a
-                        class="flex-column gap-s align-center"
-                        [routerLink]="['/aoty/recap/2024']"
-                >
-                    <span class="fs-xl p-b">watch AOTY recap</span>
-                    <span class="fs-l">my fav albums of 2024</span>
-                </a>
+        <div class="flex-column gap-xl align-center justify-center">
+            <div class="flex-row m-flex-column gap-xl align-center justify-center">
+                <div class="highlight-card">
+                    <a
+                            class="flex-column gap-s align-center"
+                            [routerLink]="['/aoty/recap/2024']"
+                    >
+                        <span class="fs-xl p-b">RECAP: AOTY 2024</span>
+                        <span class="fs-l">my fav albums of 2024</span>
+                    </a>
+                </div>
+                <div class="highlight-card">
+                    <a
+                            class="flex-column gap-s align-center"
+                            [routerLink]="['/soty/recap/2024']"
+                    >
+                        <span class="fs-xl p-b">RECAP: SOTY 2024</span>
+                        <span class="fs-l">my fav songs of 2024</span>
+                    </a>
+                </div>
             </div>
-            <div class="highlight-card">
-                <a
-                        class="flex-column gap-s align-center"
-                        [routerLink]="['/soty/recap/2024']"
-                >
-                    <span class="fs-xl p-b">watch SOTY recap</span>
-                    <span class="fs-l">my fav songs of 2024</span>
-                </a>
-            </div>
-            <div class="highlight-card">
-                <a
-                        class="flex-column gap-s align-center"
-                        [routerLink]="['/soty/recap/0']"
-                >
-                    <span class="fs-xl p-b">watch ALL TIME recap</span>
-                    <span class="fs-l">some of my all-time fav songs</span>
-                </a>
+            <div class="flex-row m-flex-column gap-xl align-center justify-center">
+                <div class="highlight-card">
+                    <a
+                            class="flex-column gap-s align-center"
+                            [routerLink]="['/soty/recap/0']"
+                    >
+                        <span class="fs-xl p-b">RECAP: ALL TIME SONGS</span>
+                        <span class="fs-l">some of my all-time fav songs</span>
+                    </a>
+                </div>
+                <div class="highlight-card">
+                    <a
+                            class="flex-column gap-s align-center"
+                            [routerLink]="['/aoty/recap/all']"
+                    >
+                        <span class="fs-xl p-b">RECAP: ALL TIME ALBUMS</span>
+                        <span class="fs-l">some of my all-time fav albums</span>
+                    </a>
+                </div>
             </div>
         </div>
         <div class="outer-highlight-card">

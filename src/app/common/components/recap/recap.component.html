@@ -19,7 +19,7 @@
                     class="next-button" [disabled]="activeAlbumNumber >= maxAlbums"
                     (click)="prevAlbum()"><i class="fa-solid fa-backward"
             ></i></button>
-            <a class="p-b" [routerLink]="['/aoty', activeYear]">VIEW ALL</a>
+            <a class="p-b" [routerLink]="link">VIEW ALL</a>
             <button [ngClass]="{'next-button-disabled' : activeAlbumNumber <= 1 }"
                     class="next-button" [disabled]="activeAlbumNumber <= 1"
                     (click)="nextAlbum()"
@@ -34,7 +34,7 @@
                 class="next-button" [disabled]="activeAlbumNumber >= maxAlbums"
                 (click)="prevAlbum()"><i class="fa-solid fa-backward"
         ></i></button>
-        <a class="p-b" [routerLink]="['/aoty', activeYear]">VIEW ALL</a>
+        <a class="p-b" [routerLink]="link">VIEW ALL</a>
         <button [ngClass]="{'next-button-disabled' : activeAlbumNumber <= 1 }"
                 class="next-button" [disabled]="activeAlbumNumber <= 1"
                 (click)="nextAlbum()"

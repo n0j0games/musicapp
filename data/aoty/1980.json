@@ -40,12 +40,12 @@
       "artist": "Michael Jackson",
       "songs": [
         {
-          "title": "The Girl Is Mine (with Paul McCartney)",
-          "preview_url": "https://p.scdn.co/mp3-preview/c0045d437f71d77c20711e8d2be198914cc6d84d?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Thriller",
           "preview_url": "https://p.scdn.co/mp3-preview/783fbfcccdd2f9ae16f94adfdeaded9e04a87b5f?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "The Girl Is Mine (with Paul McCartney)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0045d437f71d77c20711e8d2be198914cc6d84d?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Beat It",
@@ -92,7 +92,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/486e6e72a322e56e014944a6fda174683c00b6c5?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.5,
       "onVinyl": true,
       "playTime30Days": 0,
       "playTime": 14,
@@ -157,7 +157,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e8b358385323a1061d08c1601512b6dc054f0375?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.6,
+      "rating": 8.9,
       "onVinyl": true,
       "playTime": 92,
       "playTime30Days": 7,
