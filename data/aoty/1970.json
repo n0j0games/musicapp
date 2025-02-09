@@ -273,7 +273,8 @@
       "genre": "Country",
       "playTime": 21,
       "playTime30Days": 0,
-      "year": 1970
+      "year": 1970,
+      "color" : "#a4935f"
     },
     {
       "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L",

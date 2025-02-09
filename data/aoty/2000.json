@@ -264,7 +264,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/948c2672c53ed5ef986a2c691eec9a4dba0bb327?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.3,
+      "rating": 9.1,
       "playTime": 8,
       "playTime30Days": 0,
       "year": 2000,
@@ -887,16 +887,16 @@
       "artist": "Bon Iver",
       "songs": [
         {
+          "title": "Creature Fear",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9e41f7fb284ba1ef711c83d66507267b6266e8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
           "title": "Flume",
           "preview_url": "https://p.scdn.co/mp3-preview/bafa9f194cb8a8d58d2c280cd89e2b48f62ad155?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
           "title": "Skinny Love",
           "preview_url": "https://p.scdn.co/mp3-preview/1515eb484a60f93e23e70b40acdcea8351365cef?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "Creature Fear",
-          "preview_url": "https://p.scdn.co/mp3-preview/e9e41f7fb284ba1ef711c83d66507267b6266e8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
           "title": "For Emma",
