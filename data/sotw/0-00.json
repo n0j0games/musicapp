@@ -53,36 +53,6 @@
       "color" : "#7c7a79"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
-      "title": "After Hours",
-      "artist": "The Weeknd",
-      "rating": 0,
-      "album": "After Hours",
-      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag",
-      "color" : "#242914"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/20658b82bd25e6c1c5769a73e30cffdb0469dd58?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
-      "title": "Jigsaw Falling Into Place",
-      "artist": "Radiohead",
-      "rating": 0,
-      "album": "In Rainbows",
-      "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV",
-      "color" : "#873912"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/84c1d098ee9156918b4259535fad13a2bd621b46?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://s3.amazonaws.com/media.thecrimson.com/photos/2023/10/11/211956_1365746.png",
-      "title": "Will Anybody Ever Love Me?",
-      "artist": "Sufjan Stevens",
-      "rating": 0,
-      "album": "Javelin",
-      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe",
-      "color" : "#89595f"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/6b8fad287ed8ec9bd72afb59bebb400cce0b58bb?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b6f50e46dac445dff914a56f",
       "title": "Bachelorette",
@@ -113,6 +83,16 @@
       "color" : "#2c2c2c"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+      "title": "After Hours",
+      "artist": "The Weeknd",
+      "rating": 0,
+      "album": "After Hours",
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag",
+      "color" : "#242914"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
       "title": "Touch",
@@ -121,6 +101,26 @@
       "album": "Random Access Memories",
       "url": "https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz",
       "color" : "#64441f"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/20658b82bd25e6c1c5769a73e30cffdb0469dd58?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+      "title": "Jigsaw Falling Into Place",
+      "artist": "Radiohead",
+      "rating": 0,
+      "album": "In Rainbows",
+      "url": "https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV",
+      "color" : "#873912"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/84c1d098ee9156918b4259535fad13a2bd621b46?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://s3.amazonaws.com/media.thecrimson.com/photos/2023/10/11/211956_1365746.png",
+      "title": "Will Anybody Ever Love Me?",
+      "artist": "Sufjan Stevens",
+      "rating": 0,
+      "album": "Javelin",
+      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe",
+      "color" : "#89595f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d6d2556bf783e481173a71c460fa113832295519?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -372,16 +372,6 @@
       "color" : "#39141d"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/e696d540ee3b6819bf76dd0f5e6acae360ca4ef8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738c72ca56b33ace6ae85db47f",
-      "title": "Vorwort",
-      "artist": "OG Keemo",
-      "rating": 0,
-      "album": "Skalp",
-      "url": "https://open.spotify.com/track/1zhV0LhmUcDfJpC8QC2rbb",
-      "color" : "#3f0a28"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/d07a3033d1e8f07deb029a497cd001025e4f267a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
       "title": "Come Back to Earth",
@@ -409,16 +399,6 @@
       "album": "Timely!!",
       "url": "https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze",
       "color" : "#00598e"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/5ba28f0c38a4b8916d50915216553046cf9331d0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273faffb14a464b3548703ccdc7",
-      "title": "Daydreaming",
-      "artist": "Radiohead",
-      "rating": 0,
-      "album" : "A Moon Shaped Pool",
-      "url": "https://open.spotify.com/track/1roDUhDOM7O1tWy9C6u3pP",
-      "color" : "#646464"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/8bec5be4a3fe088682473fe5a4e66b09cedbbaf3?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -449,16 +429,6 @@
       "album": "House Of Balloons",
       "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV",
       "color" : "#aaacac"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/e81d7343a4753c7dd8d4e48dde79bbf049c926ce?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732c25dad9f8fd54652f7ba5df",
-      "title": "Aerodynamic",
-      "artist": "Daft Punk",
-      "rating": 0,
-      "album": "Discovery",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu",
-      "color" : "#0b100c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0c2897694588ea7cfc6c11d0ec22664a6718cd40?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -570,16 +540,6 @@
       "color" : "#437b76"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/fdac4ed7d3486bfb6909fcb341ddd3d035384dd4?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i1.sndcdn.com/artworks-yap9IlZleMPEDebt-cflmGw-t500x500.jpg",
-      "title": "tell me a joke",
-      "artist": "Quadeca",
-      "rating": 0,
-      "album": "I Didn't Mean To Haunt You",
-      "url": "https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY",
-      "color" : "#503741"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/1483e40cb10841c75431b3779740e667c6a4c7b2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
       "title": "Venice Bitch",
@@ -597,6 +557,26 @@
       "rating": 0,
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY",
       "color" : "#5f0908"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e81d7343a4753c7dd8d4e48dde79bbf049c926ce?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732c25dad9f8fd54652f7ba5df",
+      "title": "Aerodynamic",
+      "artist": "Daft Punk",
+      "rating": 0,
+      "album": "Discovery",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu",
+      "color" : "#0b100c"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e696d540ee3b6819bf76dd0f5e6acae360ca4ef8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738c72ca56b33ace6ae85db47f",
+      "title": "Vorwort",
+      "artist": "OG Keemo",
+      "rating": 0,
+      "album": "Skalp",
+      "url": "https://open.spotify.com/track/1zhV0LhmUcDfJpC8QC2rbb",
+      "color" : "#3f0a28"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7d33c3053c08c5967bc9f5ff74cc4040b8a779cf?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -728,6 +708,16 @@
       "color" : "#a22f1b"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5ba28f0c38a4b8916d50915216553046cf9331d0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273faffb14a464b3548703ccdc7",
+      "title": "Daydreaming",
+      "artist": "Radiohead",
+      "rating": 0,
+      "album" : "A Moon Shaped Pool",
+      "url": "https://open.spotify.com/track/1roDUhDOM7O1tWy9C6u3pP",
+      "color" : "#646464"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/e88b4671110d926325b5723d3348e3559109f9a0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bb50577fe673ce16374ac275",
       "title": "I Love You",
@@ -807,6 +797,26 @@
       "color" : "#ad4362"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/fdac4ed7d3486bfb6909fcb341ddd3d035384dd4?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i1.sndcdn.com/artworks-yap9IlZleMPEDebt-cflmGw-t500x500.jpg",
+      "title": "tell me a joke",
+      "artist": "Quadeca",
+      "rating": 0,
+      "album": "I Didn't Mean To Haunt You",
+      "url": "https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY",
+      "color" : "#503741"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9",
+      "title": "Between The Bars",
+      "artist": "Elliott Smith",
+      "rating": 0,
+      "album": "Either/Or",
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
+      "color" : "#8e7162"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/87e34f06982367effdf9ad72f5d925652a8ed9a5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730fc93fe41791c5aa51ae9645",
       "title": "Drugs You Should Try It",
@@ -827,6 +837,16 @@
       "color" : "#9b5031"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f5be3dfb3bd50d2e15330471d629c196d26a9925?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273066241a5cdbc439e54c4ca5d",
+      "title": "Lennon 2",
+      "artist": "DAT ADAM",
+      "rating": 0,
+      "album": "HYDRA 3D",
+      "url": "https://open.spotify.com/track/4fKQo6OdHCztynR3kG8ZlP",
+      "color" : "#314ab3"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/a82929f1971e35cbe42878a5d1df3d1216985c4c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730f877ef2ebda6fdf7a040a71",
       "title": "Anthonio",
@@ -838,7 +858,7 @@
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/02603b1ac0f95d780cdda0f09ed9c19cdb53089f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
-      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "title": "Gimme! Gimme! Gimme!",
       "artist": "ABBA",
       "rating": 0,
       "album": "Voulez-Vous",
@@ -856,16 +876,6 @@
       "color" : "#917d65"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9",
-      "title": "Between The Bars",
-      "artist": "Elliott Smith",
-      "rating": 0,
-      "album": "Either/Or",
-      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
-      "color" : "#8e7162"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/b01411c77500efa3830f69a04a0026d5cb01f3e7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
       "title": "Ghost Town",
@@ -877,7 +887,7 @@
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6b4c397203176cc18b0b8939996c37bfc55c75a1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07",
+      "imgUrl": "424d2f",
       "title": "Perfekte Welle",
       "artist": "Juli",
       "rating": 0,
@@ -914,14 +924,24 @@
       "color" : "#454955"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/9c5fe8ebc12d8399a87c982efa6867157d69366a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
+      "title": "Nightcall",
+      "artist": "Kavinsky",
+      "rating": 0,
+      "album": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+      "color" : "#072d55"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/5f898323e428d54b549ee5cf20ef0d7687adf094?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c3271cf84b2d68263ac5e00d",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/So_Anxious.jpg",
       "title": "So Anxious",
       "artist": "Ginuwine",
       "rating": 0,
       "album": "100% Ginuwine",
       "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l",
-      "color" : "#6a4e16"
+      "color" : "#352774"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -943,24 +963,14 @@
       "color" : "#404330"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/337c8d45ac66899bc2db9ef3ed9438fe1d035ab1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
-      "title": "Stairway to Heaven",
-      "artist": "Led Zeppelin",
+      "previewUrl": "https://p.scdn.co/mp3-preview/e67f8144ab9f5bfd028781595bd7bdc574c1dca5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27325d655c11809455c10b15ac9",
+      "title": "unendlichkeit",
+      "artist": "CRO",
       "rating": 0,
-      "album": "Led Zeppelin IV (Deluxe Edition)",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
-      "color" : "#5a636e"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/f5be3dfb3bd50d2e15330471d629c196d26a9925?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273066241a5cdbc439e54c4ca5d",
-      "title": "Lennon 2",
-      "artist": "DAT ADAM",
-      "rating": 0,
-      "album": "HYDRA 3D",
-      "url": "https://open.spotify.com/track/4fKQo6OdHCztynR3kG8ZlP",
-      "color" : "#314ab3"
+      "album": "tru. (Deluxe Edition)",
+      "url": "https://open.spotify.com/track/3bV0ZqfzR3QYgWU2QivjQm",
+      "color" : "#7e774f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/703fa78f595071c3a162899f481a200d2b3f571b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -990,6 +1000,16 @@
       "album": "softscars",
       "url": "https://open.spotify.com/track/4YI6091q0mWguKWkPnky2B",
       "color" : "#5b7d8c"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/337c8d45ac66899bc2db9ef3ed9438fe1d035ab1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://lastfm.freetls.fastly.net/i/u/ar0/cbba229e78b6257ff3acb44f003c086a.jpg",
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "rating": 0,
+      "album": "Led Zeppelin IV (Deluxe Edition)",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
+      "color" : "#5a636e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7186327d49f237decb23ecbce47835e8145556ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
