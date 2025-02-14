@@ -126,9 +126,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4b1a79e191b8fb9b13b04220bd6519d9ea207bda?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.9,
       "playTime30Days": 0,
-      "playTime": 134
+      "playTime": 134,
+      "color" : "#74000e"
     },
     {
       "url": "https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm",
