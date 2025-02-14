@@ -958,6 +958,38 @@
       "rating": 4,
       "playTime": 46,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b351fafcb334009c3216a039",
+      "title": "Celeste",
+      "artist": "Lena Raine",
+      "songs": [
+        {
+          "title": "Resurrections",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2b05158e3aa676023f6310bea71edd5ba5d92da?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "In the Mirror",
+          "preview_url": "https://p.scdn.co/mp3-preview/36453e077db306c34c6796f6b72c079f56b49c20?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Reach for the Summit",
+          "preview_url": "https://p.scdn.co/mp3-preview/d5938cd6949d6aeea8e99f5893a3f607e8d04da2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "First Steps",
+          "preview_url": "https://p.scdn.co/mp3-preview/5ffd1e4c21d1b9cab50652893ae8135079e6e59f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Awake",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc4f82427c33ee08cf9b1c42621ce358dea72673?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.8,
+      "playTime": 0,
+      "genre": "Soundtrack",
+      "color" : "#74529e"
     }
   ]
 }
