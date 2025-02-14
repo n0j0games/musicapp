@@ -30,8 +30,8 @@
       ],
       "rating": 9.4,
       "genre": "Deutschrap",
-      "playTime": 258,
-      "playTime30Days": 0,
+      "playTime": 265,
+      "playTime30Days": 7,
       "color": "#878787"
     },
     {
@@ -96,7 +96,7 @@
       ],
       "rating": 8.7,
       "genre": "Country Pop",
-      "playTime": 754,
+      "playTime": 755,
       "playTime30Days": 0,
       "color": "#40469e"
     },
@@ -228,8 +228,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 216,
-      "playTime30Days": 5,
+      "playTime": 217,
+      "playTime30Days": 0,
       "color": "#12497e"
     },
     {
@@ -261,7 +261,7 @@
       ],
       "rating": 8.8,
       "genre": "Latin",
-      "playTime": 325,
+      "playTime": 326,
       "playTime30Days": 14,
       "color": "#a065b1"
     },
@@ -327,8 +327,8 @@
       ],
       "rating": 8.7,
       "genre": "Deutscher Indie",
-      "playTime": 78,
-      "playTime30Days": 0,
+      "playTime": 85,
+      "playTime30Days": 7,
       "color": "#958929"
     },
     {
@@ -456,7 +456,7 @@
       "rating": 8.5,
       "genre": "Indie Pop",
       "playTime": 63,
-      "playTime30Days": 16,
+      "playTime30Days": 5,
       "color": "#2c3863"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "rating": 7.6,
       "genre": "Schweizer Indie",
-      "playTime": 114,
+      "playTime": 115,
       "playTime30Days": 0,
       "color": "#832114"
     },
@@ -794,7 +794,7 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 94,
+      "playTime": 95,
       "playTime30Days": 0,
       "color": "#872d11"
     },
@@ -1027,7 +1027,7 @@
       "rating": 7.5,
       "genre": "Experimental Rap",
       "playTime": 70,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "color": "#453f32"
     },
     {
@@ -1113,8 +1113,8 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 59,
-      "playTime30Days": 5,
+      "playTime": 60,
+      "playTime30Days": 6,
       "color": "#012c63"
     },
     {
@@ -1567,8 +1567,8 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 104,
-      "playTime30Days": 34,
+      "playTime": 108,
+      "playTime30Days": 36,
       "color": "#092508"
     },
     {
@@ -1784,7 +1784,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 81,
+      "playTime": 82,
       "playTime30Days": 0
     },
     {
@@ -1808,7 +1808,7 @@
       ],
       "rating": 6.1,
       "genre": "Rap",
-      "playTime": 120,
+      "playTime": 122,
       "playTime30Days": 0
     },
     {
@@ -2116,7 +2116,7 @@
       "rating": 9,
       "genre": "Deutscher Indie",
       "playTime": 199,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2145,7 +2145,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 305,
+      "playTime": 306,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2301,9 +2301,9 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 342,
+      "playTime": 346,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 5,
+      "playTime30Days": 6,
       "color": "#6c6c6c"
     },
     {
@@ -2334,9 +2334,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 353,
+      "playTime": 376,
       "genre": "Wiener Pop",
-      "playTime30Days": 0,
+      "playTime30Days": 27,
       "color": "#c51919"
     },
     {
@@ -2392,9 +2392,9 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 175,
+      "playTime": 176,
       "genre": "Soundtrack",
-      "playTime30Days": 17
+      "playTime30Days": 18
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",
@@ -2429,6 +2429,35 @@
       "playTime": 0,
       "genre": "R&B",
       "color": "#002e36",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735d59daf2d1c0baa6bd7c60ac",
+      "title": "The New Sound",
+      "artist": "Geordie Greep",
+      "songs": [
+        {
+          "title": "Holy, Holy",
+          "preview_url": "https://p.scdn.co/mp3-preview/637317434deec44ca0583df85e46e332c16fb140?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blues",
+          "preview_url": "https://p.scdn.co/mp3-preview/284e4636ad32171696bd5d1305b941c4b71dd987?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Terra",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc23dcfa81a1ee85c6fa2daa1da4c16861fca328?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Motorbike",
+          "preview_url": "https://p.scdn.co/mp3-preview/34fa41265dac7455b3304ec7eb33fd9b80e704c3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 33,
+      "genre": "Alt Rock",
+      "color": "#7e6403",
       "playTime30Days": 0
     }
   ]

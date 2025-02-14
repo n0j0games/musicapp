@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 168,
+      "playTime": 170,
       "genre": "Latin",
-      "playTime30Days": 68
+      "playTime30Days": 67
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,10 +67,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 189,
+      "playTime": 197,
       "genre": "Rap",
-      "playTime30Days": 189,
-      "color" : "#1f4072"
+      "playTime30Days": 197,
+      "color": "#1f4072"
     },
     {
       "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
@@ -106,9 +106,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 78,
+      "playTime": 79,
       "genre": "Electronic",
-      "playTime30Days": 77
+      "playTime30Days": 78
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 457,
+      "playTime": 523,
       "genre": "Synthpop",
-      "playTime30Days": 374
+      "playTime30Days": 440
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -180,7 +180,69 @@
       "rating": 6,
       "playTime": 70,
       "genre": "Experimental Rap",
-      "playTime30Days": 10
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ebd62f6f29aa44187fddeaf3",
+      "title": "FOTZE",
+      "artist": "Ikkimel",
+      "songs": [
+        {
+          "title": "UNISEXKLO",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e467d7051e9c887719a5d686af7caf3fc493f95?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WELLNESS",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab63421f68ea53726c90e8cafe21ee6643e8a7fe?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "GLITZER GLITZER",
+          "preview_url": "https://p.scdn.co/mp3-preview/4a7222414b631d26be7d4df7dcc906ab0790da6b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "DREI FOTZEN MIT NEM BOMBENARSCH",
+          "preview_url": "https://p.scdn.co/mp3-preview/bfac7207bbf2c294d67976885d95434808be9ffc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 16,
+      "genre": "Deutschpop",
+      "playTime30Days": 16
+    },
+    {
+      "url": "https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733a01e6083454637720060536",
+      "title": "Schlau aber blond",
+      "artist": "Shirin David",
+      "songs": [
+        {
+          "title": "iconic",
+          "preview_url": "https://p.scdn.co/mp3-preview/4798c7f3bd3daffa9234f630d569bb933b9a3d7f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "bauch beine po",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ff6ffdeba64eb82088e250c6853da5c1554bcd8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "it girl (feat. sampagne)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c955307dcfadaf51a91dcc5bab96c098e92c60bc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 13,
+      "genre": "Deutschpop",
+      "playTime30Days": 13
+    },
+    {
+      "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737af8f584edd498ae1d5c7335",
+      "title": "$ome $exy $ongs 4 U",
+      "artist": "PARTYNEXTDOOR,\nDrake",
+      "rating": 3,
+      "playTime": 0,
+      "genre": "R&B",
+      "playTime30Days": 0
     }
   ]
 }

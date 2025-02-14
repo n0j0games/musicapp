@@ -36,9 +36,9 @@
       "onVinyl": true,
       "genre": "Soul",
       "playTime": 318,
-      "playTime30Days": 8,
+      "playTime30Days": 6,
       "year": 1976,
-      "color" : "#f58e39"
+      "color": "#f58e39"
     },
     {
       "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc",
@@ -69,10 +69,10 @@
       ],
       "rating": 11.8,
       "genre": "Rock",
-      "playTime": 120,
+      "playTime": 121,
       "playTime30Days": 0,
       "year": 1975,
-      "color" : "#546071"
+      "color": "#546071"
     },
     {
       "url": "https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7",
@@ -106,7 +106,7 @@
       "playTime": 133,
       "playTime30Days": 0,
       "year": 1975,
-      "color" : "#8d1644"
+      "color": "#8d1644"
     },
     {
       "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
@@ -138,9 +138,9 @@
       "rating": 9.1,
       "genre": "Rock",
       "playTime": 73,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 1973,
-      "color" : "#335e5b"
+      "color": "#335e5b"
     },
     {
       "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g",
@@ -271,10 +271,10 @@
       ],
       "rating": 8.9,
       "genre": "Country",
-      "playTime": 21,
+      "playTime": 24,
       "playTime30Days": 0,
       "year": 1970,
-      "color" : "#a4935f"
+      "color": "#a4935f"
     },
     {
       "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L",
@@ -458,10 +458,10 @@
       ],
       "rating": 9,
       "genre": "Disco",
-      "playTime": 40,
+      "playTime": 41,
       "playTime30Days": 0,
       "year": 1978,
-      "color" : "#aa546d"
+      "color": "#aa546d"
     },
     {
       "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA",
@@ -520,10 +520,11 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 0,
+      "playTime": 41,
       "genre": "Soul",
-      "year" : 1971,
-      "color" : "#4b796b"
+      "year": 1971,
+      "color": "#4b796b",
+      "playTime30Days": 0
     }
   ]
 }

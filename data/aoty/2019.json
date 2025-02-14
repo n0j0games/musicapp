@@ -29,10 +29,10 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 442,
-      "playTime30Days": 0,
+      "playTime": 464,
+      "playTime30Days": 22,
       "onVinyl": true,
-      "color" : "#0d4c40"
+      "color": "#0d4c40"
     },
     {
       "url": "https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D",
@@ -64,7 +64,7 @@
       "rating": 10.1,
       "playTime": 120,
       "playTime30Days": 0,
-      "color" : "#001e28"
+      "color": "#001e28"
     },
     {
       "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
@@ -100,9 +100,9 @@
       "rating": 10.3,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 820,
-      "playTime30Days": 5,
-      "color" : "#73535b"
+      "playTime": 821,
+      "playTime30Days": 0,
+      "color": "#73535b"
     },
     {
       "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk",
@@ -138,8 +138,8 @@
       "rating": 11.5,
       "onVinyl": true,
       "playTime": 315,
-      "playTime30Days": 7,
-      "color" : "#0e3258"
+      "playTime30Days": 5,
+      "color": "#0e3258"
     },
     {
       "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A",
@@ -170,8 +170,8 @@
       ],
       "rating": 9.1,
       "playTime": 91,
-      "playTime30Days": 9,
-      "color" : "#6a9bac"
+      "playTime30Days": 7,
+      "color": "#6a9bac"
     },
     {
       "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF",
@@ -263,9 +263,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 197,
-      "playTime30Days": 10,
-      "color" : "#933010"
+      "playTime": 198,
+      "playTime30Days": 0,
+      "color": "#933010"
     },
     {
       "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj",
@@ -330,8 +330,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 88,
-      "playTime30Days": 0
+      "playTime": 93,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx",

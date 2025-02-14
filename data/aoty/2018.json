@@ -30,9 +30,9 @@
       ],
       "rating": 10.3,
       "genre": "R&B",
-      "playTime": 531,
-      "playTime30Days": 13,
-      "color" : "#0c3f83"
+      "playTime": 532,
+      "playTime30Days": 10,
+      "color": "#0c3f83"
     },
     {
       "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I",
@@ -65,8 +65,8 @@
       "onVinyl": true,
       "genre": "Rap",
       "playTime": 1143,
-      "playTime30Days": 9,
-      "color" : "#4683b1"
+      "playTime30Days": 6,
+      "color": "#4683b1"
     },
     {
       "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
@@ -96,9 +96,9 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 287,
-      "playTime30Days": 21,
-      "color" : "#926d70"
+      "playTime": 288,
+      "playTime30Days": 17,
+      "color": "#926d70"
     },
     {
       "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj",
@@ -129,9 +129,9 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 657,
+      "playTime": 658,
       "playTime30Days": 0,
-      "color" : "#b06725"
+      "color": "#b06725"
     },
     {
       "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
@@ -164,7 +164,7 @@
       "onVinyl": true,
       "playTime": 445,
       "playTime30Days": 0,
-      "color" : "#608588"
+      "color": "#608588"
     },
     {
       "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp",
@@ -196,7 +196,7 @@
       "rating": 9.4,
       "playTime": 209,
       "playTime30Days": 0,
-      "color" : "#8a7877"
+      "color": "#8a7877"
     },
     {
       "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR",
@@ -292,7 +292,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 197,
+      "playTime": 198,
       "playTime30Days": 6
     },
     {
@@ -386,7 +386,7 @@
       ],
       "rating": 8,
       "playTime": 332,
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5cevXzPkQy57tCpDbuBnVh",
@@ -447,8 +447,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 229,
-      "playTime30Days": 0
+      "playTime": 233,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/2qul9IbyMt96FpthBlKT0y",
@@ -474,7 +474,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 172,
+      "playTime": 173,
       "playTime30Days": 0
     },
     {
@@ -529,7 +529,7 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 306,
+      "playTime": 308,
       "playTime30Days": 0
     },
     {
@@ -956,7 +956,7 @@
       "title": "Culture II",
       "artist": "Migos",
       "rating": 4,
-      "playTime": 45,
+      "playTime": 46,
       "playTime30Days": 0
     }
   ]

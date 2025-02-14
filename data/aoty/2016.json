@@ -33,7 +33,7 @@
       "playTime": 724,
       "genre": "Alternative R&B",
       "playTime30Days": 0,
-      "color" : "#2f3f28"
+      "color": "#2f3f28"
     },
     {
       "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg",
@@ -65,7 +65,7 @@
       "rating": 9.8,
       "playTime": 374,
       "playTime30Days": 10,
-      "color" : "#99999d"
+      "color": "#99999d"
     },
     {
       "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF",
@@ -95,9 +95,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 159,
-      "playTime30Days": 9,
-      "color" : "#437b76"
+      "playTime": 161,
+      "playTime30Days": 11,
+      "color": "#437b76"
     },
     {
       "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd",
@@ -125,7 +125,7 @@
       "rating": 9.5,
       "playTime": 18,
       "playTime30Days": 0,
-      "color" : "#494a66"
+      "color": "#494a66"
     },
     {
       "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC",
@@ -214,8 +214,8 @@
       ],
       "rating": 8.5,
       "genre": "Pop",
-      "playTime": 694,
-      "playTime30Days": 7
+      "playTime": 704,
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/3A1vnUJDPz0xYMful9pO4I",
@@ -277,7 +277,7 @@
       ],
       "rating": 7.999,
       "genre": "Rap",
-      "playTime": 413,
+      "playTime": 414,
       "playTime30Days": 0
     },
     {
@@ -310,7 +310,7 @@
       "rating": 8.9,
       "playTime": 139,
       "playTime30Days": 0,
-      "color" : "#9194cb"
+      "color": "#9194cb"
     },
     {
       "url": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b",
@@ -404,7 +404,7 @@
       "rating": 8.8,
       "genre": "Rap",
       "playTime": 514,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u",
@@ -633,7 +633,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0
     },
     {
@@ -675,7 +675,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 42,
+      "playTime": 43,
       "playTime30Days": 0
     },
     {

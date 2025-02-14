@@ -35,10 +35,10 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 818,
-      "playTime30Days": 16,
+      "playTime": 819,
+      "playTime30Days": 15,
       "year": 2007,
-      "color" : "#873912"
+      "color": "#873912"
     },
     {
       "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F",
@@ -72,7 +72,7 @@
       "genre": "Rap",
       "playTime30Days": 0,
       "year": 2004,
-      "color" : "#693303"
+      "color": "#693303"
     },
     {
       "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
@@ -102,11 +102,11 @@
         }
       ],
       "rating": 10.8,
-      "playTime": 382,
-      "playTime30Days": 8,
+      "playTime": 383,
+      "playTime30Days": 6,
       "onVinyl": true,
       "year": 2001,
-      "color" : "#0b100c"
+      "color": "#0b100c"
     },
     {
       "url": "https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk",
@@ -139,7 +139,7 @@
       "playTime": 171,
       "playTime30Days": 0,
       "year": 2007,
-      "color" : "#006082"
+      "color": "#006082"
     },
     {
       "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g",
@@ -173,7 +173,7 @@
       "playTime": 603,
       "playTime30Days": 54,
       "year": 2005,
-      "color" : "#5e2e0c"
+      "color": "#5e2e0c"
     },
     {
       "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT",
@@ -206,7 +206,7 @@
       "playTime": 454,
       "playTime30Days": 23,
       "year": 2005,
-      "color" : "#001621"
+      "color": "#001621"
     },
     {
       "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
@@ -239,7 +239,7 @@
       "playTime": 356,
       "playTime30Days": 0,
       "year": 2004,
-      "color" : "#ba5d2c"
+      "color": "#ba5d2c"
     },
     {
       "url": "https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq",
@@ -268,7 +268,7 @@
       "playTime": 8,
       "playTime30Days": 0,
       "year": 2000,
-      "color" : "#8a5a4a"
+      "color": "#8a5a4a"
     },
     {
       "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7",
@@ -298,10 +298,10 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 345,
+      "playTime": 346,
       "playTime30Days": 13,
       "year": 2001,
-      "color" : "#453c35"
+      "color": "#453c35"
     },
     {
       "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
@@ -362,11 +362,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a82f2a544eeedafe4c9295517aac26d777db9f7e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.9,
-      "playTime": 112,
-      "playTime30Days": 0,
+      "rating": 9.3,
+      "playTime": 142,
+      "playTime30Days": 30,
       "year": 2009,
-      "color" : "#ad4362"
+      "color": "#ad4362"
     },
     {
       "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU",
@@ -429,10 +429,10 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 167,
+      "playTime": 168,
       "playTime30Days": 0,
       "year": 2008,
-      "color" : "#588535"
+      "color": "#588535"
     },
     {
       "url": "https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq",
@@ -618,7 +618,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 48,
+      "playTime": 50,
       "playTime30Days": 0,
       "year": 2005
     },
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 62,
+      "playTime": 63,
       "playTime30Days": 8,
       "year": 2000
     },
@@ -715,7 +715,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 108,
+      "playTime": 110,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -906,9 +906,9 @@
       "rating": 8.9,
       "playTime": 43,
       "genre": "Folk",
-      "playTime30Days": 23,
+      "playTime30Days": 22,
       "year": 2007,
-      "color" : "#5a552c"
+      "color": "#5a552c"
     },
     {
       "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL",
@@ -938,9 +938,39 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 0,
+      "playTime": 39,
       "genre": "French House",
-      "year" : 2007
+      "year": 2007,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735f2ca3e8b93fd5bc304480f5",
+      "title": "World Is Yours",
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "songs": [
+        {
+          "title": "Kono Speed no Saki e",
+          "preview_url": "https://p.scdn.co/mp3-preview/b719f99296c480094dfe76b435aee94fb9524acc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Aoi, Koi, Daidaiiro No Hi",
+          "preview_url": "https://p.scdn.co/mp3-preview/f28fdc16381f509e0514ea1d78e27b24ef436297?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "She is inside, He is outside",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e32f48b9d46d9bb52fb0acf6bb38c9ff33f6b36?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nan Nan",
+          "preview_url": "https://p.scdn.co/mp3-preview/dbf94c6934c63e1e67c87d6f0af746a4eca9d1cb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "J-Rock",
+      "year": 2009,
+      "playTime30Days": 8
     }
   ]
 }

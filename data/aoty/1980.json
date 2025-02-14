@@ -29,10 +29,10 @@
         }
       ],
       "rating": 9.8,
-      "playTime30Days": 9,
+      "playTime30Days": 0,
       "playTime": 106,
       "year": 1983,
-      "color" : "#00598e"
+      "color": "#00598e"
     },
     {
       "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
@@ -65,7 +65,7 @@
       "playTime": 16,
       "playTime30Days": 0,
       "year": 1982,
-      "color" : "#637371"
+      "color": "#637371"
     },
     {
       "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH",
@@ -162,9 +162,9 @@
       "rating": 8.9,
       "onVinyl": true,
       "playTime": 92,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "year": 1985,
-      "color" : "#716f6e"
+      "color": "#716f6e"
     },
     {
       "url": "https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44",
@@ -229,7 +229,7 @@
       "playTime": 139,
       "playTime30Days": 0,
       "year": 1983,
-      "color" : "#5d5340"
+      "color": "#5d5340"
     },
     {
       "url": "https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh",
@@ -315,8 +315,9 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 0,
-      "genre": "New Wave"
+      "playTime": 24,
+      "genre": "New Wave",
+      "playTime30Days": 24
     }
   ]
 }

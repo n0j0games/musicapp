@@ -31,9 +31,9 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 535,
-      "playTime30Days": 8,
-      "color" : "#25714c"
+      "playTime": 544,
+      "playTime30Days": 18,
+      "color": "#25714c"
     },
     {
       "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
@@ -65,8 +65,8 @@
       "rating": 9.7,
       "playTime": 440,
       "genre": "Experimental Rap",
-      "playTime30Days": 6,
-      "color" : "#396b65"
+      "playTime30Days": 0,
+      "color": "#396b65"
     },
     {
       "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa",
@@ -97,8 +97,8 @@
       ],
       "rating": 9,
       "playTime": 225,
-      "playTime30Days": 6,
-      "color" : "#64441f"
+      "playTime30Days": 0,
+      "color": "#64441f"
     },
     {
       "url": "https://open.spotify.com/album/5pC8b5mAkXOQTKgG3WVv8K",
