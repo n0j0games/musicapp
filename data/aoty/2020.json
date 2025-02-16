@@ -130,6 +130,7 @@
       "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
       "title": "After Hours",
+
       "artist": "The Weeknd",
       "songs": [
         {
@@ -153,7 +154,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/dd93b587cac54ed11b207dd704236fde6516512e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.1,
+      "rating": 10.8,
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1793,

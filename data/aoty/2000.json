@@ -101,7 +101,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1e1ac914d240a6b0c3e0b53febdbe3f1267f53af?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.8,
+      "rating": 10.9,
       "playTime": 383,
       "playTime30Days": 6,
       "onVinyl": true,
@@ -148,16 +148,16 @@
       "artist": "Kanye West",
       "songs": [
         {
+          "title": "Roses",
+          "preview_url": "https://p.scdn.co/mp3-preview/5a5724beaab026b49377d065f36b59a48873ab99?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Touch The Sky",
           "preview_url": "https://p.scdn.co/mp3-preview/54c76f007627e10c3add835e916ad643819408d2?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Gold Digger",
           "preview_url": "https://p.scdn.co/mp3-preview/c07d8315fb8fc3a820a312e29961c96a2e7d7229?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Roses",
-          "preview_url": "https://p.scdn.co/mp3-preview/5a5724beaab026b49377d065f36b59a48873ab99?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Diamonds From Sierra Leone",
