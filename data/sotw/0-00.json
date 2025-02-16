@@ -728,6 +728,16 @@
       "color" : "#bd3b25"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9",
+      "title": "Between The Bars",
+      "artist": "Elliott Smith",
+      "rating": 0,
+      "album": "Either/Or",
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
+      "color" : "#8e7162"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/6b10007094bb8d7f19308bbe1b4e4b99e95d0e3d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273193d65af81738095d11e6f1f",
       "title": "Einmal verliebt (Outro)",
@@ -745,6 +755,16 @@
       "album": "Flower Boy",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
       "color" : "#965f0f"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/213afafcea2fa6b5c7e5fd71c1fd8f4adc3ffba0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+      "title": "The Adults Are Talking",
+      "artist": "The Strokes",
+      "rating": 0,
+      "album": "The New Abnormal",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+      "color" : "#227995"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2ab904ea67d70342d1911b14c9077cafd7d6b25e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -797,14 +817,13 @@
       "color" : "#503741"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9",
-      "title": "Between The Bars",
-      "artist": "Elliott Smith",
+      "previewUrl": "https://p.scdn.co/mp3-preview/703fa78f595071c3a162899f481a200d2b3f571b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27364fdd50feecbaf13b74761ca",
+      "title": "Genesis.",
+      "artist": "RAYE",
       "rating": 0,
-      "album": "Either/Or",
-      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
-      "color" : "#8e7162"
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT",
+      "color" : "#ad7c89"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/87e34f06982367effdf9ad72f5d925652a8ed9a5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -825,16 +844,6 @@
       "album": "The Slow Rush",
       "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc",
       "color" : "#9b5031"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/f5be3dfb3bd50d2e15330471d629c196d26a9925?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273066241a5cdbc439e54c4ca5d",
-      "title": "Lennon 2",
-      "artist": "DAT ADAM",
-      "rating": 0,
-      "album": "HYDRA 3D",
-      "url": "https://open.spotify.com/track/4fKQo6OdHCztynR3kG8ZlP",
-      "color" : "#314ab3"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/a82929f1971e35cbe42878a5d1df3d1216985c4c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -864,6 +873,16 @@
       "album": "ye",
       "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
       "color" : "#32527c"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "rating": 0,
+      "album": "HIT ME HARD AND SOFT",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj",
+      "color" : "#15486c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/37381340356389c7213ea82e2e1f3ef76fa3816d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -924,25 +943,6 @@
       "color" : "#7e774f"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/703fa78f595071c3a162899f481a200d2b3f571b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27364fdd50feecbaf13b74761ca",
-      "title": "Genesis.",
-      "artist": "RAYE",
-      "rating": 0,
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT",
-      "color" : "#ad7c89"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
-      "title": "CHIHIRO",
-      "artist": "Billie Eilish",
-      "rating": 0,
-      "album": "HIT ME HARD AND SOFT",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj",
-      "color" : "#15486c"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27316025492336e8584d8b77768",
       "title": "bloodbunny",
@@ -970,6 +970,16 @@
       "rating": 0,
       "url": "https://open.spotify.com/track/6FZkogSuP0V5oTmnKURl6M",
       "color" : "#404330"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f5be3dfb3bd50d2e15330471d629c196d26a9925?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273066241a5cdbc439e54c4ca5d",
+      "title": "Lennon 2",
+      "artist": "DAT ADAM",
+      "rating": 0,
+      "album": "HYDRA 3D",
+      "url": "https://open.spotify.com/track/4fKQo6OdHCztynR3kG8ZlP",
+      "color" : "#314ab3"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7186327d49f237decb23ecbce47835e8145556ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
