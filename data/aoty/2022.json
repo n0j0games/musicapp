@@ -1910,6 +1910,33 @@
       "playTime": 52,
       "playTime30Days": 0,
       "color": "#755353"
+    },
+    {
+      "url": "https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bd4ff0c11102464562c2310a",
+      "title": "CRASH",
+      "artist": "Charli XCX",
+      "songs": [
+        {
+          "title": "Crash",
+          "preview_url": "https://p.scdn.co/mp3-preview/956728a4e15ee4f58751199b0b3ad49e03877b77?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ff5b8c7e52a564522ded5d81b8644fdb5f3dffe4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Good Ones",
+          "preview_url": "https://p.scdn.co/mp3-preview/afe171188865b9dbfbfa6b9a5e6f30a64ef5226e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Yuck",
+          "preview_url": "https://p.scdn.co/mp3-preview/1238d812aaa03068e34b8f435197d18ca5cf0959?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Hyperpop"
     }
   ]
 }

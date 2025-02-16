@@ -869,6 +869,37 @@
       "playTime": 209,
       "genre": "Deutschrap",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec93734d42345154b422c8d5",
+      "title": "CINEMA",
+      "artist": "The Marías",
+      "songs": [
+        {
+          "title": "Calling U Back",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e8d41518f07bd420e7f412635912cf16564873f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "All I Really Want Is You",
+          "preview_url": "https://p.scdn.co/mp3-preview/688428b9a34baedbf5ad61141d1c622898d9b141?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Little by Little",
+          "preview_url": "https://p.scdn.co/mp3-preview/debb6c7b91f876cae0db56a1e16ba4d0a414e2b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Heavy",
+          "preview_url": "https://p.scdn.co/mp3-preview/da0344464bb39bef30b34d3d990fe457f038d8c9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Mice Inside This Room",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb49816235af52e6e39e92322faa8b00bd013bd1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.3,
+      "playTime": 0,
+      "genre": "Synthpop"
     }
   ]
 }

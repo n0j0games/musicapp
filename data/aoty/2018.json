@@ -990,6 +990,33 @@
       "playTime": 0,
       "genre": "Soundtrack",
       "color" : "#74529e"
+    },
+    {
+      "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fe11583497b2a332995b88ed",
+      "title": "Patched Up",
+      "artist": "beabadoobee",
+      "songs": [
+        {
+          "title": "Everest",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb136e88d7c22608126993ba2fad3d836990b92f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tired",
+          "preview_url": "https://p.scdn.co/mp3-preview/e6b03ecee7d3883bc1b1a8a907d6d930b0a331c6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dance with Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/12af86c41db6bd1ae729ca9167879885589e3ce6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "If You Want To",
+          "preview_url": "https://p.scdn.co/mp3-preview/629cbdbdb164f20ce1a4dd564798d2f9613eae6d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Singer-Songwriter"
     }
   ]
 }

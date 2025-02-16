@@ -1924,6 +1924,171 @@
       "rating": 3,
       "playTime": 58,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4p9Bs6GGvJlfh8z9zYIA1v",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f255a8a94a485452d6362dec",
+      "title": "Lamborghini In The Rain Pain",
+      "artist": "Sierra Kidd",
+      "rating": 3.0,
+      "playTime": 0,
+      "genre": "Deutschrap"
+    },
+    {
+      "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2",
+      "imgUrl": "https://media.pitchfork.com/photos/64f1ea3162097041dd8c6405/master/pass/Doja-Cat-Scarlet.jpg",
+      "title": "Scarlet",
+      "artist": "Doja Cat",
+      "songs": [
+        {
+          "title": "Paint The Town Red",
+          "preview_url": "https://p.scdn.co/mp3-preview/f544992f165d4bd069f4d903ff946dc625ba0b8e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Demons",
+          "preview_url": "https://p.scdn.co/mp3-preview/915faa239507bce67dc5fdae245376eaff690a85?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Agora Hills",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e7617d241cfc1542ec5300a1b07dad71f656ec6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Balut",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b67e66b1d05444aaea1c58823c0d83ed82f38b4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Rap"
+    },
+    {
+      "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27333a4ba8f73271a749c5d953d",
+      "title": "Trackhouse",
+      "artist": "Pitbull",
+      "rating": 3.0,
+      "playTime": 0,
+      "genre": "Pop"
+    },
+    {
+      "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252",
+      "title": "Something To Give Each Other",
+      "artist": "Troye Sivan",
+      "songs": [
+        {
+          "title": "Rush",
+          "preview_url": "https://p.scdn.co/mp3-preview/e25b1963b15dc0685aeb91493b9a638ef69bcb48?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "One Of Your Girls",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f380859b6a10dbc8037d927545da21a047aff0a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Dance Pop"
+    },
+    {
+      "url": "https://open.spotify.com/album/7hCDEPx9vObaxVQi8UJQx0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f3c71aaaf396240405317f8b",
+      "title": "Survival Mode",
+      "artist": "badmómzjay",
+      "songs": [
+        {
+          "title": "Survival Mode (Intro)",
+          "preview_url": "https://p.scdn.co/mp3-preview/99b54600906f0e48bba54e08975f84179dd836a9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Warum bin ich so",
+          "preview_url": "https://p.scdn.co/mp3-preview/115ac2a784b7a2ca0ebbdcf210110428510bc5bd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Deutschrap"
+    },
+    {
+      "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732832c76386b5931717eddd3f",
+      "title": "New Blue Sun",
+      "artist": "André 3000",
+      "songs": [
+        {
+          "title": "I swear, I Really Wanted To Make A Rap Album...",
+          "preview_url": "https://p.scdn.co/mp3-preview/d832c967768c7fbccd02d7c774c5d4ca381c2544?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Slang Word P(*)ssy Rolls Off The Tongue...",
+          "preview_url": "https://p.scdn.co/mp3-preview/ca076c4cf5ea53f91464abb6574dfcc57f7f2e72?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ants To You, Gods To Who ?",
+          "preview_url": "https://p.scdn.co/mp3-preview/67f15dc5865be40d2bcfd8e6f7f5668843833bfd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dreams Once Buried Beneath The Dungeon Floor...",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e90ea46e867175338f12c1d1e1efc6777fcb564?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Ambient Jazz"
+    },
+    {
+      "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732dcad081aaaa41923f26bdef",
+      "title": "Goodnight, God Bless, I Love U, Delete.",
+      "artist": "✝✝✝ (Crosses)",
+      "songs": [
+        {
+          "title": "Pleasure",
+          "preview_url": "https://p.scdn.co/mp3-preview/db21f305d229f09a0c6b3c7dda8090cc3d197043?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Invisible Hand",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9638bdbb70304a8d99a9760e9d23bcc0903ad5e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Girls Float † Boys Cry (feat. Robert Smith)",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa83343f0bf9bb11faf999860f45463d608fd7e5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Darkwave"
+    },
+    {
+      "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738473cdc72d9c6f9a2787e070",
+      "title": "SET IT OFF",
+      "artist": "Offset",
+      "songs": [
+        {
+          "title": "ON THE RIVER",
+          "preview_url": "https://p.scdn.co/mp3-preview/744c490cee03180a98f86a38fb182250e5f53d97?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WORTH IT (feat. Don Toliver)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0bfee4ee3a7eb720f0571dac4f30ba26a40b605?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "FAN",
+          "preview_url": "https://p.scdn.co/mp3-preview/1481b614494a112d214736e591005be7725a9e3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Trap"
+    },
+    {
+      "url" : "https://www.albumoftheyear.org/album/785633-kollegah-cross-border-armageddon.php",
+      "imgUrl" : "https://media.hitparade.ch/cover/800/kollegah-cba_-_cross_border_armageddon_-_the_english_album_a.jpg",
+      "artist" : "Kollegah",
+      "title" : "CROSS BORDER ARMAGEDDON",
+      "rating" : 1.0,
+      "playTime" : 0,
+      "genre": "Deutschrap"
     }
   ]
 }

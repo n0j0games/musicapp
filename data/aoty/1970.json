@@ -525,6 +525,34 @@
       "year": 1971,
       "color": "#4b796b",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2vtMi0d0613jhp85klO9eb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a20cc321ff5017259984266b",
+      "title": "I Robot",
+      "artist": "The Alan Parsons Project",
+      "songs": [
+        {
+          "title": "I Robot",
+          "preview_url": "https://p.scdn.co/mp3-preview/231d87fc7c7bd7f551885e985337273c1f54892c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Wouldn't Want to Be Like You",
+          "preview_url": "https://p.scdn.co/mp3-preview/87328534af637615b6172eb3c4d114ca5b53365c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Don't Let It Show",
+          "preview_url": "https://p.scdn.co/mp3-preview/54a3ffbf23cac75275aa3354ab7e7a0378a382c9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Genesis Ch.1. V.32",
+          "preview_url": "https://p.scdn.co/mp3-preview/78fce2e32996f1431da646a63bc4d1a30baa3b33?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "year" : 1977,
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Art Rock"
     }
   ]
 }

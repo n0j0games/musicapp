@@ -684,6 +684,25 @@
       "rating": 6,
       "playTime": 13,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c0f5083c53e881de8dec3d70",
+      "title": "All My Heroes Are Cornballs",
+      "artist": "JPEGMAFIA",
+      "songs": [
+        {
+          "title": "Jesus Forgive Me, I Am A Thot",
+          "preview_url": "https://p.scdn.co/mp3-preview/7005ed1316bf11952c825d31c34be6e384bef24d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "All My Heroes Are Cornballs",
+          "preview_url": "https://p.scdn.co/mp3-preview/66a6140c0354105f42b3975cb543fe7773beba99?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Experimental Rap"
     }
   ]
 }
