@@ -306,12 +306,12 @@
       "artist": "Sufjan Stevens",
       "songs": [
         {
-          "title": "Death with Dignity",
-          "preview_url": "https://p.scdn.co/mp3-preview/20ca14e83d55a8608db6bdd0000337b5ccea8eb6?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Should Have Known Better",
           "preview_url": "https://p.scdn.co/mp3-preview/abc9a8fcadbb9c9f4a05bda15981fde01b0ce827?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Death with Dignity",
+          "preview_url": "https://p.scdn.co/mp3-preview/20ca14e83d55a8608db6bdd0000337b5ccea8eb6?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Eugene",

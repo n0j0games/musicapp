@@ -140,12 +140,12 @@
       "artist": "KIDS SEE GHOSTS",
       "songs": [
         {
-          "title": "Cudi Montage",
-          "preview_url": "https://p.scdn.co/mp3-preview/62d779236d5e71dd3c5c5dbb43d084bde21d003d?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Feel The Love",
           "preview_url": "https://p.scdn.co/mp3-preview/f4db77382a5e33c67343ffe313ebddc92fdbadc1?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Cudi Montage",
+          "preview_url": "https://p.scdn.co/mp3-preview/62d779236d5e71dd3c5c5dbb43d084bde21d003d?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "4th Dimension",

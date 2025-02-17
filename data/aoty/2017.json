@@ -74,16 +74,16 @@
       "artist": "Charli xcx",
       "songs": [
         {
+          "title": "Lucky",
+          "preview_url": "https://p.scdn.co/mp3-preview/4196b9a9be15e5d22ccfa8a6fd2d04e12a5b68f5?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Track 10",
           "preview_url": "https://p.scdn.co/mp3-preview/842eda7efcdfe775c18244b201bbd66640765f3f?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Backseat (feat. Carly Rae Jepsen)",
           "preview_url": "https://p.scdn.co/mp3-preview/4b667e7adc961c83529861c8d3aeabd11cc89f15?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Lucky",
-          "preview_url": "https://p.scdn.co/mp3-preview/4196b9a9be15e5d22ccfa8a6fd2d04e12a5b68f5?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Tears (feat. Caroline Polachek)",
@@ -106,6 +106,10 @@
       "artist": "RIN",
       "songs": [
         {
+          "title": "Data Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/b723cc4446b4d2474c46914b9d2b336162046b47?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
           "title": "Bass",
           "preview_url": "https://p.scdn.co/mp3-preview/48916efc8d6278dfc1052bba9b9055876ae3810d?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -120,10 +124,6 @@
         {
           "title": "Aretha Franklin Freestyle",
           "preview_url": "https://p.scdn.co/mp3-preview/38b728365504d1fec5c868091956d4e31a4daa39?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Data Love",
-          "preview_url": "https://p.scdn.co/mp3-preview/b723cc4446b4d2474c46914b9d2b336162046b47?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
       "rating": 9.1,

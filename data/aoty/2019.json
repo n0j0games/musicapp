@@ -111,12 +111,12 @@
       "artist": "Weyes Blood",
       "songs": [
         {
-          "title": "A Lot's Gonna Change",
-          "preview_url": "https://p.scdn.co/mp3-preview/a901ddf97be474f5fa6a60674897fd573f2478ad?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Andromeda",
           "preview_url": "https://p.scdn.co/mp3-preview/6026e44361cf28d7bfb3f823b7392eb4b4a3eefb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "A Lot's Gonna Change",
+          "preview_url": "https://p.scdn.co/mp3-preview/a901ddf97be474f5fa6a60674897fd573f2478ad?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Everyday",

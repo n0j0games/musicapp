@@ -72,12 +72,12 @@
       "artist": "TYM",
       "songs": [
         {
-          "title": "Allemeinefreundesindamsee",
-          "preview_url": "https://p.scdn.co/mp3-preview/a7f4272769bdd3a08be0607eb832e845cd5c9b28?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Summertymisvorbei",
           "preview_url": "https://p.scdn.co/mp3-preview/4e1ff372f9e7be10c550d0907f32bde7b1693fdb?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Allemeinefreundesindamsee",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7f4272769bdd3a08be0607eb832e845cd5c9b28?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Wirsindziemlichslay",
@@ -236,12 +236,12 @@
       "artist": "Sufjan Stevens",
       "songs": [
         {
-          "title": "Goodbye Evergreen",
-          "preview_url": "https://p.scdn.co/mp3-preview/ec5edbefc34a5971369f79ba2d2d31f1cf15fdd5?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Will Anybody Ever Love Me?",
           "preview_url": "https://p.scdn.co/mp3-preview/84c1d098ee9156918b4259535fad13a2bd621b46?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Goodbye Evergreen",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec5edbefc34a5971369f79ba2d2d31f1cf15fdd5?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Genuflecting Ghost",

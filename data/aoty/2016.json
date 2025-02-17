@@ -287,12 +287,12 @@
       "artist": "Young Thug",
       "songs": [
         {
-          "title": "Guwop",
-          "preview_url": "https://p.scdn.co/mp3-preview/ac6f34cbd904d8a177a47c15085329e7766b7f27?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "Wyclef Jean",
           "preview_url": "https://p.scdn.co/mp3-preview/087bd9c6408446f438641ce34ef64805a3d8ae97?cid=941103e4872f4d3fad60066c677df34f"
+        },
+        {
+          "title": "Guwop",
+          "preview_url": "https://p.scdn.co/mp3-preview/ac6f34cbd904d8a177a47c15085329e7766b7f27?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
           "title": "Future Swag",
