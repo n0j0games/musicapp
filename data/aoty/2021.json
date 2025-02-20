@@ -900,6 +900,33 @@
       "rating": 8.3,
       "playTime": 0,
       "genre": "Synthpop"
+    },
+    {
+      "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "songs": [
+        {
+          "title": "Halley's Comet",
+          "preview_url": "https://p.scdn.co/mp3-preview/c3fefe98573889fbb84870c827e0c03a562b9c6a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Oxytocin",
+          "preview_url": "https://p.scdn.co/mp3-preview/83320a45539a842269977b4d4ec6e1af651fd746?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "NDA",
+          "preview_url": "https://p.scdn.co/mp3-preview/4641ce70c723c3ac691586ee0ae1ad8bc9fe8fb2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Happier Than Ever",
+          "preview_url": "https://p.scdn.co/mp3-preview/667e62a782667b01e98006cd3ba42c9852b62bea?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Alt-Pop"
     }
   ]
 }

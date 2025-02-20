@@ -1,19 +1,21 @@
 <div class="flex-column gap-xl">
     <p class="p-b-i fs-xl">favs per artist</p>
     <div class="outer-highlight-card flex-column gap-l">
+        <form class="flex-column" [formGroup]="formGroup" (submit)="submitForm()">
+            <input
+                    class="fs-xl p-b-i"
+                    formControlName="artistSearch"
+                    [placeholder]="'search'"
+            >
+            <button type="submit" style="display: none; width: 0">hidden submit</button>
+        </form>
+        <p>use quotation marks for strict search</p>
         <app-item
                 class="non-mobile-inline"
                 [item]="{year: 0, week: 0}"
                 [isAoty]="'LIST'"
                 [queryParam]="'the-weeknd'"
                 [text]="'The Weeknd'"
-        ></app-item>
-        <app-item
-                class="non-mobile-inline"
-                [item]="{year: 0, week: 0}"
-                [isAoty]="'LIST'"
-                [queryParam]="'kanye-west'"
-                [text]="'Kanye West'"
         ></app-item>
         <app-item
                 class="non-mobile-inline"
@@ -26,8 +28,57 @@
                 class="non-mobile-inline"
                 [item]="{year: 0, week: 0}"
                 [isAoty]="'LIST'"
+                [queryParam]="'kendrick-lamar'"
+                [text]="'Kendrick Lamar'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'charli-xcx'"
+                [text]="'Charli XCX'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'og-keemo'"
+                [text]="'OG Keemo'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
                 [queryParam]="'daft-punk'"
                 [text]="'Daft Punk'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'beyonce'"
+                [text]="'Beyonce'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'kanye-west'"
+                [text]="'Kanye West'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'travis-scott'"
+                [text]="'Travis Scott'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'kali-uchis'"
+                [text]="'Kali Uchis'"
         ></app-item>
         <app-item
                 class="non-mobile-inline"
@@ -36,14 +87,19 @@
                 [queryParam]="'radiohead'"
                 [text]="'Radiohead'"
         ></app-item>
-        <form class="flex-column" [formGroup]="formGroup" (submit)="submitForm()">
-            <input
-                    class="fs-xl p-b-i"
-                    formControlName="artistSearch"
-                    [placeholder]="'search'"
-            >
-            <button type="submit" style="display: none; width: 0">hidden submit</button>
-        </form>
-        <p>use quotation marks for strict search</p>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'ufo361'"
+                [text]="'Ufo361'"
+        ></app-item>
+        <app-item
+                class="non-mobile-inline"
+                [item]="{year: 0, week: 0}"
+                [isAoty]="'LIST'"
+                [queryParam]="'drake'"
+                [text]="'Drake'"
+        ></app-item>
     </div>
 </div>
