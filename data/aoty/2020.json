@@ -34,7 +34,7 @@
       ],
       "rating": 8.9,
       "playTime": 263,
-      "playTime30Days": 9,
+      "playTime30Days": 8,
       "color": "#932e50"
     },
     {
@@ -97,7 +97,7 @@
       ],
       "rating": 8.7,
       "playTime": 303,
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m",
@@ -130,7 +130,6 @@
       "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
       "title": "After Hours",
-
       "artist": "The Weeknd",
       "songs": [
         {
@@ -158,7 +157,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1793,
-      "playTime30Days": 47,
+      "playTime30Days": 50,
       "color": "#242914"
     },
     {
@@ -190,7 +189,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 299,
+      "playTime": 300,
       "playTime30Days": 0,
       "color": "#601f30"
     },
@@ -472,7 +471,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 113,
+      "playTime": 116,
       "playTime30Days": 0
     },
     {
@@ -534,8 +533,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 155,
-      "playTime30Days": 7,
+      "playTime": 156,
+      "playTime30Days": 6,
       "color": "#9d9d9d"
     },
     {
@@ -715,7 +714,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 42,
+      "playTime": 44,
       "playTime30Days": 0
     },
     {
@@ -872,7 +871,7 @@
       ],
       "rating": 6,
       "playTime": 157,
-      "playTime30Days": 12
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
@@ -922,7 +921,7 @@
       ],
       "rating": 6,
       "playTime": 75,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7wrcZVfyRjQDw1bjvKThCf",

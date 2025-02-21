@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 819,
-      "playTime30Days": 15,
+      "playTime": 821,
+      "playTime30Days": 16,
       "year": 2007,
       "color": "#873912"
     },
@@ -103,7 +103,7 @@
       ],
       "rating": 10.9,
       "playTime": 383,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "onVinyl": true,
       "year": 2001,
       "color": "#0b100c"
@@ -203,8 +203,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 454,
-      "playTime30Days": 23,
+      "playTime": 460,
+      "playTime30Days": 29,
       "year": 2005,
       "color": "#001621"
     },
@@ -298,7 +298,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 346,
+      "playTime": 347,
       "playTime30Days": 13,
       "year": 2001,
       "color": "#453c35"
@@ -363,8 +363,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 142,
-      "playTime30Days": 30,
+      "playTime": 180,
+      "playTime30Days": 67,
       "year": 2009,
       "color": "#ad4362"
     },
@@ -674,8 +674,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 63,
-      "playTime30Days": 8,
+      "playTime": 64,
+      "playTime30Days": 6,
       "year": 2000
     },
     {
@@ -906,7 +906,7 @@
       "rating": 8.7,
       "playTime": 43,
       "genre": "Folk",
-      "playTime30Days": 22,
+      "playTime30Days": 9,
       "year": 2007,
       "color": "#5a552c"
     },
@@ -942,7 +942,7 @@
       "genre": "French House",
       "year": 2007,
       "playTime30Days": 0,
-      "color" : "#20190a"
+      "color": "#20190a"
     },
     {
       "url": "https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn",

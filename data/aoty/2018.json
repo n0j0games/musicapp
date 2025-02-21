@@ -30,8 +30,8 @@
       ],
       "rating": 10.3,
       "genre": "R&B",
-      "playTime": 532,
-      "playTime30Days": 10,
+      "playTime": 548,
+      "playTime30Days": 23,
       "color": "#0c3f83"
     },
     {
@@ -65,7 +65,7 @@
       "onVinyl": true,
       "genre": "Rap",
       "playTime": 1143,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#4683b1"
     },
     {
@@ -97,7 +97,7 @@
       ],
       "rating": 9.5,
       "playTime": 288,
-      "playTime30Days": 17,
+      "playTime30Days": 14,
       "color": "#926d70"
     },
     {
@@ -293,7 +293,7 @@
       ],
       "rating": 8.8,
       "playTime": 198,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -987,9 +987,10 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 0,
+      "playTime": 40,
       "genre": "Soundtrack",
-      "color" : "#74529e"
+      "color": "#74529e",
+      "playTime30Days": 37
     },
     {
       "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7",
@@ -1014,9 +1015,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/629cbdbdb164f20ce1a4dd564798d2f9613eae6d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 0,
-      "genre": "Singer-Songwriter"
+      "genre": "Singer-Songwriter",
+      "playTime30Days": 0
     }
   ]
 }

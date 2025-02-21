@@ -28,7 +28,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5b4b9926cf18122d90f8146e14e2d8408dfa6eba?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "onVinyl": true,
       "playTime": 608,
       "genre": "Rap",
@@ -838,9 +838,9 @@
         }
       ],
       "rating": 5,
-      "playTime": 0,
+      "playTime": 10,
       "genre": "Deutschpop",
-      "playTime30Days": 8
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/00RxYCXCK9vr6ee1n68Qqx",
@@ -898,8 +898,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 0,
-      "genre": "Synthpop"
+      "playTime": 49,
+      "genre": "Synthpop",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
@@ -924,9 +925,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/667e62a782667b01e98006cd3ba42c9852b62bea?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Alt-Pop"
+      "rating": 7,
+      "playTime": 75,
+      "genre": "Alt-Pop",
+      "playTime30Days": 0
     }
   ]
 }

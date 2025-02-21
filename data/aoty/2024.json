@@ -63,8 +63,8 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 568,
-      "playTime30Days": 0,
+      "playTime": 573,
+      "playTime30Days": 5,
       "color": "#5b8801"
     },
     {
@@ -262,7 +262,7 @@
       "rating": 8.8,
       "genre": "Latin",
       "playTime": 326,
-      "playTime30Days": 14,
+      "playTime30Days": 10,
       "color": "#a065b1"
     },
     {
@@ -360,7 +360,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 166,
+      "playTime": 169,
       "playTime30Days": 0,
       "color": "#66260e"
     },
@@ -456,7 +456,7 @@
       "rating": 8.5,
       "genre": "Indie Pop",
       "playTime": 63,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#2c3863"
     },
     {
@@ -1567,8 +1567,8 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 108,
-      "playTime30Days": 36,
+      "playTime": 109,
+      "playTime30Days": 24,
       "color": "#092508"
     },
     {
@@ -1976,7 +1976,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 94,
+      "playTime": 95,
       "playTime30Days": 0
     },
     {
@@ -2297,7 +2297,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 346,
+      "playTime": 347,
       "genre": "West Coast Hip Hop",
       "playTime30Days": 6,
       "color": "#6c6c6c"
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 376,
+      "playTime": 433,
       "genre": "Wiener Pop",
-      "playTime30Days": 27,
+      "playTime30Days": 80,
       "color": "#c51919"
     },
     {
@@ -2390,7 +2390,7 @@
       "rating": 6.9,
       "playTime": 176,
       "genre": "Soundtrack",
-      "playTime30Days": 18
+      "playTime30Days": 11
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

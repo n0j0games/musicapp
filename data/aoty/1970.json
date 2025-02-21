@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Soul",
       "playTime": 318,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -69,8 +69,8 @@
       ],
       "rating": 11.8,
       "genre": "Rock",
-      "playTime": 121,
-      "playTime30Days": 0,
+      "playTime": 122,
+      "playTime30Days": 5,
       "year": 1975,
       "color": "#546071"
     },
@@ -549,10 +549,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/78fce2e32996f1431da646a63bc4d1a30baa3b33?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "year" : 1977,
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Art Rock"
+      "year": 1977,
+      "rating": 7,
+      "playTime": 15,
+      "genre": "Art Rock",
+      "playTime30Days": 15
     }
   ]
 }

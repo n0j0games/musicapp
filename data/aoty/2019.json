@@ -28,7 +28,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9bc9e5c8a862689568db60d5f9a4872e69edbbef?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.0,
+      "rating": 11,
       "playTime": 464,
       "playTime30Days": 22,
       "onVinyl": true,
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 120,
+      "playTime": 121,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -138,7 +138,7 @@
       "rating": 11.5,
       "onVinyl": true,
       "playTime": 315,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#0e3258"
     },
     {
@@ -169,8 +169,8 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 91,
-      "playTime30Days": 7,
+      "playTime": 92,
+      "playTime30Days": 5,
       "color": "#6a9bac"
     },
     {
@@ -262,7 +262,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/43cc7c911f4d0344dcb59f80e0c106becd56496e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "playTime": 198,
       "playTime30Days": 0,
       "color": "#933010"
@@ -295,7 +295,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 109,
+      "playTime": 110,
       "playTime30Days": 0
     },
     {
@@ -330,9 +330,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 93,
-      "playTime30Days": 5,
-      "color" : "#251c16"
+      "playTime": 98,
+      "playTime30Days": 10,
+      "color": "#251c16"
     },
     {
       "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx",
@@ -462,7 +462,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 62,
+      "playTime": 63,
       "playTime30Days": 0
     },
     {
@@ -700,9 +700,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/66a6140c0354105f42b3975cb543fe7773beba99?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 5.0,
-      "playTime": 0,
-      "genre": "Experimental Rap"
+      "rating": 5,
+      "playTime": 14,
+      "genre": "Experimental Rap",
+      "playTime30Days": 0
     }
   ]
 }

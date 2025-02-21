@@ -30,7 +30,7 @@
       ],
       "rating": 10.6,
       "genre": "Dance Pop",
-      "playTime": 852,
+      "playTime": 853,
       "playTime30Days": 0,
       "color": "#465b6b"
     },
@@ -94,7 +94,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 356,
+      "playTime": 357,
       "playTime30Days": 0,
       "color": "#576351"
     },
@@ -127,8 +127,8 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 471,
-      "playTime30Days": 5,
+      "playTime": 472,
+      "playTime30Days": 6,
       "color": "#61615f"
     },
     {
@@ -162,7 +162,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 947,
-      "playTime30Days": 16,
+      "playTime30Days": 18,
       "color": "#123b49"
     },
     {
@@ -194,8 +194,8 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 363,
-      "playTime30Days": 6,
+      "playTime": 366,
+      "playTime30Days": 8,
       "color": "#456338"
     },
     {
@@ -228,7 +228,7 @@
       "rating": 9.6,
       "genre": "Rap",
       "playTime": 993,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#4e270c"
     },
     {
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 359,
-      "playTime30Days": 47,
+      "playTime": 360,
+      "playTime30Days": 45,
       "color": "#ea3840"
     },
     {
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 197,
+      "playTime": 198,
       "playTime30Days": 0,
       "color": "#8d410d"
     },
@@ -1016,7 +1016,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 40,
+      "playTime": 42,
       "playTime30Days": 0,
       "color": "#272727"
     },
@@ -1934,9 +1934,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1238d812aaa03068e34b8f435197d18ca5cf0959?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Hyperpop"
+      "rating": 7,
+      "playTime": 52,
+      "genre": "Hyperpop",
+      "playTime30Days": 0
     }
   ]
 }
