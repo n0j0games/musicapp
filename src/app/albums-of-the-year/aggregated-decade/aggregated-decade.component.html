@@ -1,4 +1,4 @@
-<p class="p-i fs-xl title-gap-b"><span class="p-b-i"> my fav albums of the {{ albumsOfTheDecade?.year }}s</span></p>
+<p class="p-i fs-xl title-gap-b"><span class="p-b-i text-title"> my fav albums of the {{ albumsOfTheDecade?.year }}s</span></p>
 <div *ngIf="albumsOfTheDecade !== null" class="list gap-xl">
     <app-album-detail
             *ngFor="let album of albumsOfTheDecade.albums; index as i"

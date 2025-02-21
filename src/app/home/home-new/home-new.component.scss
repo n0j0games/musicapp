@@ -5,3 +5,10 @@
   margin: 0;
   padding: 0;
 }
+
+@media (width < 600px) {
+  .favicon {
+    height: 70px;
+    width: 70px;
+  }
+}

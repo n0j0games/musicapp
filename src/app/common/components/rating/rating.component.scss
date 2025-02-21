@@ -13,17 +13,17 @@
 
 .text {
   color: white;
-  z-index: -1;
+  z-index: 2;
   position: absolute;
 }
 
 .back {
-  z-index: -2;
+  z-index: 1;
   border-radius: 5px;
   position: absolute;
   width: 100%;
   height: 20px;
-  background: #3a3939;
+  background: #101019;
 }
 
 .outer-array {
@@ -41,12 +41,12 @@
 }
 
 .back-array {
-  z-index: -2;
+  z-index: 1;
   border-radius: 5px;
   position: absolute;
   width: 25px;
   height: 100%;
-  background: #3a3939;
+  background: #101019;
 }
 
 @media (width < 600px) {

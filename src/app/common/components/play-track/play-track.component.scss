@@ -1,24 +1,24 @@
-$accent-color: #00995E;
-$primary-color: white;
-$secondary-color: #FB7DA8;
+$outer-track: #1e1f2c;
+$accent-color: #a0ff5c;
+$secondary-color: #e33050;
 
 .outer-track {
   width: 70px;
   height: 5px;
   position: relative;
-  background: white;
+  background: $outer-track;
   margin: 0 0 9px 5px;
   border-radius: 5px;
 }
 
 .outer-track-disabled {
-  background: rgba(255, 255, 255, 0.48);
+  background: $outer-track;
 }
 
 .inner-track {
   height: 5px;
   position: absolute;
-  background: $secondary-color;
+  background: $accent-color;
   border-radius: 5px;
   left: 0;
 }

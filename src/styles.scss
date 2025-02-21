@@ -29,25 +29,42 @@
 }
 
 @font-face {
+  font-family: Morris Roman Black;
+  src: url(assets/font/MorrisRomanBlack.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: Morris Roman Black Alternate;
+  src: url(assets/font/MorrisRomanBlackAlt.ttf) format("truetype");
+}
+
+
+@font-face {
   font-family: Noto Sans JP;
   src: url(assets/font/NotoSansJP-VariableFont_wght.ttf) format("truetype");
 }
 
-$accent-color: #00995E;
-$primary-color: white;
-$secondary-color: #fd6197;
-$secondary-color-transparent: rgba(251, 125, 168, 0.46);
-$text-color: black;
-$light-accent-color: #6dcfaa;
+$primary-color: #171d29;
+$primary-color-lighter: #2b2e43;
+$outer-track: #1e1f2c;
+$primary-color-darker: #101019;
+$accent-color: #a0ff5c;
+$secondary-color: #e33050;
+$secondary-color-light: #d077ad;
+$text-color: #747b9f;
+$text-color-light: #fff;
+$light-accent-color: #67ca91;
+$tertiary-color: #30a7c3;
 
-$accent-color-movies: #0669a6;
-$secondary-color-movies: #fd8c32;
-$secondary-color-movies-transparent: rgba(253, 167, 97, 0.48);
-$light-accent-color-movies: #6d9ecf;
+html {
+  background: $primary-color;
+}
 
 body {
   background: $primary-color;
+  background: linear-gradient(180deg, $primary-color-lighter 10vh, $primary-color 30vh);
   overflow-x: hidden;
+  background-repeat: no-repeat;
 }
 
 p {
@@ -70,9 +87,15 @@ p, a, input {
 }
 
 a {
-  color: $accent-color;
+  color: $text-color-light;
   outline: none;
   text-decoration: none;
+}
+
+.text-title {
+  color: $secondary-color-light;
+  /* font-family: "Morris Roman Black", "Plus Jakarta Sans Bold", "Noto Sans JP", serif !important;
+  font-size: 26px !important; */
 }
 
 .less-important-link, .movies-less-important-link {
@@ -80,21 +103,12 @@ a {
 }
 
 a:hover, .less-important-link:hover {
-  color: $secondary-color;
+  color: $accent-color;
   cursor: pointer;
 }
 
 i:hover {
-  color: $secondary-color;
-}
-
-.movies-text {
-  color: $accent-color-movies;
-}
-
-.movies-text:hover, .movies-less-important-link:hover {
-  color: $secondary-color-movies;
-  cursor: pointer;
+  color: $accent-color;
 }
 
 .p-b {
@@ -197,22 +211,6 @@ body {
   margin-bottom: 40px;
 }
 
-.tenAlbum, .tenAlbum i {
-  color: $secondary-color;
-}
-
-.classicAlbum, .classicAlbum i {
-  color: #d161fd;
-}
-
-.tenAlbum:hover {
-  color: $secondary-color;
-}
-
-.tenAlbum:hover i {
-  color: $secondary-color;
-}
-
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -224,61 +222,54 @@ body {
   border: none;
   outline: none;
   background-color: transparent;
-  color: $accent-color;
+  color: $text-color-light;
   text-decoration: none;
 }
 
 .play-button-header, .mute-button {
-  color: $secondary-color;
+  color: $accent-color;
   padding: 0 0 9px 0;
 }
 
 .play-button:hover i {
-  color: $secondary-color;
+  color: $secondary-color-light;
 }
 
 .play-button-header:hover i, .mute-button:hover i {
-  color: white;
+  color: $secondary-color-light;
 }
 
 .play-button-header-disabled {
-  color: rgba(255, 255, 255, 0.48);
+  color: $outer-track;
 }
 
 .play-button-header-disabled:hover i {
-  color: rgba(255, 255, 255, 0.48);
+  color: $outer-track;
 }
 
 .outer-highlight-card {
-  background: $secondary-color-transparent;
+  background: transparent;
+  border: 5px solid $primary-color-lighter;
   border-radius: 5px;
   padding: 15px;
-}
-
-.outer-highlight-card-movie {
-  background: $secondary-color-movies-transparent;
 }
 
 .outer-highlight-card a {
-  color: $text-color;
+  color: $text-color-light;
 }
 
 .outer-highlight-card a:hover {
-  color: $primary-color;
+  color: $accent-color;
 }
 
 .highlight-card {
-  background: $secondary-color;
+  background: $primary-color-lighter;
   border-radius: 5px;
   padding: 15px;
 }
 
-.highlight-card-movie {
-  background: $secondary-color-movies;
-}
-
 input {
-  background: $secondary-color;
+  background: $primary-color-lighter;
   border-radius: 5px;
   padding: 15px;
   color: white;
@@ -286,16 +277,9 @@ input {
   outline: none;
 }
 
-.input-movies {
-  background: $secondary-color-movies;
-}
 
 input:focus {
-  background: #ff3279;
-}
-
-.input-movies:focus {
-  background: $secondary-color-movies;
+  background: $secondary-color-light;
 }
 
 input::placeholder {
@@ -303,19 +287,24 @@ input::placeholder {
 }
 
 .highlight-card p, .highlight-card a {
-  color: $primary-color;
+  color: $text-color-light;
 }
 
 .highlight-card a:hover {
-  color: $text-color;
+  color: $accent-color;
 }
+
 
 img {
   width: 120px;
   height: 120px;
-  border: 3px solid black;
+  filter: drop-shadow(0 0 3px black);
   border-radius: 5px;
   object-fit: cover;
+}
+
+.preview-img-div-outer {
+  border: 3px solid $text-color-light;
 }
 
 .movie-poster {
@@ -356,7 +345,7 @@ img {
   object-fit: cover;
   height: 175.5px;
   padding: 0;
-  border: 3px solid black;
+  border: 3px solid $text-color-light;
   border-radius: 5px;
   margin: 15px 15px 5px 15px;
 }
@@ -430,6 +419,10 @@ img {
     display: inline;
   }
 
+  .mobile-align-center {
+    align-items: center;
+  }
+
 }
 
 /**
@@ -445,14 +438,14 @@ img {
 
 
 ::-webkit-scrollbar-track {
-  background: #ffffff;
+  background: $primary-color;
   background-size: 400% 100%;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #606060;
+  background: $primary-color-lighter;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #686868;
+  background: $primary-color-lighter;
 }

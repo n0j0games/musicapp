@@ -24,8 +24,7 @@ import {HomeSpecialComponent} from "./home-special/home-special.component";
     ReactiveFormsModule,
     HomeSpecialComponent
   ],
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.scss'
+  templateUrl: './home.component.html'
 })
 export class HomeComponent implements OnInit {
 

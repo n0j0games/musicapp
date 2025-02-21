@@ -12,8 +12,7 @@ import {RouterLink} from "@angular/router";
     NgIf,
     RouterLink
   ],
-  templateUrl: './item-group.component.html',
-  styleUrl: './item-group.component.scss'
+  templateUrl: './item-group.component.html'
 })
 export class ItemGroupComponent {
 

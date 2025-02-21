@@ -1,20 +1,21 @@
-$accent-color: #00995E;
-$secondary-color: #FB7DA8;
-$light-accent-color: #6dcfaa;
-$accent-color-movies: #0669a6;
-$secondary-color-movies: #fda761;
-$light-accent-color-movies: #6d9ecf;
+$primary-color: #171d29;
+$primary-color-lighter: #2b2e43;
+$accent-color: #a0ff5c;
+$secondary-color: #e33050;
+$secondary-color-light: #d077ad;
+$text-color: white;
+$light-accent-color: #67ca91;
+$accent-color-movies: #30a7c3;
+$secondary-color-movies: #e33050;
+$secondary-color-movies-transparent: #d574aa;
+$light-accent-color-movies: #67ca91;
 
 .body {
-  background: $accent-color;
+  background: $primary-color-lighter;
   display: flex;
   flex-direction: row;
   align-items: center;
   padding: 10px 40px 0 40px;
-}
-
-.body-movie {
-  background: $accent-color-movies;
 }
 
 .fix-bottom {
@@ -31,6 +32,9 @@ $light-accent-color-movies: #6d9ecf;
   display: flex;
   flex-direction: row;
   align-items: center;
+  border-bottom: 3px solid $accent-color;
+  border-radius: 0;
+  margin-right: 30px;
 }
 
 .title {
@@ -44,7 +48,7 @@ $light-accent-color-movies: #6d9ecf;
 }
 
 a, p {
-  color: white;
+  color: $accent-color;
 }
 
 .favicon {
@@ -69,11 +73,7 @@ a, p {
 }
 
 a:hover p, a:hover, i:hover, {
-  color: $secondary-color;
-}
-
-.a-movie:hover, .a-movie:hover p {
-  color: $secondary-color-movies;
+  color: $secondary-color-light;
 }
 
 @media (width < 600px) {

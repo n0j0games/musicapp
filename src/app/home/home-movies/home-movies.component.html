@@ -1,7 +1,7 @@
 <div class="flex-row m-flex-column gap-xxl flex-wrap justify-center">
 
     <div class="flex-column gap-xl">
-        <p class="p-b-i fs-xl">highlights</p>
+        <p class="p-b-i fs-xl text-title">highlights</p>
         <div class="outer-highlight-card outer-highlight-card-movie flex-column gap-l">
             <app-item
                     [item]="{year: 0, week: 0}"
@@ -19,7 +19,7 @@
     </div>
 
     <div class="flex-column gap-xl">
-        <p class="p-b-i fs-xl">my fav movies of each year</p>
+        <p class="p-b-i fs-xl text-title">my fav movies of each year</p>
         <app-item
                 *ngFor="let item of motyItemsGroupedByYear"
                 [item]="item"
@@ -31,7 +31,7 @@
     </div>
 
     <div class="flex-column gap-xl">
-        <p class="p-b-i fs-xl">my fav shows of each year</p>
+        <p class="p-b-i fs-xl text-title">my fav shows of each year</p>
         <app-item
                 *ngFor="let item of seriesItemsGroupedByYear"
                 [item]="item"

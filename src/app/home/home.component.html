@@ -3,7 +3,7 @@
     <app-home-special></app-home-special>
 
     <div class="flex-column gap-xl">
-        <p class="p-b-i fs-xl">my fav albums of each year</p>
+        <p class="p-b-i fs-xl text-title">my fav albums of each year</p>
         <div class="flex-row m-flex-column flex-wrap gap-xl justify-center">
             <app-item-group
                     *ngFor="let list of aotyListsGroupedByDecade"
@@ -25,7 +25,7 @@
     </div>
 
     <div class="flex-column gap-xl">
-        <p class="p-b-i fs-xl">my fav songs from each week</p>
+        <p class="p-b-i fs-xl text-title">my fav songs from each week</p>
         <app-item-group
                 *ngFor="let list of sotwListsGroupedByYear"
                 [items]="list.items"
