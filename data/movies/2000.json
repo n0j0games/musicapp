@@ -8,6 +8,14 @@
       "creator": "Mary Harron",
       "rating": 5,
       "url": "https://letterboxd.com/n0j0/film/american-psycho/"
+    },
+    {
+      "title": "X-Men",
+      "url": "https://letterboxd.com/film/x-men/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-70-0-105-crop.jpg?v=58f85fcb62",
+      "rating": 7,
+      "creator": "Bryan Singer",
+      "year": 2000
     }
   ]
 }

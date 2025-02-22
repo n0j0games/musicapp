@@ -24,6 +24,14 @@
       "creator": "Taika Waititi",
       "rating": 1,
       "url": "https://letterboxd.com/n0j0/film/thor-love-and-thunder/"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "url": "https://letterboxd.com/film/avatar-the-way-of-water/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/6/3/0/5/8/63058-avatar-the-way-of-water-0-70-0-105-crop.jpg?v=cc3269e69d",
+      "rating": 6,
+      "creator": "James Cameron",
+      "year": 2022
     }
   ]
 }

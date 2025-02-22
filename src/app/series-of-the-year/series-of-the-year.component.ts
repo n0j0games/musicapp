@@ -79,7 +79,7 @@ export class SeriesOfTheYearComponent implements OnInit {
     title = title.toLowerCase();
     const series = this.getAggregatedSeries().filter(value => value.title!.toLowerCase().includes(title));
     this.seriesOfTheYear = new MotyItem([], 0);
-    this.seriesOfTheYear.items = series.sort((a, b) => b.rating - a.rating);
+    this.seriesOfTheYear.items = series.sort((a, b) => a.subtitle!.localeCompare(b.subtitle!));
     this.aggregatedTitle = title;
   }
 

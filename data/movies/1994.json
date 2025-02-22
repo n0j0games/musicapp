@@ -8,6 +8,14 @@
       "creator": "Robert Zemeckis",
       "rating": 9,
       "url": "https://letterboxd.com/n0j0/film/forrest-gump/"
+    },
+    {
+      "title": "Stargate",
+      "url": "https://letterboxd.com/film/stargate/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/0/4/7/1/50471-stargate-0-70-0-105-crop.jpg?v=f9bf55ec3a",
+      "rating": 7,
+      "creator": "Roland Emmerich",
+      "year": 1994
     }
   ]
 }

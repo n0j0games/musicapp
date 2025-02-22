@@ -34,12 +34,20 @@
       "url": "https://letterboxd.com/n0j0/film/red-white-royal-blue/"
     },
     {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/3/7/9/7/1/1/379711-guardians-of-the-galaxy-volume-3-0-70-0-105-crop.jpg?v=bd023e472c",
+      "rating": 8,
+      "creator": "James Gunn",
+      "year": 2023
+    },
+    {
       "title": "Spider-Man: Across the Spider-Verse",
-      "year": 2023,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/6jYQM7zldTF0q6Ky1XbIJCNsS2L.jpg",
-      "creator": "Justin K. Thompson, Kemp Powers",
+      "url": "https://letterboxd.com/film/spider-man-across-the-spider-verse/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-70-0-105-crop.jpg?v=f2acbf1b8a",
       "rating": 9,
-      "url": "https://letterboxd.com/n0j0/film/spider-man-across-the-spider-verse/"
+      "creator": "Justin K. Thompson,\nKemp Powers",
+      "year": 2023
     }
   ]
 }

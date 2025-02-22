@@ -8,6 +8,38 @@
       "creator": "Matthew Vaughn",
       "rating": 6,
       "url": "https://letterboxd.com/n0j0/film/the-kings-man/"
+    },
+    {
+      "title": "Black Widow",
+      "url": "https://letterboxd.com/film/black-widow-2021/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/2/7/8/0/7/427807-black-widow-0-70-0-105-crop.jpg?v=691395e563",
+      "rating": 5,
+      "creator": "Cate Shortland",
+      "year": 2021
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "url": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/9/4/9/6/9/494969-shang-chi-and-the-legend-of-the-ten-rings-0-70-0-105-crop.jpg?v=49ce6b6893",
+      "rating": 5,
+      "creator": "Destin Daniel Cretton",
+      "year": 2021
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "url": "https://letterboxd.com/film/spider-man-no-way-home/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/6/0/7/8/7/560787-spider-man-no-way-home-0-70-0-105-crop.jpg?v=a336d4f40c",
+      "rating": 6,
+      "creator": "Jon Watts",
+      "year": 2021
+    },
+    {
+      "title": "Dune",
+      "url": "https://letterboxd.com/film/dune-2021/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/nx/8b/vs/gc/cDbNAY0KM84cxXhmj8f0dLWza3t-0-70-0-105-crop.jpg?v=49eed12751",
+      "rating": 9,
+      "creator": "Denis Villeneuve",
+      "year": 2021
     }
   ]
 }

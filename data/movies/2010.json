@@ -24,6 +24,30 @@
       "creator": "Hiromasa Yonebayashi",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/the-secret-world-of-arrietty/"
+    },
+    {
+      "title": "Despicable Me",
+      "url": "https://letterboxd.com/film/despicable-me/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/3/9/0/6/7/39067-despicable-me-0-70-0-105-crop.jpg?v=a50cb28a31",
+      "rating": 7,
+      "creator": "Chris Renaud,\nPierre Coffin",
+      "year": 2010
+    },
+    {
+      "title": "TRON: Legacy",
+      "url": "https://letterboxd.com/film/tron-legacy/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/3/8/9/5/7/38957-tron-legacy-0-70-0-105-crop.jpg?v=9452aea970",
+      "rating": 5,
+      "creator": "Joseph Kosinski",
+      "year": 2010
+    },
+    {
+      "title": "Inception",
+      "url": "https://letterboxd.com/film/inception/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/sv/95/s9/4j/inception-0-70-0-105-crop.jpg?v=30d7224316",
+      "rating": 8,
+      "creator": "Christopher Nolan",
+      "year": 2010
     }
   ]
 }

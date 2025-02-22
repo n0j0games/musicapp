@@ -5,7 +5,7 @@
       "title": "Avengers: Endgame",
       "year": 2019,
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/ibO8Pj0aA1nwj3Q9FMpMcYZkdCA.jpg",
-      "creator": "Anthony Russo, Joe Russo",
+      "creator": "Anthony Russo,\nJoe Russo",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/avengers-endgame/"
     },
@@ -13,7 +13,7 @@
       "title": "Captain Marvel",
       "year": 2019,
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/rswtOkjZw3VhwPuTlOao3AiBRmz.jpg",
-      "creator": "Ryan Fleck, Anna Boden",
+      "creator": "Anna Boden,\nRyan Fleck",
       "rating": 4,
       "url": "https://letterboxd.com/n0j0/film/captain-marvel/"
     },
@@ -24,6 +24,30 @@
       "creator": "J.J. Abrams",
       "rating": 1,
       "url": "https://letterboxd.com/n0j0/film/star-wars-the-rise-of-skywalker/"
+    },
+    {
+      "title": "Dark Phoenix",
+      "url": "https://letterboxd.com/film/dark-phoenix/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/4/7/3/8/5/247385-dark-phoenix-0-70-0-105-crop.jpg?v=bfbcfb3540",
+      "rating": 3,
+      "creator": "Simon Kinberg",
+      "year": 2019
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "url": "https://letterboxd.com/film/spider-man-far-from-home/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/3/6/2/9/7/7/362977-spider-man-far-from-home-0-70-0-105-crop.jpg?v=d139fbf2ae",
+      "rating": 7,
+      "creator": "Jon Watts",
+      "year": 2019
+    },
+    {
+      "title": "Joker",
+      "url": "https://letterboxd.com/film/joker-2019/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/0/6/7/7/5/406775-joker-0-70-0-105-crop.jpg?v=e4ea7f98cc",
+      "rating": 9,
+      "creator": "Todd Phillips",
+      "year": 2019
     }
   ]
 }

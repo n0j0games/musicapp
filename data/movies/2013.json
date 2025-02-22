@@ -16,6 +16,46 @@
       "creator": "Martin Scorsese",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/the-wolf-of-wall-street/"
+    },
+    {
+      "title": "Despicable Me 2",
+      "url": "https://letterboxd.com/film/despicable-me-2/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/dz/ec/y7/pf/ek09KXB8ytg9nUb3hDUpJn7APdT-0-70-0-105-crop.jpg?v=3b9b2c06c8",
+      "rating": 6,
+      "creator": "Chris Renaud,\nPierre Coffin",
+      "year": 2013
+    },
+    {
+      "title": "Man of Steel",
+      "url": "https://letterboxd.com/film/man-of-steel/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/wx/hm/hf/14/uKnhbfNt1ZR2TdoZpdn7vSNZlhX-0-70-0-105-crop.jpg?v=3bdae194cc",
+      "rating": 6,
+      "creator": "Zack Snyder",
+      "year": 2013
+    },
+    {
+      "title": "Suck Me Shakespeer",
+      "url": "https://letterboxd.com/film/suck-me-shakespeer/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/6/3/4/1/7/163417-suck-me-shakespeer-0-70-0-105-crop.jpg?v=07b2ced479",
+      "rating": 0,
+      "creator": "Bora Dağtekin",
+      "year": 2013
+    },
+    {
+      "title": "The Wolverine",
+      "url": "https://letterboxd.com/film/the-wolverine/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/6/2/6/3/8/62638-the-wolverine-0-70-0-105-crop.jpg?v=f232f1b127",
+      "rating": 5,
+      "creator": "James Mangold",
+      "year": 2013
+    },
+    {
+      "title": "Thor: The Dark World",
+      "url": "https://letterboxd.com/film/thor-the-dark-world/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/pc/xw/7h/17/bnX5PqAdQZRXSw3aX3DutDcdso5-0-70-0-105-crop.jpg?v=4c0f579fe5",
+      "rating": 5,
+      "creator": "Alan Taylor",
+      "year": 2013
     }
   ]
 }

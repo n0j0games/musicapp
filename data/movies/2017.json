@@ -56,6 +56,30 @@
       "creator": "Taika Waititi",
       "rating": 5,
       "url": "https://letterboxd.com/n0j0/film/thor-ragnarok/"
+    },
+    {
+      "title": "Justice League",
+      "url": "https://letterboxd.com/film/justice-league/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/0/7/6/7/0/107670-justice-league-0-70-0-105-crop.jpg?v=fd3f95cbb0",
+      "rating": 5,
+      "creator": "Zack Snyder",
+      "year": 2017
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "url": "https://letterboxd.com/film/spider-man-homecoming/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/4/2/7/1/0/242710-spider-man-homecoming-0-70-0-105-crop.jpg?v=61e8c57229",
+      "rating": 7,
+      "creator": "Jon Watts",
+      "year": 2017
+    },
+    {
+      "title": "Wonder Woman",
+      "url": "https://letterboxd.com/film/wonder-woman-2017/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/2/5/0/2/7/225027-wonder-woman-0-70-0-105-crop.jpg?v=4d37bba9b1",
+      "rating": 5,
+      "creator": "Patty Jenkins",
+      "year": 2017
     }
   ]
 }

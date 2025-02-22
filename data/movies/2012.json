@@ -8,6 +8,14 @@
       "creator": "Joss Whedon",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/the-avengers-2012/"
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "url": "https://letterboxd.com/film/the-amazing-spider-man/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/7/50677-the-amazing-spider-man-0-70-0-105-crop.jpg?v=2e109aabed",
+      "rating": 8,
+      "creator": "Marc Webb",
+      "year": 2012
     }
   ]
 }

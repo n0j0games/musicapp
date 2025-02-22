@@ -5,7 +5,7 @@
       "title": "Captain America: The Winter Soldier",
       "year": 2014,
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/14vWmCoZHXajYmtqSsswWpSOdrd.jpg",
-      "creator": "Joe Russo, Anthony Russo",
+      "creator": "Anthony Russo,\nJoe Russo",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/captain-america-the-winter-soldier/"
     },
@@ -56,6 +56,14 @@
       "creator": "Bryan Singer",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/x-men-days-of-future-past/"
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "url": "https://letterboxd.com/film/the-amazing-spider-man-2/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/fs/xh/ms/hx/9HFdUfEuvbsaBfroPZNeDiA9W9-0-70-0-105-crop.jpg?v=4bb266c754",
+      "rating": 7,
+      "creator": "Marc Webb",
+      "year": 2014
     }
   ]
 }

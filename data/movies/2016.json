@@ -13,7 +13,7 @@
       "title": "Captain America: Civil War",
       "year": 2016,
       "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/3wx55r7qFwo4SAdNJ9DLRQzQsAq.jpg",
-      "creator": "Joe Russo, Anthony Russo",
+      "creator": "Anthony Russo,\nJoe Russo",
       "rating": 8,
       "url": "https://letterboxd.com/n0j0/film/captain-america-civil-war/"
     },
@@ -40,6 +40,38 @@
       "creator": "Gareth Edwards",
       "rating": 9,
       "url": "https://letterboxd.com/n0j0/film/rogue-one-a-star-wars-story/1/"
+    },
+    {
+      "title": "Batman v Superman: Dawn of Justice",
+      "url": "https://letterboxd.com/film/batman-v-superman-dawn-of-justice/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/ge/rr/co/14/w7PsEa7Ilk53vFI7PplTJYckIJj-0-70-0-105-crop.jpg?v=61f95015b5",
+      "rating": 4,
+      "creator": "Zack Snyder",
+      "year": 2016
+    },
+    {
+      "title": "Deadpool",
+      "url": "https://letterboxd.com/film/deadpool/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/2/0/5/7/5/220575-deadpool-0-70-0-105-crop.jpg?v=2f726ea9b3",
+      "rating": 8,
+      "creator": "Tim Miller",
+      "year": 2016
+    },
+    {
+      "title": "Suicide Squad",
+      "url": "https://letterboxd.com/film/suicide-squad-2016/",
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/t0/3y/yr/rs/n3rm3gxguxzFDlygpROV7RHbELe-0-70-0-105-crop.jpg?v=67909d635e",
+      "rating": 2,
+      "creator": "David Ayer",
+      "year": 2016
+    },
+    {
+      "title": "X-Men: Apocalypse",
+      "url": "https://letterboxd.com/film/x-men-apocalypse/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/7/2/4/9/2/172492-x-men-apocalypse-0-70-0-105-crop.jpg?v=eecf0062df",
+      "rating": 3,
+      "creator": "Bryan Singer",
+      "year": 2016
     }
   ]
 }

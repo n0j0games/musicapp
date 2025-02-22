@@ -8,6 +8,22 @@
       "creator": "Joe Johnston",
       "rating": 7,
       "url": "https://letterboxd.com/n0j0/film/captain-america-the-first-avenger/"
+    },
+    {
+      "title": "Thor",
+      "url": "https://letterboxd.com/film/thor/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/6/4/5/6/46456-thor-0-70-0-105-crop.jpg?v=36c210ad0d",
+      "rating": 7,
+      "creator": "Kenneth Branagh",
+      "year": 2011
+    },
+    {
+      "title": "X-Men: First Class",
+      "url": "https://letterboxd.com/film/x-men-first-class/",
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/6/0/7/4/16074-x-men-first-class-0-70-0-105-crop.jpg?v=e9593bba93",
+      "rating": 7,
+      "creator": "Matthew Vaughn",
+      "year": 2011
     }
   ]
 }
