@@ -950,6 +950,33 @@
       "playTime": 64,
       "genre": "Deutschrap",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bd93bbf0c3df5e0242b84831",
+      "title": "What Kinda Music",
+      "artist": "Tom Misch,\nYussef Dayes",
+      "songs": [
+        {
+          "title": "Nightrider",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6b22686f05a1b7df3a5c00ec05bbc033f18bd1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "What Kinda Music",
+          "preview_url": "https://p.scdn.co/mp3-preview/de69900b9d80a69a6fd3d8590d6050dd483974a6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tidal Wave",
+          "preview_url": "https://p.scdn.co/mp3-preview/d93c7cd2d97bfe19af603d6b96a0b965efff1c11?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Storm Before The Calm",
+          "preview_url": "https://p.scdn.co/mp3-preview/d05a52f06eb4a0a20299ae1360531b88f965ad88?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Jazz Fusion"
     }
   ]
 }

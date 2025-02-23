@@ -972,6 +972,34 @@
       "genre": "J-Rock",
       "year": 2009,
       "playTime30Days": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "title": "Voodoo",
+      "artist": "D'Angelo",
+      "songs": [
+        {
+          "title": "Devil's Pie",
+          "preview_url": "https://p.scdn.co/mp3-preview/5914ef6d1938ea15ec4ce2af2d64ad49d88fb07f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Playa Playa",
+          "preview_url": "https://p.scdn.co/mp3-preview/b92218a3b4d6c5e55031a676866fc09d39959e00?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Feel Like Makin' Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/a54f9ce936d67cabe6e4b24c20902ddd4239d50c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Untitled (How Does It Feel)",
+          "preview_url": "https://p.scdn.co/mp3-preview/00f86064aaf68c8b4352768b6c3117d1c6d2c77f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Neo Soul",
+      "year": 2000
     }
   ]
 }

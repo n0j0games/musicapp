@@ -243,6 +243,37 @@
       "playTime": 0,
       "genre": "R&B",
       "playTime30Days": 5
+    },
+    {
+      "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27329a432d34983040d1e355554",
+      "title": "SAYA",
+      "artist": "Saya Gray",
+      "songs": [
+        {
+          "title": "EXHAUST THE TOPIC",
+          "preview_url": "https://p.scdn.co/mp3-preview/acebcf19fde20d4eb164228e898618cb11a768c4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "..THUS IS WHY ( I DON’T SPRING 4 LOVE )",
+          "preview_url": "https://p.scdn.co/mp3-preview/6dbaafc8ab69323eb4016c4d858ae5d4a40ebbbf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "SHELL ( OF A MAN )",
+          "preview_url": "https://p.scdn.co/mp3-preview/46be42d088e9417d0bf81a8aec76c8e2c9070a3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "H.B.W",
+          "preview_url": "https://p.scdn.co/mp3-preview/3796ee47558d35c0f7bd92d3f3eb257187786566?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "LIE DOWN..",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2be76ebf1a145b8d45b52fc5e14644bf1bbb2ec?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Art Pop"
     }
   ]
 }
