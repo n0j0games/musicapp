@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 173,
+      "playTime": 175,
       "genre": "Latin",
-      "playTime30Days": 44
+      "playTime30Days": 34
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 213,
+      "playTime": 216,
       "genre": "Rap",
-      "playTime30Days": 116,
+      "playTime30Days": 105,
       "color": "#1f4072"
     },
     {
@@ -106,9 +106,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 86,
+      "playTime": 88,
       "genre": "Electronic",
-      "playTime30Days": 85
+      "playTime30Days": 72
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 593,
+      "playTime": 602,
       "genre": "Synthpop",
-      "playTime30Days": 509
+      "playTime30Days": 517
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -271,9 +271,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e2be76ebf1a145b8d45b52fc5e14644bf1bbb2ec?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 0,
-      "genre": "Art Pop"
+      "rating": 8,
+      "playTime": 14,
+      "genre": "Art Pop",
+      "playTime30Days": 14
     }
   ]
 }

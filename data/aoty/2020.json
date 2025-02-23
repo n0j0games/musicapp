@@ -157,7 +157,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1793,
-      "playTime30Days": 50,
+      "playTime30Days": 47,
       "color": "#242914"
     },
     {
@@ -974,9 +974,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d05a52f06eb4a0a20299ae1360531b88f965ad88?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Jazz Fusion"
+      "rating": 7,
+      "playTime": 10,
+      "genre": "Jazz Fusion",
+      "playTime30Days": 10
     }
   ]
 }

@@ -96,7 +96,7 @@
       ],
       "rating": 8.7,
       "genre": "Country Pop",
-      "playTime": 755,
+      "playTime": 756,
       "playTime30Days": 0,
       "color": "#40469e"
     },
@@ -521,8 +521,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 54,
-      "playTime30Days": 0,
+      "playTime": 59,
+      "playTime30Days": 5,
       "color": "#357a31"
     },
     {
@@ -1568,7 +1568,7 @@
       "rating": 7.9,
       "genre": "Rap",
       "playTime": 109,
-      "playTime30Days": 24,
+      "playTime30Days": 16,
       "color": "#092508"
     },
     {
@@ -2265,7 +2265,7 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 231,
+      "playTime": 232,
       "playTime30Days": 0,
       "color": "#332737"
     },
@@ -2299,7 +2299,7 @@
       "rating": 8.6,
       "playTime": 347,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#6c6c6c"
     },
     {
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 433,
+      "playTime": 441,
       "genre": "Wiener Pop",
-      "playTime30Days": 80,
+      "playTime30Days": 88,
       "color": "#c51919"
     },
     {
@@ -2390,7 +2390,7 @@
       "rating": 6.9,
       "playTime": 176,
       "genre": "Soundtrack",
-      "playTime30Days": 11
+      "playTime30Days": 9
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

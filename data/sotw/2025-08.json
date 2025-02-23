@@ -3,12 +3,38 @@
   "week": 8,
   "songs": [
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/c4f1dac94fe166906def6822c32a0648aa01a971?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739eda579e1df4f82bb796a9d1",
+      "title": "cLOUDs",
+      "artist": "J. Cole",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/e480e2db3af144efaeee7df2e3c4e96944e49f25?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c4957c92745aaadec56b6ff4",
       "title": "Forever Yung",
       "artist": "Yung Lean",
-      "rating": 6,
+      "rating": 7,
       "url": "https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/46be42d088e9417d0bf81a8aec76c8e2c9070a3a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27329a432d34983040d1e355554",
+      "title": "SHELL ( OF A MAN )",
+      "artist": "Saya Gray",
+      "rating": 7,
+      "album": "SAYA",
+      "url": "https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/acebcf19fde20d4eb164228e898618cb11a768c4?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27329a432d34983040d1e355554",
+      "title": "EXHAUST THE TOPIC",
+      "artist": "Saya Gray",
+      "rating": 8,
+      "album": "SAYA",
+      "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
     }
   ]
 }

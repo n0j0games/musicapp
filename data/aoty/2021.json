@@ -539,7 +539,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 100,
+      "playTime": 101,
       "playTime30Days": 0
     },
     {
@@ -838,9 +838,9 @@
         }
       ],
       "rating": 5,
-      "playTime": 10,
+      "playTime": 11,
       "genre": "Deutschpop",
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/00RxYCXCK9vr6ee1n68Qqx",
