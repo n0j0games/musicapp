@@ -4,17 +4,25 @@
     {
       "title": "Harry Potter und ein Stein",
       "url": "https://letterboxd.com/film/harry-potter-und-ein-stein-2006/",
-      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/0/7/6/2/7/8/1076278-harry-potter-und-ein-stein-0-70-0-105-crop.jpg?v=130c9d754e",
       "rating": 0,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/0/7/6/2/7/8/1076278-harry-potter-und-ein-stein-0-230-0-345-crop.jpg?v=130c9d754e",
       "creator": "Kathrin Fricke",
       "year": 2006
     },
     {
       "title": "X-Men: The Last Stand",
       "url": "https://letterboxd.com/film/x-men-the-last-stand/",
-      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/7/7/1/3/27713-x-men-the-last-stand-0-70-0-105-crop.jpg?v=61ff7376df",
       "rating": 6,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/7/7/1/3/27713-x-men-the-last-stand-0-230-0-345-crop.jpg?v=61ff7376df",
       "creator": "Brett Ratner",
+      "year": 2006
+    },
+    {
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "url": "https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/",
+      "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/9/51989-pirates-of-the-caribbean-dead-man-s-chest-0-230-0-345-crop.jpg?v=f9c46ae728",
+      "creator": "Gore Verbinski",
       "year": 2006
     }
   ]

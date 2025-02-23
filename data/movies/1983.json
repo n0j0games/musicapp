@@ -3,11 +3,11 @@
   "items": [
     {
       "title": "Return of the Jedi",
-      "year": 1983,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/nVIXomOVRimO75R4ZLzmFqoU8w7.jpg",
-      "creator": "Richard Marquand",
+      "url": "https://letterboxd.com/film/return-of-the-jedi/",
       "rating": 9,
-      "url": "https://letterboxd.com/n0j0/film/return-of-the-jedi/"
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/88/lu/ak/8v/5wDrNqePjb5SOucrWQwiFu340vv-0-230-0-345-crop.jpg?v=acc9d9c27b",
+      "creator": "Richard Marquand",
+      "year": 1983
     }
   ]
 }

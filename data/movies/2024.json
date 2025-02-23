@@ -3,35 +3,35 @@
   "items": [
     {
       "title": "Challengers",
-      "year": 2024,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/j94qzVNTRxJGLZq8zdEWajYiJHd.jpg",
-      "creator": "Luca Guadagnino",
+      "url": "https://letterboxd.com/film/challengers/",
       "rating": 7,
-      "url": "https://letterboxd.com/n0j0/film/challengers/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/8/4/2/3/0/1/842301-challengers-0-230-0-345-crop.jpg?v=a7cd63cbef",
+      "creator": "Luca Guadagnino",
+      "year": 2024
     },
     {
       "title": "Deadpool & Wolverine",
-      "year": 2024,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/h34b8gn6m1fzNpEhSpMZAgknwjX.jpg",
-      "creator": "Shawn Levy",
+      "url": "https://letterboxd.com/film/deadpool-wolverine/",
       "rating": 6,
-      "url": "https://letterboxd.com/n0j0/film/deadpool-wolverine/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-230-0-345-crop.jpg?v=1aa778d2c6",
+      "creator": "Shawn Levy",
+      "year": 2024
     },
     {
       "title": "Dune: Part Two",
-      "year": 2024,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/59j9zZW8WannTtjkupTakGVkzM1.jpg",
-      "creator": "Denis Villeneuve",
+      "url": "https://letterboxd.com/film/dune-part-two/",
       "rating": 9,
-      "url": "https://letterboxd.com/n0j0/film/dune-part-two/1/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-230-0-345-crop.jpg?v=cc533700f8",
+      "creator": "Denis Villeneuve",
+      "year": 2024
     },
     {
       "title": "Inside Out 2",
-      "year": 2024,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/d1x6XyewluS8gxPXqb0PZnpQPUQ.jpg",
-      "creator": "Kelsey Mann",
+      "url": "https://letterboxd.com/film/inside-out-2-2024/",
       "rating": 7,
-      "url": "https://letterboxd.com/n0j0/film/inside-out-2-2024/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-230-0-345-crop.jpg?v=efa25e5cca",
+      "creator": "Kelsey Mann",
+      "year": 2024
     }
   ]
 }

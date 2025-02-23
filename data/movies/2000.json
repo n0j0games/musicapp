@@ -3,17 +3,17 @@
   "items": [
     {
       "title": "American Psycho",
-      "year": 2000,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/5Tx1PH4mejIhvC5mtAc94FtgueF.jpg",
-      "creator": "Mary Harron",
+      "url": "https://letterboxd.com/film/american-psycho/",
       "rating": 5,
-      "url": "https://letterboxd.com/n0j0/film/american-psycho/"
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/5b/u9/av/il/ecoY7zJL6Ub3URP1oPhPfGflEjV-0-230-0-345-crop.jpg?v=8126850315",
+      "creator": "Mary Harron",
+      "year": 2000
     },
     {
       "title": "X-Men",
       "url": "https://letterboxd.com/film/x-men/",
-      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-70-0-105-crop.jpg?v=58f85fcb62",
       "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/ub/6i/kh/7q/8259CEB5-947B-4A88-9848-AE748636B747-0-230-0-345-crop.jpg?v=58f85fcb62",
       "creator": "Bryan Singer",
       "year": 2000
     }

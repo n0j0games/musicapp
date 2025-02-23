@@ -3,11 +3,11 @@
   "items": [
     {
       "title": "Taxi Driver",
-      "year": 1976,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/8FbDLFGRPdWaEz5hWC9wyG0d2il.jpg",
-      "creator": "Martin Scorsese",
+      "url": "https://letterboxd.com/film/taxi-driver/",
       "rating": 6,
-      "url": "https://letterboxd.com/n0j0/film/taxi-driver/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-230-0-345-crop.jpg?v=3ae07cca2d",
+      "creator": "Martin Scorsese",
+      "year": 1976
     }
   ]
 }

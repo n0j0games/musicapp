@@ -3,11 +3,11 @@
   "items": [
     {
       "title": "The Truman Show",
-      "year": 1998,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/t0MGPhnd4Z8P6ZRMoVRGqWlIfrY.jpg",
-      "creator": "Peter Weir",
+      "url": "https://letterboxd.com/film/the-truman-show/",
       "rating": 8,
-      "url": "https://letterboxd.com/n0j0/film/the-truman-show/"
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-230-0-345-crop.jpg?v=704ba393f7",
+      "creator": "Peter Weir",
+      "year": 1998
     }
   ]
 }

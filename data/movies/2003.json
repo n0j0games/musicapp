@@ -3,25 +3,25 @@
   "items": [
     {
       "title": "Kill Bill: Vol. 1",
-      "year": 2003,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/opg271jgmOVHayitLak6brEjwOU.jpg",
-      "creator": "Quentin Tarantino",
+      "url": "https://letterboxd.com/film/kill-bill-vol-1/",
       "rating": 8,
-      "url": "https://letterboxd.com/n0j0/film/kill-bill-vol-1/"
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/sw/w2/ep/v4/9O50TVszkz0dcP5g6Ej33UhR7vw-0-230-0-345-crop.jpg?v=5a65f5202f",
+      "creator": "Quentin Tarantino",
+      "year": 2003
     },
     {
       "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-      "year": 2003,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/plwQD6L5WRJQl7jrXGc8Ip59rxx.jpg",
-      "creator": "Gore Verbinski",
+      "url": "https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/",
       "rating": 9,
-      "url": "https://letterboxd.com/n0j0/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/6/9/5/2695-pirates-of-the-caribbean-the-curse-of-the-black-pearl-0-230-0-345-crop.jpg?v=272b36c0d8",
+      "creator": "Gore Verbinski",
+      "year": 2003
     },
     {
       "title": "X2",
       "url": "https://letterboxd.com/film/x2/",
-      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/lt/cd/xz/vb/xmen2-poster-0-70-0-105-crop.jpg?v=141895ae80",
       "rating": 6,
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/lt/cd/xz/vb/xmen2-poster-0-230-0-345-crop.jpg?v=141895ae80",
       "creator": "Bryan Singer",
       "year": 2003
     }

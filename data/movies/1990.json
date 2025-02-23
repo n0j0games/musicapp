@@ -3,11 +3,11 @@
   "items": [
     {
       "title": "Home Alone",
-      "year": 1990,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/8PuMnVXP1l0mDh5b7CeHESodMjT.jpg",
-      "creator": "Chris Columbus",
+      "url": "https://letterboxd.com/film/home-alone/",
       "rating": 7,
-      "url": "https://letterboxd.com/n0j0/film/home-alone/"
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/e6/mn/oi/ky/8IWPBT1rkAaI8Kpk5V3WfQRklJ7-0-230-0-345-crop.jpg?v=cb22d36a0e",
+      "creator": "Chris Columbus",
+      "year": 1990
     }
   ]
 }

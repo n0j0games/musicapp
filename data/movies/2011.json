@@ -3,26 +3,42 @@
   "items": [
     {
       "title": "Captain America: The First Avenger",
-      "year": 2011,
-      "imgSrc": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/zONfOAtBJQyKkijmYtA0ZukgoMv.jpg",
-      "creator": "Joe Johnston",
+      "url": "https://letterboxd.com/film/captain-america-the-first-avenger/",
       "rating": 7,
-      "url": "https://letterboxd.com/n0j0/film/captain-america-the-first-avenger/"
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/0/8/0/9/50809-captain-america-the-first-avenger-0-230-0-345-crop.jpg?v=5a0d520040",
+      "creator": "Joe Johnston",
+      "year": 2011
     },
     {
       "title": "Thor",
       "url": "https://letterboxd.com/film/thor/",
-      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/6/4/5/6/46456-thor-0-70-0-105-crop.jpg?v=36c210ad0d",
       "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/6/4/5/6/46456-thor-0-230-0-345-crop.jpg?v=36c210ad0d",
       "creator": "Kenneth Branagh",
       "year": 2011
     },
     {
       "title": "X-Men: First Class",
       "url": "https://letterboxd.com/film/x-men-first-class/",
-      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/6/0/7/4/16074-x-men-first-class-0-70-0-105-crop.jpg?v=e9593bba93",
       "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/6/0/7/4/16074-x-men-first-class-0-230-0-345-crop.jpg?v=e9593bba93",
       "creator": "Matthew Vaughn",
+      "year": 2011
+    },
+    {
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "url": "https://letterboxd.com/film/pirates-of-the-caribbean-on-stranger-tides/",
+      "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/0/7/3/5/50735-pirates-of-the-caribbean-on-stranger-tides-0-230-0-345-crop.jpg?v=84b9897282",
+      "creator": "Rob Marshall",
+      "year": 2011
+    },
+    {
+      "title": "The Intouchables",
+      "url": "https://letterboxd.com/film/the-intouchables/",
+      "rating": 9,
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/6d/b1/v2/4j/intouchables-0-230-0-345-crop.jpg?v=98a4b40496",
+      "creator": "Éric Toledano,\nOlivier Nakache",
       "year": 2011
     }
   ]
