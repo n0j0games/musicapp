@@ -598,6 +598,34 @@
       "year": 1993,
       "playTime30Days": 16,
       "color": "#45493e"
+    },
+    {
+      "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+      "title": "The Bends",
+      "artist": "Radiohead",
+      "songs": [
+        {
+          "title": "Street Spirit (Fade Out)",
+          "preview_url": "https://p.scdn.co/mp3-preview/b42345ab10221f9de6a80ecb3d27b804d0449e43?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fake Plastic Trees",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ee9bf807973f08aeb2e2b7578e0e4b8e58e513e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Just",
+          "preview_url": "https://p.scdn.co/mp3-preview/6845569c3a7849874110c88dbd45b24a92c5ec69?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "My Iron Lung",
+          "preview_url": "https://p.scdn.co/mp3-preview/faa7b28ca5c1b903f3be19343567fa2063937b3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Alt-Rock",
+      "year" : 1997
     }
   ]
 }

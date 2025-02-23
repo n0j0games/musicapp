@@ -586,17 +586,7 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736809cfdca6b0eb4b2614bcac",
       "title": "Ich bin ein Berliner",
       "artist": "Ufo361",
-      "songs": [
-        {
-          "title": "Ich bin ein Berliner",
-          "preview_url": "https://p.scdn.co/mp3-preview/db9b2ea44bb9a895f08e7e242ffc428bade5ec0a?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Scottie Pippen",
-          "preview_url": "https://p.scdn.co/mp3-preview/68051b580f4bc690c0ff045fb91e238c8f3fada0?cid=941103e4872f4d3fad60066c677df34f"
-        }
-      ],
-      "rating": 5,
+      "rating": 4,
       "playTime": 21,
       "playTime30Days": 0
     },
@@ -651,7 +641,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/36bfb5305fe0da34128f195ab7107803a2d561ed?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 6,
+      "rating": 5,
       "playTime": 28,
       "playTime30Days": 0
     },

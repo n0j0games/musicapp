@@ -584,17 +584,7 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738fe972edd6672ce8df00a9fe",
       "title": "Ich bin 3 Berliner",
       "artist": "Ufo361",
-      "songs": [
-        {
-          "title": "Der Pate",
-          "preview_url": "https://p.scdn.co/mp3-preview/68a72862a293912c02353a9b36b2f84b185c1815?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Für die Gang",
-          "preview_url": "https://p.scdn.co/mp3-preview/92b58a186177eebd8db22f45606a6439e2ea98bd?cid=941103e4872f4d3fad60066c677df34f"
-        }
-      ],
-      "rating": 5,
+      "rating": 4,
       "playTime": 8,
       "playTime30Days": 0
     },
