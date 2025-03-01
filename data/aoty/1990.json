@@ -31,7 +31,7 @@
       "rating": 10.2,
       "genre": "Alternative Rock",
       "playTime": 429,
-      "playTime30Days": 18,
+      "playTime30Days": 15,
       "year": 1997,
       "color": "#194d64"
     },
@@ -167,7 +167,7 @@
       ],
       "rating": 9.8,
       "playTime": 88,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "year": 1997,
       "color": "#43495f"
     },
@@ -282,7 +282,7 @@
       ],
       "rating": 8.8,
       "playTime": 64,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 1994
     },
     {
@@ -345,8 +345,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 74,
-      "playTime30Days": 0,
+      "playTime": 86,
+      "playTime30Days": 8,
       "year": 1990
     },
     {
@@ -596,7 +596,7 @@
       "playTime": 16,
       "genre": "Funk",
       "year": 1993,
-      "playTime30Days": 16,
+      "playTime30Days": 0,
       "color": "#45493e"
     },
     {
@@ -622,10 +622,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/faa7b28ca5c1b903f3be19343567fa2063937b3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
+      "rating": 7,
+      "playTime": 37,
       "genre": "Alt-Rock",
-      "year" : 1997
+      "year": 1997,
+      "playTime30Days": 0
     }
   ]
 }

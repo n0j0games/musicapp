@@ -64,7 +64,7 @@
       "rating": 10.3,
       "onVinyl": true,
       "playTime": 332,
-      "playTime30Days": 9,
+      "playTime30Days": 5,
       "color": "#213f28"
     },
     {
@@ -278,10 +278,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f09164f45d0f453180fad13e4fb8b9d39dcd17a3?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.4,
+      "rating": 8.6,
       "genre": "Rap",
       "playTime": 638,
-      "playTime30Days": 8
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0",
@@ -730,7 +730,30 @@
       "rating": 7.9,
       "playTime": 27,
       "genre": "Spanish Folk",
-      "playTime30Days": 6
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27372d10386e7f4918a1740bd78",
+      "title": "Process",
+      "artist": "Sampha",
+      "songs": [
+        {
+          "title": "Plastic 100°C",
+          "preview_url": "https://p.scdn.co/mp3-preview/88f12ff6844d0222fe6a775b26475d36ec5c447d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blood On Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/6168b55ef7f13a9b48e52e37ff401d9c3b6be392?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "(No One Knows Me) Like the Piano",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba2ead69ef0405d168514dbde2892d9e4cd5eb3e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.5,
+      "playTime": 0,
+      "genre": "R&B"
     }
   ]
 }

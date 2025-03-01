@@ -262,7 +262,7 @@
       "rating": 8.8,
       "genre": "Latin",
       "playTime": 326,
-      "playTime30Days": 10,
+      "playTime30Days": 5,
       "color": "#a065b1"
     },
     {
@@ -521,8 +521,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 59,
-      "playTime30Days": 5,
+      "playTime": 78,
+      "playTime30Days": 24,
       "color": "#357a31"
     },
     {
@@ -1114,7 +1114,7 @@
       "rating": 7.8,
       "genre": "Latin",
       "playTime": 60,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#012c63"
     },
     {
@@ -1568,7 +1568,7 @@
       "rating": 7.9,
       "genre": "Rap",
       "playTime": 109,
-      "playTime30Days": 16,
+      "playTime30Days": 12,
       "color": "#092508"
     },
     {
@@ -2296,7 +2296,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3184f894375e8cf32244da7a753f101213ac9ab?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.6,
+      "rating": 8.3,
       "playTime": 347,
       "genre": "West Coast Hip Hop",
       "playTime30Days": 5,
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 441,
+      "playTime": 455,
       "genre": "Wiener Pop",
-      "playTime30Days": 88,
+      "playTime30Days": 102,
       "color": "#c51919"
     },
     {
@@ -2390,7 +2390,7 @@
       "rating": 6.9,
       "playTime": 176,
       "genre": "Soundtrack",
-      "playTime30Days": 9
+      "playTime30Days": 5
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

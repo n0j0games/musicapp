@@ -37,7 +37,7 @@
       "rating": 8,
       "playTime": 175,
       "genre": "Latin",
-      "playTime30Days": 34
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 216,
+      "playTime": 230,
       "genre": "Rap",
-      "playTime30Days": 105,
+      "playTime30Days": 88,
       "color": "#1f4072"
     },
     {
@@ -108,7 +108,7 @@
       "rating": 7,
       "playTime": 88,
       "genre": "Electronic",
-      "playTime30Days": 72
+      "playTime30Days": 34
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 602,
+      "playTime": 625,
       "genre": "Synthpop",
-      "playTime30Days": 517
+      "playTime30Days": 536
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -255,18 +255,56 @@
           "preview_url": "https://p.scdn.co/mp3-preview/46be42d088e9417d0bf81a8aec76c8e2c9070a3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "H.B.W",
-          "preview_url": "https://p.scdn.co/mp3-preview/3796ee47558d35c0f7bd92d3f3eb257187786566?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "LIE DOWN..",
           "preview_url": "https://p.scdn.co/mp3-preview/e2be76ebf1a145b8d45b52fc5e14644bf1bbb2ec?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
-      "playTime": 14,
+      "rating": 7,
+      "playTime": 33,
       "genre": "Art Pop",
-      "playTime30Days": 14
+      "playTime30Days": 33
+    },
+    {
+      "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27354596ddf118f2f0bfea5d806",
+      "title": "Unity",
+      "artist": "Joost",
+      "songs": [
+        {
+          "title": "1",
+          "preview_url": "https://p.scdn.co/mp3-preview/3675b08059a4f02e8774a833a99c3ad4b9067396?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Kunst und Musik",
+          "preview_url": "https://p.scdn.co/mp3-preview/5feb63c06413be13dda1976b1edf872d5ba3aebd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Europapa",
+          "preview_url": "https://p.scdn.co/mp3-preview/1a9b4bbab0d5ea7fa6965559c76a0f26b0f4da94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Niederländischer Techno"
+    },
+    {
+      "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27378759f209d4720ce706a7ea7",
+      "title": "Alter Ego",
+      "artist": "LISA",
+      "songs": [
+        {
+          "title": "Rockstar",
+          "preview_url": "https://p.scdn.co/mp3-preview/10701d67669f461de243846646f9a9e718e4eea3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lifestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/276d2500fcc6ed2c2d6a6716115a8f5bb1ca4022?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Pop"
     }
   ]
 }

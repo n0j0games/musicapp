@@ -193,8 +193,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 405,
-      "playTime30Days": 34,
+      "playTime": 410,
+      "playTime30Days": 39,
       "color": "#a30a02"
     },
     {
@@ -226,7 +226,7 @@
       ],
       "rating": 8.1,
       "playTime": 114,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#b8260f"
     },
     {
@@ -258,7 +258,7 @@
       ],
       "rating": 9.7,
       "playTime": 243,
-      "playTime30Days": 8,
+      "playTime30Days": 7,
       "color": "#a28c6a"
     },
     {
@@ -290,7 +290,7 @@
       ],
       "rating": 9.2,
       "playTime": 239,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#434754"
     },
     {
@@ -1158,7 +1158,7 @@
       ],
       "rating": 7.6,
       "playTime": 140,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#251c2d"
     },
     {

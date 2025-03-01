@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Alt Rock",
       "playTime": 821,
-      "playTime30Days": 8,
+      "playTime30Days": 6,
       "year": 2007,
       "color": "#873912"
     },
@@ -171,7 +171,7 @@
       "rating": 10.3,
       "genre": "Rap",
       "playTime": 603,
-      "playTime30Days": 54,
+      "playTime30Days": 10,
       "year": 2005,
       "color": "#5e2e0c"
     },
@@ -204,7 +204,7 @@
       ],
       "rating": 9.9,
       "playTime": 460,
-      "playTime30Days": 28,
+      "playTime30Days": 8,
       "year": 2005,
       "color": "#001621"
     },
@@ -299,7 +299,7 @@
       ],
       "rating": 9.8,
       "playTime": 347,
-      "playTime30Days": 10,
+      "playTime30Days": 8,
       "year": 2001,
       "color": "#453c35"
     },
@@ -675,7 +675,7 @@
       ],
       "rating": 8.8,
       "playTime": 64,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "year": 2000
     },
     {
@@ -906,7 +906,7 @@
       "rating": 8.7,
       "playTime": 43,
       "genre": "Folk",
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#5a552c"
     },

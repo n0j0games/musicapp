@@ -70,7 +70,7 @@
       "rating": 11.8,
       "genre": "Rock",
       "playTime": 122,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
     },
@@ -551,9 +551,37 @@
       ],
       "year": 1977,
       "rating": 7,
-      "playTime": 15,
+      "playTime": 20,
       "genre": "Art Rock",
-      "playTime30Days": 15
+      "playTime30Days": 20
+    },
+    {
+      "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27352573463beeda67fe242cab5",
+      "title": "Maggot Brain",
+      "artist": "Funkadelic",
+      "songs": [
+        {
+          "title": "Maggot Brain",
+          "preview_url": "https://p.scdn.co/mp3-preview/315ee8972681fd8df174078b36d48e53d30d688d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Can You Get To That",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8fd71862744d01edd085bd962ab7966db5b7c64?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hit It and Quit It",
+          "preview_url": "https://p.scdn.co/mp3-preview/3822deeb9f6273864494fe8e1f6fba42cc13e2f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wars Of Armageddon",
+          "preview_url": "https://p.scdn.co/mp3-preview/c8cd20edc5384a0b14c07a6464eca6ffe4426944?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Funk",
+      "year" : 1971
     }
   ]
 }

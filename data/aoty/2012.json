@@ -31,7 +31,7 @@
       "rating": 9.9,
       "genre": "Rap",
       "playTime": 464,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#4d6559"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rating": 9.6,
       "playTime": 338,
-      "playTime30Days": 22,
+      "playTime30Days": 19,
       "color": "#51aab9"
     },
     {

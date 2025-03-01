@@ -1,0 +1,38 @@
+{
+  "year": 2025,
+  "week": 9,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f2dd177712cc959dd2de7df6ed041efee98434e5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273237e866eb66b4be3081a5433",
+      "title": "Flood",
+      "artist": "Little Simz, Obongjayar, Moonchild Sanelly",
+      "rating": 8.0,
+      "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/67f09d556327391e52f7bbac099d7a229cddafab?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c422a398966ae02a82dc7299",
+      "title": "Crashing (with Kali Uchis)",
+      "artist": "d4vd, Kali Uchis",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/55349f5a665fd5d7bb6b21fa12b23fc26c65e771?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731e56a54a4ffb1687cfb9d7fa",
+      "title": "My And Me",
+      "artist": "Everything Is Recorded, Sampha, Laura Groves, Rickey Washington, Alabaster DePlume",
+      "rating": 7,
+      "album": "Richard Russell Is Temporary",
+      "url": "https://open.spotify.com/track/5RcoXjIYJ9QprIoLAykbQh"
+    },
+    {
+      "imgUrl": "https://milla-club.de/files/2024/09/boondawg-pressebild-2-source-carbonara-management--e1727171095103.jpeg",
+      "title": "Wahltag",
+      "artist": "Boondawg",
+      "rating": 9,
+      "url": "https://www.youtube.com/watch?v=6nf9eqkSu7I"
+    }
+  ]
+}
