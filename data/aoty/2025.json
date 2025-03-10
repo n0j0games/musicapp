@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 175,
+      "playTime": 201,
       "genre": "Latin",
-      "playTime30Days": 21
+      "playTime30Days": 32
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 230,
+      "playTime": 248,
       "genre": "Rap",
-      "playTime30Days": 88,
+      "playTime30Days": 57,
       "color": "#1f4072"
     },
     {
@@ -108,7 +108,7 @@
       "rating": 7,
       "playTime": 88,
       "genre": "Electronic",
-      "playTime30Days": 34
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 625,
+      "playTime": 648,
       "genre": "Synthpop",
-      "playTime30Days": 536
+      "playTime30Days": 153
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -260,9 +260,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 33,
+      "playTime": 47,
       "genre": "Art Pop",
-      "playTime30Days": 33
+      "playTime30Days": 47
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -283,9 +283,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1a9b4bbab0d5ea7fa6965559c76a0f26b0f4da94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
-      "genre": "Niederländischer Techno"
+      "rating": 6,
+      "playTime": 14,
+      "genre": "Niederländischer Techno",
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q",
@@ -302,9 +303,20 @@
           "preview_url": "https://p.scdn.co/mp3-preview/276d2500fcc6ed2c2d6a6716115a8f5bb1ca4022?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
+      "playTime": 19,
+      "genre": "Pop",
+      "playTime30Days": 19
+    },
+    {
+      "url": "https://open.spotify.com/album/6QoJa1uhryvCmMlmq0BCJQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27301c3a669e09f5cc48c1a42ed",
+      "title": "PETERSON",
+      "artist": "Tory Lanez",
+      "rating": 1,
       "playTime": 0,
-      "genre": "Pop"
+      "genre": "Rap",
+      "playTime30Days": 0
     }
   ]
 }

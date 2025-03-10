@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 146,
+      "playTime": 147,
       "playTime30Days": 0,
       "color": "#622d00"
     },
@@ -188,8 +188,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 169,
-      "playTime30Days": 0,
+      "playTime": 180,
+      "playTime30Days": 11,
       "color": "#9a4542"
     },
     {
@@ -224,7 +224,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 141,
+      "playTime": 142,
       "playTime30Days": 0
     },
     {
@@ -286,8 +286,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 466,
-      "playTime30Days": 12
+      "playTime": 520,
+      "playTime30Days": 54
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -838,9 +838,9 @@
         }
       ],
       "rating": 5,
-      "playTime": 12,
+      "playTime": 13,
       "genre": "Deutschpop",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/00RxYCXCK9vr6ee1n68Qqx",
@@ -929,6 +929,38 @@
       "playTime": 75,
       "genre": "Alt-Pop",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4pDYkOvRt8GA6PxpVaHnLC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fe532b7866bf15a43ab5fc8d",
+      "title": "Promises",
+      "artist": "Floating Points,\nPharoah Sanders,\nLondon Symphony Orchestra",
+      "songs": [
+        {
+          "title": "Movement 1",
+          "preview_url": "https://p.scdn.co/mp3-preview/54585d8ef6d9bc3d5fa2fe1a7fa7043caccc484f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Movement 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/26f989dbe3854e04d16842dfa41f5c8a5b23caaf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Movement 3",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ecf0dacb83ce9d6a268bfeb625d7a13d7b649c6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Movement 8",
+          "preview_url": "https://p.scdn.co/mp3-preview/c17b52a6956a77fb3652078589bdd62d180b93b0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Movement 9",
+          "preview_url": "https://p.scdn.co/mp3-preview/1826f8c3b64918ce3e6b23b2697297d45c4dad1f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 15,
+      "genre": "Ambient",
+      "playTime30Days": 15
     }
   ]
 }

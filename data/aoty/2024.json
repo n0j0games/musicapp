@@ -228,7 +228,7 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 217,
+      "playTime": 218,
       "playTime30Days": 0,
       "color": "#12497e"
     },
@@ -262,7 +262,7 @@
       "rating": 8.8,
       "genre": "Latin",
       "playTime": 326,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#a065b1"
     },
     {
@@ -328,7 +328,7 @@
       "rating": 8.7,
       "genre": "Deutscher Indie",
       "playTime": 85,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#958929"
     },
     {
@@ -455,7 +455,7 @@
       ],
       "rating": 8.5,
       "genre": "Indie Pop",
-      "playTime": 63,
+      "playTime": 64,
       "playTime30Days": 0,
       "color": "#2c3863"
     },
@@ -521,8 +521,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 78,
-      "playTime30Days": 24,
+      "playTime": 83,
+      "playTime30Days": 29,
       "color": "#357a31"
     },
     {
@@ -649,7 +649,7 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 193,
+      "playTime": 195,
       "playTime30Days": 0,
       "color": "#376893"
     },
@@ -1171,7 +1171,7 @@
       ],
       "rating": 7.5,
       "genre": "West Coast Hip-Hop",
-      "playTime": 37,
+      "playTime": 38,
       "playTime30Days": 0,
       "color": "#60333e"
     },
@@ -1568,7 +1568,7 @@
       "rating": 7.9,
       "genre": "Rap",
       "playTime": 109,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#092508"
     },
     {
@@ -2029,7 +2029,7 @@
       ],
       "rating": 7.8,
       "genre": "Deutschrap",
-      "playTime": 98,
+      "playTime": 100,
       "playTime30Days": 0,
       "color": "#55351c"
     },
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 455,
+      "playTime": 541,
       "genre": "Wiener Pop",
-      "playTime30Days": 102,
+      "playTime30Days": 188,
       "color": "#c51919"
     },
     {
@@ -2390,7 +2390,7 @@
       "rating": 6.9,
       "playTime": 176,
       "genre": "Soundtrack",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://www.geocities.ws/ccqsk/",

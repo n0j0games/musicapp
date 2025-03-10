@@ -31,8 +31,8 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 545,
-      "playTime30Days": 14,
+      "playTime": 546,
+      "playTime30Days": 0,
       "color": "#25714c"
     },
     {
@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 440,
+      "playTime": 441,
       "genre": "Experimental Rap",
       "playTime30Days": 0,
       "color": "#396b65"

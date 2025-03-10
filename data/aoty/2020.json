@@ -33,7 +33,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 263,
+      "playTime": 264,
       "playTime30Days": 0,
       "color": "#932e50"
     },
@@ -157,7 +157,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1793,
-      "playTime30Days": 49,
+      "playTime30Days": 0,
       "color": "#242914"
     },
     {
@@ -221,8 +221,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 195,
-      "playTime30Days": 0,
+      "playTime": 211,
+      "playTime30Days": 19,
       "color": "#006687"
     },
     {
@@ -975,9 +975,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 17,
+      "playTime": 29,
       "genre": "Jazz Fusion",
-      "playTime30Days": 17
+      "playTime30Days": 29
     }
   ]
 }

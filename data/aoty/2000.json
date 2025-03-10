@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 821,
-      "playTime30Days": 6,
+      "playTime": 823,
+      "playTime30Days": 5,
       "year": 2007,
       "color": "#873912"
     },
@@ -102,7 +102,7 @@
         }
       ],
       "rating": 10.9,
-      "playTime": 383,
+      "playTime": 384,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -171,7 +171,7 @@
       "rating": 10.3,
       "genre": "Rap",
       "playTime": 603,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "year": 2005,
       "color": "#5e2e0c"
     },
@@ -204,7 +204,7 @@
       ],
       "rating": 9.9,
       "playTime": 460,
-      "playTime30Days": 8,
+      "playTime30Days": 6,
       "year": 2005,
       "color": "#001621"
     },
@@ -299,7 +299,7 @@
       ],
       "rating": 9.8,
       "playTime": 347,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
     },
@@ -363,8 +363,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 180,
-      "playTime30Days": 67,
+      "playTime": 184,
+      "playTime30Days": 70,
       "year": 2009,
       "color": "#ad4362"
     },
@@ -590,7 +590,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 89,
+      "playTime": 90,
       "playTime30Days": 0,
       "year": 2001
     },
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 64,
+      "playTime": 67,
       "playTime30Days": 5,
       "year": 2000
     },
@@ -997,10 +997,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 19,
+      "playTime": 28,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 13
+      "playTime30Days": 22
     }
   ]
 }

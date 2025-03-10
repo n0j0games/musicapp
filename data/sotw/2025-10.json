@@ -1,0 +1,30 @@
+{
+  "year": 2025,
+  "week": 10,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/81769b249dd5a5e8ae7b9a9204c6cbf3942c7bd3?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fae690f5a23e6aae5bc7466f",
+      "title": "EROTIKA",
+      "artist": "NATHY PELUSO",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/379a4c1125071bd790fedecc88c8eb0c36d3449e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730b1e8eaf3212c09093604de1",
+      "title": "GETAWAY",
+      "artist": "Javi Vera",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/7E8BinHPsRl8SFSy3rE6rr"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/ff8ca4eca9476c89d56067be96ea34b7472fc162?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a9534b7260940049b31d57c8",
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "rating": 6,
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    }
+  ]
+}

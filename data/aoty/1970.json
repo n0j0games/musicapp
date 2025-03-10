@@ -205,7 +205,7 @@
       ],
       "rating": 8.2,
       "genre": "Jazz",
-      "playTime": 79,
+      "playTime": 80,
       "playTime30Days": 0,
       "year": 1979
     },
@@ -551,9 +551,9 @@
       ],
       "year": 1977,
       "rating": 7,
-      "playTime": 20,
+      "playTime": 27,
       "genre": "Art Rock",
-      "playTime30Days": 20
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
@@ -578,10 +578,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c8cd20edc5384a0b14c07a6464eca6ffe4426944?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 0,
+      "rating": 8,
+      "playTime": 16,
       "genre": "Funk",
-      "year" : 1971
+      "year": 1971,
+      "playTime30Days": 16
     }
   ]
 }
