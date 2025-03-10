@@ -317,6 +317,33 @@
       "playTime": 0,
       "genre": "Rap",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273270490f2b673c4c96705595e",
+      "title": "Melody Of A Memory",
+      "artist": "Eem Triplin",
+      "songs": [
+        {
+          "title": "DUYA",
+          "preview_url": "https://p.scdn.co/mp3-preview/7592336f349da631ba54c13eb88bb0810fa902c5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Came In It",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ad8340b2cd3ec7b9f4713bf75f9c500169f43ba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "MISS ME?",
+          "preview_url": "https://p.scdn.co/mp3-preview/db035b881d884da9205cc0845d6024aef4537862?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CRAZY H*ES",
+          "preview_url": "https://p.scdn.co/mp3-preview/9115c0f4ab71eedb265c6451d21c3ed6b618b66d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Rap"
     }
   ]
 }
