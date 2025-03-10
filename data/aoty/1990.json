@@ -28,7 +28,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/969161ef645e3e89a4ee8a0274013dae480a9e2d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.2,
+      "rating": 9.9,
       "genre": "Alternative Rock",
       "playTime": 431,
       "playTime30Days": 7,
@@ -655,11 +655,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ee469fc671736e900b5ff8b36ae3420e737cac05?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
+      "rating": 9.1,
       "playTime": 76,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 70
+      "playTime30Days": 70,
+      "color" : "#7a1511"
     }
   ]
 }
