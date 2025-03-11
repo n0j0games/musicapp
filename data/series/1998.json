@@ -10,6 +10,16 @@
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/lBMPJS97E8t6ULrE6hrZSkdne15.jpg",
       "rating": 6,
       "year": 1998
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/30991/season/42587/1",
+      "title": "Cowboy Bebop",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/29436455",
+      "url": "https://www.serializd.com/show/Cowboy-Bebop-30991",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/2d0OGjQLGJqbK7zDDnROH6pv4kl.jpg",
+      "rating": 7,
+      "year": 1998
     }
   ]
 }
