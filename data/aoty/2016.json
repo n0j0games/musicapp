@@ -215,7 +215,7 @@
       "rating": 8.5,
       "genre": "Pop",
       "playTime": 705,
-      "playTime30Days": 11
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3A1vnUJDPz0xYMful9pO4I",
@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 123,
+      "playTime": 124,
       "playTime30Days": 0
     },
     {
@@ -666,7 +666,7 @@
       ],
       "rating": 6.9,
       "playTime": 51,
-      "playTime30Days": 9
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN",

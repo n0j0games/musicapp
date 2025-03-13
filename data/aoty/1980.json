@@ -226,7 +226,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 139,
+      "playTime": 145,
       "playTime30Days": 0,
       "year": 1983,
       "color": "#5d5340"
@@ -317,7 +317,7 @@
       "rating": 8.8,
       "playTime": 32,
       "genre": "New Wave",
-      "playTime30Days": 24
+      "playTime30Days": 10
     }
   ]
 }

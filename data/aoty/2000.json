@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Alt Rock",
       "playTime": 823,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
     },
@@ -675,7 +675,7 @@
       ],
       "rating": 8.8,
       "playTime": 67,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 2000
     },
     {
@@ -968,10 +968,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 0,
+      "playTime": 8,
       "genre": "J-Rock",
       "year": 2009,
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8",
@@ -997,10 +997,10 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 28,
+      "playTime": 32,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 22
+      "playTime30Days": 26
     }
   ]
 }

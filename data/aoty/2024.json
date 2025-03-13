@@ -31,7 +31,7 @@
       "rating": 9.3,
       "genre": "Deutschrap",
       "playTime": 265,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#878787"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
-      "playTime": 201,
+      "playTime": 203,
       "playTime30Days": 0,
       "color": "#9a6c1f"
     },
@@ -228,8 +228,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 218,
-      "playTime30Days": 0,
+      "playTime": 227,
+      "playTime30Days": 11,
       "color": "#12497e"
     },
     {
@@ -521,8 +521,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 83,
-      "playTime30Days": 29,
+      "playTime": 87,
+      "playTime30Days": 33,
       "color": "#357a31"
     },
     {
@@ -649,8 +649,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 195,
-      "playTime30Days": 0,
+      "playTime": 200,
+      "playTime30Days": 7,
       "color": "#376893"
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "rating": 7,
       "genre": "Synthpop",
-      "playTime": 82,
+      "playTime": 89,
       "playTime30Days": 0,
       "color": "#2f676a"
     },
@@ -2299,7 +2299,7 @@
       "rating": 8.3,
       "playTime": 347,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#6c6c6c"
     },
     {
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 541,
+      "playTime": 598,
       "genre": "Wiener Pop",
-      "playTime30Days": 188,
+      "playTime30Days": 245,
       "color": "#c51919"
     },
     {
@@ -2454,6 +2454,30 @@
       "playTime": 33,
       "genre": "Alt Rock",
       "color": "#7e6403",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732538afd3580d0424bbe28a01",
+      "title": "MEGAN",
+      "artist": "Megan Thee Stallion",
+      "songs": [
+        {
+          "title": "HISS",
+          "preview_url": "https://p.scdn.co/mp3-preview/939c9e6c6835a0610e02f80510f8d577c6d5c1f4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mamushi (feat. Yuki Chiba)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad028023c4f85d3cd1e10380f26772e07c938c46?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Spin (feat. Victoria Monét)",
+          "preview_url": "https://p.scdn.co/mp3-preview/00f98e63af86b03d8240449ec6a16a1754fe046a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 18,
+      "genre": "Rap",
       "playTime30Days": 0
     }
   ]

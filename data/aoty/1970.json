@@ -137,7 +137,7 @@
       ],
       "rating": 9.3,
       "genre": "Rock",
-      "playTime": 73,
+      "playTime": 79,
       "playTime30Days": 0,
       "year": 1973,
       "color": "#335e5b"
@@ -238,7 +238,7 @@
       ],
       "rating": 8.7,
       "genre": "Rock",
-      "playTime": 15,
+      "playTime": 20,
       "playTime30Days": 0,
       "year": 1971
     },
@@ -425,7 +425,7 @@
       ],
       "rating": 8.8,
       "genre": "Metal",
-      "playTime": 15,
+      "playTime": 19,
       "playTime30Days": 0,
       "year": 1970
     },
@@ -551,9 +551,9 @@
       ],
       "year": 1977,
       "rating": 7,
-      "playTime": 27,
+      "playTime": 37,
       "genre": "Art Rock",
-      "playTime30Days": 17
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
@@ -579,10 +579,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 16,
+      "playTime": 19,
       "genre": "Funk",
       "year": 1971,
-      "playTime30Days": 16
+      "playTime30Days": 19
     }
   ]
 }

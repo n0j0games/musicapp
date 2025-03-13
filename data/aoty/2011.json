@@ -30,7 +30,7 @@
       ],
       "rating": 10,
       "playTime": 407,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#81202d"
     },
     {
@@ -223,8 +223,8 @@
       ],
       "rating": 9,
       "playTime": 273,
-      "playTime30Days": 58,
-      "color" : "#857e5b"
+      "playTime30Days": 56,
+      "color": "#857e5b"
     },
     {
       "url": "https://open.spotify.com/intl-de/album/182D7nDZqcYghZKQxnSJ03",
@@ -266,7 +266,7 @@
       "url": "https://open.spotify.com/album/2if1gb3t6IkhiKzrtS9Glc",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27334ded124e44ed4fe8359891f",
       "title": "Watch The Throne",
-      "artist": "The Throne",
+      "artist": "JAY-Z,\nKanye West",
       "songs": [
         {
           "title": "No Church In The Wild",
@@ -278,7 +278,8 @@
         }
       ],
       "rating": 6,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime": 236
     },
     {
       "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5",

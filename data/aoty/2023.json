@@ -136,7 +136,7 @@
     {
       "url": "https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cec31736d4e88743ce5bb414",
-      "title": "Praise A Lord Who Chews But Which Does Not Consume",
+      "title": "Praise A Lord Who Chews But Which Does Not Consume;",
       "artist": "Yves Tumor",
       "songs": [
         {
@@ -356,7 +356,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/fe8ae73a293f680653d541bfb24fa7dbe681df66?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "genre": "Rap",
       "playTime": 1185,
       "playTime30Days": 0,
@@ -365,7 +365,7 @@
     {
       "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH",
       "imgUrl": "https://i.scdn.co/image/ab67616d00001e029fb52116a804cc8d8b3780d0",
-      "title": "How Do You Sleep At Night? With You",
+      "title": "How Do You Sleep At Night?",
       "artist": "Teezo Touchdown",
       "songs": [
         {
@@ -390,7 +390,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 44,
+      "playTime": 124,
       "playTime30Days": 0,
       "color": "#353630"
     },
@@ -862,7 +862,7 @@
       "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738cf4c85912fdeb106707fb4c",
       "title": "SCARING THE HOES",
-      "artist": "JPEGMAFIA & Danny Brown",
+      "artist": "JPEGMAFIA,\nDanny Brown",
       "songs": [
         {
           "title": "Lean Beef Patty",
@@ -883,7 +883,8 @@
       ],
       "rating": 7.6,
       "playTime30Days": 0,
-      "color": "#87827a"
+      "color": "#87827a",
+      "playTime": 127
     },
     {
       "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y",
@@ -2097,6 +2098,26 @@
       "rating": 1,
       "playTime": 0,
       "genre": "Deutschrap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec",
+      "title": "nadie sabe lo que va a pasar mañana",
+      "artist": "Bad Bunny",
+      "songs": [
+        {
+          "title": "NADIE SABE",
+          "preview_url": "https://p.scdn.co/mp3-preview/51dd137993f24373690dff8316152f4bcc6af5da?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "MONACO",
+          "preview_url": "https://p.scdn.co/mp3-preview/f80c7cc394457fc77cd6668a715b039fd86404f9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 134,
+      "genre": "Latin Rap",
       "playTime30Days": 0
     }
   ]

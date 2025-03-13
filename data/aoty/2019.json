@@ -30,7 +30,7 @@
       ],
       "rating": 11,
       "playTime": 480,
-      "playTime30Days": 38,
+      "playTime30Days": 16,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -330,8 +330,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 98,
-      "playTime30Days": 9,
+      "playTime": 104,
+      "playTime30Days": 11,
       "color": "#251c16"
     },
     {
@@ -703,6 +703,90 @@
       "rating": 5,
       "playTime": 14,
       "genre": "Experimental Rap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273540db9d6bae7e57baecf8b49",
+      "title": "So Much Fun (Deluxe)",
+      "artist": "Young Thug",
+      "songs": [
+        {
+          "title": "Hot",
+          "preview_url": "https://p.scdn.co/mp3-preview/631a0f89e67be25aaaa66e855ce30f39666aabf5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Diamonds",
+          "preview_url": "https://p.scdn.co/mp3-preview/3315e27eff028a4fbe1e43d5157c39b4dfbb5a4c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hop Off A Jet",
+          "preview_url": "https://p.scdn.co/mp3-preview/d369e5e349d32d28a20a5b62a8da0ec45b479e57?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The London",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a2dd9049a646e3336c09bbd01fbc8665d9f5ca3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 86,
+      "genre": "Trap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738e525253c87c568cd84e491b",
+      "title": "HOMECOMING: THE LIVE ALBUM",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "Flawless / Feeling Myself - Homecoming Live",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd975cbb7c44d6fedd16e9b35d42987df6abc0f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Freedom - Homecoming Live",
+          "preview_url": "https://p.scdn.co/mp3-preview/1bf49a7c4f6f410ec62872f27584203ba4fc9d10?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Drunk in Love - Homecoming Live",
+          "preview_url": "https://p.scdn.co/mp3-preview/d7a4c401acc81f0ecf5e8e6a793bd69a9f3204c1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Diva - Homecoming Live",
+          "preview_url": "https://p.scdn.co/mp3-preview/d18d0b25041cd7171ed2da18e3653e00c994a300?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 168,
+      "genre": "Live",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739af56a54edacb6237b49fa2e",
+      "title": "Assume Form",
+      "artist": "James Blake",
+      "songs": [
+        {
+          "title": "Barefoot In The Park (feat. ROSALÍA)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0df568daa5c80106faadb49ab3b6834dd1843932?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mile High (feat. Travis Scott & Metro Boomin)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c70671d300023689f92f565aa23cfa82c6daf39?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Where's The Catch? (feat. André 3000)",
+          "preview_url": "https://p.scdn.co/mp3-preview/94b6db05eeb82075eab81ca37ef41bd0132c93af?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lullaby For My Insomniac",
+          "preview_url": "https://p.scdn.co/mp3-preview/296a1d47608c49b4e897a201e8fb2542b0df5389?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 146,
+      "genre": "R&B",
       "playTime30Days": 0
     }
   ]

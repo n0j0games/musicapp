@@ -761,14 +761,6 @@
       "playTime30Days": 0
     },
     {
-      "url": "https://open.spotify.com/album/5vc7GCjUpkbDUodoFc1FTI",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e019b932c5c19eebf82d3d73",
-      "title": "Berlin lebt 2",
-      "artist": "Capital Bra,\nSamra",
-      "rating": 3,
-      "playTime30Days": 0
-    },
-    {
       "url": "https://open.spotify.com/album/6ee8lju8zGwQ6Pkr5tZSts",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27320f9c767b8624a234a578f21",
       "title": "Until Death Call My Name",
@@ -852,7 +844,8 @@
         }
       ],
       "rating": 6,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "playTime" : 417
     },
     {
       "url": "https://open.spotify.com/album/4svVMaetHLR53HQjy1l5AX",

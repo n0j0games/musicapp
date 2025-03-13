@@ -34,10 +34,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a3ac094516a56e20f0eae6d56641a25098fcc6f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
-      "playTime": 201,
+      "rating": 8.5,
+      "playTime": 312,
       "genre": "Latin",
-      "playTime30Days": 32
+      "playTime30Days": 142
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 248,
+      "playTime": 254,
       "genre": "Rap",
-      "playTime30Days": 57,
+      "playTime30Days": 58,
       "color": "#1f4072"
     },
     {
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 648,
+      "playTime": 653,
       "genre": "Synthpop",
-      "playTime30Days": 153
+      "playTime30Days": 130
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -260,9 +260,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 47,
+      "playTime": 49,
       "genre": "Art Pop",
-      "playTime30Days": 47
+      "playTime30Days": 49
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -341,9 +341,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9115c0f4ab71eedb265c6451d21c3ed6b618b66d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Rap"
+      "rating": 7,
+      "playTime": 13,
+      "genre": "Rap",
+      "playTime30Days": 13
     }
   ]
 }

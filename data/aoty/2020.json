@@ -222,7 +222,7 @@
       ],
       "rating": 9.8,
       "playTime": 211,
-      "playTime30Days": 19,
+      "playTime30Days": 16,
       "color": "#006687"
     },
     {
@@ -347,7 +347,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 69,
+      "playTime": 77,
       "playTime30Days": 0
     },
     {
@@ -975,9 +975,19 @@
         }
       ],
       "rating": 7,
-      "playTime": 29,
+      "playTime": 33,
       "genre": "Jazz Fusion",
-      "playTime30Days": 29
+      "playTime30Days": 33
+    },
+    {
+      "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d04f74803f2210efee796c7d",
+      "title": "DAYSTAR",
+      "artist": "Tory Lanez",
+      "rating": 3,
+      "playTime": 0,
+      "genre": "Rap",
+      "playTime30Days": 0
     }
   ]
 }
