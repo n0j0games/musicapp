@@ -1001,6 +1001,130 @@
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 26
+    },
+    {
+      "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+      "title": "MM..FOOD",
+      "artist": "MF DOOM",
+      "songs": [
+        {
+          "title": "Beef Rapp",
+          "preview_url": "https://p.scdn.co/mp3-preview/96d1afbc5b5502bab824989fb6498ff2d2598957?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hoe Cakes",
+          "preview_url": "https://p.scdn.co/mp3-preview/6e3c5da774affbc624f0ec78bf898f8ab99d97ea?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "One Beer",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5602b9fa753931981b888bdc0c52c0c5c1e9f81?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Rapp Snitch Knishes",
+          "preview_url": "https://p.scdn.co/mp3-preview/c95692c16a296cde37cd35d8a44503e691174511?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Hip-Hop",
+      "year": 2004,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27361d0cc596658e460111a819b",
+      "title": "Since I Left You",
+      "artist": "The Avalanches",
+      "songs": [
+        {
+          "title": "Frontier Psychiatrist",
+          "preview_url": "https://p.scdn.co/mp3-preview/806ec2ea7d3d455f3b4a1d9b6a404eee59974267?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Since I Left You",
+          "preview_url": "https://p.scdn.co/mp3-preview/708151b551e00312056a2d30bd31f51ad5ee2a6d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stay Another Season",
+          "preview_url": "https://p.scdn.co/mp3-preview/09fad7be005e56973ba2794e6d2c1a9b2fa3f3a4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Radio",
+          "preview_url": "https://p.scdn.co/mp3-preview/c07bf394d5926052d16d12c126a621db6e49a6b4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Two Hearts in 3/4 Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/7dfdaf591f6e4caccc29fb694f13e3b7c8386845?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 46,
+      "genre": "Instrumental Rap",
+      "year": 2000,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+      "title": "Speakerboxxx/The Love Below",
+      "artist": "Outkast",
+      "songs": [
+        {
+          "title": "Hey Ya!",
+          "preview_url": "https://p.scdn.co/mp3-preview/d24b3c4135ced9157b0ea3015a6bcc048e0c2e3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Roses",
+          "preview_url": "https://p.scdn.co/mp3-preview/a58d1bc80d322dfdc2abb69853af0170b4270acd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Way You Move (feat. Sleepy Brown)",
+          "preview_url": "https://p.scdn.co/mp3-preview/2a1a44df81873664b4a6cea4e395caef6bb35021?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A Life In The Day of Benjamin Andre (Incomplete)",
+          "preview_url": "https://p.scdn.co/mp3-preview/cdf5bbbd4a100a9a2efa08f59a82102face8b8e4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 63,
+      "genre": "Hip-Hop",
+      "year": 2003,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+      "title": "Stankonia",
+      "artist": "Outkast",
+      "songs": [
+        {
+          "title": "B.O.B. - Bombs Over Baghdad",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c852f8c8a241b53c0c1b69d8bd43a2d6aea8eb6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Gasoline Dreams (with Khujo Goodie)",
+          "preview_url": "https://p.scdn.co/mp3-preview/b55debec1c7b259c9e10ae5ad580942cdc7c30ed?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "So Fresh, So Clean",
+          "preview_url": "https://p.scdn.co/mp3-preview/39dc103a8ac09f9df467def4fb03100945f8263d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ms. Jackson",
+          "preview_url": "https://p.scdn.co/mp3-preview/06f8cc47c72dae9e9a66081b4dc912e9d9b430a9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Humble Mumble (feat. Erykah Badu)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f81701b9e85736c2dd7e2f501777fae7af81f02b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 66,
+      "genre": "Hip-Hop",
+      "year": 2000,
+      "playTime30Days": 0
     }
   ]
 }

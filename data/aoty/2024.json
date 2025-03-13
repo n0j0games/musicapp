@@ -2422,7 +2422,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 0,
+      "playTime": 74,
       "genre": "R&B",
       "color": "#002e36",
       "playTime30Days": 0
@@ -2478,6 +2478,58 @@
       "rating": 6,
       "playTime": 18,
       "genre": "Rap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aaa10f339ed589b84c51137d",
+      "title": "Prelude to Ecstasy",
+      "artist": "The Last Dinner Party",
+      "songs": [
+        {
+          "title": "The Feminine Urge",
+          "preview_url": "https://p.scdn.co/mp3-preview/703df2447e528ccd056c15fb949598a61efc2fe9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Prelude To Ecstasy",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5a8528fc0cda4e42a57a5abb26d12e0b9a01aad?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Burn Alive",
+          "preview_url": "https://p.scdn.co/mp3-preview/79b0668caf3068869dfd87e3806e8a49f61081e6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "On Your Side",
+          "preview_url": "https://p.scdn.co/mp3-preview/d218d0280de075ba2be3aae8845972b90b65ab78?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 46,
+      "genre": "Rock",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a607c19552e14515bcb79aad",
+      "title": "Funk Generation",
+      "artist": "Anitta",
+      "songs": [
+        {
+          "title": "Funk Rave",
+          "preview_url": "https://p.scdn.co/mp3-preview/887daa3436b54b9a7a69f5b37315a634f5db01e3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lose Ya Breath",
+          "preview_url": "https://p.scdn.co/mp3-preview/b613688a0c94dafd8b10ea0eed51be537e29a476?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Grip",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7d8388b72d89453f31bb1ad69b0c0007f7820c3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 65,
+      "genre": "Funk",
       "playTime30Days": 0
     }
   ]

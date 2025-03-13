@@ -957,6 +957,50 @@
       "playTime": 15,
       "genre": "Ambient",
       "playTime30Days": 15
+    },
+    {
+      "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738007e1fcf108e4270b6df942",
+      "title": "LIVE LIFE FAST",
+      "artist": "Roddy Ricch",
+      "songs": [
+        {
+          "title": "thailand",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3a24612177e948231ea57fc476f290607465085?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "25 million",
+          "preview_url": "https://p.scdn.co/mp3-preview/2227aff5eb432db09ef563158a53ed447adc86b6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 51,
+      "genre": "Trap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273631fbe4d9d08b009ac2cc862",
+      "title": "Dawn",
+      "artist": "Yebba",
+      "songs": [
+        {
+          "title": "Far Away (feat. A$AP Rocky)",
+          "preview_url": "https://p.scdn.co/mp3-preview/927754fe4e2eee8a214bc085341dc26435eb246e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "How Many Years",
+          "preview_url": "https://p.scdn.co/mp3-preview/15af2938795bc8296d21d597aaedbfafdf734dce?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stand",
+          "preview_url": "https://p.scdn.co/mp3-preview/f9a5763639bb6bd8940bd50b027ca4400b8d7023?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 53,
+      "genre": "Pop",
+      "playTime30Days": 0
     }
   ]
 }

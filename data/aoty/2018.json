@@ -845,7 +845,7 @@
       ],
       "rating": 6,
       "playTime30Days": 0,
-      "playTime" : 417
+      "playTime": 417
     },
     {
       "url": "https://open.spotify.com/album/4svVMaetHLR53HQjy1l5AX",
@@ -1007,6 +1007,116 @@
       "rating": 7,
       "playTime": 0,
       "genre": "Singer-Songwriter",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1lQ4Zmfnj2HmItPkJaz9D6",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27341f11bcbb041e5e216631299",
+      "title": "1220",
+      "artist": "Yung Hurn",
+      "songs": [
+        {
+          "title": "Ok Cool",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b2e0f1fa05f17f4584dcfac3e9db081cb7ca141?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Y. HURN wieso?",
+          "preview_url": "https://p.scdn.co/mp3-preview/c9e463f68104287eaebc275e8001fb4fd0785aed?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 44,
+      "genre": "Deutschrap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee",
+      "title": "Dirty Computer",
+      "artist": "Janelle Monáe",
+      "songs": [
+        {
+          "title": "Dirty Computer (feat. Brian Wilson)",
+          "preview_url": "https://p.scdn.co/mp3-preview/56866cc05b12f9ed509ee1531c05e3bef1881eb2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Crazy, Classic, Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/181bc4250d9cedd3ce0a6bcbae6cc21e95955d0d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Django Jane",
+          "preview_url": "https://p.scdn.co/mp3-preview/4f41bd50544b36acce0b8220ada472fcaa5f9b28?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Make Me Feel",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0abcd691c5730f4b413dc6e0c76d52fd25c8b04?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Got the Juice (feat. Pharrell Williams)",
+          "preview_url": "https://p.scdn.co/mp3-preview/de8761fccfbbc5992a17fa5fdc3420f774039e05?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 44,
+      "genre": "R&B",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54",
+      "title": "Hoodie SZN",
+      "artist": "A Boogie Wit da Hoodie",
+      "rating": 4,
+      "playTime": 44,
+      "genre": "R&B",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b809506b2a5d8fa7b9c2c926",
+      "title": "The Last Rocket",
+      "artist": "Takeoff",
+      "songs": [
+        {
+          "title": "Last Memory",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f790be6aba729c787e8148da7bae316719b89fe?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Remember",
+          "preview_url": "https://p.scdn.co/mp3-preview/65f2487c5a5e8456335469801d29a717a2fd685a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Casper",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a36af7117131bca283f59136acd4854a29b1bbc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bruce Wayne - Outro",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf106f084d77c940952b493c37e138b7e45425bb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 45,
+      "genre": "Trap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+      "title": "Drip Harder",
+      "artist": "Lil Baby,\nGunna",
+      "songs": [
+        {
+          "title": "Drip Too Hard (Lil Baby & Gunna)",
+          "preview_url": "https://p.scdn.co/mp3-preview/613d9fe82d39123b5f37cfcbc9e3c22431fd3c8a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Never Recover (Lil Baby & Gunna, Drake)",
+          "preview_url": "https://p.scdn.co/mp3-preview/8babb4a357ec18053a4fbe02197ceabe49c7f9f4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 45,
+      "genre": "Trap",
       "playTime30Days": 0
     }
   ]

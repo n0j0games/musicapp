@@ -937,7 +937,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 15,
+      "playTime": 64,
       "playTime30Days": 0,
       "color": "#967354"
     },
@@ -2118,6 +2118,86 @@
       "rating": 5,
       "playTime": 134,
       "genre": "Latin Rap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ceb160561269ab00b1df9678",
+      "title": "Larger Than Life",
+      "artist": "Brent Faiyaz",
+      "songs": [
+        {
+          "title": "Pistachios",
+          "preview_url": "https://p.scdn.co/mp3-preview/85e29c1d055342cd677041bb5c78b9d3380b7237?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tim's Intro",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d37d559593153a84fbd747674b47355730292da?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WY@",
+          "preview_url": "https://p.scdn.co/mp3-preview/a8daa46e85c58962e4466e2554101c0119388e29?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 43,
+      "genre": "R&B",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273814b3b56864bb7d9ebfcdbf2",
+      "title": "And Then You Pray For Me",
+      "artist": "Westside Gunn",
+      "songs": [
+        {
+          "title": "Mamas PrimeTime",
+          "preview_url": "https://p.scdn.co/mp3-preview/ce78147f4e5b0e57b5d2cfe83f56623b3da7a6cc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Kostas",
+          "preview_url": "https://p.scdn.co/mp3-preview/81d8e8459b6f68b35950878041ecf6664d137908?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ultra GriZelda (feat. Denzel Curry)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5af66928dc870b12525691359e2dc8222a26a457?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "AND THEN YOU PRAY FOR ME",
+          "preview_url": "https://p.scdn.co/mp3-preview/f932530ddb5dd9389d2843824d9e5bc1eb1e5ba8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 57,
+      "genre": "Rap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737aa69c7bb81a8bd0839c4683",
+      "title": "Fanfare",
+      "artist": "Dorian Electra",
+      "songs": [
+        {
+          "title": "Symphony",
+          "preview_url": "https://p.scdn.co/mp3-preview/a584433f2d31c054fc78a1031d9392f012a946b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Idolize",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae5eff91b295ec71002d94c7b8e0dfe452f3873c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Freak Mode",
+          "preview_url": "https://p.scdn.co/mp3-preview/e6a5c72a8f6e4e9d5c6e111cc9ab680b57f2b776?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sodom & Gomorrah",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e623b21ba69b3fbe6410530cd563d574de1c6a2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 71,
+      "genre": "Hyperpop",
       "playTime30Days": 0
     }
   ]

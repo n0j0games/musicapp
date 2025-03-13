@@ -788,6 +788,82 @@
       "playTime": 146,
       "genre": "R&B",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "songs": [
+        {
+          "title": "bloodline",
+          "preview_url": "https://p.scdn.co/mp3-preview/0679e957dd31ca9cb67d9d5d158b3f8c13e072a4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "7 rings",
+          "preview_url": "https://p.scdn.co/mp3-preview/0cfcc895f05ea04c01524612069d8f5c3754c141?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "thank u, next",
+          "preview_url": "https://p.scdn.co/mp3-preview/651abd0ee3527e5434d2211d646c5720b47b4c21?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 47,
+      "genre": "Pop",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5UVpPKPFL23UdaGafo0S9w",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e5f3e026a324bf83c735cfae",
+      "title": "The Life Of Pi'erre 4 (Deluxe)",
+      "artist": "Pi’erre Bourne",
+      "songs": [
+        {
+          "title": "Poof",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc3d077470f8cddd107a21ffabc3be87fda09714?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Try Again",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c4d8f4c01b3c95369fbc9f242145b564a51fd24?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Feds",
+          "preview_url": "https://p.scdn.co/mp3-preview/366d673c12337f6db4970ed15d3944a92e8f919a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Be Mine",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd0ef73235d25adcd706d8adb779b3d36c35d898?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 51,
+      "genre": "Trap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273683757f1fd40a7f7ef64bec1",
+      "title": "DIE FOR MY BITCH",
+      "artist": "Baby Keem",
+      "songs": [
+        {
+          "title": "HONEST",
+          "preview_url": "https://p.scdn.co/mp3-preview/d97fc527cfad8f68b21f1c3f6e786897dd2b393d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "INVENTED IT",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e11ff40d54d52967888e2e93b2300dc57d79131?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "ORANGE SODA",
+          "preview_url": "https://p.scdn.co/mp3-preview/16036f2f4b872f58b00af7696e802883c79ae84e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 67,
+      "genre": "Rap",
+      "playTime30Days": 0
     }
   ]
 }

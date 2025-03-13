@@ -755,6 +755,34 @@
       "playTime": 137,
       "genre": "R&B",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f705b14ca8b81af140d1f1d3",
+      "title": "The Never Story",
+      "artist": "JID",
+      "songs": [
+        {
+          "title": "NEVER",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ff828afffa15f16cd73a6ee8e9407605ab37155?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Doo Wop",
+          "preview_url": "https://p.scdn.co/mp3-preview/1faa0b8ef97c01b557063118cc012f06bdac8f24?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "General",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2e921fe3ece78820bcc804aeb42e146c986bf82?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "EdEddnEddy",
+          "preview_url": "https://p.scdn.co/mp3-preview/00c59d9ff5a1872ce046a93f7a258e4eb5a0dd35?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 57,
+      "genre": "Rap",
+      "playTime30Days": 0
     }
   ]
 }

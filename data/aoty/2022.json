@@ -1924,6 +1924,106 @@
       "playTime": 52,
       "genre": "Hyperpop",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27390cf5d1ccfca2beb86149a19",
+      "title": "Ivory",
+      "artist": "Omar Apollo",
+      "songs": [
+        {
+          "title": "Ivory",
+          "preview_url": "https://p.scdn.co/mp3-preview/af41b3f35f5cd19b65c0d107622fe9c856b40304?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Invincible (feat. Daniel Caesar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b5ccaaf070ee9bfaec3b351cf67f014ff7b5b04?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Go Away",
+          "preview_url": "https://p.scdn.co/mp3-preview/b196df6aa945c3f4a15ab445fa87efa1b2c63dde?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Petrified",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c37c14ddc369fc44c0e64990818810f8ee22f86?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 58,
+      "genre": "R&B",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/03Xpt3TmCSUOHFWz9nkidy",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27306f530afb8c16c8bde6a3c6d",
+      "title": "Traplife Balance",
+      "artist": "BILLA JOE",
+      "songs": [
+        {
+          "title": "Natural Born Killa",
+          "preview_url": "https://p.scdn.co/mp3-preview/823b5cc11314378f1deebb3c1a58ae9dd1e3129d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Paris (feat. Luciano)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f8c5d9cee07ced39db43c02a98659af6651e84b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "TLB",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1b7f0dcb10016d253b47fd8186b18aae4efcddd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 52,
+      "genre": "Deutschrap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733c5fdcf8a1ea2d226e277460",
+      "title": "I Know NIGO!",
+      "artist": "Nigo",
+      "songs": [
+        {
+          "title": "Tyler, The Creator - Lost and Found Freestyle 2019",
+          "preview_url": "https://p.scdn.co/mp3-preview/18516bfd46303f683a56714306703da231b4a408?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A$AP Rocky - Arya (with Nigo)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1b114540e02bd8fb99f2cadeae14bac20f194e4a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tyler, The Creator - Come On, Let's Go",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4b48bfbaba0ccea8db23842f5ef78c4b7868079?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 90,
+      "genre": "Rap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e20032be410dd1dd2b1d2190",
+      "title": "BACK IN ACTION 3.0",
+      "artist": "midwxst",
+      "songs": [
+        {
+          "title": "Nineteen",
+          "preview_url": "https://p.scdn.co/mp3-preview/1da3b7cd283aefdc9640ca9d01c4e7f8b54bfa7d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "223's (feat. BabyTron)",
+          "preview_url": "https://p.scdn.co/mp3-preview/82404ad4e4b5fc4fc3a468a36d9821d45106a018?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Flag (feat. tana)",
+          "preview_url": "https://p.scdn.co/mp3-preview/518cef32cfe3b2f60a7e42ae307fb6a3fb9e03a0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 54,
+      "genre": "Trap",
+      "playTime30Days": 0
     }
   ]
 }
