@@ -345,6 +345,48 @@
       "playTime": 13,
       "genre": "Rap",
       "playTime30Days": 13
+    },
+    {
+      "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+      "title": "MAYHEM",
+      "artist": "Lady Gaga",
+      "songs": [
+        {
+          "title": "Disease",
+          "preview_url": "https://p.scdn.co/mp3-preview/9dbfcb1a457449600bed7b9fee9e74658d44ba7b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Abracadabra",
+          "preview_url": "https://p.scdn.co/mp3-preview/254c4128fb920613023156330de98016390400e5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Don't Call Tonight",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3d00a18f21e943af777dfc9e85b30f3bc92d44e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Pop"
+    },
+    {
+      "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734738d40fd634c7d08419b1e4",
+      "title": "MUSIC",
+      "artist": "Playboi Carti",
+      "songs": [
+        {
+          "title": "GOOD CREDIT",
+          "preview_url": "https://p.scdn.co/mp3-preview/203103703c7b429137b91119063cb6eafcf8438e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "COCAINE NOSE",
+          "preview_url": "https://p.scdn.co/mp3-preview/e14328627b9a2406d050d60abdd47df37d977865?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Rage"
     }
   ]
 }

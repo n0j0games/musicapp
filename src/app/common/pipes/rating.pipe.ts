@@ -11,7 +11,7 @@ export class RatingPipe implements PipeTransform {
     switch (value) {
       case 11:
       case 10:
-        return shortForm ? "10" : "PERFECT";
+        return shortForm ? "10" : "FLAWLESS";
       case 9:
         return shortForm ? "9" : "AMAZING";
       case 8:
