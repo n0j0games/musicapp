@@ -28,7 +28,7 @@
     {
       "title": "Oppenheimer",
       "url": "https://letterboxd.com/film/oppenheimer-2023/",
-      "rating": 9,
+      "rating": 9.8,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/7/8/4/3/2/8/784328-oppenheimer-0-230-0-345-crop.jpg?v=e3c6e7a32c",
       "creator": "Christopher Nolan",
       "year": 2023
@@ -47,6 +47,14 @@
       "rating": 9,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-230-0-345-crop.jpg?v=f2acbf1b8a",
       "creator": "Justin K. Thompson,\nKemp Powers",
+      "year": 2023
+    },
+    {
+      "title": "The Boy and the Heron",
+      "url": "https://letterboxd.com/film/the-boy-and-the-heron/",
+      "rating": 6,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/9/2/438692-the-boy-and-the-heron-0-230-0-345-crop.jpg?v=521e114164",
+      "creator": "Hayao Miyazaki",
       "year": 2023
     }
   ]
