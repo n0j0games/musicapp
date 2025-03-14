@@ -59,10 +59,6 @@ export class AggregatedVariousComponent implements OnInit {
     }
 
     switch (aggregation) {
-      case "perfect-albums":
-        this.getFavAlbums(true);
-        this.aggregatedTitle = "all the albums that I think are perfect";
-        break;
       case "alphabetical":
         this.getAlphabeticalAlbums();
         this.aggregatedTitle = "every album I've rated";
@@ -72,7 +68,7 @@ export class AggregatedVariousComponent implements OnInit {
         this.aggregatedTitle = "my current album rotation";
         break;
       case "fav-albums":
-        this.getFavAlbums(false);
+        this.getFavAlbums();
         this.aggregatedTitle = "all the albums I love";
         break;
       case "rosalia":
@@ -170,11 +166,11 @@ export class AggregatedVariousComponent implements OnInit {
     return results;
   }
 
-  private getFavAlbums(onlyPerfect : boolean) {
+  private getFavAlbums() {
     let aotyList = this.aotyService.getAotyList();
     const queryYears = aotyList!.items!.map(value => value.year);
     let albums = this.getAggregatedAlbums(queryYears);
-    albums = albums.filter(value => onlyPerfect ? value.rating >= 10 : value.rating >= 8);
+    albums = albums.filter(value => value.rating >= 7);
     this.aggreatedAlbums = { year : 0, albums : albums, isDecade : false };
     this.aggreatedAlbums.albums = this.aggreatedAlbums.albums.sort((a, b) => b.rating - a.rating);
   }
