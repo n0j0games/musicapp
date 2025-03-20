@@ -2329,7 +2329,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/96aedfd72c844647576b012aabb403d43dcecc00?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9,
+      "rating": 9.2,
       "playTime": 598,
       "genre": "Wiener Pop",
       "playTime30Days": 245,
@@ -2531,6 +2531,29 @@
       "playTime": 65,
       "genre": "Funk",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678",
+      "title": "rosie",
+      "artist": "ROSÉ",
+      "songs": [
+        {
+          "title": "number one girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6fce979ed3560816d2e00250e6b76ddc87db37d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "3am",
+          "preview_url": "https://p.scdn.co/mp3-preview/4467d2611d3c04cfc389895455758193dd529e45?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "toxic till the end",
+          "preview_url": "https://p.scdn.co/mp3-preview/35361fd02433b7f1087e9a72bfe5813cd9e2459f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Pop"
     }
   ]
 }

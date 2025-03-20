@@ -374,19 +374,82 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734738d40fd634c7d08419b1e4",
       "title": "MUSIC",
       "artist": "Playboi Carti",
+      "rating": 3.0,
+      "playTime": 0,
+      "genre": "Rage"
+    },
+    {
+      "url": "https://open.spotify.com/album/6CmScv5hArK4EaQUCLwNu5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737501f8eebcade4957c1cb758",
+      "title": "This Won't Be The Last Time",
+      "artist": "acloudyskye",
       "songs": [
         {
-          "title": "GOOD CREDIT",
-          "preview_url": "https://p.scdn.co/mp3-preview/203103703c7b429137b91119063cb6eafcf8438e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+          "title": "Shoots",
+          "preview_url": "https://p.scdn.co/mp3-preview/2892981c4224af9c18ade79aa839295f80573a9d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "COCAINE NOSE",
-          "preview_url": "https://p.scdn.co/mp3-preview/e14328627b9a2406d050d60abdd47df37d977865?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+          "title": "Myth",
+          "preview_url": "https://p.scdn.co/mp3-preview/c93e8bed0292921f622013b81ef76eba55277e60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bones",
+          "preview_url": "https://p.scdn.co/mp3-preview/26f7419bf78009715a4cbd997de4cac2ed2e1b48?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Float",
+          "preview_url": "https://p.scdn.co/mp3-preview/51d6fca63fdb4061f2a462e9da1651357b33b30a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Shoegaze"
+    },
+    {
+      "url": "https://open.spotify.com/album/1ERr4Pwe08NrMDB9CIFDxA",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27309cdfa13f318f6cc158a9267",
+      "title": "SEXTAPE",
+      "artist": "Yungpalo",
+      "songs": [
+        {
+          "title": "XO",
+          "preview_url": "https://p.scdn.co/mp3-preview/de6879045e9f776f0196b7d144a731a7272b1846?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "lifestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/e711393e37258ac81104231ab996ea6913b040c4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ballin",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0a6ab7ee4f7cf41d23700ce834aa3f2d167b50f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bayern",
+          "preview_url": "https://p.scdn.co/mp3-preview/eee19e6d5af799c96b292c2732f94fb7d41a03aa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Deutschrap"
+    },
+    {
+      "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735a43918ea90bf1e44b7bdcfd",
+      "title": "Ruby",
+      "artist": "JENNIE",
+      "songs": [
+        {
+          "title": "ZEN",
+          "preview_url": "https://p.scdn.co/mp3-preview/cc739b5283f61fd96ba7f72250d8f08d4e914b32?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+          "preview_url": "https://p.scdn.co/mp3-preview/52556f90a2b8a9e0400ab204dbd2d2b64b3498fc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
       "rating": 5.0,
       "playTime": 0,
-      "genre": "Rage"
+      "genre": "Pop"
     }
   ]
 }

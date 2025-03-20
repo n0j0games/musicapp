@@ -578,11 +578,39 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c8cd20edc5384a0b14c07a6464eca6ffe4426944?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 8.5,
       "playTime": 19,
       "genre": "Funk",
       "year": 1971,
       "playTime30Days": 19
+    },
+    {
+      "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273777c5fdae315d921a3784f21",
+      "title": "Mothership Connection",
+      "artist": "Parliament",
+      "songs": [
+        {
+          "title": "P-Funk (Wants To Get Funked Up)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5ba06a403de121b740c1a5e03119a936339e3b6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mothership Connection (Star Child)",
+          "preview_url": "https://p.scdn.co/mp3-preview/76b91fa881e03bcdc4eab8a375ec3f01d344f118?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Handcuffs",
+          "preview_url": "https://p.scdn.co/mp3-preview/74a2291d4cdf8f435c0a1342bdb125190511992b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Night Of The Thumpasorus Peoples",
+          "preview_url": "https://p.scdn.co/mp3-preview/7198b0e731f65213f0eeb160975aa94aef855f79?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Funk",
+      "year": 1975
     }
   ]
 }
