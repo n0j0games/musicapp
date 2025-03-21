@@ -74,10 +74,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6552ddf9219edce03b3074f4de053799152b041b?cid=941103e4872f4d3fad60066c677df34f"
         },
         {
-          "title": "Brooklyn Baby",
-          "preview_url": "https://p.scdn.co/mp3-preview/d03c1c1528a0d3a2d88c263fb905e020a1fe26df?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
           "title": "West Coast",
           "preview_url": "https://p.scdn.co/mp3-preview/7a5f0cd3b884abe52b327551f0eaf9637739c87b?cid=941103e4872f4d3fad60066c677df34f"
         },
@@ -90,7 +86,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2ee34fc12593a7658aaa3e5f1d25b404c5f0e885?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 7,
+      "rating": 7.8,
       "playTime": 87,
       "playTime30Days": 0
     },
