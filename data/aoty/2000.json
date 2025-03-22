@@ -204,7 +204,7 @@
       ],
       "rating": 9.9,
       "playTime": 460,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 2005,
       "color": "#001621"
     },
@@ -363,8 +363,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 184,
-      "playTime30Days": 70,
+      "playTime": 190,
+      "playTime30Days": 7,
       "year": 2009,
       "color": "#ad4362"
     },
@@ -429,7 +429,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 168,
+      "playTime": 169,
       "playTime30Days": 0,
       "year": 2008,
       "color": "#588535"
@@ -618,7 +618,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 50,
+      "playTime": 51,
       "playTime30Days": 0,
       "year": 2005
     },
@@ -997,10 +997,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 32,
+      "playTime": 35,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 26
+      "playTime30Days": 29
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",

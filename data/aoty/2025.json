@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 312,
+      "playTime": 374,
       "genre": "Latin",
-      "playTime30Days": 142
+      "playTime30Days": 204
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 254,
+      "playTime": 266,
       "genre": "Rap",
-      "playTime30Days": 58,
+      "playTime30Days": 65,
       "color": "#1f4072"
     },
     {
@@ -108,7 +108,7 @@
       "rating": 7,
       "playTime": 88,
       "genre": "Electronic",
-      "playTime30Days": 9
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 653,
+      "playTime": 660,
       "genre": "Synthpop",
-      "playTime30Days": 130
+      "playTime30Days": 93
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -204,7 +204,7 @@
       "rating": 6.9,
       "playTime": 44,
       "genre": "Deutschpop",
-      "playTime30Days": 44
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD",
@@ -224,7 +224,7 @@
       "rating": 5,
       "playTime": 39,
       "genre": "Deutschpop",
-      "playTime30Days": 39
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR",
@@ -234,7 +234,7 @@
       "rating": 4,
       "playTime": 0,
       "genre": "R&B",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE",
@@ -344,7 +344,7 @@
       "rating": 7,
       "playTime": 13,
       "genre": "Rap",
-      "playTime30Days": 13
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ",
@@ -365,18 +365,20 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3d00a18f21e943af777dfc9e85b30f3bc92d44e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
-      "genre": "Pop"
+      "rating": 6,
+      "playTime": 25,
+      "genre": "Pop",
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734738d40fd634c7d08419b1e4",
       "title": "MUSIC",
       "artist": "Playboi Carti",
-      "rating": 3.0,
-      "playTime": 0,
-      "genre": "Rage"
+      "rating": 3,
+      "playTime": 41,
+      "genre": "Rage",
+      "playTime30Days": 24
     },
     {
       "url": "https://open.spotify.com/album/6CmScv5hArK4EaQUCLwNu5",
@@ -401,9 +403,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/51d6fca63fdb4061f2a462e9da1651357b33b30a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 0,
-      "genre": "Shoegaze"
+      "genre": "Shoegaze",
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1ERr4Pwe08NrMDB9CIFDxA",
@@ -428,9 +431,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/eee19e6d5af799c96b292c2732f94fb7d41a03aa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Deutschrap"
+      "rating": 7,
+      "playTime": 15,
+      "genre": "Deutschrap",
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH",
@@ -447,9 +451,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/52556f90a2b8a9e0400ab204dbd2d2b64b3498fc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 5.0,
-      "playTime": 0,
-      "genre": "Pop"
+      "rating": 5,
+      "playTime": 10,
+      "genre": "Pop",
+      "playTime30Days": 10
     }
   ]
 }

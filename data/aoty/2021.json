@@ -30,7 +30,7 @@
       ],
       "rating": 9,
       "onVinyl": true,
-      "playTime": 608,
+      "playTime": 609,
       "genre": "Rap",
       "playTime30Days": 0,
       "color": "#90a692"
@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 147,
+      "playTime": 148,
       "playTime30Days": 0,
       "color": "#622d00"
     },
@@ -188,8 +188,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 180,
-      "playTime30Days": 11,
+      "playTime": 202,
+      "playTime30Days": 33,
       "color": "#9a4542"
     },
     {
@@ -567,7 +567,7 @@
       ],
       "rating": 7,
       "genre": "Rap",
-      "playTime": 76,
+      "playTime": 77,
       "playTime30Days": 0
     },
     {
@@ -836,7 +836,7 @@
       "rating": 5,
       "playTime": 13,
       "genre": "Deutschpop",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/00RxYCXCK9vr6ee1n68Qqx",
@@ -956,7 +956,7 @@
       "rating": 8.7,
       "playTime": 15,
       "genre": "Ambient",
-      "playTime30Days": 15
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94",
@@ -998,7 +998,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 53,
+      "playTime": 54,
       "genre": "Pop",
       "playTime30Days": 0
     }

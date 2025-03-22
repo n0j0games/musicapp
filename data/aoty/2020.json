@@ -33,8 +33,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 264,
-      "playTime30Days": 0,
+      "playTime": 292,
+      "playTime30Days": 29,
       "color": "#932e50"
     },
     {
@@ -96,7 +96,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 303,
+      "playTime": 305,
       "playTime30Days": 0
     },
     {
@@ -156,7 +156,7 @@
       "rating": 10.8,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 1793,
+      "playTime": 1795,
       "playTime30Days": 0,
       "color": "#242914"
     },
@@ -189,7 +189,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 300,
+      "playTime": 301,
       "playTime30Days": 0,
       "color": "#601f30"
     },
@@ -221,8 +221,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 211,
-      "playTime30Days": 16,
+      "playTime": 215,
+      "playTime30Days": 20,
       "color": "#006687"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rating": 8.7,
       "genre": "Rap",
-      "playTime": 459,
+      "playTime": 461,
       "playTime30Days": 0
     },
     {
@@ -533,7 +533,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 156,
+      "playTime": 157,
       "playTime30Days": 0,
       "color": "#9d9d9d"
     },
@@ -975,9 +975,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 33,
+      "playTime": 41,
       "genre": "Jazz Fusion",
-      "playTime30Days": 33
+      "playTime30Days": 41
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",
@@ -1017,7 +1017,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 60,
+      "playTime": 63,
       "genre": "R&B",
       "playTime30Days": 0
     }

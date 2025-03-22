@@ -95,7 +95,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 162,
+      "playTime": 163,
       "playTime30Days": 0,
       "color": "#437b76"
     },
@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 124,
+      "playTime": 125,
       "playTime30Days": 0
     },
     {
@@ -275,9 +275,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1872eafc674106e83fa2d58c8d23cd56d61b4df9?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.0,
+      "rating": 8,
       "genre": "Rap",
-      "playTime": 414,
+      "playTime": 415,
       "playTime30Days": 0
     },
     {
@@ -308,8 +308,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 139,
-      "playTime30Days": 0,
+      "playTime": 147,
+      "playTime30Days": 8,
       "color": "#9194cb"
     },
     {
@@ -403,7 +403,7 @@
       ],
       "rating": 8.8,
       "genre": "Rap",
-      "playTime": 514,
+      "playTime": 515,
       "playTime30Days": 0
     },
     {

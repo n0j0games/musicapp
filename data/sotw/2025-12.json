@@ -1,0 +1,31 @@
+{
+  "year": 2025,
+  "week": 12,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/0b40d5f7cca8a08a830c56b931cde1054a651155?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27306d63d7fb8b66a1c6bb4e9f4",
+      "title": "LEAN ON MY BODY",
+      "artist": "Lil Nas X",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/84327479083be80aa4e41a538ffd6e68af30afa5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b2df1791411f3c73e4566762",
+      "title": "Shilo",
+      "artist": "Weyes Blood",
+      "rating": 7,
+      "album": "Good American Family (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6CSAYY71wrwMZHQLd1Hp7M"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5e346797d2ffc18a02d8eaaadf20801da3168b9e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27313614502c719a05fab45066a",
+      "title": "CUPID'S GIRL",
+      "artist": "MARINA",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE"
+    }
+  ]
+}

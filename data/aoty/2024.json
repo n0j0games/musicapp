@@ -64,7 +64,7 @@
       "rating": 9.8,
       "genre": "Electropop",
       "playTime": 573,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#5b8801"
     },
     {
@@ -229,7 +229,7 @@
       "rating": 8.8,
       "genre": "Synthpop",
       "playTime": 227,
-      "playTime30Days": 11,
+      "playTime30Days": 10,
       "color": "#12497e"
     },
     {
@@ -521,8 +521,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 87,
-      "playTime30Days": 33,
+      "playTime": 164,
+      "playTime30Days": 110,
       "color": "#357a31"
     },
     {
@@ -649,8 +649,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 200,
-      "playTime30Days": 7,
+      "playTime": 206,
+      "playTime30Days": 13,
       "color": "#376893"
     },
     {
@@ -2200,7 +2200,7 @@
       ],
       "rating": 7.8,
       "genre": "Southern Hip Hop",
-      "playTime": 88,
+      "playTime": 89,
       "playTime30Days": 0
     },
     {
@@ -2297,7 +2297,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 347,
+      "playTime": 348,
       "genre": "West Coast Hip Hop",
       "playTime30Days": 0,
       "color": "#6c6c6c"
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 598,
+      "playTime": 620,
       "genre": "Wiener Pop",
-      "playTime30Days": 245,
+      "playTime30Days": 212,
       "color": "#c51919"
     },
     {
@@ -2551,9 +2551,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/35361fd02433b7f1087e9a72bfe5813cd9e2459f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
-      "genre": "Pop"
+      "rating": 6,
+      "playTime": 14,
+      "genre": "Pop",
+      "playTime30Days": 14
     }
   ]
 }

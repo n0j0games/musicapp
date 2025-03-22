@@ -31,7 +31,7 @@
       "rating": 9.9,
       "genre": "Alternative Rock",
       "playTime": 431,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
     },
@@ -133,7 +133,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 129,
+      "playTime": 130,
       "playTime30Days": 0,
       "year": 1998,
       "color": "#933a2b"
@@ -166,7 +166,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 89,
+      "playTime": 90,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#43495f"
@@ -656,10 +656,10 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 76,
+      "playTime": 126,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 70,
+      "playTime30Days": 120,
       "color": "#7a1511"
     }
   ]

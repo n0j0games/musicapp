@@ -31,7 +31,7 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 546,
+      "playTime": 547,
       "playTime30Days": 0,
       "color": "#25714c"
     },
@@ -331,6 +331,30 @@
       ],
       "rating": 6,
       "playTime": 13,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ab580fab750cc9baf0d52b5c",
+      "title": "racine carrée",
+      "artist": "Stromae",
+      "songs": [
+        {
+          "title": "merci",
+          "preview_url": "https://p.scdn.co/mp3-preview/abec1c537f8365516fd6ac73ea06231076928dab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Papaoutai",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d2290b9e76b005ed08b362b747ab96d96911db5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tous les mêmes",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4c71b477a5c3f992b34bb57eabf6e1b94e69147?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 39,
+      "genre": "French Pop",
       "playTime30Days": 0
     }
   ]

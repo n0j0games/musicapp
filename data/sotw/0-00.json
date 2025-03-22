@@ -510,16 +510,6 @@
       "color" : "#919191"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/dc220247158f103e18dfc9eb500a86b85549900d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
-      "title": "Hold My Liquor",
-      "artist": "Kanye West",
-      "rating": 0,
-      "album": "Yeezus",
-      "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh",
-      "color" : "#396b65"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/f2a53e4860ce9c6c18c3cf70cc7600ca9d5b22a9?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23",
       "title": "Freedom",
@@ -953,6 +943,15 @@
       "color" : "#5b7d8c"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/30bfc1fa40741750054ab3be0772159d2bb7e4aa?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dadce998f88dba71c98adf88",
+      "title": "Flash Light",
+      "artist": "Parliament",
+      "rating": 0,
+      "album": "Funkentelechy Vs. The Placebo Syndrome",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
       "title": "Borrowed Love",
@@ -961,6 +960,16 @@
       "album": "NOT ALL HEROES WEAR CAPES",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh",
       "color" : "#b06725"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/dc220247158f103e18dfc9eb500a86b85549900d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+      "title": "Hold My Liquor",
+      "artist": "Kanye West",
+      "rating": 0,
+      "album": "Yeezus",
+      "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh",
+      "color" : "#396b65"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c15926498305e40937548f27399433d80d32d952?cid=bba9a824e2c249d1a89e21c0e2a2e845",

@@ -97,8 +97,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 154,
-      "playTime30Days": 0,
+      "playTime": 162,
+      "playTime30Days": 8,
       "color": "#3b5a22"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rating": 8.5,
       "playTime": 411,
-      "playTime30Days": 39,
+      "playTime30Days": 13,
       "color": "#a30a02"
     },
     {
@@ -257,7 +257,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 243,
+      "playTime": 244,
       "playTime30Days": 0,
       "color": "#a28c6a"
     },
@@ -358,8 +358,8 @@
       ],
       "rating": 8.99999,
       "genre": "Rap",
-      "playTime": 1185,
-      "playTime30Days": 0,
+      "playTime": 1192,
+      "playTime30Days": 8,
       "color": "#513a39"
     },
     {
@@ -455,7 +455,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 626,
+      "playTime": 628,
       "playTime30Days": 0,
       "color": "#4c4559"
     },
@@ -599,7 +599,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 232,
+      "playTime": 233,
       "playTime30Days": 0,
       "color": "#539390"
     },
@@ -2196,9 +2196,9 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 71,
+      "playTime": 76,
       "genre": "Hyperpop",
-      "playTime30Days": 0
+      "playTime30Days": 5
     }
   ]
 }

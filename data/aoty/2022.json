@@ -94,7 +94,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 358,
+      "playTime": 359,
       "playTime30Days": 0,
       "color": "#576351"
     },
@@ -228,7 +228,7 @@
       "rating": 9.6,
       "genre": "Rap",
       "playTime": 1018,
-      "playTime30Days": 26,
+      "playTime30Days": 25,
       "color": "#4e270c"
     },
     {
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 360,
-      "playTime30Days": 0,
+      "playTime": 375,
+      "playTime30Days": 15,
       "color": "#ea3840"
     },
     {
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 198,
+      "playTime": 199,
       "playTime30Days": 0,
       "color": "#8d410d"
     },
@@ -552,7 +552,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 166,
+      "playTime": 167,
       "playTime30Days": 0,
       "color": "#0676c1"
     },
@@ -736,7 +736,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 63,
+      "playTime": 64,
       "playTime30Days": 0,
       "color": "#83462e"
     },
@@ -1352,7 +1352,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 165,
+      "playTime": 167,
       "playTime30Days": 0,
       "color": "#5d3939"
     },

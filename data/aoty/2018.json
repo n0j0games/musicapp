@@ -31,7 +31,7 @@
       "rating": 10.3,
       "genre": "R&B",
       "playTime": 548,
-      "playTime30Days": 17,
+      "playTime30Days": 15,
       "color": "#0c3f83"
     },
     {
@@ -64,7 +64,7 @@
       "rating": 9.99,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1144,
+      "playTime": 1145,
       "playTime30Days": 0,
       "color": "#4683b1"
     },
@@ -129,7 +129,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 658,
+      "playTime": 659,
       "playTime30Days": 0,
       "color": "#b06725"
     },
@@ -381,7 +381,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 332,
+      "playTime": 333,
       "playTime30Days": 0
     },
     {
@@ -979,7 +979,7 @@
       "playTime": 40,
       "genre": "Soundtrack",
       "color": "#74529e",
-      "playTime30Days": 36
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7",

@@ -63,7 +63,7 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 332,
+      "playTime": 334,
       "playTime30Days": 0,
       "color": "#213f28"
     },
@@ -248,7 +248,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 76,
+      "playTime": 78,
       "playTime30Days": 0
     },
     {
@@ -307,7 +307,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 150,
+      "playTime": 151,
       "playTime30Days": 0
     },
     {
@@ -338,8 +338,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 97,
-      "playTime30Days": 0
+      "playTime": 142,
+      "playTime30Days": 45
     },
     {
       "url": "https://open.spotify.com/album/5nwBXqCfgl5zXuFHagkMNY",
