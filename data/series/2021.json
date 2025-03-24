@@ -180,6 +180,26 @@
       "url": "https://www.serializd.com/review/25935545",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/6CHznbr0BF78ar16zJwTVRYLLOX.jpg",
       "rating": 9
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/122241/season/188796/1",
+      "title": "LOL: Last One Laughing",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/30163130",
+      "url": "https://www.serializd.com/show/LOL%3A-Last-One-Laughing-122241",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/4vw1be0pUsAVgx0GtyjXj6reF2c.jpg",
+      "rating": 6,
+      "year": 2021
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/153642/season/236236/1",
+      "title": "The Discounters",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/30246115",
+      "url": "https://www.serializd.com/show/The-Discounters-153642",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/5yuwe1qmmNVvqkdqKUeqIpvKM6x.jpg",
+      "rating": 7,
+      "year": 2021
     }
   ]
 }
