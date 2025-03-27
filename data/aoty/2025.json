@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 374,
+      "playTime": 394,
       "genre": "Latin",
-      "playTime30Days": 204
+      "playTime30Days": 219
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 266,
+      "playTime": 269,
       "genre": "Rap",
-      "playTime30Days": 65,
+      "playTime30Days": 43,
       "color": "#1f4072"
     },
     {
@@ -108,7 +108,7 @@
       "rating": 7,
       "playTime": 88,
       "genre": "Electronic",
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -138,9 +138,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 660,
+      "playTime": 663,
       "genre": "Synthpop",
-      "playTime30Days": 93
+      "playTime30Days": 49
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -204,7 +204,7 @@
       "rating": 6.9,
       "playTime": 44,
       "genre": "Deutschpop",
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD",
@@ -262,7 +262,7 @@
       "rating": 7,
       "playTime": 49,
       "genre": "Art Pop",
-      "playTime30Days": 49
+      "playTime30Days": 23
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -286,7 +286,7 @@
       "rating": 6,
       "playTime": 14,
       "genre": "Niederländischer Techno",
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7tyTggfGeRZGGUiSK2lN7q",
@@ -419,10 +419,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/de6879045e9f776f0196b7d144a731a7272b1846?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "lifestyle",
-          "preview_url": "https://p.scdn.co/mp3-preview/e711393e37258ac81104231ab996ea6913b040c4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "Ballin",
           "preview_url": "https://p.scdn.co/mp3-preview/c0a6ab7ee4f7cf41d23700ce834aa3f2d167b50f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
@@ -431,7 +427,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/eee19e6d5af799c96b292c2732f94fb7d41a03aa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 6,
       "playTime": 15,
       "genre": "Deutschrap",
       "playTime30Days": 15
@@ -455,6 +451,62 @@
       "playTime": 10,
       "genre": "Pop",
       "playTime30Days": 10
+    },
+    {
+      "url": "https://open.spotify.com/album/3yrnXGRp6POeshHNBI4oiZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736245699b915d6a1355a65da4",
+      "title": "Halunken & Ganoven",
+      "artist": "2kmafia,\nT-God",
+      "songs": [
+        {
+          "title": "Wertpapiere",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ad96a898c81c89eadc3dd29784ad1c9075ab71b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mama Sagt",
+          "preview_url": "https://p.scdn.co/mp3-preview/b664bb44bdd4012d48dda4dc2aaae0c7c4c53bdd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Halunken & Ganoven",
+          "preview_url": "https://p.scdn.co/mp3-preview/65bdf542f7def06a3b7cd30d95e18afff3479b83?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ich dacht' es hält für immer",
+          "preview_url": "https://p.scdn.co/mp3-preview/19713e68c0eca024a73be51de185d34fbeff0810?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Zwischen Pfützen und Graffiti",
+          "preview_url": "https://p.scdn.co/mp3-preview/4e0dccf2d9ba01cefda7824572a9a21d74879aa9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 59,
+      "genre": "Deutschrap",
+      "playTime30Days": 59
+    },
+    {
+      "url": "https://open.spotify.com/album/6foNTuvMw56jj6lYOqy7Vc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733774de797e76cd2e32dbe1a4",
+      "title": "REICH OHNE BANKEN",
+      "artist": "Eurothug,\nFunkvater",
+      "songs": [
+        {
+          "title": "REICH OHNE BANKEN",
+          "preview_url": "https://p.scdn.co/mp3-preview/2026672096e8b724c539768874453e6c2c081e64?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "DEUTSCHER PASS",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc25b02dc9617edc8d577b019b865d97d856012f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WEMPE",
+          "preview_url": "https://p.scdn.co/mp3-preview/f6736aeb604e13e61f69dc3bef23dfb1b9a7c9d5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "playTime30Days": 6
     }
   ]
 }

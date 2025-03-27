@@ -338,8 +338,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 142,
-      "playTime30Days": 45
+      "playTime": 146,
+      "playTime30Days": 49
     },
     {
       "url": "https://open.spotify.com/album/5nwBXqCfgl5zXuFHagkMNY",
@@ -782,6 +782,38 @@
       "rating": 7.8,
       "playTime": 57,
       "genre": "Rap",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730db3901606954f424070ff01",
+      "title": "Call Me By Your Name",
+      "artist": "Various Artists",
+      "songs": [
+        {
+          "title": "Visions of Gideon",
+          "preview_url": "https://p.scdn.co/mp3-preview/edabe8ccb79992eb8fb7003f6885a882d1de7186?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Futile Devices (Doveman Remix)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e35f98f9f7bdec710c493928197ffc0c91b63149?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mystery of Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/0b23025d7636b4ec00d4ce0ae741c64a8fa637fa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Le jardin féerique from Ma mère l'Oye",
+          "preview_url": "https://p.scdn.co/mp3-preview/b3c00cc20eea6e33f6debe4867410a7dcf7ef8f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Zion hört die Wächter singen (From \"Cantata Wachet auf, ruft uns die Stimme\", BWV 140)",
+          "preview_url": "https://p.scdn.co/mp3-preview/33a7574c6b8de0f77c0ca75c7a296f60ca5e50e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 0,
+      "genre": "Soundtrack",
       "playTime30Days": 0
     }
   ]

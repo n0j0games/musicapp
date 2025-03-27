@@ -353,8 +353,36 @@
         }
       ],
       "rating": 6,
-      "playTime": 39,
+      "playTime": 40,
       "genre": "French Pop",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c28c36e39012cc8edf813196",
+      "title": "Iron Man 3",
+      "artist": "Brian Tyler",
+      "songs": [
+        {
+          "title": "Iron Man 3",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ab9b3ddd1801bad9d6f06d123e5aca974a84b0d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Attack on 10880 Malibu Point",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d2c42a1b11a594eca99e823bd8bbc6852c603a1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Battle Finale",
+          "preview_url": "https://p.scdn.co/mp3-preview/491e57c6eada20a809d14412fb1c0ec04c221a2a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Can You Dig It",
+          "preview_url": "https://p.scdn.co/mp3-preview/89d71df63630cb6309a0869eff834162febf29ac?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Soundtrack",
       "playTime30Days": 0
     }
   ]

@@ -327,8 +327,8 @@
       ],
       "rating": 8.7,
       "genre": "Deutscher Indie",
-      "playTime": 85,
-      "playTime30Days": 0,
+      "playTime": 98,
+      "playTime30Days": 13,
       "color": "#958929"
     },
     {
@@ -522,7 +522,7 @@
       "rating": 8.3,
       "genre": "Rock",
       "playTime": 164,
-      "playTime30Days": 110,
+      "playTime30Days": 87,
       "color": "#357a31"
     },
     {
@@ -649,8 +649,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 206,
-      "playTime30Days": 13,
+      "playTime": 208,
+      "playTime30Days": 15,
       "color": "#376893"
     },
     {
@@ -1084,7 +1084,7 @@
       ],
       "rating": 7.5,
       "genre": "Darkwave",
-      "playTime": 55,
+      "playTime": 57,
       "playTime30Days": 0,
       "color": "#2f341a"
     },
@@ -2332,7 +2332,7 @@
       "rating": 9.2,
       "playTime": 620,
       "genre": "Wiener Pop",
-      "playTime30Days": 212,
+      "playTime30Days": 165,
       "color": "#c51919"
     },
     {

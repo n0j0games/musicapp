@@ -35,7 +35,7 @@
       "rating": 11.5,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 321,
+      "playTime": 322,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -551,9 +551,9 @@
       ],
       "year": 1977,
       "rating": 7.7,
-      "playTime": 41,
+      "playTime": 43,
       "genre": "Art Rock",
-      "playTime30Days": 20
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
@@ -579,10 +579,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 26,
+      "playTime": 27,
       "genre": "Funk",
       "year": 1971,
-      "playTime30Days": 26
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",
@@ -608,10 +608,43 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 30,
+      "playTime": 31,
       "genre": "Funk",
       "year": 1975,
-      "playTime30Days": 27
+      "playTime30Days": 21
+    },
+    {
+      "url": "https://open.spotify.com/album/2cPAfymbuKYHt5ejX9LIxL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ae701909b4c5225fe8fdff09",
+      "title": "Star Wars",
+      "artist": "John Williams",
+      "songs": [
+        {
+          "title": "Binary Sunset",
+          "preview_url": "https://p.scdn.co/mp3-preview/29caf0ec9a10369c9c92e0012df6dfc09ac6f4df?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Imperial Attack",
+          "preview_url": "https://p.scdn.co/mp3-preview/010477db0f596fb1f1c4602c88fa75aecfe54676?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Princess Leia's Theme",
+          "preview_url": "https://p.scdn.co/mp3-preview/d185f0d3642d7e9918fac524c023429dd5669a92?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Cantina Band",
+          "preview_url": "https://p.scdn.co/mp3-preview/f2baebfa7c0cbe8ac683a3c13c64e60d7f8574d4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Throne Room and End Title",
+          "preview_url": "https://p.scdn.co/mp3-preview/e30e54d53289abb007175ebf9da6e247ad1f4bfe?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.1,
+      "playTime": 0,
+      "genre": "Soundtrack",
+      "year": 1977,
+      "playTime30Days": 0
     }
   ]
 }

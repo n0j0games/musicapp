@@ -97,8 +97,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 162,
-      "playTime30Days": 8,
+      "playTime": 183,
+      "playTime30Days": 29,
       "color": "#3b5a22"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rating": 8.5,
       "playTime": 411,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "color": "#a30a02"
     },
     {
@@ -798,7 +798,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 28,
+      "playTime": 29,
       "playTime30Days": 0,
       "color": "#32169e"
     },
@@ -2199,6 +2199,38 @@
       "playTime": 76,
       "genre": "Hyperpop",
       "playTime30Days": 5
+    },
+    {
+      "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273af634982d9b15de3c77f7dd9",
+      "title": "Oppenheimer",
+      "artist": "Ludwig Göransson",
+      "songs": [
+        {
+          "title": "Can You Hear The Music",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb4c33bf9ac3841c29fc7447533e1ae1156295dd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Destroyer Of Worlds",
+          "preview_url": "https://p.scdn.co/mp3-preview/1cbbdd9456903884621c866910c7729c8d9bcf2a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Oppenheimer",
+          "preview_url": "https://p.scdn.co/mp3-preview/c84aa4c19c89f07ed183d9b95085cdaa24d1a2bd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ground Zero",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d81c629eaee8b698e2d71fa8c3c8c015aecf08b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "What We Have Done",
+          "preview_url": "https://p.scdn.co/mp3-preview/5baa206dd18bb981f765e831581e7c9be8679925?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 19,
+      "genre": "Soundtrack",
+      "playTime30Days": 0
     }
   ]
 }

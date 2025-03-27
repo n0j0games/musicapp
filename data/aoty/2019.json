@@ -29,8 +29,8 @@
         }
       ],
       "rating": 11,
-      "playTime": 480,
-      "playTime30Days": 16,
+      "playTime": 492,
+      "playTime30Days": 28,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -263,7 +263,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 198,
+      "playTime": 199,
       "playTime30Days": 0,
       "color": "#933010"
     },
@@ -331,7 +331,7 @@
       ],
       "rating": 8.9,
       "playTime": 108,
-      "playTime30Days": 15,
+      "playTime30Days": 10,
       "color": "#251c16"
     },
     {

@@ -74,7 +74,7 @@
       "onVinyl": false,
       "genre": "Rap",
       "playTime": 1082,
-      "playTime30Days": 45,
+      "playTime30Days": 0,
       "color": "#7c7a79"
     },
     {
@@ -106,8 +106,8 @@
       ],
       "rating": 10.3,
       "genre": "Synthpop",
-      "playTime": 831,
-      "playTime30Days": 26,
+      "playTime": 844,
+      "playTime30Days": 39,
       "color": "#443152"
     },
     {
@@ -234,7 +234,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 231,
+      "playTime": 232,
       "playTime30Days": 0
     },
     {
@@ -464,7 +464,35 @@
       "rating": 8,
       "playTime": 103,
       "genre": "Art Pop",
-      "playTime30Days": 8
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273df756f52b91b4dcd656760b0",
+      "title": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+      "artist": "Marcin Przybyłowicz,\nMikolai Stroinski",
+      "songs": [
+        {
+          "title": "The Trail",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c5885a046b84178e81da09c6971c93b95ba3125?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Geralt Of Rivia",
+          "preview_url": "https://p.scdn.co/mp3-preview/b294270ac7c85e2c5497d1553b5dabab72a1b52e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Spikeroog",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ac96b99e753ea9224c66f2e5b7a8b089918897b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Kaer Morhen",
+          "preview_url": "https://p.scdn.co/mp3-preview/31b85d4531fc58d8175b46447052b042ea6ff08b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.7,
+      "playTime": 0,
+      "genre": "Soundtrack",
+      "playTime30Days": 0
     }
   ]
 }

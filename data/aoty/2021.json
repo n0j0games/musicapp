@@ -286,8 +286,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 520,
-      "playTime30Days": 54
+      "playTime": 521,
+      "playTime30Days": 55
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -1000,6 +1000,34 @@
       "rating": 6,
       "playTime": 54,
       "genre": "Pop",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27393c695e6fe6a29007bb51854",
+      "title": "Loki: Vol. 1",
+      "artist": "Natalie Holt",
+      "songs": [
+        {
+          "title": "TVA",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2d38f10fd90dad557190146b81f16a4c351650f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Loki Green Theme",
+          "preview_url": "https://p.scdn.co/mp3-preview/768915c65355a47dc834d449737a60d635e09ecd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Glorious Purpose",
+          "preview_url": "https://p.scdn.co/mp3-preview/e81e7c9e7a16ad790747150d3f12ac4ad75a7df9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Roxxcart, 2050",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b7334227a780cfb8b53ee4df4bd472d7190728d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.2,
+      "playTime": 194,
+      "genre": "Soundtrack",
       "playTime30Days": 0
     }
   ]

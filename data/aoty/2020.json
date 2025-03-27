@@ -221,8 +221,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 215,
-      "playTime30Days": 20,
+      "playTime": 232,
+      "playTime30Days": 37,
       "color": "#006687"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rating": 8.7,
       "genre": "Rap",
-      "playTime": 461,
+      "playTime": 462,
       "playTime30Days": 0
     },
     {
@@ -870,7 +870,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 157,
+      "playTime": 158,
       "playTime30Days": 0
     },
     {
@@ -975,9 +975,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 41,
+      "playTime": 42,
       "genre": "Jazz Fusion",
-      "playTime30Days": 41
+      "playTime30Days": 28
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",
@@ -1019,6 +1019,62 @@
       "rating": 8,
       "playTime": 63,
       "genre": "R&B",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6LqpJg7gedj71TlxZETgMj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27359f76b3f04a9344363d143e5",
+      "title": "Star Wars: The Clone Wars",
+      "artist": "Kevin Kiner",
+      "songs": [
+        {
+          "title": "Burying the Dead",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2c5453defb15e6d3e6348fa524c2ed9fd7c97a0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ahsoka Is Back",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1719a96a117b6149f755e2db8028f3efc38dd85?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ahsoka and the 501st",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c069f3e688f386a9ec78a8250939cc8d8791dd3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Victory and Death",
+          "preview_url": "https://p.scdn.co/mp3-preview/d26f6f1a0f0a6d594cc525429e3098e7679efcc9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 32,
+      "genre": "Soundtrack",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27390e0df2bbc53b15ea320e30e",
+      "title": "Tenet",
+      "artist": "Ludwig Göransson",
+      "songs": [
+        {
+          "title": "POSTERITY",
+          "preview_url": "https://p.scdn.co/mp3-preview/d80c3d2515b1fba6067fcdc275da593e752f0409?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "THE PLAN",
+          "preview_url": "https://p.scdn.co/mp3-preview/01a0b6c79001af3fd7326478bb194666649732ef?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "RAINY NIGHT IN TALLINN",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ca426a8f2a8eafb4cc6b4cc0caf82355ea8592a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "TRUCKS IN PLACE",
+          "preview_url": "https://p.scdn.co/mp3-preview/23c8c4571353fb9512e1f554034907d39d0050cf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.7,
+      "playTime": 35,
+      "genre": "Soundtrack",
       "playTime30Days": 0
     }
   ]

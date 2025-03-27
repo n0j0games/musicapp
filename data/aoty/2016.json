@@ -277,8 +277,8 @@
       ],
       "rating": 8,
       "genre": "Rap",
-      "playTime": 415,
-      "playTime30Days": 0
+      "playTime": 420,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H",
@@ -542,7 +542,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 71,
+      "playTime": 72,
       "playTime30Days": 0
     },
     {
@@ -712,6 +712,38 @@
       ],
       "rating": 6,
       "playTime": 131,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d27250d1d8b0dd8bce8ab207",
+      "title": "Westworld: Season 1",
+      "artist": "Ramin Djawadi",
+      "songs": [
+        {
+          "title": "Exit Music (For a Film)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f785ae86f64798791f0a137c2495bbab781dad83?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dr. Ford",
+          "preview_url": "https://p.scdn.co/mp3-preview/b5fbdc09c6cf4f86482a09f6da1a41a2ed20d6a1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nitro Heist",
+          "preview_url": "https://p.scdn.co/mp3-preview/131af916f896c01d9d500749ff9cc5f2bb2cb9a4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Motion Picture Soundtrack",
+          "preview_url": "https://p.scdn.co/mp3-preview/584cd953fba7249453aa65832f8f10b770f986ce?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Freeze All Motor Functions",
+          "preview_url": "https://p.scdn.co/mp3-preview/f92fa4f5815af8b4cb90f63a536a45d9fe3e41bc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.2,
+      "playTime": 154,
+      "genre": "Soundtrack",
       "playTime30Days": 0
     }
   ]

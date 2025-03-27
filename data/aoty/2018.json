@@ -31,7 +31,7 @@
       "rating": 10.3,
       "genre": "R&B",
       "playTime": 548,
-      "playTime30Days": 15,
+      "playTime30Days": 0,
       "color": "#0c3f83"
     },
     {
@@ -659,7 +659,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 111,
+      "playTime": 113,
       "playTime30Days": 0
     },
     {

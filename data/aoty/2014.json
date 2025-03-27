@@ -212,6 +212,66 @@
       "rating": 5,
       "playTime": 4,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ac29a65e7ffcfa6f9cb0d342",
+      "title": "Interstellar",
+      "artist": "Hans Zimmer",
+      "songs": [
+        {
+          "title": "Cornfield Chase",
+          "preview_url": "https://p.scdn.co/mp3-preview/11895c194f1f90aa3a398a5df5669ad5a75818b5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Day One",
+          "preview_url": "https://p.scdn.co/mp3-preview/6633d359c78b728568527226197ed891a652efff?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "No Time for Caution",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e59e0232df7724a721e35260ce0eed6a5216ff9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Do Not Go Gentle Into That Good Night",
+          "preview_url": "https://p.scdn.co/mp3-preview/5abc4332f579f44ae5ebb4c11f051a0b9d26be5f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mountains",
+          "preview_url": "https://p.scdn.co/mp3-preview/36707143308fa21b3335e8c95891dbc867448d44?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.3,
+      "playTime": 31,
+      "genre": "Soundtrack",
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736fce4a71d3973d3bbb12e8d7",
+      "title": "Whiplash",
+      "artist": "Justin Hurwitz",
+      "songs": [
+        {
+          "title": "Caravan",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc57a435e090bc640edc4fadb016ee0fc9d00778?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Whiplash",
+          "preview_url": "https://p.scdn.co/mp3-preview/06acbe7a85dac6ed89115948364a77a757cd1311?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Overture - From \"Whiplash\"",
+          "preview_url": "https://p.scdn.co/mp3-preview/51f0ab0ac8de7a9c8dd35f193987be92c80951e6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Upswingin'",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd3e1e1decc52eaed63f307c2bfdf0b43f44fc1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Soundtrack",
+      "playTime30Days": 0
     }
   ]
 }
