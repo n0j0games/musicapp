@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 394,
+      "playTime": 396,
       "genre": "Latin",
-      "playTime30Days": 219
+      "playTime30Days": 221
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,7 +67,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 269,
+      "playTime": 270,
       "genre": "Rap",
       "playTime30Days": 43,
       "color": "#1f4072"
@@ -140,7 +140,7 @@
       "rating": 8,
       "playTime": 663,
       "genre": "Synthpop",
-      "playTime30Days": 49
+      "playTime30Days": 47
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -507,6 +507,38 @@
       "playTime": 0,
       "genre": "Deutschrap",
       "playTime30Days": 6
+    },
+    {
+      "url": "https://open.spotify.com/album/4BRrinQr1XF8b4hP2UFBA4",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cc78ec62b7af6f609d16a9c",
+      "title": "Ich liebe dich für immer",
+      "artist": "Blumengarten",
+      "songs": [
+        {
+          "title": "Träum von dir",
+          "preview_url": "https://p.scdn.co/mp3-preview/f66bbc5073364bbeee0b3e31c13e9200872e8a62?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Daheim",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d83182697d8828a21fd57a1573de8bcb0923db8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ultraviolette",
+          "preview_url": "https://p.scdn.co/mp3-preview/354fafdd47c36dcf17851404a22814ee3f2f4ecb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Supernova",
+          "preview_url": "https://p.scdn.co/mp3-preview/de4c6c8ee01bba0d80b9c5e6ece1b79af7dcfca6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dunkelschwarz",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e509c77d6abfca0b9438319e60741bb92a7d932?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.3,
+      "playTime": 24,
+      "genre": "Deutschpop",
+      "playTime30Days": 24
     }
   ]
 }

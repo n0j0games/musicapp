@@ -96,7 +96,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 305,
+      "playTime": 306,
       "playTime30Days": 0
     },
     {
@@ -221,8 +221,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 232,
-      "playTime30Days": 37,
+      "playTime": 248,
+      "playTime30Days": 53,
       "color": "#006687"
     },
     {
@@ -975,7 +975,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 42,
+      "playTime": 43,
       "genre": "Jazz Fusion",
       "playTime30Days": 28
     },

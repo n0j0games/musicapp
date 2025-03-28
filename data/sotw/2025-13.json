@@ -1,0 +1,66 @@
+{
+  "year": 2025,
+  "week": 13,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/a0c55b04d3670ea03c4a1644ddd8765f3cd7009f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27341607f489b6e5ec72972f8ed",
+      "title": "GODSTAINED",
+      "artist": "Quadeca",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/2IbtNIdNlVelpPNaRYEZdJ"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/a7cbd074b5367a74e9016f6dc4a0d52cbb8c6016?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730675422f44232926aa93920b",
+      "title": "Where You Been (feat. Len)",
+      "artist": "BNYX®, Len",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/73780899d553fa318f742056c70e363573c859c2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730a566fa16e42c381396030bd",
+      "title": "Sunshine & Rain...",
+      "artist": "Kali Uchis",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f66bbc5073364bbeee0b3e31c13e9200872e8a62?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cc78ec62b7af6f609d16a9c",
+      "title": "Träum von dir",
+      "artist": "Blumengarten",
+      "rating": 9,
+      "album": "Ich liebe dich für immer",
+      "url": "https://open.spotify.com/track/2W0JyZvLqZgnNgn7HFNSRk"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/2d83182697d8828a21fd57a1573de8bcb0923db8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cc78ec62b7af6f609d16a9c",
+      "title": "Daheim",
+      "artist": "Blumengarten",
+      "rating": 8,
+      "album": "Ich liebe dich für immer",
+      "url": "https://open.spotify.com/track/1tlpaTLnPuYbLDjg7YEB0T"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/de4c6c8ee01bba0d80b9c5e6ece1b79af7dcfca6?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cc78ec62b7af6f609d16a9c",
+      "title": "Supernova",
+      "artist": "Blumengarten",
+      "rating": 7,
+      "album": "Ich liebe dich für immer",
+      "url": "https://open.spotify.com/track/25pcTHPmxbZtj1ld1DS5c9"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3e509c77d6abfca0b9438319e60741bb92a7d932?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cc78ec62b7af6f609d16a9c",
+      "title": "Dunkelschwarz",
+      "artist": "Blumengarten",
+      "rating": 9,
+      "album": "Ich liebe dich für immer",
+      "url": "https://open.spotify.com/track/1UR1iweNHkYD3GI1zskMq5"
+    }
+  ]
+}
