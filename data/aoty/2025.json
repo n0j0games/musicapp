@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 396,
+      "playTime": 398,
       "genre": "Latin",
-      "playTime30Days": 221
+      "playTime30Days": 223
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -69,7 +69,7 @@
       "rating": 9,
       "playTime": 270,
       "genre": "Rap",
-      "playTime30Days": 43,
+      "playTime30Days": 40,
       "color": "#1f4072"
     },
     {
@@ -140,7 +140,7 @@
       "rating": 8,
       "playTime": 663,
       "genre": "Synthpop",
-      "playTime30Days": 47
+      "playTime30Days": 38
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -262,7 +262,7 @@
       "rating": 7,
       "playTime": 49,
       "genre": "Art Pop",
-      "playTime30Days": 23
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -480,9 +480,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 59,
+      "playTime": 61,
       "genre": "Deutschrap",
-      "playTime30Days": 59
+      "playTime30Days": 61
     },
     {
       "url": "https://open.spotify.com/album/6foNTuvMw56jj6lYOqy7Vc",
@@ -536,9 +536,45 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 24,
+      "playTime": 54,
       "genre": "Deutschpop",
-      "playTime30Days": 24
+      "playTime30Days": 54
+    },
+    {
+      "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737f7ed2ddaa1bc5ff990dd871",
+      "title": "Ich falle in Frieden",
+      "artist": "Gianni Suave",
+      "songs": [
+        {
+          "title": "Abuela",
+          "preview_url": "https://p.scdn.co/mp3-preview/97c693b6ee46e9e7fe26d924849f01bed2365179?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dilemma/Estrel",
+          "preview_url": "https://p.scdn.co/mp3-preview/c5fac38cf1ecf2686463688b7660cb19869b7da2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "L.V.E.B.",
+          "preview_url": "https://p.scdn.co/mp3-preview/ca222ce46de3a63689c9fbc6ecfb2dbc1e569505?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "YingYang",
+          "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Deutschrap"
+    },
+    {
+      "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730e8ecea7452c1d2cf87df426",
+      "title": "OMW2 REXDALE",
+      "artist": "NAV",
+      "rating": 4.0,
+      "playTime": 0,
+      "genre": "Rap"
     }
   ]
 }

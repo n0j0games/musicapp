@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 125,
+      "playTime": 126,
       "playTime30Days": 0
     },
     {
@@ -308,8 +308,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 147,
-      "playTime30Days": 8,
+      "playTime": 149,
+      "playTime30Days": 10,
       "color": "#9194cb"
     },
     {
@@ -665,8 +665,8 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 51,
-      "playTime30Days": 8
+      "playTime": 52,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN",
@@ -742,9 +742,9 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 155,
+      "playTime": 159,
       "genre": "Soundtrack",
-      "playTime30Days": 0
+      "playTime30Days": 6
     }
   ]
 }
