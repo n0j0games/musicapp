@@ -46,6 +46,7 @@
 
 $primary-color: #171d29;
 $primary-color-lighter: #2b2e43;
+$primary-color-hover: #52556e;
 $outer-track: #1e1f2c;
 $primary-color-darker: #101019;
 $accent-color: #a0ff5c;
@@ -268,7 +269,7 @@ body {
   padding: 15px;
 }
 
-input {
+input, select {
   background: $primary-color-lighter;
   border-radius: 5px;
   padding: 15px;
@@ -278,8 +279,8 @@ input {
 }
 
 
-input:focus {
-  background: $secondary-color-light;
+input:focus, select:focus {
+  background: $primary-color-hover;
 }
 
 input::placeholder {

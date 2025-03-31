@@ -8,6 +8,7 @@
             <app-item
                     [item]="{year: 0, week: 0, preview : rotationList}"
                     [isAoty]="'LIST'"
+                    [queryParams]="{ sort: 'recent' }"
                     [queryParam]="'recent'"
                     [text]="'my rotation'"
             ></app-item>
@@ -19,7 +20,7 @@
                     'https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160'
                     ]}"
                     [isAoty]="'LIST'"
-                    [queryParam]="'alphabetical'"
+                    [queryParams]="{ sort: 'play-time' }"
                     [text]="'all albums by playtime'"
             ></app-item>
             <app-item
@@ -28,7 +29,7 @@
                 'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9',
                 'https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511']}"
                     [isAoty]="'LIST'"
-                    [queryParam]="'fav-albums'"
+                    [queryParams]="{ sort: 'rating' }"
                     [text]="'all albums by rating'"
             ></app-item>
         </div>
