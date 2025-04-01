@@ -2,7 +2,7 @@
     <p class="p-b-i fs-xl counter">{{ index }}</p>
     <img class="cover" src="{{album.imgUrl}}" alt="">
     <div class="flex-column align-start gap-s">
-        <a class="p-b-i fs-l left-text less-important-link" [routerLink]="['/aoty-lists', album.artist.replaceAll(' ','-').toLowerCase()]" ><span class="m-counter">{{ index }}. </span>{{ album.artist }}</a>
+        <a class="p-b-i fs-l left-text less-important-link" (click)="routeToArtist()"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</a>
         <div class="flex-row align-center fake-gap-b-s gap-s m-flex-wrap">
             <p
                     *ngIf="midOrWorst"
@@ -30,7 +30,7 @@
         </div>
         <div class="flex-row align-center gap-s">
             <app-rating [rating]="album.rating"></app-rating>
-            <app-lastfm *ngIf="album.playTime && album.playTime > 0" [scrobbles]="album.playTime" [scrobbles30Days]="album.playTime30Days!"></app-lastfm>
+            <app-lastfm *ngIf="(album.playTime && album.playTime > 0) || (album.playTime30Days && album.playTime30Days > 0)" [scrobbles]="album.playTime ? album.playTime : album.playTime30Days!" [scrobbles30Days]="album.playTime30Days!"></app-lastfm>
             <app-vinyl *ngIf="album.onVinyl !== undefined"
                        [wishlisted] = "!album.onVinyl"
             ></app-vinyl>

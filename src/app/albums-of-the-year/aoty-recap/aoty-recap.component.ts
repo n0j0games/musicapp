@@ -1,11 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
 import {AotyService} from "../../common/services/aoty.service";
-import {AudioService} from "../../common/services/audio.service";
-import {AnimationBuilder} from "@angular/animations";
-import {TypewriterService} from "../../common/services/typewriter.service";
 import {AotyItem} from "../../common/models/aoty-item";
-import {SotwItem} from "../../common/models/sotw-item";
 import {Album} from "../../common/models/album";
 import {SongInfo} from "../../common/models/songinfo";
 import {RecapComponent} from "../../common/components/recap/recap.component";
@@ -138,4 +134,5 @@ export class AotyRecapComponent implements OnInit {
         return aggregatedSongs;
     }
 
+    protected readonly Math = Math;
 }

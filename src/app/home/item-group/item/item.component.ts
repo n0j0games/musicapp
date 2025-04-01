@@ -1,6 +1,6 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {LowerCasePipe, NgClass, NgForOf, NgIf} from "@angular/common";
-import {RouterLink} from "@angular/router";
+import {Params, Router, RouterLink} from "@angular/router";
 import {WeekHelper} from "../../../common/week-helper";
 
 @Component({
@@ -21,6 +21,7 @@ export class ItemComponent implements OnInit {
   @Input() item!: { year : number, week? : number, preview? : string[] };
   @Input() isAoty! : string;
   @Input() queryParam! : string;
+  @Input() queryParams! : Params;
   @Input() text! : string;
   @Input() isDecade : boolean = false;
   routerLink : string[] = [];
@@ -28,16 +29,17 @@ export class ItemComponent implements OnInit {
   fridayOfTheWeek! : string;
   weekHelper = new WeekHelper();
 
+  constructor(private router: Router) {
+  }
+
   ngOnInit() {
-    if (this.isDecade) {
-      this.routerLink = ['/aoty-decade', this.item.year.toString()];
-    } else if (this.isAoty === "AOTY") {
-      this.routerLink = ['/aoty', this.item.year.toString()];
+    if (this.isAoty === "AOTY" || this.isAoty === "LIST") {
+      this.routerLink = ['/aoty'];
     } else if (this.isAoty === "SOTW") {
       this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);
       this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]
-    } else if (this.isAoty === "LIST") {
-      this.routerLink = ['/aoty-lists', this.queryParam];
+    } else if (this.isAoty === "SOTY") {
+      this.routerLink = ['/soty', this.item.year.toString()]
     } else if (this.isAoty === "MOTY") {
       this.routerLink = ['/moty', this.item.year.toString()];
     } else if (this.isAoty === "SERIES") {
@@ -49,6 +51,17 @@ export class ItemComponent implements OnInit {
     } else {
       throw new Error("unknown type");
     }
+  }
+
+  navigate() {
+    const qParams = this.queryParams;
+    this.router.navigate(
+        this.routerLink,
+        {
+          queryParams: qParams,
+          queryParamsHandling: 'merge'
+        }
+    ).then(_ => {console.log("Refreshed params")});
   }
 
   private createWeekString (week : number) : string {

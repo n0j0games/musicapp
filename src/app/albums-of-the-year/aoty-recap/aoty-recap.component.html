@@ -2,5 +2,6 @@
         [recapItems$]="albumsOfTheYear$"
         [activeYear]="activeYear"
         [title]="title"
-        [link]="['/aoty', activeYear.toString()]"
+        [link]="['/aoty']"
+        [routeParams]="{ y: activeYear.toString(), d: Math.round(activeYear / 10) * 10 }"
 ></app-recap>

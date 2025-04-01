@@ -72,7 +72,6 @@ export class HomeComponent implements OnInit {
       this.sotwListsGroupedByYear.push({ items: items, decade : null });
     }
     this.sotwListsGroupedByYear.sort((a, b) => b.items[0].year - a.items[0].year);
-
   }
 
   private setAotyList() {

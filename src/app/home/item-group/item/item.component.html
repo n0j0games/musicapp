@@ -1,14 +1,14 @@
 <div [ngClass]="{ 'highlight-card' : !isDecade, 'outer-highlight-card' : isDecade, 'highlight-card-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }">
     <a
             class="flex-column gap-s align-center"
-            [routerLink]="routerLink"
+            (click)="navigate()"
     >
         <div *ngIf="item.preview && item.preview.length > 0" class="preview-img-div-outer" [ngClass]="{ 'preview-img-div-outer-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }">
-            <img *ngFor="let image of item.preview; index as i" class="preview-img img-{{i}}" [ngClass]="{ 'preview-img-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }" [src]="item.preview[i]">
+            <img alt="preview" *ngFor="let image of item.preview; index as i" class="preview-img img-{{i}}" [ngClass]="{ 'preview-img-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }" [src]="item.preview[i]">
         </div>
 
         <span *ngIf="isAoty === 'AOTY' || isAoty === 'MOTY' || isAoty === 'SERIES'"><span class="fs-xl p-b">{{ item.year }}<span *ngIf="isDecade">s</span></span></span>
-        <span *ngIf="isAoty === 'SOTW'"><span class="fs-xl p-b">{{ fridayOfTheWeek }}</span> (week #{{ item.week }})</span>
-        <span *ngIf="isAoty === 'LIST' || isAoty === 'MLIST' || isAoty === 'SLIST'"><span class="fs-xl p-b">{{ text | lowercase }}</span></span>
+        <span *ngIf="isAoty === 'SOTW'"><span class="fs-xl p-b">week #{{ item.week }} </span>({{ fridayOfTheWeek }})</span>
+        <span *ngIf="isAoty === 'LIST' || isAoty === 'MLIST' || isAoty === 'SLIST' || isAoty === 'SOTY'"><span class="fs-xl p-b">{{ text | lowercase }}</span></span>
     </a>
 </div>

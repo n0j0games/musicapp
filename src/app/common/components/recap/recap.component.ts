@@ -1,6 +1,5 @@
 import {AfterViewInit, Component, ElementRef, Input, OnDestroy, OnInit, ViewChild} from '@angular/core';
-import {AotyItem} from "../../models/aoty-item";
-import {RouterLink} from "@angular/router";
+import {Params, Router, RouterLink} from "@angular/router";
 import {Album} from "../../models/album";
 import {AsyncPipe, LowerCasePipe, NgClass, NgForOf, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
 import {SongInfo} from "../../models/songinfo";
@@ -8,7 +7,6 @@ import {AudioService} from "../../services/audio.service";
 import {animate, AnimationBuilder, keyframes, style} from "@angular/animations";
 import {TypewriterService} from "../../services/typewriter.service";
 import {map, Observable} from "rxjs";
-import {SotwItem} from "../../models/sotw-item";
 import {Song} from "../../models/song";
 
 @Component({
@@ -39,6 +37,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     @Input() activeYear: number = 0;
     @Input() title! : string;
     @Input() link! : string[];
+    @Input() routeParams!: Params;
     maxAlbums! : number;
     recapItems!: Album[] | Song[];
 
@@ -57,7 +56,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     typedText$ : any;
     typedArtist$ : any;
 
-    constructor(private audioService: AudioService, private builder: AnimationBuilder, private typeWriterService: TypewriterService) {
+    constructor(private audioService: AudioService, private builder: AnimationBuilder, private typeWriterService: TypewriterService, private router: Router) {
     }
 
     ngOnInit(): void {
@@ -86,6 +85,17 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
             },
             error: (e) => console.error(e)
         })
+    }
+
+    routeToAll() {
+        const routeParams = this.routeParams;
+        this.router.navigate(
+            this.link,
+            {
+                queryParams: routeParams,
+                queryParamsHandling: 'merge'
+            }
+        ).then(_ => {console.log("Refreshed params")});
     }
 
     private createStyle(reverse: boolean) {

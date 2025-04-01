@@ -1,36 +1,53 @@
 <div class="flex-row m-flex-column gap-xxl flex-wrap align-start mobile-align-center">
     <div class="flex-column gap-xxl flex-wrap justify-center">
         <div class="flex-column align-center justify-center">
-            <img class="favicon" src="assets/favicon.png">
+            <img class="favicon" alt="favicon" src="assets/favicon.png">
             <p class="p-b-i fs-xl text-title">rankings of my favorite albums & songs</p>
         </div>
         <div class="flex-row m-flex-column gap-xl align-center justify-center">
-            <app-item
-                    [item]="{year: 0, week: 0, preview : rotationList}"
-                    [isAoty]="'LIST'"
-                    [queryParam]="'recent'"
-                    [text]="'my rotation'"
-            ></app-item>
-            <app-item
-                    [item]="{year: 0, week: 0, preview : [
+            <div class="flex-column gap-xl align-center justify-center">
+                <app-item
+                        [item]="{year: 0, week: 0, preview : rotationList}"
+                        [isAoty]="'LIST'"
+                        [queryParams]="{ s: 'recent' }"
+                        [queryParam]="'recent'"
+                        [text]="'my rotation'"
+                ></app-item>
+                <app-item
+                        [item]="{year: 0, week: 0, preview : currentYearList}"
+                        [isAoty]="'LIST'"
+                        [queryParams]="{ s: 'rating', y: 2025, d: 2020 }"
+                        [text]="'fav albums of 2025'"
+                ></app-item>
+            </div>
+            <div class="flex-column gap-xl align-center justify-center">
+                <app-item
+                        [item]="{year: currentYear, week: currentWeek, preview : ['https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160',
+                'https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5',
+                'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9',
+                'https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511']}"
+                        [isAoty]="'SOTW'"
+                        [text]="'fav songs of this week'"
+                ></app-item>
+                <app-item
+                        [item]="{year: currentYear, week: 0, preview : [
                     'https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36',
                     'https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44',
                     'https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3',
                     'https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160'
                     ]}"
-                    [isAoty]="'LIST'"
-                    [queryParam]="'alphabetical'"
-                    [text]="'all albums by playtime'"
-            ></app-item>
-            <app-item
-                    [item]="{year: 0, week: 0, preview : ['https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160',
-                'https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5',
-                'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9',
-                'https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511']}"
-                    [isAoty]="'LIST'"
-                    [queryParam]="'fav-albums'"
-                    [text]="'all albums by rating'"
-            ></app-item>
+                        [isAoty]="'SOTY'"
+                        [text]="'fav songs of 2025'"
+                ></app-item>
+            </div>
+        </div>
+        <div class="outer-highlight-card">
+            <a
+                    class="flex-column gap-s align-center"
+                    [routerLink]="['/aoty']"
+            >
+                <span class="fs-xl p-b">show all albums</span>
+            </a>
         </div>
         <div class="flex-column gap-xl align-center justify-center">
             <div class="flex-row m-flex-column gap-xl align-center justify-center">
@@ -39,7 +56,7 @@
                             class="flex-column gap-s align-center"
                             [routerLink]="['/aoty/recap/2024']"
                     >
-                        <img class="fullsize-img" src="https://www.most2414.com/wp-content/uploads/2024/08/Charli-Brat-Concert.jpeg">
+                        <img alt="fullsize-thumbnail" class="fullsize-img" src="https://www.most2414.com/wp-content/uploads/2024/08/Charli-Brat-Concert.jpeg">
                         <span class="fs-xl p-b">RECAP: AOTY 2024</span>
                         <span class="fs-l">my fav albums of 2024</span>
                     </a>
@@ -49,7 +66,7 @@
                             class="flex-column gap-s align-center"
                             [routerLink]="['/soty/recap/2024']"
                     >
-                        <img class="fullsize-img" src="https://faroutmagazine.co.uk/static/uploads/1/2024/04/Billie-Eilish-2024-Singer-Musician-Far-Out-Magazine.jpg">
+                        <img alt="fullsize-thumbnail" class="fullsize-img" src="https://faroutmagazine.co.uk/static/uploads/1/2024/04/Billie-Eilish-2024-Singer-Musician-Far-Out-Magazine.jpg">
                         <span class="fs-xl p-b">RECAP: SOTY 2024</span>
                         <span class="fs-l">my fav songs of 2024</span>
                     </a>
@@ -61,7 +78,7 @@
                             class="flex-column gap-s align-center"
                             [routerLink]="['/soty/recap/0']"
                     >
-                        <img class="fullsize-img" src="assets/ALL-SONGS.jpg">
+                        <img alt="fullsize-thumbnail" class="fullsize-img" src="assets/ALL-SONGS.jpg">
                         <span class="fs-xl p-b">RECAP: ALL TIME SONGS</span>
                         <span class="fs-l">some of my all-time fav songs</span>
                     </a>
@@ -71,25 +88,17 @@
                             class="flex-column gap-s align-center"
                             [routerLink]="['/aoty/recap/all']"
                     >
-                        <img class="fullsize-img" src="assets/TOPSTER.png.jpg">
+                        <img alt="fullsize-thumbnail" class="fullsize-img" src="assets/TOPSTER.png.jpg">
                         <span class="fs-xl p-b">RECAP: ALL TIME ALBUMS</span>
                         <span class="fs-l">some of my all-time fav albums</span>
                     </a>
                 </div>
             </div>
         </div>
-        <div class="outer-highlight-card">
-            <a
-                    class="flex-column gap-s align-center"
-                    [routerLink]="['/home/list']"
-            >
-                <span class="fs-xl p-b">show all years & lists</span>
-            </a>
-        </div>
     </div>
     <div class="flex-column gap-xxl flex-wrap justify-center">
         <div class="flex-column align-center justify-center">
-            <img class="favicon" src="assets/favicon-movies.png">
+            <img alt="favicon" class="favicon" src="assets/favicon-movies.png">
             <p class="p-b-i fs-xl text-title">rankings of my favorite movies & shows</p>
             <p class="fs-m">work in progress</p>
         </div>
