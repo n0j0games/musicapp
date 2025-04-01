@@ -58,7 +58,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
   ngOnInit(): void {
 
     this.route.queryParams.subscribe(params => {
-      console.log("PARAMS UPDATED");
       this.updateParams(params);
     });
 
@@ -125,7 +124,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private updateSorting(queryParams: Params) {
     const qSorting = this.formGroup.get('sorting')?.value;
-    console.log("ABC", qSorting, this.formGroup)
     if (qSorting !== undefined && qSorting !== null) {
       queryParams['s'] = qSorting.toLowerCase();
     } else {

@@ -55,7 +55,6 @@ export class ItemComponent implements OnInit {
 
   navigate() {
     const qParams = this.queryParams;
-    console.log(qParams, this.routerLink)
     this.router.navigate(
         this.routerLink,
         {
