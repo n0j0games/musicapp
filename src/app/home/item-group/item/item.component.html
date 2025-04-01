@@ -4,7 +4,7 @@
             (click)="navigate()"
     >
         <div *ngIf="item.preview && item.preview.length > 0" class="preview-img-div-outer" [ngClass]="{ 'preview-img-div-outer-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }">
-            <img alt="image" *ngFor="let image of item.preview; index as i" class="preview-img img-{{i}}" [ngClass]="{ 'preview-img-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }" [src]="item.preview[i]">
+            <img alt="preview" *ngFor="let image of item.preview; index as i" class="preview-img img-{{i}}" [ngClass]="{ 'preview-img-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }" [src]="item.preview[i]">
         </div>
 
         <span *ngIf="isAoty === 'AOTY' || isAoty === 'MOTY' || isAoty === 'SERIES'"><span class="fs-xl p-b">{{ item.year }}<span *ngIf="isDecade">s</span></span></span>

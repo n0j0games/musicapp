@@ -81,23 +81,30 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   submitForm() {
     const queryParams : Params = {};
+    this.updateSearch(queryParams);
+    this.updateSorting(queryParams);
+    this.updateYearAndDecade(queryParams);
+    this.updateRating(queryParams);
+    this.router.navigate(
+        [],
+        {
+          relativeTo: this.route,
+          queryParams,
+          queryParamsHandling: 'merge'
+        }
+    ).then(_ => {console.log("Refreshed params")});
+  }
 
-    let qSearch: string | null | undefined = this.formGroup.get("search")?.value;
-    if (qSearch !== undefined && qSearch !== null && qSearch !== "") {
-      qSearch = qSearch.replaceAll(" ", "-").toLowerCase();
-      queryParams['q'] = qSearch;
+  private updateRating(queryParams: Params) {
+    const qRating = this.formGroup.get('rating')?.value;
+    if (qRating !== null) {
+      queryParams['r'] = qRating;
     } else {
-      queryParams['q'] = undefined;
+      queryParams['r'] = undefined;
     }
+  }
 
-    const qSorting = this.formGroup.get('sorting')?.value;
-    console.log("ABC", qSorting, this.formGroup)
-    if (qSorting !== undefined && qSorting !== null) {
-      queryParams['s'] = qSorting.toLowerCase();
-    } else {
-      queryParams['s'] = undefined;
-    }
-
+  private updateYearAndDecade(queryParams: Params) {
     const qDecade = this.formGroup.get('decade')?.value;
     const qYear = this.formGroup.get('year')?.value;
     if (qYear !== null && qYear !== undefined && qDecade !== undefined && qDecade !== null) {
@@ -114,21 +121,26 @@ export class AlbumsOfTheYearComponent implements OnInit {
     } else {
       queryParams['d'] = undefined;
     }
+  }
 
-    const qRating = this.formGroup.get('rating')?.value;
-    if (qRating !== null) {
-      queryParams['r'] = qRating;
+  private updateSorting(queryParams: Params) {
+    const qSorting = this.formGroup.get('sorting')?.value;
+    console.log("ABC", qSorting, this.formGroup)
+    if (qSorting !== undefined && qSorting !== null) {
+      queryParams['s'] = qSorting.toLowerCase();
     } else {
-      queryParams['r'] = undefined;
+      queryParams['s'] = undefined;
     }
-    this.router.navigate(
-        [],
-        {
-          relativeTo: this.route,
-          queryParams,
-          queryParamsHandling: 'merge'
-        }
-    ).then(_ => {console.log("Refreshed params")});
+  }
+
+  private updateSearch(queryParams: Params) {
+    let qSearch: string | null | undefined = this.formGroup.get("search")?.value;
+    if (qSearch !== undefined && qSearch !== null && qSearch !== "") {
+      qSearch = qSearch.replaceAll(" ", "-").toLowerCase();
+      queryParams['q'] = qSearch;
+    } else {
+      queryParams['q'] = undefined;
+    }
   }
 
   private updateParams(params: Params) {
