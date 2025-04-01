@@ -2,7 +2,7 @@
     <p class="p-b-i fs-xl counter">{{ index }}</p>
     <img class="cover" src="{{album.imgUrl}}" alt="">
     <div class="flex-column align-start gap-s">
-        <a class="p-b-i fs-l left-text less-important-link" [routerLink]="['/aoty-lists', album.artist.replaceAll(' ','-').toLowerCase()]" ><span class="m-counter">{{ index }}. </span>{{ album.artist }}</a>
+        <a class="p-b-i fs-l left-text less-important-link" (click)="routeToArtist()"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</a>
         <div class="flex-row align-center fake-gap-b-s gap-s m-flex-wrap">
             <p
                     *ngIf="midOrWorst"

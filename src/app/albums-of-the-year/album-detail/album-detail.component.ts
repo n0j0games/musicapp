@@ -8,7 +8,7 @@ import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
 import {SongInfo} from "../../common/models/songinfo";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
-import {RouterLink} from "@angular/router";
+import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
 import {LastfmBadge} from "../../common/components/lastfm-badge/lastfm-badge";
 
@@ -43,7 +43,7 @@ export class AlbumDetailComponent implements OnInit {
   albumNames! : string;
   midOrWorst : boolean = false;
 
-  constructor(private audioService : AudioService) {
+  constructor(private audioService : AudioService, private router: Router, private route: ActivatedRoute) {
   }
 
   ngOnInit() {
@@ -71,5 +71,16 @@ export class AlbumDetailComponent implements OnInit {
       return [new SongInfo('','','')];
     }
     return this.album.songs!.map(song => new SongInfo(song.title, song.preview_url, this.album.artist));
+  }
+
+  routeToArtist() {
+      this.router.navigate(
+          [],
+          {
+              relativeTo: this.route,
+              queryParams: { q: this.album.artist.replaceAll(" ", "-").toLowerCase() },
+              queryParamsHandling: 'merge'
+          }
+      ).then(_ => {console.log("Refreshed params")});
   }
 }

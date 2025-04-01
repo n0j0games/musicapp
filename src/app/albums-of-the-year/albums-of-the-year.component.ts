@@ -41,30 +41,37 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   title = "albums of the year";
   sortingTitle = "";
-  years = Array.from({ length: 56 }, (_, i) => 1970 + i);
-  decades = [1970, 1980, 1990, 2000, 2010, 2020];
+  yearOptions_ : number[] = Array.from({ length: 60 }, (_, i) => 1970 + i);
+  decadeOptions = [1970, 1980, 1990, 2000, 2010, 2020];
+  sortingOptions = <Sorting[]>Object.values(Sorting);
 
-  formGroup! : FormGroup;
+  formGroup = new FormGroup({
+    search : new FormControl<string>(''),
+    sorting: new FormControl<Sorting | null>(null),
+    year: new FormControl<number | null>(null),
+    rating: new FormControl<number | null>(null),
+    decade: new FormControl<number | null>(null)
+  });
 
   constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
 
   ngOnInit(): void {
 
-    this.formGroup = new FormGroup({
-      search : new FormControl(''),
-      sorting: new FormControl(''),
-      year: new FormControl(''),
-      rating: new FormControl(''),
-      decade: new FormControl('')
-    });
-
     this.route.queryParams.subscribe(params => {
+      console.log("PARAMS UPDATED");
       this.updateParams(params);
     });
 
     this.rawAlbumsOfTheYear = this.getAggregatedAlbums();
     this.albumsOfTheYearWithoutMaxCap = [...this.rawAlbumsOfTheYear];
     this.refreshAlbums();
+  }
+
+  get yearOptions() {
+    if (this.qDecade === null) {
+      return [];
+    }
+    return this.yearOptions_.filter(value => value >= this.qDecade! && value < (this.qDecade! + 10))
   }
 
   loadMore() {
@@ -75,37 +82,41 @@ export class AlbumsOfTheYearComponent implements OnInit {
   submitForm() {
     const queryParams : Params = {};
 
-    let qSearch: string | null = this.formGroup.get("search")?.value;
-    if (qSearch !== null && qSearch !== "") {
+    let qSearch: string | null | undefined = this.formGroup.get("search")?.value;
+    if (qSearch !== undefined && qSearch !== null && qSearch !== "") {
       qSearch = qSearch.replaceAll(" ", "-").toLowerCase();
-      queryParams['s'] = qSearch;
+      queryParams['q'] = qSearch;
+    } else {
+      queryParams['q'] = undefined;
+    }
+
+    const qSorting = this.formGroup.get('sorting')?.value;
+    console.log("ABC", qSorting, this.formGroup)
+    if (qSorting !== undefined && qSorting !== null) {
+      queryParams['s'] = qSorting.toLowerCase();
     } else {
       queryParams['s'] = undefined;
     }
 
-    const qSorting = this.formGroup.get('sorting')?.value;
-    if (qSorting !== null) {
-      queryParams['sort'] = qSorting.toLowerCase();
-    } else {
-      queryParams['sort'] = undefined;
-    }
-
-    const qYear = this.formGroup.get('year')?.value;
-    if (qYear !== null && qYear !== "") {
-      queryParams['y'] = qYear;
-    } else {
-      queryParams['y'] = undefined;
-    }
-
     const qDecade = this.formGroup.get('decade')?.value;
-    if (qDecade !== null && qDecade !== "") {
+    const qYear = this.formGroup.get('year')?.value;
+    if (qYear !== null && qYear !== undefined && qDecade !== undefined && qDecade !== null) {
+      if (qYear >= qDecade && qYear < (qDecade + 10)) {
+        queryParams['y'] = qYear;
+      } else {
+        queryParams['y'] = null;
+      }
+    } else {
+      queryParams['y'] = null;
+    }
+    if (qDecade !== null) {
       queryParams['d'] = qDecade;
     } else {
       queryParams['d'] = undefined;
     }
 
     const qRating = this.formGroup.get('rating')?.value;
-    if (qRating !== null && qRating !== "") {
+    if (qRating !== null) {
       queryParams['r'] = qRating;
     } else {
       queryParams['r'] = undefined;
@@ -121,30 +132,29 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private updateParams(params: Params) {
-    const sorting = params['sort'];
+    const sorting = params['s'];
     const year = params['y'];
     const decade = params['d'];
-    const search = params['s'];
+    const search = params['q'];
     const rating = params['r'];
     const isStrict = params['type'] !== undefined && params['type'] !== null ?
         params['type'] === "strict" :
         false;
     this.maxCap = MAX_CAP_DEFAULT;
-    this.qSorting = !!sorting && Object.values(Sorting).includes(sorting) ?sorting.toUpperCase() : Sorting.RATING
-    this.qYear = !!year ? parseInt(year) : null;
+    this.qSorting = !!sorting && Object.values(Sorting).includes(sorting) ? <Sorting>sorting : Sorting.RATING
     this.qDecade = !!decade && decade % 10 === 0 ? parseInt(decade) : null;
+    this.qYear = !!year && !!decade ? parseInt(year) : null;
     this.qSearch = !!search ? search.replaceAll("-", " ") : null;
     this.isStrict = isStrict;
     this.qRating = !!rating && rating >= 0 && rating <= 10 ? parseInt(rating) : null;
 
-    this.formGroup.setValue({
+    this.formGroup.patchValue({
       search: this.qSearch,
       sorting: this.qSorting,
       year: this.qYear,
       decade: this.qDecade,
-      rating: this.qRating
+      rating: this.qRating,
     });
-
     this.refreshAlbums();
   }
 
@@ -195,7 +205,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private filterAlbums(albums: Album[]): Album[] {
-    this.title = "all albums";
+    this.title = "all albums i've listened to";
     if (this.qYear === null &&
         this.qDecade === null &&
         this.qSearch === null &&
@@ -217,6 +227,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private updateTitle() {
+    this.title = "albums";
     if (this.qYear !== null) {
       this.title = "albums from " + this.qYear;
     }
@@ -224,7 +235,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
       this.title = "albums from the " + this.qDecade + "s";
     }
     if (this.qRating !== null) {
-      this.title = this.title.replace("albums", "albums rated " + this.qRating);
+      this.title = this.title + " rated " + this.qRating;
     }
     if (this.qSearch !== null) {
       this.title = this.title + " matching '" + this.qSearch.replace("-", " ") + "'";
@@ -267,7 +278,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
       return true;
     }
     const artist = album.artist.toLowerCase().replaceAll(" ", "-").replaceAll("%20", "-");
-    const qArtist = this.qSearch.toLowerCase();
+    const qArtist = this.qSearch.toLowerCase().replaceAll(" ", "-".replaceAll("%20", "-"));
     if (this.isStrict) {
       return artist === qArtist;
     } else {
@@ -321,5 +332,4 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   protected readonly Object = Object;
-  protected readonly Sorting = Sorting;
 }

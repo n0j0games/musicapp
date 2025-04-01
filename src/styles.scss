@@ -269,6 +269,10 @@ body {
   padding: 15px;
 }
 
+select {
+  min-width: 100px;
+}
+
 input, select {
   background: $primary-color-lighter;
   border-radius: 5px;
@@ -351,6 +355,14 @@ img {
 }
 
 @media (width < 600px) or (height < 700px) {
+
+  select {
+    min-width: 0;
+  }
+
+  input, select {
+    padding: 5px;
+  }
 
   .non-mobile, .non-mobile-inline {
     display: none;

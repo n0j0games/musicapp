@@ -1,6 +1,5 @@
 import { Routes } from '@angular/router';
 import {SongsOfTheWeekComponent} from "./songs-of-the-week/songs-of-the-week.component";
-import {HomeComponent} from "./home/home.component";
 import {NotFoundComponent} from "./common/components/not-found/not-found.component";
 import {SotwResolverService} from "./common/resolver/sotw-resolver.service";
 import {SotwItemResolverService} from "./common/resolver/sotw-item.resolver.service";
@@ -22,8 +21,7 @@ import {SeriesResolverService} from "./common/resolver/series-resolver.service";
 import {AllAlbumsRecapComponent} from "./albums-of-the-year/all-albums-recap/all-albums-recap.component";
 
 export const routes: Routes = [
-  { path: 'home', component: HomeNewComponent, resolve: [AotyResolverService, AotyAggregateResolverService] },
-  { path: 'home/list', component: HomeComponent, resolve: [SotwResolverService, AotyResolverService] },
+  { path: 'home', component: HomeNewComponent, resolve: [AotyResolverService, AotyAggregateResolverService, SotwResolverService] },
   { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService, SeriesResolverService] },
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty', component: AlbumsOfTheYearComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },

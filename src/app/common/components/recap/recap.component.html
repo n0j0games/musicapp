@@ -1,5 +1,5 @@
 <div class="non-mobile upper flex-column align-center justify-center gap-xl">
-    <a class="recap-title" [routerLink]="['/home']"><img [src]="'assets/favicon.png'"><p class="p-b-i">rate now cry later</p></a>
+    <a class="recap-title" [routerLink]="['/home']"><img [src]="'assets/favicon.png'" alt="favicon"><p class="p-b-i">rate now cry later</p></a>
     <p class="p-b fs-recap-xl">{{ title }}</p>
 </div>
 <div class="outer" #outer>
@@ -34,7 +34,7 @@
                 class="next-button" [disabled]="activeAlbumNumber >= maxAlbums"
                 (click)="prevAlbum()"><i class="fa-solid fa-backward"
         ></i></button>
-        <a class="p-b" [routerLink]="link">VIEW ALL</a>
+        <a class="p-b" (click)="routeToAll()">VIEW ALL</a>
         <button [ngClass]="{'next-button-disabled' : activeAlbumNumber <= 1 }"
                 class="next-button" [disabled]="activeAlbumNumber <= 1"
                 (click)="nextAlbum()"

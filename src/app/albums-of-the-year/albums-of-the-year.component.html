@@ -1,8 +1,8 @@
 <p class="p-b-i fs-xl text-title">{{ title }}</p>
 <p class="p-i fs-m title-gap-b">{{ sortingTitle }}</p>
-<div class="title-gap-b flex-column align-center justify-center">
-    <form class="flex-row gap-l" [formGroup]="formGroup" (submit)="submitForm()">
-        <div>
+<div class="title-gap-b flex-column align-center justify-center flex-wrap">
+    <form class="flex-row m-flex-column gap-l flex-wrap" [formGroup]="formGroup" (submit)="submitForm()">
+        <div class="flex-column">
             <p class="fs-m">search</p>
             <input
                     class="fs-l p-b-i"
@@ -10,32 +10,34 @@
                     [placeholder]="'search'"
             >
         </div>
-        <div>
-            <p class="fs-m">sorted by</p>
-            <select class="fs-l p-b-i" formControlName="sorting" (change)="submitForm()">
-                <option *ngFor="let option of Object.values(Sorting)" [ngValue]="qSorting">{{ option }}</option>
-            </select>
-        </div>
-        <div>
-            <p class="fs-m">rating</p>
-            <select class="fs-l p-b-i" formControlName="rating" (change)="submitForm()">
-                <option></option>
-                <option *ngFor="let option of [1,2,3,4,5,6,7,8,9,10].reverse()">{{ option }}</option>
-            </select>
-        </div>
-        <div>
-            <p class="fs-m">decade</p>
-            <select class="fs-l p-b-i" formControlName="decade" (change)="submitForm()">
-                <option></option>
-                <option *ngFor="let option of decades">{{ option }}</option>
-            </select>
-        </div>
-        <div>
-            <p class="fs-m">year</p>
-            <select class="fs-l p-b-i" formControlName="year" (change)="submitForm()">
-                <option></option>
-                <option *ngFor="let option of years">{{ option }}</option>
-            </select>
+        <div class="flex-row gap-l flex-wrap align-center justify-center">
+            <div>
+                <p class="fs-m">sorted by</p>
+                <select class="fs-l p-b-i" formControlName="sorting" (change)="submitForm()">
+                    <option [value]="option" *ngFor="let option of sortingOptions">{{ option }}</option>
+                </select>
+            </div>
+            <div>
+                <p class="fs-m">rating</p>
+                <select class="fs-l p-b-i" formControlName="rating" (change)="submitForm()">
+                    <option></option>
+                    <option [value]="option" *ngFor="let option of [1,2,3,4,5,6,7,8,9,10].reverse()">{{ option }}</option>
+                </select>
+            </div>
+            <div>
+                <p class="fs-m">decade</p>
+                <select class="fs-l p-b-i" formControlName="decade" (change)="submitForm()">
+                    <option></option>
+                    <option [value]="option" *ngFor="let option of decadeOptions">{{ option }}</option>
+                </select>
+            </div>
+            <div>
+                <p class="fs-m">year</p>
+                <select class="fs-l p-b-i" formControlName="year" (change)="submitForm()">
+                    <option></option>
+                    <option [value]="option" *ngFor="let option of yearOptions">{{ option }}</option>
+                </select>
+            </div>
         </div>
         <button type="submit" style="display: none; width: 0">hidden submit</button>
     </form>
