@@ -745,6 +745,38 @@
       "playTime": 159,
       "genre": "Soundtrack",
       "playTime30Days": 6
+    },
+    {
+      "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cf871ddf9d67bbdeb0ac6a1a",
+      "title": "Blackstar",
+      "artist": "David Bowie",
+      "songs": [
+        {
+          "title": "★",
+          "preview_url": "https://p.scdn.co/mp3-preview/f4b335e6c32af4a1ce9ca1d34a8f924aecc7a033?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "'Tis A Pity She Was A Whore",
+          "preview_url": "https://p.scdn.co/mp3-preview/13128e1e2e3a3abf7ea13777728cacfaca25ba2d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lazarus",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f3b0d2f5c3d8a62ed27d2b73b4c7364a296639f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dollar Days",
+          "preview_url": "https://p.scdn.co/mp3-preview/35437f3209392cb5b7a240a2530673c7346cf6a6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Can't Give Everything Away",
+          "preview_url": "https://p.scdn.co/mp3-preview/96b2c4a9677a99657965f718b872f161556bb24d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 0,
+      "genre": "Alt Rock",
+      "year": 2016
     }
   ]
 }

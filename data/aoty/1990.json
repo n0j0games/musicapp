@@ -661,6 +661,38 @@
       "year": 1998,
       "playTime30Days": 132,
       "color": "#7a1511"
+    },
+    {
+      "url": "https://open.spotify.com/album/7BkRQxUtZJpzRCJIZDbWxW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4",
+      "title": "Four-Calendar Café (Remastered 2024)",
+      "artist": "Cocteau Twins",
+      "songs": [
+        {
+          "title": "Know Who You Are At Every Age - Remastered 2024",
+          "preview_url": "https://p.scdn.co/mp3-preview/55a2de160912ae9e55fcb0dcaf24ac9d44d31d6b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Evangeline - Remastered 2024",
+          "preview_url": "https://p.scdn.co/mp3-preview/b456b342952aff25327e73b87e3a15a31d423125?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bluebeard - Remastered 2024",
+          "preview_url": "https://p.scdn.co/mp3-preview/67dfac3801df6669d1e9c3bba1a2a742d256c226?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Squeeze-Wax - Remastered 2024",
+          "preview_url": "https://p.scdn.co/mp3-preview/4cb8e2c55dcc171ddf46d6109362236f33c6583c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Pur - Remastered 2024",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6a99f18a1cd4323ea676005afb7034897bd7d97?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Dreampop",
+      "year": 1993
     }
   ]
 }

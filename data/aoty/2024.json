@@ -2555,6 +2555,30 @@
       "playTime": 14,
       "genre": "Pop",
       "playTime30Days": 14
+    },
+    {
+      "url": "https://open.spotify.com/album/2uKD5g5T7oklsMHJDcPgLB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27333ff34130a6eeecb47d24d26",
+      "title": "2000",
+      "artist": "Pashanim",
+      "songs": [
+        {
+          "title": "Florenz",
+          "preview_url": "https://p.scdn.co/mp3-preview/b39e05faaeb13f6bae69c9c5a30f8984227a2088?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mittelmeer",
+          "preview_url": "https://p.scdn.co/mp3-preview/d038a304d18a8fcfebc11f12b078cc696b395674?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Duty Free",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c13308aaae6ed98b76fb8e36e7bf72906ed8100?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "year": 2024
     }
   ]
 }
