@@ -18,6 +18,14 @@
       "artist": "Bad Bunny",
       "songs": [
         {
+          "title": "LO QUE LE PASÓ A HAWAii",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7c8127f80638cf6b4e33c2a902f9db5192074d7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "DtMF",
+          "preview_url": "https://p.scdn.co/mp3-preview/e41ce6b82410d81c08baacca2a7169e5ace4287d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
           "title": "EL CLúB",
           "preview_url": "https://p.scdn.co/mp3-preview/ceb76da38415ae2cf0546ae175ef58fbbf208f1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
@@ -26,15 +34,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7a3b57ab0ac75e0b0b46072bea45826de80b7e1a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "PERFuMITO NUEVO",
-          "preview_url": "https://p.scdn.co/mp3-preview/0a64756da233a5380ecf92ee8f250611f2ba1f06?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "CAFé CON RON",
           "preview_url": "https://p.scdn.co/mp3-preview/a3ac094516a56e20f0eae6d56641a25098fcc6f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.5,
+      "rating": 8.7,
       "playTime": 408,
       "genre": "Latin",
       "playTime30Days": 233

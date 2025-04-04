@@ -3,11 +3,20 @@
   "week": 2,
   "songs": [
     {
+      "title": "LO QUE LE PASÓ A HAWAii",
+      "previewUrl": "https://p.scdn.co/mp3-preview/f7c8127f80638cf6b4e33c2a902f9db5192074d7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "artist": "Bad Bunny",
+      "rating": 10,
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/7a3b57ab0ac75e0b0b46072bea45826de80b7e1a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
       "title": "NUEVAYoL",
       "artist": "Bad Bunny",
-      "rating": 8,
+      "rating": 9,
       "album": "DeBÍ TiRAR MáS FOToS",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
