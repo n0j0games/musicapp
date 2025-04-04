@@ -363,7 +363,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 190,
+      "playTime": 191,
       "playTime30Days": 7,
       "year": 2009,
       "color": "#ad4362"
@@ -1000,7 +1000,7 @@
       "playTime": 36,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 17
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1125,6 +1125,39 @@
       "genre": "Hip-Hop",
       "year": 2000,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+      "title": "Is This It",
+      "artist": "The Strokes",
+      "songs": [
+        {
+          "title": "Is This It",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7307221831a0d0f29ac8952b08e93267915b6c5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Modern Age",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f4615c491caf9e03afc2489cf59bafa87e8981d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Someday",
+          "preview_url": "https://p.scdn.co/mp3-preview/e0f3ec28017ca3d64a177dc92604ecda1c37102d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Last Nite",
+          "preview_url": "https://p.scdn.co/mp3-preview/9757c503fb2174e4db5ff087bb14d5d7d0b8f62a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "New York City Cops",
+          "preview_url": "https://p.scdn.co/mp3-preview/201d57f77b0f8ba03faf91b23804dd5f239d7b74?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.3,
+      "playTime": 46,
+      "genre": "Rock",
+      "year": 2001,
+      "playTime30Days": 42
     }
   ]
 }

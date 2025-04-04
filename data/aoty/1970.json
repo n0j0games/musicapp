@@ -425,7 +425,7 @@
       ],
       "rating": 8.8,
       "genre": "Metal",
-      "playTime": 19,
+      "playTime": 15,
       "playTime30Days": 0,
       "year": 1970
     },
@@ -553,7 +553,7 @@
       "rating": 7.7,
       "playTime": 43,
       "genre": "Art Rock",
-      "playTime30Days": 16
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
@@ -608,10 +608,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 31,
+      "playTime": 34,
       "genre": "Funk",
       "year": 1975,
-      "playTime30Days": 20
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/2cPAfymbuKYHt5ejX9LIxL",

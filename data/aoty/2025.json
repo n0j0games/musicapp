@@ -35,9 +35,9 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 398,
+      "playTime": 408,
       "genre": "Latin",
-      "playTime30Days": 223
+      "playTime30Days": 233
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -67,9 +67,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 270,
+      "playTime": 275,
       "genre": "Rap",
-      "playTime30Days": 40,
+      "playTime30Days": 31,
       "color": "#1f4072"
     },
     {
@@ -140,7 +140,7 @@
       "rating": 8,
       "playTime": 663,
       "genre": "Synthpop",
-      "playTime30Days": 38
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -262,7 +262,7 @@
       "rating": 7,
       "playTime": 49,
       "genre": "Art Pop",
-      "playTime30Days": 16
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -306,7 +306,7 @@
       "rating": 5,
       "playTime": 19,
       "genre": "Pop",
-      "playTime30Days": 19
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6QoJa1uhryvCmMlmq0BCJQ",
@@ -536,9 +536,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 54,
+      "playTime": 117,
       "genre": "Deutschpop",
-      "playTime30Days": 54
+      "playTime30Days": 117
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -563,18 +563,74 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
-      "genre": "Deutschrap"
+      "rating": 7,
+      "playTime": 19,
+      "genre": "Deutschrap",
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730e8ecea7452c1d2cf87df426",
       "title": "OMW2 REXDALE",
       "artist": "NAV",
-      "rating": 4.0,
-      "playTime": 0,
-      "genre": "Rap"
+      "rating": 4,
+      "playTime": 10,
+      "genre": "Rap",
+      "playTime30Days": 10
+    },
+    {
+      "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738e4bd6b94589fabb579a52c5",
+      "title": "star",
+      "artist": "2hollis",
+      "songs": [
+        {
+          "title": "beginning",
+          "preview_url": "https://p.scdn.co/mp3-preview/8beb4c7f981f84f73846e67d6632e88efd316d0e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "flash",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d4bbc55c5d28edd2ad6559d12ab91da0cfcc961?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "burn",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fc8963bae34cc7838e8d7feb6a29323b4b12e77?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "safe",
+          "preview_url": "https://p.scdn.co/mp3-preview/477af8324a72fcd204d54c16196468825a00146c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 27,
+      "genre": "Hyperpop",
+      "year": 2025,
+      "playTime30Days": 27
+    },
+    {
+      "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f2bb8524f27bbcfef982599f",
+      "title": "Forever Howlong",
+      "artist": "Black Country, New Road",
+      "songs": [
+        {
+          "title": "Two Horses",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd088a40ae6b2173003b018be582b01cd5c7d445?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Socks",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc2f4baba9c0c335c8ae1f7fef27912541ed987e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "For the Cold Country",
+          "preview_url": "https://p.scdn.co/mp3-preview/8162acacc795e8482c99aee1a346aeba9ad0ddcb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 11,
+      "genre": "Art Rock",
+      "year": 2025,
+      "playTime30Days": 11
     }
   ]
 }

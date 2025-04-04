@@ -95,8 +95,8 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 164,
-      "playTime30Days": 0,
+      "playTime": 176,
+      "playTime30Days": 14,
       "color": "#437b76"
     },
     {
@@ -308,8 +308,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 149,
-      "playTime30Days": 10,
+      "playTime": 152,
+      "playTime30Days": 13,
       "color": "#9194cb"
     },
     {
@@ -774,9 +774,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 0,
+      "playTime": 28,
       "genre": "Alt Rock",
-      "year": 2016
+      "year": 2016,
+      "playTime30Days": 0
     }
   ]
 }

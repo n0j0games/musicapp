@@ -62,7 +62,7 @@
       ],
       "rating": 9.6,
       "playTime": 477,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#687d84"
     },
     {
@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 115,
+      "playTime": 116,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -359,7 +359,7 @@
       "rating": 8.99999,
       "genre": "Rap",
       "playTime": 1192,
-      "playTime30Days": 8,
+      "playTime30Days": 7,
       "color": "#513a39"
     },
     {
@@ -2116,7 +2116,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 134,
+      "playTime": 135,
       "genre": "Latin Rap",
       "playTime30Days": 0
     },

@@ -96,8 +96,8 @@
       ],
       "rating": 8.7,
       "genre": "Country Pop",
-      "playTime": 756,
-      "playTime30Days": 0,
+      "playTime": 781,
+      "playTime30Days": 25,
       "color": "#40469e"
     },
     {
@@ -229,7 +229,7 @@
       "rating": 8.8,
       "genre": "Synthpop",
       "playTime": 227,
-      "playTime30Days": 10,
+      "playTime30Days": 9,
       "color": "#12497e"
     },
     {
@@ -393,8 +393,8 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 71,
-      "playTime30Days": 0,
+      "playTime": 92,
+      "playTime30Days": 23,
       "color": "#104e73"
     },
     {
@@ -521,8 +521,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 164,
-      "playTime30Days": 86,
+      "playTime": 167,
+      "playTime30Days": 87,
       "color": "#357a31"
     },
     {
@@ -649,8 +649,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 208,
-      "playTime30Days": 15,
+      "playTime": 211,
+      "playTime30Days": 18,
       "color": "#376893"
     },
     {
@@ -2265,8 +2265,8 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 233,
-      "playTime30Days": 0,
+      "playTime": 246,
+      "playTime30Days": 14,
       "color": "#332737"
     },
     {
@@ -2332,7 +2332,7 @@
       "rating": 9.2,
       "playTime": 620,
       "genre": "Wiener Pop",
-      "playTime30Days": 165,
+      "playTime30Days": 161,
       "color": "#c51919"
     },
     {
@@ -2575,10 +2575,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3c13308aaae6ed98b76fb8e36e7bf72906ed8100?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
+      "rating": 6,
       "playTime": 0,
       "genre": "Deutschrap",
-      "year": 2024
+      "year": 2024,
+      "playTime30Days": 0
     }
   ]
 }

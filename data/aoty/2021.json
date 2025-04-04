@@ -189,7 +189,7 @@
       ],
       "rating": 9,
       "playTime": 202,
-      "playTime30Days": 33,
+      "playTime30Days": 32,
       "color": "#9a4542"
     },
     {
@@ -956,7 +956,7 @@
       "rating": 8.7,
       "playTime": 15,
       "genre": "Ambient",
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94",
