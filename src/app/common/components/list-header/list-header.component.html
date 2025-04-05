@@ -26,6 +26,7 @@
                 <p class="fs-m">rating</p>
                 <div class="select">
                     <select class="fs-l p-b-i" formControlName="rating" (change)="submitForm($event)">
+                        <option hidden></option>
                         <option [value]="option" *ngFor="let option of [1,2,3,4,5,6,7,8,9,10].reverse()">{{ option }}</option>
                     </select>
                     <button (click)="resetItem('r')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
@@ -35,6 +36,7 @@
                 <p class="fs-m">decade</p>
                 <div class="select">
                     <select class="fs-l p-b-i" formControlName="decade" (change)="submitForm($event)">
+                        <option hidden></option>
                         <option [value]="option" *ngFor="let option of decadeOptions">{{ option }}</option>
                     </select>
                     <button (click)="resetItem('d')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
@@ -44,7 +46,7 @@
                 <p class="fs-m">year</p>
                 <div class="select">
                     <select class="fs-l p-b-i" formControlName="year" (change)="submitForm($event)" [compareWith]="compareFn">
-                        <option></option>
+                        <option hidden></option>
                         <option [value]="option" *ngFor="let option of yearOptions">{{ option }}</option>
                     </select>
                     <button (click)="resetItem('y')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
