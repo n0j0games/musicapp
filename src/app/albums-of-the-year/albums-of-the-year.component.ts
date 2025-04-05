@@ -297,7 +297,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private includedInAliases(artist : string) : boolean {
-    const aliases = this.getAliases(artist, this.aotyService.getAliasList()!);
+    const aliases = this.getGroupAliases(artist, this.aotyService.getAliasList()!);
     const lowerCaseArtist = artist.toLowerCase();
     for (const alias of aliases) {
       if (lowerCaseArtist.includes(alias)) {
@@ -328,9 +328,9 @@ export class AlbumsOfTheYearComponent implements OnInit {
     return albums;
   }
 
-  private getAliases(artist : string, aliasList : AliasList) {
+  private getGroupAliases(artist : string, aliasList : AliasList) {
     const results : string[] = [];
-    for (let item of aliasList.items) {
+    for (let item of aliasList.groups) {
       if (item.group === artist) {
         return item.members;
       }
