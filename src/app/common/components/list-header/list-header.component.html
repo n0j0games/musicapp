@@ -1,5 +1,5 @@
 <div class="title-gap-b"> <!-- class="list-banner"-->
-    <div class="list-banner-bottom"></div>
+    <!-- <div class="list-banner-bottom"></div> -->
     <p class="p-b-i fs-xl text-title">{{ title }}</p>
     <p class="p-i fs-m">{{ subtitle }}</p>
 </div>
@@ -44,6 +44,7 @@
                 <p class="fs-m">year</p>
                 <div class="select">
                     <select class="fs-l p-b-i" formControlName="year" (change)="submitForm($event)" [compareWith]="compareFn">
+                        <option></option>
                         <option [value]="option" *ngFor="let option of yearOptions">{{ option }}</option>
                     </select>
                     <button (click)="resetItem('y')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
