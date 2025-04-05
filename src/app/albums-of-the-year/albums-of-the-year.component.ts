@@ -9,7 +9,7 @@ import {Sorting} from "../common/models/sorting.enum";
 import {AliasList} from "../common/models/alias-list";
 import {FormControl, FormGroup, FormsModule, ReactiveFormsModule, Validators} from "@angular/forms";
 import {ListHeaderComponent} from "../common/components/list-header/list-header.component";
-import {Option} from "../common/models/option";
+import { NormalizeHelper } from "../common/normalize-helper";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -159,8 +159,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   private updateSearch(queryParams: Params) {
     let qSearch: string | null | undefined = this.formGroup.get("search")?.value;
     if (qSearch !== undefined && qSearch !== null && qSearch !== "") {
-      qSearch = qSearch.replaceAll(" ", "-").toLowerCase();
-      queryParams['q'] = qSearch;
+      queryParams['q'] = NormalizeHelper.fromNormalToQueryString(qSearch);
     } else {
       queryParams['q'] = undefined;
     }
@@ -179,7 +178,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
     this.qSorting = !!sorting && Object.values(Sorting).includes(sorting) ? <Sorting>sorting : Sorting.RATING
     this.qDecade = !!decade && decade % 10 === 0 ? parseInt(decade) : null;
     this.qYear = !!year && !!decade ? parseInt(year) : null;
-    this.qSearch = !!search ? search.replaceAll("-", " ") : null;
+    this.qSearch = !!search ? NormalizeHelper.fromQueryStringToNormal(search) : null;
     this.isStrict = isStrict;
     this.qRating = !!rating && rating >= 0 && rating <= 10 ? parseInt(rating) : null;
 
@@ -219,8 +218,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private sortAlbums(albums: Album[]): Album[] {
-    const sortedBy = "sorted by "
-    this.sortingTitle = sortedBy + this.qSorting;
+    this.updateSubTitle();
     albums = albums.sort((a, b) => b.rating - a.rating);
     switch (this.qSorting) {
       case Sorting.ALPHABETICAL:
@@ -267,18 +265,24 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private updateTitle() {
-    this.title = "albums";
+    if (this.qSearch !== null) {
+      this.title = " albums by " + this.qSearch.replace("-", " ") + "";
+    }
+  }
+
+  private updateSubTitle() {
+    this.sortingTitle = "";
     if (this.qYear !== null) {
-      this.title = "albums from " + this.qYear;
+      this.sortingTitle = "from " + this.qYear;
     }
     if (this.qYear === null && this.qDecade !== null) {
-      this.title = "albums from the " + this.qDecade + "s";
+      this.sortingTitle = "from the " + this.qDecade + "s";
     }
     if (this.qRating !== null) {
-      this.title = this.title + " rated " + this.qRating;
+      this.sortingTitle = this.sortingTitle + " rated " + this.qRating;
     }
-    if (this.qSearch !== null) {
-      this.title = this.title + " matching '" + this.qSearch.replace("-", " ") + "'";
+    if (this.qSorting !== null) {
+      this.sortingTitle = this.sortingTitle + " sorted by " + this.qSorting;
     }
   }
 
@@ -313,15 +317,15 @@ export class AlbumsOfTheYearComponent implements OnInit {
     if (this.qSearch === null) {
       return true;
     }
-    const title = album.title.toLowerCase().replaceAll(" ", "-").replaceAll("%20", "-");
+    const title = NormalizeHelper.fromNormalToQueryString(album.title);
     if (this.isStrict && title === this.qSearch) {
       return true;
     }
     if (title.startsWith(this.qSearch)) {
       return true;
     }
-    const artist = album.artist.toLowerCase().replaceAll(" ", "-").replaceAll("%20", "-");
-    const qArtist = this.qSearch.toLowerCase().replaceAll(" ", "-".replaceAll("%20", "-"));
+    const artist = NormalizeHelper.fromNormalToQueryString(album.artist);
+    const qArtist = NormalizeHelper.fromNormalToQueryString(this.qSearch);
     if (this.isStrict) {
       return artist === qArtist;
     } else {
@@ -367,10 +371,10 @@ export class AlbumsOfTheYearComponent implements OnInit {
     const results : string[] = [];
     for (let item of aliasList.groups) {
       if (item.group === artist) {
-        return item.members.map(x => x.toLowerCase().replaceAll(" ", "-".replaceAll("%20", "-")));
+        return item.members.map(x => NormalizeHelper.fromNormalToQueryString(x));
       }
       if (item.members.includes(artist)) {
-        results.push(item.group.toLowerCase().replaceAll(" ", "-".replaceAll("%20", "-")));
+        results.push(NormalizeHelper.fromNormalToQueryString(item.group));
       }
     }
     return results;

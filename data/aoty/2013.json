@@ -2,6 +2,15 @@
   "year": 2013,
   "albums": [
     {
+      "url": "https://rateyourmusic.com/release/unauth/kanye-west/thank-god-for-drugs-1/",
+      "imgUrl": "https://e.snmc.io/i/1200/s/6fb0dc432068a4f91c6ecfc0b90723d5/11488448",
+      "title": "Thank God for Drugs",
+      "artist": "Kanye West",
+      "rating": 5,
+      "playTime": 8,
+      "playTime30Days": 0
+    },
+    {
       "url": "https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e4860d5331509e2c9ee4de10",
       "title": "Kiss Land",

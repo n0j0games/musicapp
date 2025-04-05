@@ -11,6 +11,7 @@ import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
 import {LastfmBadge} from "../../common/components/lastfm-badge/lastfm-badge";
+import {NormalizeHelper} from "../../common/normalize-helper";
 
 @Component({
   selector: 'app-album-detail',
@@ -78,7 +79,7 @@ export class AlbumDetailComponent implements OnInit {
           [],
           {
               relativeTo: this.route,
-              queryParams: { q: this.album.artist.replaceAll(" ", "-").toLowerCase() },
+              queryParams: { q: NormalizeHelper.fromNormalToQueryString(this.album.artist) },
               queryParamsHandling: 'merge'
           }
       ).then(_ => {console.log("Refreshed params")});
