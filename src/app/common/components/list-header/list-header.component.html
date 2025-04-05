@@ -1,0 +1,59 @@
+<div class="title-gap-b"> <!-- class="list-banner"-->
+    <div class="list-banner-bottom"></div>
+    <p class="p-b-i fs-xl text-title">{{ title }}</p>
+    <p class="p-i fs-m">{{ subtitle }}</p>
+</div>
+<div class="title-gap-b flex-column align-center justify-center flex-wrap">
+    <form class="flex-row m-flex-column gap-l flex-wrap" [formGroup]="formGroup" (submit)="submitForm($event)" (reset)="resetForm($event)">
+        <div class="flex-column">
+            <p class="fs-m">search</p>
+            <input
+                    class="fs-l p-b-i"
+                    formControlName="search"
+                    [placeholder]="'search'"
+            >
+        </div>
+        <div class="flex-row gap-l flex-wrap align-end justify-center">
+            <div>
+                <p class="fs-m">sorted by</p>
+                <div class="select">
+                    <select class="fs-l p-b-i" formControlName="sorting" (change)="submitForm($event)">
+                        <option [value]="option" *ngFor="let option of sortingOptions">{{ option }}</option>
+                    </select>
+                </div>
+            </div>
+            <div>
+                <p class="fs-m">rating</p>
+                <div class="select">
+                    <select class="fs-l p-b-i" formControlName="rating" (change)="submitForm($event)">
+                        <option [value]="option" *ngFor="let option of [1,2,3,4,5,6,7,8,9,10].reverse()">{{ option }}</option>
+                    </select>
+                    <button (click)="resetItem('r')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+            </div>
+            <div>
+                <p class="fs-m">decade</p>
+                <div class="select">
+                    <select class="fs-l p-b-i" formControlName="decade" (change)="submitForm($event)">
+                        <option [value]="option" *ngFor="let option of decadeOptions">{{ option }}</option>
+                    </select>
+                    <button (click)="resetItem('d')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+            </div>
+            <div>
+                <p class="fs-m">year</p>
+                <div class="select">
+                    <select class="fs-l p-b-i" formControlName="year" (change)="submitForm($event)" [compareWith]="compareFn">
+                        <option [value]="option" *ngFor="let option of yearOptions">{{ option }}</option>
+                    </select>
+                    <button (click)="resetItem('y')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+            </div>
+            <div>
+                <button class="reset-button fs-l p-b-i" type="reset"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+
+        </div>
+        <button type="submit" style="display: none; width: 0">hidden submit</button>
+    </form>
+</div>

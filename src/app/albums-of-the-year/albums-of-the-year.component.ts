@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {ActivatedRoute, Params, Router} from "@angular/router";
+import {ActivatedRoute, Params, QueryParamsHandling, Router} from "@angular/router";
 import {AotyService} from "../common/services/aoty.service";
 import {NgForOf, NgIf, UpperCasePipe} from "@angular/common";
 import {SongDetailComponent} from "../songs-of-the-week/song-detail/song-detail.component";
@@ -7,7 +7,9 @@ import {AlbumDetailComponent} from "./album-detail/album-detail.component";
 import {Album} from "../common/models/album";
 import {Sorting} from "../common/models/sorting.enum";
 import {AliasList} from "../common/models/alias-list";
-import {FormControl, FormGroup, FormsModule, ReactiveFormsModule} from "@angular/forms";
+import {FormControl, FormGroup, FormsModule, ReactiveFormsModule, Validators} from "@angular/forms";
+import {ListHeaderComponent} from "../common/components/list-header/list-header.component";
+import {Option} from "../common/models/option";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -21,7 +23,8 @@ const MAX_CAP_DEFAULT = 200;
     AlbumDetailComponent,
     FormsModule,
     ReactiveFormsModule,
-    UpperCasePipe
+    UpperCasePipe,
+    ListHeaderComponent
   ],
   templateUrl: './albums-of-the-year.component.html'
 })
@@ -30,6 +33,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   albumsOfTheYear! : Album[] | null;
   albumsOfTheYearWithoutMaxCap! : Album[] | null;
   rawAlbumsOfTheYear! : Album[] | null;
+  aliasList!: AliasList | null;
 
   qSorting : Sorting = Sorting.RATING;
   qYear : number | null = null;
@@ -41,14 +45,15 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   title = "albums of the year";
   sortingTitle = "";
-  yearOptions_ : number[] = Array.from({ length: 60 }, (_, i) => 1970 + i);
-  decadeOptions = [1970, 1980, 1990, 2000, 2010, 2020];
+  private startYear: number = 1965;
+  yearOptions_ : number[] = Array.from({ length: (new Date().getFullYear() - this.startYear + 1) }, (_, i) => this.startYear + i);
+  decadeOptions = [1960, 1970, 1980, 1990, 2000, 2010, 2020];
   sortingOptions = <Sorting[]>Object.values(Sorting);
 
   formGroup = new FormGroup({
     search : new FormControl<string>(''),
     sorting: new FormControl<Sorting | null>(null),
-    year: new FormControl<number | null>(null),
+    year: new FormControl<number | null>({value: null, disabled: this.yearOptions.length === 0}, Validators.required),
     rating: new FormControl<number | null>(null),
     decade: new FormControl<number | null>(null)
   });
@@ -61,6 +66,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
       this.updateParams(params);
     });
 
+    this.aliasList = this.aotyService.getAliasList()!;
     this.rawAlbumsOfTheYear = this.getAggregatedAlbums();
     this.albumsOfTheYearWithoutMaxCap = [...this.rawAlbumsOfTheYear];
     this.refreshAlbums();
@@ -79,17 +85,36 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   submitForm() {
+    this.updateForm(null);
+  }
+
+  resetForm() {
+    this.navigateAfterFormChange({});
+  }
+
+  resetItem(name: string) {
+    this.updateForm(name);
+  }
+
+  private updateForm(resetComponent: string | null) {
     const queryParams : Params = {};
     this.updateSearch(queryParams);
     this.updateSorting(queryParams);
     this.updateYearAndDecade(queryParams);
     this.updateRating(queryParams);
+    if (resetComponent !== null) {
+      queryParams[resetComponent] = undefined;
+    }
+    this.navigateAfterFormChange(queryParams);
+  }
+
+  private navigateAfterFormChange(queryParams : Params) {
     this.router.navigate(
         [],
         {
           relativeTo: this.route,
           queryParams,
-          queryParamsHandling: 'merge'
+          queryParamsHandling: 'replace'
         }
     ).then(_ => {console.log("Refreshed params")});
   }
@@ -165,6 +190,11 @@ export class AlbumsOfTheYearComponent implements OnInit {
       decade: this.qDecade,
       rating: this.qRating,
     });
+    if (this.yearOptions.length > 0) {
+      this.formGroup.controls.year.enable();
+    } else {
+      this.formGroup.controls.year.disable();
+    }
     this.refreshAlbums();
   }
 
@@ -284,6 +314,9 @@ export class AlbumsOfTheYearComponent implements OnInit {
       return true;
     }
     const title = album.title.toLowerCase().replaceAll(" ", "-").replaceAll("%20", "-");
+    if (this.isStrict && title === this.qSearch) {
+      return true;
+    }
     if (title.startsWith(this.qSearch)) {
       return true;
     }
@@ -292,15 +325,17 @@ export class AlbumsOfTheYearComponent implements OnInit {
     if (this.isStrict) {
       return artist === qArtist;
     } else {
-      return artist.includes(qArtist) || this.includedInAliases(artist);
+      return qArtist.includes(artist) || artist.includes(qArtist) || this.includedInAliases(album.artist, qArtist);
     }
   }
 
-  private includedInAliases(artist : string) : boolean {
-    const aliases = this.getGroupAliases(artist, this.aotyService.getAliasList()!);
-    const lowerCaseArtist = artist.toLowerCase();
+  private includedInAliases(artist : string, qArtist: string) : boolean {
+    const aliases = this.getGroupAliases(artist.toLowerCase(), this.aliasList!);
+    if (aliases.length > 0) {
+      console.log(artist, aliases);
+    }
     for (const alias of aliases) {
-      if (lowerCaseArtist.includes(alias)) {
+      if (qArtist.includes(alias)) {
         return true;
       }
     }
@@ -332,10 +367,10 @@ export class AlbumsOfTheYearComponent implements OnInit {
     const results : string[] = [];
     for (let item of aliasList.groups) {
       if (item.group === artist) {
-        return item.members;
+        return item.members.map(x => x.toLowerCase().replaceAll(" ", "-".replaceAll("%20", "-")));
       }
       if (item.members.includes(artist)) {
-        results.push(item.group.toLowerCase());
+        results.push(item.group.toLowerCase().replaceAll(" ", "-".replaceAll("%20", "-")));
       }
     }
     return results;
