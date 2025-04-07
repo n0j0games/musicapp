@@ -189,7 +189,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 301,
+      "playTime": 302,
       "playTime30Days": 0,
       "color": "#601f30"
     },
@@ -977,7 +977,7 @@
       "rating": 7,
       "playTime": 47,
       "genre": "Jazz Fusion",
-      "playTime30Days": 21
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",

@@ -190,8 +190,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 147,
-      "playTime30Days": 0,
+      "playTime": 152,
+      "playTime30Days": 6,
       "color": "#872001"
     },
     {
@@ -251,8 +251,8 @@
       "title": "Goblin",
       "artist": "Tyler, The Creator",
       "rating": 5,
-      "playTime": 55,
-      "playTime30Days": 11
+      "playTime": 56,
+      "playTime30Days": 12
     },
     {
       "url": "https://soundcloud.com/912000/travis-scott-jason-eric-cruisn-usa-full-mixtape-2011",

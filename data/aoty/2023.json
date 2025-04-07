@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 477,
-      "playTime30Days": 0,
+      "playTime": 480,
+      "playTime30Days": 7,
       "color": "#687d84"
     },
     {
@@ -455,8 +455,8 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 628,
-      "playTime30Days": 0,
+      "playTime": 629,
+      "playTime30Days": 5,
       "color": "#4c4559"
     },
     {

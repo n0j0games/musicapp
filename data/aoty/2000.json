@@ -1000,7 +1000,7 @@
       "playTime": 36,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 12
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1154,10 +1154,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 46,
+      "playTime": 53,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 42
+      "playTime30Days": 49
     }
   ]
 }

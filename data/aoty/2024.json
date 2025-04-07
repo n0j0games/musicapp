@@ -228,8 +228,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 227,
-      "playTime30Days": 9,
+      "playTime": 228,
+      "playTime30Days": 10,
       "color": "#12497e"
     },
     {
@@ -360,7 +360,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 169,
+      "playTime": 172,
       "playTime30Days": 0,
       "color": "#66260e"
     },
@@ -393,8 +393,8 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 92,
-      "playTime30Days": 23,
+      "playTime": 95,
+      "playTime30Days": 26,
       "color": "#104e73"
     },
     {
@@ -522,7 +522,7 @@
       "rating": 8.3,
       "genre": "Rock",
       "playTime": 167,
-      "playTime30Days": 87,
+      "playTime30Days": 86,
       "color": "#357a31"
     },
     {
@@ -650,7 +650,7 @@
       "rating": 8.1,
       "genre": "Synthpop",
       "playTime": 211,
-      "playTime30Days": 18,
+      "playTime30Days": 17,
       "color": "#376893"
     },
     {
@@ -2141,7 +2141,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 306,
+      "playTime": 310,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2265,8 +2265,8 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 246,
-      "playTime30Days": 14,
+      "playTime": 247,
+      "playTime30Days": 15,
       "color": "#332737"
     },
     {
@@ -2332,7 +2332,7 @@
       "rating": 9.2,
       "playTime": 620,
       "genre": "Wiener Pop",
-      "playTime30Days": 161,
+      "playTime30Days": 139,
       "color": "#c51919"
     },
     {
@@ -2554,7 +2554,7 @@
       "rating": 6,
       "playTime": 14,
       "genre": "Pop",
-      "playTime30Days": 14
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/2uKD5g5T7oklsMHJDcPgLB",

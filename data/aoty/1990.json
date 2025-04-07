@@ -100,8 +100,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 158,
-      "playTime30Days": 0,
+      "playTime": 164,
+      "playTime30Days": 6,
       "year": 1999,
       "color": "#001743"
     },
@@ -659,7 +659,7 @@
       "playTime": 138,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 127,
+      "playTime30Days": 79,
       "color": "#7a1511"
     },
     {

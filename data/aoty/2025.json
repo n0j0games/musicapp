@@ -39,9 +39,9 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 408,
+      "playTime": 426,
       "genre": "Latin",
-      "playTime30Days": 233
+      "playTime30Days": 251
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -73,7 +73,7 @@
       "rating": 9,
       "playTime": 275,
       "genre": "Rap",
-      "playTime30Days": 31,
+      "playTime30Days": 29,
       "color": "#1f4072"
     },
     {
@@ -144,7 +144,7 @@
       "rating": 8,
       "playTime": 663,
       "genre": "Synthpop",
-      "playTime30Days": 18
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -266,7 +266,7 @@
       "rating": 7,
       "playTime": 49,
       "genre": "Art Pop",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -372,7 +372,7 @@
       "rating": 6,
       "playTime": 25,
       "genre": "Pop",
-      "playTime30Days": 25
+      "playTime30Days": 22
     },
     {
       "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
@@ -454,7 +454,7 @@
       "rating": 5,
       "playTime": 10,
       "genre": "Pop",
-      "playTime30Days": 10
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/3yrnXGRp6POeshHNBI4oiZ",
@@ -540,9 +540,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 117,
+      "playTime": 126,
       "genre": "Deutschpop",
-      "playTime30Days": 117
+      "playTime30Days": 126
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -606,10 +606,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 27,
+      "playTime": 28,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 27
+      "playTime30Days": 28
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -631,10 +631,10 @@
         }
       ],
       "rating": 6,
-      "playTime": 11,
+      "playTime": 15,
       "genre": "Art Rock",
       "year": 2025,
-      "playTime30Days": 11
+      "playTime30Days": 15
     }
   ]
 }
