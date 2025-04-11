@@ -28,10 +28,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ae4ae52e313377f6dd438dbf52162a2cb9aad809?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.8,
+      "rating": 11.4,
       "genre": "Dance Pop",
-      "playTime": 959,
-      "playTime30Days": 106,
+      "playTime": 968,
+      "playTime30Days": 115,
       "color": "#465b6b"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 367,
+      "playTime": 368,
       "playTime30Days": 0,
       "color": "#456338"
     },

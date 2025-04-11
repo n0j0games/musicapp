@@ -28,7 +28,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3f8a230982ce84fb56fae93fbc30e3eaf7406c0?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10,
+      "rating": 9.9,
       "playTime": 407,
       "playTime30Days": 0,
       "color": "#81202d"
@@ -60,7 +60,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2afc079b1e63fac235b364206846f5b333f451ef?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.3,
+      "rating": 11.7,
       "playTime": 433,
       "genre": "Alternative R&B",
       "playTime30Days": 0,
@@ -93,7 +93,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d9913e7d4c6d570eb5a99183bf5bea6455184da1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.4,
+      "rating": 10.6,
       "playTime": 212,
       "playTime30Days": 0,
       "color": "#406e22"
@@ -222,8 +222,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 284,
-      "playTime30Days": 11,
+      "playTime": 297,
+      "playTime30Days": 24,
       "color": "#857e5b"
     },
     {

@@ -95,8 +95,8 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 176,
-      "playTime30Days": 14,
+      "playTime": 177,
+      "playTime30Days": 15,
       "color": "#437b76"
     },
     {
@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 126,
+      "playTime": 127,
       "playTime30Days": 0
     },
     {
@@ -277,8 +277,8 @@
       ],
       "rating": 8,
       "genre": "Rap",
-      "playTime": 420,
-      "playTime30Days": 6
+      "playTime": 421,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H",
@@ -308,8 +308,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 152,
-      "playTime30Days": 13,
+      "playTime": 154,
+      "playTime30Days": 15,
       "color": "#9194cb"
     },
     {
@@ -776,6 +776,17 @@
       "rating": 8.5,
       "playTime": 28,
       "genre": "Alt Rock",
+      "year": 2016,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://www.albumoftheyear.org/album/782125-kanye-west-turbo-grafx-16.php",
+      "imgUrl": "https://lastfm.freetls.fastly.net/i/u/500x500/68bd0237ddfa94159b35a684e5ee8be7.jpg",
+      "title": "Turbo Grafx 16",
+      "artist": "Kanye West",
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Unofficial",
       "year": 2016,
       "playTime30Days": 0
     }

@@ -28,7 +28,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9bc9e5c8a862689568db60d5f9a4872e69edbbef?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11,
+      "rating": 11.2,
       "playTime": 492,
       "playTime30Days": 12,
       "onVinyl": true,
@@ -62,8 +62,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 137,
-      "playTime30Days": 16,
+      "playTime": 139,
+      "playTime30Days": 18,
       "color": "#001e28"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 317,
+      "playTime": 318,
       "playTime30Days": 0,
       "color": "#0e3258"
     },
@@ -331,7 +331,7 @@
       ],
       "rating": 8.9,
       "playTime": 108,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "color": "#251c16"
     },
     {
@@ -729,7 +729,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 86,
+      "playTime": 91,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -757,9 +757,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 169,
+      "playTime": 177,
       "genre": "Live",
-      "playTime30Days": 0
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",

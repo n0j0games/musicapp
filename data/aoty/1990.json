@@ -30,7 +30,7 @@
       ],
       "rating": 9.9,
       "genre": "Alternative Rock",
-      "playTime": 431,
+      "playTime": 432,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
@@ -99,9 +99,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f583bc0706be0bddb26978ccdd71a38584f52736?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.8,
-      "playTime": 164,
-      "playTime30Days": 6,
+      "rating": 10,
+      "playTime": 165,
+      "playTime30Days": 7,
       "year": 1999,
       "color": "#001743"
     },
@@ -182,7 +182,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ad3d3a000449ee466cd3be3cef750e6f47c46e2d?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10,
+      "rating": 9.7,
       "playTime30Days": 0,
       "year": 1996,
       "color": "#1f493c"
@@ -659,7 +659,7 @@
       "playTime": 138,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 79,
+      "playTime30Days": 62,
       "color": "#7a1511"
     },
     {

@@ -32,7 +32,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b1dc34e75c85392a8b3c42b02b90d9e86a662e1b?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.5,
+      "rating": 11.6,
       "onVinyl": true,
       "genre": "Soul",
       "playTime": 322,
@@ -67,7 +67,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5607c92e2b207b496b94d5b8fc25a8bce087c8ee?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.8,
+      "rating": 11.3,
       "genre": "Rock",
       "playTime": 122,
       "playTime30Days": 0,
@@ -611,7 +611,7 @@
       "playTime": 35,
       "genre": "Funk",
       "year": 1975,
-      "playTime30Days": 16
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/2cPAfymbuKYHt5ejX9LIxL",

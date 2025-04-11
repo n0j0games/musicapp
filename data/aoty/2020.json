@@ -153,7 +153,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/dd93b587cac54ed11b207dd704236fde6516512e?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.7,
+      "rating": 10.8,
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1795,
@@ -870,8 +870,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 161,
-      "playTime30Days": 0
+      "playTime": 162,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
@@ -977,7 +977,7 @@
       "rating": 7,
       "playTime": 47,
       "genre": "Jazz Fusion",
-      "playTime30Days": 19
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",

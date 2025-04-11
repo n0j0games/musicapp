@@ -30,7 +30,7 @@
       ],
       "rating": 9.9,
       "genre": "Rap",
-      "playTime": 465,
+      "playTime": 466,
       "playTime30Days": 0,
       "color": "#4d6559"
     },
@@ -61,9 +61,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/705aa3fa0a4677158fb7ed3f53f6c59ea18b0c18?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.9,
+      "rating": 10.1,
       "playTime": 479,
-      "playTime30Days": 78,
+      "playTime30Days": 65,
       "color": "#51aab9"
     },
     {
@@ -190,8 +190,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 59,
-      "playTime30Days": 10
+      "playTime": 61,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI",

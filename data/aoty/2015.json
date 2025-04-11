@@ -70,10 +70,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a0cad6045fca14a435e4785711d867a1063c9010?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.4,
+      "rating": 11.8,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 1082,
+      "playTime": 1083,
       "playTime30Days": 0,
       "color": "#7c7a79"
     },
@@ -104,10 +104,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5a899c2e48f474ac5cc4cd4472596f328331170a?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.3,
+      "rating": 10,
       "genre": "Synthpop",
       "playTime": 848,
-      "playTime30Days": 40,
+      "playTime30Days": 18,
       "color": "#443152"
     },
     {
@@ -359,7 +359,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 95,
+      "playTime": 96,
       "playTime30Days": 0
     },
     {

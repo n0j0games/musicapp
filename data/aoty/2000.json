@@ -32,7 +32,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/20658b82bd25e6c1c5769a73e30cffdb0469dd58?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 11.8,
+      "rating": 11.9,
       "onVinyl": true,
       "genre": "Alt Rock",
       "playTime": 823,
@@ -101,7 +101,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1e1ac914d240a6b0c3e0b53febdbe3f1267f53af?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.9,
+      "rating": 11.1,
       "playTime": 384,
       "playTime30Days": 0,
       "onVinyl": true,
@@ -203,8 +203,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 460,
-      "playTime30Days": 0,
+      "playTime": 483,
+      "playTime30Days": 23,
       "year": 2005,
       "color": "#001621"
     },
@@ -1000,7 +1000,7 @@
       "playTime": 36,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 8
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1154,10 +1154,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 53,
+      "playTime": 61,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 49
+      "playTime30Days": 57
     }
   ]
 }

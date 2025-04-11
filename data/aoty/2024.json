@@ -30,7 +30,7 @@
       ],
       "rating": 9.3,
       "genre": "Deutschrap",
-      "playTime": 265,
+      "playTime": 266,
       "playTime30Days": 0,
       "color": "#878787"
     },
@@ -229,7 +229,7 @@
       "rating": 8.8,
       "genre": "Synthpop",
       "playTime": 228,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "color": "#12497e"
     },
     {
@@ -360,7 +360,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 172,
+      "playTime": 173,
       "playTime30Days": 0,
       "color": "#66260e"
     },
@@ -393,8 +393,8 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 95,
-      "playTime30Days": 26,
+      "playTime": 99,
+      "playTime30Days": 30,
       "color": "#104e73"
     },
     {
@@ -522,7 +522,7 @@
       "rating": 8.3,
       "genre": "Rock",
       "playTime": 167,
-      "playTime30Days": 86,
+      "playTime30Days": 83,
       "color": "#357a31"
     },
     {
@@ -649,8 +649,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 211,
-      "playTime30Days": 17,
+      "playTime": 212,
+      "playTime30Days": 16,
       "color": "#376893"
     },
     {
@@ -765,7 +765,7 @@
       ],
       "rating": 7.6,
       "genre": "Schweizer Indie",
-      "playTime": 115,
+      "playTime": 116,
       "playTime30Days": 0,
       "color": "#832114"
     },
@@ -2141,8 +2141,8 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 310,
-      "playTime30Days": 0,
+      "playTime": 314,
+      "playTime30Days": 8,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2265,8 +2265,8 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 247,
-      "playTime30Days": 15,
+      "playTime": 248,
+      "playTime30Days": 16,
       "color": "#332737"
     },
     {
@@ -2330,9 +2330,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 620,
+      "playTime": 634,
       "genre": "Wiener Pop",
-      "playTime30Days": 139,
+      "playTime30Days": 36,
       "color": "#c51919"
     },
     {
@@ -2580,6 +2580,35 @@
       "genre": "Deutschrap",
       "year": 2024,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2pePDyycyqpk7WxaXB81To",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27309bd5bab21ed03feb59c6b2a",
+      "title": "Running From Robots",
+      "artist": "Gami",
+      "songs": [
+        {
+          "title": "Bash",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e36896ddcbea5fae415d2ded1169590cd21f5c0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mauzi",
+          "preview_url": "https://p.scdn.co/mp3-preview/0b3a86e27e10d5a6c1c25f08f61b8b960f357b51?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Running From Robots",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3636c9fdfa1e471e5eea82aea3350d17ff28909?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "STEH AUF",
+          "preview_url": "https://p.scdn.co/mp3-preview/d176e319dd2e547b1712aa77faa0706cce49b555?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 15,
+      "genre": "Deutschrap",
+      "year": 2024,
+      "playTime30Days": 15
     }
   ]
 }

@@ -39,9 +39,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 426,
+      "playTime": 428,
       "genre": "Latin",
-      "playTime30Days": 251
+      "playTime30Days": 173
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -73,7 +73,7 @@
       "rating": 9,
       "playTime": 275,
       "genre": "Rap",
-      "playTime30Days": 29,
+      "playTime30Days": 25,
       "color": "#1f4072"
     },
     {
@@ -144,7 +144,7 @@
       "rating": 8,
       "playTime": 663,
       "genre": "Synthpop",
-      "playTime30Days": 16
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -540,9 +540,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 126,
+      "playTime": 132,
       "genre": "Deutschpop",
-      "playTime30Days": 126
+      "playTime30Days": 132
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -606,10 +606,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 28,
+      "playTime": 31,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 28
+      "playTime30Days": 31
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -635,6 +635,31 @@
       "genre": "Art Rock",
       "year": 2025,
       "playTime30Days": 15
+    },
+    {
+      "url": "https://open.spotify.com/album/6Oys1wD8ZKLfIxyqkMf9gp",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27385026f1bc8b5058dd443c01b",
+      "title": "MASI",
+      "artist": "Zackavelli",
+      "songs": [
+        {
+          "title": "mehr geld mehr probleme",
+          "preview_url": "https://p.scdn.co/mp3-preview/0bb0814dd77856a04d319dddd984f3a274fdb382?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "GG&LV",
+          "preview_url": "https://p.scdn.co/mp3-preview/29a8dcd70958a6a51cad7122aac83b523cd7aab8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "laufen wir zusammen",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0420bc2ca23e4426dcc4e526a66557fbe05c153?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "year": 2025,
+      "playTime30Days": 9
     }
   ]
 }

@@ -272,6 +272,35 @@
       "playTime": 0,
       "genre": "Soundtrack",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d5e1093f3b6f0a59114a4905",
+      "title": "My Krazy Life",
+      "artist": "YG",
+      "songs": [
+        {
+          "title": "BPT",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2eed664f13c1360cc7ac4ffee0202d43dc8931c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Left, Right",
+          "preview_url": "https://p.scdn.co/mp3-preview/84d5be51b124050ebc203be49a38c28ae22d3e2b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "My Nigga",
+          "preview_url": "https://p.scdn.co/mp3-preview/cdefaab9e5653917fd2a65dce9474adc93579618?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Really Be (Smokin N Drinkin)",
+          "preview_url": "https://p.scdn.co/mp3-preview/f4fcda40631a2183258dd66682dd19a01df95501?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 26,
+      "genre": "Hip-Hop",
+      "year": 2014,
+      "playTime30Days": 17
     }
   ]
 }
