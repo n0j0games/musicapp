@@ -50,6 +50,16 @@
       "url": "https://www.serializd.com/review/25935557",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/rNDFNCfVbdkhRSIRGo7Kp2rR4Ec.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/153642/season/420110/4",
+      "title": "The Discounters",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/31102196",
+      "url": "https://www.serializd.com/show/The-Discounters-153642",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/42t6ISupHwwJ9Obifl79r3d4xUN.jpg",
+      "rating": 7,
+      "year": 2024
     }
   ]
 }

@@ -70,6 +70,16 @@
       "url": "https://www.serializd.com/review/25935054",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/mYmFUlheJrXCLoZdS94kezG8Nuw.jpg",
       "rating": 6
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/153642/season/363261/3",
+      "title": "The Discounters",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/30683522",
+      "url": "https://www.serializd.com/show/The-Discounters-153642",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/kOdSIg3Hjd2x92WhqnojyfJlBXv.jpg",
+      "rating": 7,
+      "year": 2023
     }
   ]
 }

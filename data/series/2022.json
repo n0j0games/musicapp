@@ -110,6 +110,16 @@
       "url": "https://www.serializd.com/review/25935552",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/yLm73dc5q1LENKvF9sgu1rIos56.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/153642/season/310667/2",
+      "title": "The Discounters",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/30429273",
+      "url": "https://www.serializd.com/show/The-Discounters-153642",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/wfH1rSHhhmaVHzxCuuFlOsiLkAM.jpg",
+      "rating": 8,
+      "year": 2022
     }
   ]
 }
