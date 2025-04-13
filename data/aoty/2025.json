@@ -660,6 +660,38 @@
       "genre": "Deutschrap",
       "year": 2025,
       "playTime30Days": 9
+    },
+    {
+      "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb",
+      "title": "SABLE, fABLE",
+      "artist": "Bon Iver",
+      "songs": [
+        {
+          "title": "THINGS BEHIND THINGS BEHIND THINGS",
+          "preview_url": "https://p.scdn.co/mp3-preview/99009bf0f02d85ea58e2b63efff94300281a1d3e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "S P E Y S I D E",
+          "preview_url": "https://p.scdn.co/mp3-preview/bed4ff8f54be9226e86c1106dd8b10517789ba84?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Walk Home",
+          "preview_url": "https://p.scdn.co/mp3-preview/8fac0503440125d46013eeeaea32167e58b12b6b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Day One",
+          "preview_url": "https://p.scdn.co/mp3-preview/d29159431dc15bcedbbf0e33520cc868dd55c306?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "If Only I Could Wait",
+          "preview_url": "https://p.scdn.co/mp3-preview/e761888711e7132ecfe4c73d2872abc4fee56cc6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.2,
+      "playTime": 0,
+      "genre": "Folk",
+      "year": 2025
     }
   ]
 }
