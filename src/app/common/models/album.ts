@@ -14,7 +14,8 @@ export class Album {
                 public playTime? : number,
                 public playTime30Days? : number,
                 public color? : string,
-                public year? : number) {
+                public year? : number,
+                public review? : string) {
     }
 
 }
