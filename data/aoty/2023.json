@@ -2222,6 +2222,30 @@
       "playTime": 19,
       "genre": "Soundtrack",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273921f7aa6349a070b6f26b3ff",
+      "title": "Playing Robots Into Heaven",
+      "artist": "James Blake",
+      "songs": [
+        {
+          "title": "Loading",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f68f1187605b2c73436ea85633e329d2d183991?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tell Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/072f1d60da564be60b855be28a75d1c20ebb29e6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fall Back",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc3eb079731073d32468d2bb0782c037a571a11e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Electronic",
+      "year": 2023
     }
   ]
 }
