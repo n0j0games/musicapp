@@ -417,6 +417,10 @@ option:disabled {
   color: $text-color-light;
 }
 
+.review-text {
+  font-size: 16px;
+}
+
 @media (width < 600px) or (height < 700px) {
 
   .list-banner {
@@ -519,6 +523,10 @@ option:disabled {
 
   .review-title-text {
     font-size: 15px;
+  }
+
+  .review-text {
+    font-size: 14px;
   }
 
 }
