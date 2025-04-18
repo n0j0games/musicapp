@@ -914,16 +914,6 @@
       "color" : "#352774"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/e67f8144ab9f5bfd028781595bd7bdc574c1dca5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273770f46a0b718f3b234cb98fb",
-      "title": "unendlichkeit",
-      "artist": "CRO",
-      "rating": 0,
-      "album": "tru. (Deluxe Edition)",
-      "url": "https://open.spotify.com/track/3bV0ZqfzR3QYgWU2QivjQm",
-      "color" : "#7e774f"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27316025492336e8584d8b77768",
       "title": "bloodbunny",
@@ -940,7 +930,8 @@
       "artist": "Parliament",
       "rating": 0,
       "album": "Funkentelechy Vs. The Placebo Syndrome",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO",
+      "color" : "#3e6693"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/95d7a525095f8412e819fee1e5d5649a8e119a11?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -979,7 +970,8 @@
       "artist": "Quadeca",
       "rating": 0,
       "album": "I Didn't Mean To Haunt You",
-      "url": "https://open.spotify.com/track/1ljziaoMnRH95aPeOSGAtr"
+      "url": "https://open.spotify.com/track/1ljziaoMnRH95aPeOSGAtr",
+      "color" : "#4b4b3a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c15926498305e40937548f27399433d80d32d952?cid=bba9a824e2c249d1a89e21c0e2a2e845",
