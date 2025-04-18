@@ -41,6 +41,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   qSearch : string | null = null;
   qRating : number | null = null;
   isStrict : boolean = false;
+  isReviewsOnly : boolean = false;
   maxCap = MAX_CAP_DEFAULT;
 
   title = "albums of the year";
@@ -174,12 +175,16 @@ export class AlbumsOfTheYearComponent implements OnInit {
     const isStrict = params['type'] !== undefined && params['type'] !== null ?
         params['type'] === "strict" :
         false;
+    const isReviewOnly = params['reviews'] !== undefined && params['reviews'] !== null ?
+        params['reviews'] === "only" :
+        false;
     this.maxCap = MAX_CAP_DEFAULT;
     this.qSorting = !!sorting && Object.values(Sorting).includes(sorting) ? <Sorting>sorting : Sorting.RATING
     this.qDecade = !!decade && decade % 10 === 0 ? parseInt(decade) : null;
     this.qYear = !!year && !!decade ? parseInt(year) : null;
     this.qSearch = !!search ? NormalizeHelper.fromQueryStringToNormal(search) : null;
     this.isStrict = isStrict;
+    this.isReviewsOnly = isReviewOnly;
     this.qRating = !!rating && rating >= 0 && rating <= 10 ? parseInt(rating) : null;
 
     this.formGroup.patchValue({
@@ -256,7 +261,8 @@ export class AlbumsOfTheYearComponent implements OnInit {
       const isAlbumValid = this.passYearFilter(album) &&
           this.passDecadeFilter(album) &&
           this.passQueryFilter(album) &&
-          this.passRatingFilter(album);
+          this.passRatingFilter(album) &&
+          this.passReviewOnlyFilter(album);
       if (isAlbumValid) {
         filteredAlbums.push(album);
       }
@@ -304,6 +310,13 @@ export class AlbumsOfTheYearComponent implements OnInit {
       return album.rating <= 1;
     }
     return album.rating >= this.qRating && album.rating < (this.qRating + 1);
+  }
+
+  private passReviewOnlyFilter(album: Album): boolean {
+    if (!this.isReviewsOnly) {
+      return true;
+    }
+    return !!album.review;
   }
 
   private passDecadeFilter(album: Album): boolean {
