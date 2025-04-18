@@ -19,10 +19,13 @@ import {SotwRecapComponent} from "./songs-of-the-week/sotw-recap/sotw-recap.comp
 import {SeriesOfTheYearComponent} from "./series-of-the-year/series-of-the-year.component";
 import {SeriesResolverService} from "./common/resolver/series-resolver.service";
 import {AllAlbumsRecapComponent} from "./albums-of-the-year/all-albums-recap/all-albums-recap.component";
+import {ReviewComponent} from "./review/review.component";
+import {ReviewResolverService} from "./common/resolver/review-resolver.service";
 
 export const routes: Routes = [
   { path: 'home', component: HomeNewComponent, resolve: [AotyResolverService, AotyAggregateResolverService, SotwResolverService] },
   { path: 'movie-home', component: HomeMoviesComponent, resolve: [MotyResolverService, SeriesResolverService] },
+  { path: 'review/:path', component: ReviewComponent, resolve: [ReviewResolverService]},
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty', component: AlbumsOfTheYearComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
   { path: 'aoty/recap/all', component: AllAlbumsRecapComponent, resolve: [AotyAggregateResolverService, SotwResolverService, AotyResolverService] },

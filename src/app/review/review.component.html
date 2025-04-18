@@ -1,0 +1,12 @@
+<div class="flex-column align-center gap-xxl">
+    <div class="flex-column align-center gap-l">
+        <img *ngIf="coverImg != undefined" class="review-cover" src="{{coverImg}}" alt="cover">
+        <p class="review-name p-b-i fs-l">{{ name }}</p>
+    </div>
+    <div class="flex-column align-start">
+        <p class="review-title-text p-b-i fs-xl text-title fake-gap-b">{{ title }}</p>
+        <div>
+            <p #review style="max-width: 700px" class="review-text left-text"></p>
+        </div>
+    </div>
+</div>

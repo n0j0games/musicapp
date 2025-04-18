@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {HttpClient, HttpErrorResponse} from "@angular/common/http";
+import {HttpClient, HttpErrorResponse, HttpHeaders} from "@angular/common/http";
 import {catchError, concatMap, forkJoin, map, Observable, of, tap} from "rxjs";
 import {SotwList} from "../models/sotw-list";
 import {SotwItem} from "../models/sotw-item";
@@ -11,6 +11,7 @@ import {Router} from "@angular/router";
 import {AliasList} from "../models/alias-list";
 import {MotyItem} from "../models/moty-item";
 import {MotyService} from "./moty.service";
+import {ReviewService} from "./review.service";
 
 @Injectable({
     providedIn: 'root'
@@ -21,7 +22,8 @@ export class DataStorageService {
                 private sotwService: SotwService,
                 private aotyService: AotyService,
                 private motyService : MotyService,
-                private router: Router) {
+                private router: Router,
+                private reviewService: ReviewService) {
     }
 
     fetchAliasList(): Observable<AliasList> {
@@ -35,7 +37,7 @@ export class DataStorageService {
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading"));
+                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -52,7 +54,7 @@ export class DataStorageService {
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading"));
+                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -69,7 +71,7 @@ export class DataStorageService {
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading"));
+                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -119,7 +121,7 @@ export class DataStorageService {
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading"));
+                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -136,7 +138,7 @@ export class DataStorageService {
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading"));
+                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -230,6 +232,27 @@ export class DataStorageService {
             catchError((err, caught) => of(err))
         );
     }
+
+    fetchReview(path: string): Observable<string> {
+        return this.http.get(
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/reviews/' + path + '.txt',
+            {
+                responseType: 'text'
+            }
+        ).pipe(
+            tap((value: string) => {
+                if (value != null) {
+                    console.log("Requested review item")
+                    this.reviewService.addReview(path, value);
+                }
+            }),
+            catchError((err, caught) => {
+                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                return of(err);
+            })
+        );
+    }
+
 
     private createWeekString (week : number) : string {
         const weekStr = week.toString();

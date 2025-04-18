@@ -72,7 +72,7 @@ p {
   color: $text-color;
 }
 
-p, a, input {
+p, a, input, review-text {
   font-family: "Plus Jakarta Sans Medium", "Noto Sans JP", serif;
   font-size: 14px;
   margin: 0;
@@ -85,6 +85,10 @@ p, a, input {
 
 .text-margin {
   margin: 0 7px;
+}
+
+.review-text {
+  color: $text-color;
 }
 
 a {
@@ -396,6 +400,23 @@ option:disabled {
   color: $text-color;
 }
 
+.review-cover {
+  width: 200px;
+  height: 200px;
+  border: 5px solid white;
+  border-radius: 10px;
+}
+
+.review-name {
+  font-size: 25px;
+  color: $secondary-color-light;
+}
+
+.review-title-text {
+  font-size: 20px;
+  color: $text-color-light;
+}
+
 @media (width < 600px) or (height < 700px) {
 
   .list-banner {
@@ -484,6 +505,20 @@ option:disabled {
 
   .mobile-align-center {
     align-items: center;
+  }
+
+  .review-cover {
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+  }
+
+  .review-name {
+    font-size: 15px;
+  }
+
+  .review-title-text {
+    font-size: 15px;
   }
 
 }

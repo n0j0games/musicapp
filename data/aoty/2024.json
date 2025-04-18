@@ -65,7 +65,8 @@
       "genre": "Electropop",
       "playTime": 573,
       "playTime30Days": 0,
-      "color": "#5b8801"
+      "color": "#5b8801",
+      "review" : "charli-xcx--brat"
     },
     {
       "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
@@ -98,7 +99,8 @@
       "genre": "Country Pop",
       "playTime": 781,
       "playTime30Days": 25,
-      "color": "#40469e"
+      "color": "#40469e",
+      "review": "beyonce--cowboy-carter"
     },
     {
       "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i",
@@ -164,7 +166,8 @@
       "genre": "Deutscher Indie",
       "playTime": 474,
       "playTime30Days": 0,
-      "color": "#8a5e57"
+      "color": "#8a5e57",
+      "review": "paula-hartmann--kleine-feuer"
     },
     {
       "url": "https://open.spotify.com/album/6SSCwBGcLZ1PKRq7xkact9",
@@ -230,7 +233,8 @@
       "genre": "Synthpop",
       "playTime": 228,
       "playTime30Days": 0,
-      "color": "#12497e"
+      "color": "#12497e",
+      "review": "billie-eilish--hit-me-hard-and-soft"
     },
     {
       "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo",
@@ -362,7 +366,8 @@
       "genre": "Neo Psychadelia",
       "playTime": 173,
       "playTime30Days": 0,
-      "color": "#66260e"
+      "color": "#66260e",
+      "review": "st-vincent--all-born-screaming"
     },
     {
       "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw",
@@ -825,7 +830,8 @@
       "genre": "Deutschrap",
       "playTime": 451,
       "playTime30Days": 0,
-      "color": "#7d716f"
+      "color": "#7d716f",
+      "review": "og-keemo--fieber"
     },
     {
       "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",

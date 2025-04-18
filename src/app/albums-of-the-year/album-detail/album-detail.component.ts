@@ -12,6 +12,8 @@ import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
 import {LastfmBadge} from "../../common/components/lastfm-badge/lastfm-badge";
 import {NormalizeHelper} from "../../common/normalize-helper";
+import {ReviewService} from "../../common/services/review.service";
+import {ReviewButtonComponent} from "../../common/components/review-button/review-button.component";
 
 @Component({
   selector: 'app-album-detail',
@@ -27,7 +29,8 @@ import {NormalizeHelper} from "../../common/normalize-helper";
         VinylComponent,
         RouterLink,
         ContentBadgeComponent,
-        LastfmBadge
+        LastfmBadge,
+        ReviewButtonComponent
     ],
   templateUrl: './album-detail.component.html'
 })
@@ -44,7 +47,7 @@ export class AlbumDetailComponent implements OnInit {
   albumNames! : string;
   midOrWorst : boolean = false;
 
-  constructor(private audioService : AudioService, private router: Router, private route: ActivatedRoute) {
+  constructor(private audioService : AudioService, private router: Router, private route: ActivatedRoute, private reviewService: ReviewService) {
   }
 
   ngOnInit() {
