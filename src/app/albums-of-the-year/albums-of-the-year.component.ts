@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {ActivatedRoute, Params, QueryParamsHandling, Router} from "@angular/router";
+import {ActivatedRoute, Params, Router} from "@angular/router";
 import {AotyService} from "../common/services/aoty.service";
 import {NgForOf, NgIf, UpperCasePipe} from "@angular/common";
 import {SongDetailComponent} from "../songs-of-the-week/song-detail/song-detail.component";
@@ -10,6 +10,8 @@ import {AliasList} from "../common/models/alias-list";
 import {FormControl, FormGroup, FormsModule, ReactiveFormsModule, Validators} from "@angular/forms";
 import {ListHeaderComponent} from "../common/components/list-header/list-header.component";
 import { NormalizeHelper } from "../common/normalize-helper";
+import {DEFAULT_PARAMS, QueryParamHelper, QueryParams} from "../common/query-param-helper";
+import {QueryFilterHelper} from "../common/query-filter-helper";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -35,13 +37,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   rawAlbumsOfTheYear! : Album[] | null;
   aliasList!: AliasList | null;
 
-  qSorting : Sorting = Sorting.RATING;
-  qYear : number | null = null;
-  qDecade : number | null = null;
-  qSearch : string | null = null;
-  qRating : number | null = null;
-  isStrict : boolean = false;
-  isReviewsOnly : boolean = false;
+  queryParams: QueryParams = DEFAULT_PARAMS;
   maxCap = MAX_CAP_DEFAULT;
 
   title = "albums of the year";
@@ -74,10 +70,10 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   get yearOptions() {
-    if (this.qDecade === null) {
+    if (this.queryParams.decade === null) {
       return [];
     }
-    return this.yearOptions_.filter(value => value >= this.qDecade! && value < (this.qDecade! + 10))
+    return this.yearOptions_.filter(value => value >= this.queryParams.decade! && value < (this.queryParams.decade! + 10))
   }
 
   loadMore() {
@@ -98,14 +94,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private updateForm(resetComponent: string | null) {
-    const queryParams : Params = {};
-    this.updateSearch(queryParams);
-    this.updateSorting(queryParams);
-    this.updateYearAndDecade(queryParams);
-    this.updateRating(queryParams);
-    if (resetComponent !== null) {
-      queryParams[resetComponent] = undefined;
-    }
+    const queryParams = QueryParamHelper.getQueryParamsFromForm(this.formGroup, resetComponent);
     this.navigateAfterFormChange(queryParams);
   }
 
@@ -120,79 +109,17 @@ export class AlbumsOfTheYearComponent implements OnInit {
     ).then(_ => {console.log("Refreshed params")});
   }
 
-  private updateRating(queryParams: Params) {
-    const qRating = this.formGroup.get('rating')?.value;
-    if (qRating !== null) {
-      queryParams['r'] = qRating;
-    } else {
-      queryParams['r'] = undefined;
-    }
-  }
-
-  private updateYearAndDecade(queryParams: Params) {
-    const qDecade = this.formGroup.get('decade')?.value;
-    const qYear = this.formGroup.get('year')?.value;
-    if (qYear !== null && qYear !== undefined && qDecade !== undefined && qDecade !== null) {
-      if (qYear >= qDecade && qYear < (qDecade + 10)) {
-        queryParams['y'] = qYear;
-      } else {
-        queryParams['y'] = null;
-      }
-    } else {
-      queryParams['y'] = null;
-    }
-    if (qDecade !== null) {
-      queryParams['d'] = qDecade;
-    } else {
-      queryParams['d'] = undefined;
-    }
-  }
-
-  private updateSorting(queryParams: Params) {
-    const qSorting = this.formGroup.get('sorting')?.value;
-    if (qSorting !== undefined && qSorting !== null) {
-      queryParams['s'] = qSorting.toLowerCase();
-    } else {
-      queryParams['s'] = undefined;
-    }
-  }
-
-  private updateSearch(queryParams: Params) {
-    let qSearch: string | null | undefined = this.formGroup.get("search")?.value;
-    if (qSearch !== undefined && qSearch !== null && qSearch !== "") {
-      queryParams['q'] = NormalizeHelper.fromNormalToQueryString(qSearch);
-    } else {
-      queryParams['q'] = undefined;
-    }
-  }
 
   private updateParams(params: Params) {
-    const sorting = params['s'];
-    const year = params['y'];
-    const decade = params['d'];
-    const search = params['q'];
-    const rating = params['r'];
-    const isStrict = params['type'] !== undefined && params['type'] !== null ?
-        params['type'] === "strict" :
-        false;
-    const isReviewOnly = params['reviews'] !== undefined && params['reviews'] !== null ?
-        params['reviews'] === "only" :
-        false;
     this.maxCap = MAX_CAP_DEFAULT;
-    this.qSorting = !!sorting && Object.values(Sorting).includes(sorting) ? <Sorting>sorting : Sorting.RATING
-    this.qDecade = !!decade && decade % 10 === 0 ? parseInt(decade) : null;
-    this.qYear = !!year && !!decade ? parseInt(year) : null;
-    this.qSearch = !!search ? NormalizeHelper.fromQueryStringToNormal(search) : null;
-    this.isStrict = isStrict;
-    this.isReviewsOnly = isReviewOnly;
-    this.qRating = !!rating && rating >= 0 && rating <= 10 ? parseInt(rating) : null;
+    this.queryParams = QueryParamHelper.aggregateParams(params);
 
     this.formGroup.patchValue({
-      search: this.qSearch,
-      sorting: this.qSorting,
-      year: this.qYear,
-      decade: this.qDecade,
-      rating: this.qRating,
+      search: this.queryParams.search,
+      sorting: this.queryParams.sorting,
+      year: this.queryParams.year,
+      decade: this.queryParams.decade,
+      rating: this.queryParams.rating
     });
     if (this.yearOptions.length > 0) {
       this.formGroup.controls.year.enable();
@@ -225,7 +152,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   private sortAlbums(albums: Album[]): Album[] {
     this.updateSubTitle();
     albums = albums.sort((a, b) => b.rating - a.rating);
-    switch (this.qSorting) {
+    switch (this.queryParams.sorting) {
       case Sorting.ALPHABETICAL:
         this.sortingTitle = "sorted alphabetically by title";
         return albums.sort((a, b) => a.title.localeCompare(b.title));
@@ -249,20 +176,21 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private filterAlbums(albums: Album[]): Album[] {
     this.title = "all albums i've listened to";
-    if (this.qYear === null &&
-        this.qDecade === null &&
-        this.qSearch === null &&
-        this.qRating === null) {
+    if (this.queryParams.year === null &&
+        this.queryParams.decade === null &&
+        this.queryParams.search === null &&
+        this.queryParams.rating === null &&
+        !this.queryParams.isReviewsOnly) {
       return albums;
     }
     this.updateTitle();
     const filteredAlbums: Album[] = [];
     for (const album of albums) {
-      const isAlbumValid = this.passYearFilter(album) &&
-          this.passDecadeFilter(album) &&
-          this.passQueryFilter(album) &&
-          this.passRatingFilter(album) &&
-          this.passReviewOnlyFilter(album);
+      const isAlbumValid = QueryFilterHelper.passYearFilter(this.queryParams, album.year!) &&
+          QueryFilterHelper.passDecadeFilter(this.queryParams, album.year!) &&
+          QueryFilterHelper.passRatingFilter(this.queryParams, album.rating) &&
+          QueryFilterHelper.passReviewOnlyFilter(this.queryParams, album.review) &&
+          this.passQueryFilter(album);
       if (isAlbumValid) {
         filteredAlbums.push(album);
       }
@@ -271,75 +199,41 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private updateTitle() {
-    if (this.qSearch !== null) {
-      this.title = " albums by " + this.qSearch.replace("-", " ") + "";
+    if (this.queryParams.search !== null) {
+      this.title = " albums by " + this.queryParams.search.replace("-", " ") + "";
     }
   }
 
   private updateSubTitle() {
     this.sortingTitle = "";
-    if (this.qYear !== null) {
-      this.sortingTitle = "from " + this.qYear;
+    if (this.queryParams.year !== null) {
+      this.sortingTitle = "from " + this.queryParams.year;
     }
-    if (this.qYear === null && this.qDecade !== null) {
-      this.sortingTitle = "from the " + this.qDecade + "s";
+    if (this.queryParams.year === null && this.queryParams.decade !== null) {
+      this.sortingTitle = "from the " + this.queryParams.decade + "s";
     }
-    if (this.qRating !== null) {
-      this.sortingTitle = this.sortingTitle + " rated " + this.qRating;
+    if (this.queryParams.rating !== null) {
+      this.sortingTitle = this.sortingTitle + " rated " + this.queryParams.rating;
     }
-    if (this.qSorting !== null) {
-      this.sortingTitle = this.sortingTitle + " sorted by " + this.qSorting;
+    if (this.queryParams.sorting !== null) {
+      this.sortingTitle = this.sortingTitle + " sorted by " + this.queryParams.sorting;
     }
-  }
-
-  private passYearFilter(album: Album): boolean {
-    if (this.qYear === null) {
-      return true;
-    }
-    return album.year === this.qYear;
-  }
-
-  private passRatingFilter(album: Album): boolean {
-    if (this.qRating === null) {
-      return true;
-    }
-    if (this.qRating >= 10) {
-      return album.rating >= 10;
-    }
-    if (this.qRating <= 1) {
-      return album.rating <= 1;
-    }
-    return album.rating >= this.qRating && album.rating < (this.qRating + 1);
-  }
-
-  private passReviewOnlyFilter(album: Album): boolean {
-    if (!this.isReviewsOnly) {
-      return true;
-    }
-    return !!album.review;
-  }
-
-  private passDecadeFilter(album: Album): boolean {
-    if (this.qDecade === null || this.qYear !== null) {
-      return true;
-    }
-    return album.year! >= this.qDecade && album.year! < (this.qDecade + 10);
   }
 
   private passQueryFilter(album: Album): boolean {
-    if (this.qSearch === null) {
+    if (this.queryParams.search === null) {
       return true;
     }
     const title = NormalizeHelper.fromNormalToQueryString(album.title);
-    if (this.isStrict && title === this.qSearch) {
+    if (this.queryParams.isStrict && title === this.queryParams.search) {
       return true;
     }
-    if (title.startsWith(this.qSearch)) {
+    if (title.startsWith(this.queryParams.search)) {
       return true;
     }
     const artist = NormalizeHelper.fromNormalToQueryString(album.artist);
-    const qArtist = NormalizeHelper.fromNormalToQueryString(this.qSearch);
-    if (this.isStrict) {
+    const qArtist = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
+    if (this.queryParams.isStrict) {
       return artist === qArtist;
     } else {
       return qArtist.includes(artist) || artist.includes(qArtist) || this.includedInAliases(album.artist, qArtist);

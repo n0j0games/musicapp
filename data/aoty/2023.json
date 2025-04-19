@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 480,
-      "playTime30Days": 7,
+      "playTime": 481,
+      "playTime30Days": 8,
       "color": "#687d84"
     },
     {
@@ -358,8 +358,8 @@
       ],
       "rating": 8.99999,
       "genre": "Rap",
-      "playTime": 1192,
-      "playTime30Days": 7,
+      "playTime": 1193,
+      "playTime30Days": 8,
       "color": "#513a39",
       "review": "travis-scott--utopia"
     },
@@ -938,7 +938,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 64,
+      "playTime": 65,
       "playTime30Days": 0,
       "color": "#967354"
     },
@@ -2108,7 +2108,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 135,
+      "playTime": 136,
       "genre": "Latin Rap",
       "playTime30Days": 0
     },
@@ -2188,9 +2188,9 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 76,
+      "playTime": 77,
       "genre": "Hyperpop",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk",
@@ -2243,10 +2243,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/bc3eb079731073d32468d2bb0782c037a571a11e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 44,
       "genre": "Electronic",
-      "year": 2023
+      "year": 2023,
+      "playTime30Days": 0
     }
   ]
 }

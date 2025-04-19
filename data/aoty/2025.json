@@ -39,9 +39,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 428,
+      "playTime": 431,
       "genre": "Latin",
-      "playTime30Days": 173
+      "playTime30Days": 59
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -71,9 +71,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 275,
+      "playTime": 276,
       "genre": "Rap",
-      "playTime30Days": 25,
+      "playTime30Days": 10,
       "color": "#1f4072"
     },
     {
@@ -142,9 +142,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 663,
+      "playTime": 668,
       "genre": "Synthpop",
-      "playTime30Days": 12
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -372,7 +372,7 @@
       "rating": 6,
       "playTime": 25,
       "genre": "Pop",
-      "playTime30Days": 22
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
@@ -382,7 +382,7 @@
       "rating": 4,
       "playTime": 41,
       "genre": "Rage",
-      "playTime30Days": 24
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6CmScv5hArK4EaQUCLwNu5",
@@ -434,7 +434,7 @@
       "rating": 6,
       "playTime": 15,
       "genre": "Deutschrap",
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH",
@@ -454,7 +454,7 @@
       "rating": 5,
       "playTime": 10,
       "genre": "Pop",
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3yrnXGRp6POeshHNBI4oiZ",
@@ -536,9 +536,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 132,
+      "playTime": 139,
       "genre": "Deutschpop",
-      "playTime30Days": 132
+      "playTime30Days": 139
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -566,7 +566,7 @@
       "rating": 7,
       "playTime": 19,
       "genre": "Deutschrap",
-      "playTime30Days": 19
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -602,10 +602,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 31,
+      "playTime": 40,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 31
+      "playTime30Days": 40
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -685,9 +685,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 0,
+      "playTime": 91,
       "genre": "Folk",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 91
     }
   ]
 }

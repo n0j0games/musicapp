@@ -30,7 +30,7 @@
       ],
       "rating": 9.9,
       "genre": "Alternative Rock",
-      "playTime": 432,
+      "playTime": 433,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
@@ -133,7 +133,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 131,
+      "playTime": 132,
       "playTime30Days": 0,
       "year": 1998,
       "color": "#933a2b"
@@ -166,7 +166,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 90,
+      "playTime": 92,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#43495f"
@@ -215,8 +215,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 142,
-      "playTime30Days": 19,
+      "playTime": 143,
+      "playTime30Days": 20,
       "year": 1990,
       "color": "#3c456e"
     },
@@ -659,7 +659,7 @@
       "playTime": 138,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 62,
+      "playTime30Days": 12,
       "color": "#7a1511"
     },
     {
@@ -694,6 +694,34 @@
       "genre": "Dreampop",
       "year": 1993,
       "playTime30Days": 14
+    },
+    {
+      "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+      "title": "2001",
+      "artist": "Dr. Dre",
+      "songs": [
+        {
+          "title": "Xxplosive",
+          "preview_url": "https://p.scdn.co/mp3-preview/574a5a03583f43f54c02e5b23c5b12124852d213?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "What's The Difference",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4f4be810923ed958ec922098ed281bceda74f19?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Forgot About Dre",
+          "preview_url": "https://p.scdn.co/mp3-preview/92f3690911559f533db0391d94b1156fe0eafdba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Next Episode",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fc7c156c2826b990961372dd92631a1aee12000?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Hip-Hop",
+      "year": 1999
     }
   ]
 }

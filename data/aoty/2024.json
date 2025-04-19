@@ -63,10 +63,10 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 573,
-      "playTime30Days": 0,
+      "playTime": 594,
+      "playTime30Days": 21,
       "color": "#5b8801",
-      "review" : "charli-xcx--brat"
+      "review": "charli-xcx--brat"
     },
     {
       "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
@@ -97,8 +97,8 @@
       ],
       "rating": 8.7,
       "genre": "Country Pop",
-      "playTime": 781,
-      "playTime30Days": 25,
+      "playTime": 787,
+      "playTime30Days": 31,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -198,7 +198,7 @@
       ],
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
-      "playTime": 203,
+      "playTime": 204,
       "playTime30Days": 0,
       "color": "#9a6c1f"
     },
@@ -364,8 +364,8 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 173,
-      "playTime30Days": 0,
+      "playTime": 174,
+      "playTime30Days": 5,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
     },
@@ -398,8 +398,8 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 99,
-      "playTime30Days": 30,
+      "playTime": 114,
+      "playTime30Days": 45,
       "color": "#104e73"
     },
     {
@@ -460,8 +460,8 @@
       ],
       "rating": 8.5,
       "genre": "Indie Pop",
-      "playTime": 64,
-      "playTime30Days": 0,
+      "playTime": 82,
+      "playTime30Days": 18,
       "color": "#2c3863"
     },
     {
@@ -526,8 +526,8 @@
       ],
       "rating": 8.3,
       "genre": "Rock",
-      "playTime": 167,
-      "playTime30Days": 83,
+      "playTime": 174,
+      "playTime30Days": 14,
       "color": "#357a31"
     },
     {
@@ -654,8 +654,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 212,
-      "playTime30Days": 16,
+      "playTime": 216,
+      "playTime30Days": 10,
       "color": "#376893"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 60,
+      "playTime": 64,
       "playTime30Days": 0,
       "color": "#012c63"
     },
@@ -2117,8 +2117,8 @@
       ],
       "rating": 9,
       "genre": "Deutscher Indie",
-      "playTime": 199,
-      "playTime30Days": 0,
+      "playTime": 218,
+      "playTime30Days": 19,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2147,8 +2147,8 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 314,
-      "playTime30Days": 8,
+      "playTime": 333,
+      "playTime30Days": 27,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2271,8 +2271,8 @@
       ],
       "rating": 8.2,
       "genre": "Art Pop",
-      "playTime": 248,
-      "playTime30Days": 16,
+      "playTime": 249,
+      "playTime30Days": 17,
       "color": "#332737"
     },
     {
@@ -2303,7 +2303,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 348,
+      "playTime": 350,
       "genre": "West Coast Hip Hop",
       "playTime30Days": 0,
       "color": "#6c6c6c"
@@ -2336,9 +2336,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 634,
+      "playTime": 635,
       "genre": "Wiener Pop",
-      "playTime30Days": 36,
+      "playTime30Days": 15,
       "color": "#c51919"
     },
     {
@@ -2560,7 +2560,7 @@
       "rating": 6,
       "playTime": 14,
       "genre": "Pop",
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2uKD5g5T7oklsMHJDcPgLB",

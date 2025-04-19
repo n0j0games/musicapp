@@ -277,8 +277,8 @@
       ],
       "rating": 8,
       "genre": "Rap",
-      "playTime": 421,
-      "playTime30Days": 7
+      "playTime": 422,
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H",
@@ -308,8 +308,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 154,
-      "playTime30Days": 15,
+      "playTime": 166,
+      "playTime30Days": 22,
       "color": "#9194cb"
     },
     {

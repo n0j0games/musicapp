@@ -189,6 +189,34 @@
       "rating": 6.1,
       "playTime": 74,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4iuZr9ptf5nAy3f8afPdBM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345b917b092462fa5cd156562",
+      "title": "/\\/\\ /\\ Y /\\ (Deluxe Edition)",
+      "artist": "M.I.A.",
+      "songs": [
+        {
+          "title": "XXXO",
+          "preview_url": "https://p.scdn.co/mp3-preview/de858b35e4b1595a8aec63bb0400ef7b6a0bbd30?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "TEQKILLA",
+          "preview_url": "https://p.scdn.co/mp3-preview/18a3e8dfae99a033dba13957d1f8bd7aeb50fc45?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "BORN FREE",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a94158209c60704d8e4e226f4353219d974e471?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "MEDS AND FEDS",
+          "preview_url": "https://p.scdn.co/mp3-preview/17e74a2a4dd85cccfd4e8d648f80c4ba90453467?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Experimental Rap",
+      "year": 2010
     }
   ]
 }

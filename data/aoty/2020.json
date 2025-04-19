@@ -222,7 +222,7 @@
       ],
       "rating": 9.8,
       "playTime": 251,
-      "playTime30Days": 40,
+      "playTime30Days": 36,
       "color": "#006687"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rating": 8.7,
       "genre": "Rap",
-      "playTime": 462,
+      "playTime": 463,
       "playTime30Days": 0
     },
     {
@@ -440,7 +440,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 204,
+      "playTime": 205,
       "playTime30Days": 0
     },
     {
@@ -920,7 +920,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 75,
+      "playTime": 76,
       "playTime30Days": 0
     },
     {
@@ -975,9 +975,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 47,
+      "playTime": 49,
       "genre": "Jazz Fusion",
-      "playTime30Days": 16
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",

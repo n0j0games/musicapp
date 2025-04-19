@@ -29,7 +29,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 54,
+      "playTime": 55,
       "playTime30Days": 0
     },
     {
@@ -60,7 +60,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 94,
+      "playTime": 95,
       "playTime30Days": 0
     },
     {
@@ -172,7 +172,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 274,
+      "playTime": 275,
       "playTime30Days": 0
     },
     {
@@ -297,10 +297,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 26,
+      "playTime": 28,
       "genre": "Hip-Hop",
       "year": 2014,
-      "playTime30Days": 17
+      "playTime30Days": 19
     }
   ]
 }
