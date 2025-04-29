@@ -30,7 +30,7 @@
       ],
       "rating": 9.9,
       "genre": "Alternative Rock",
-      "playTime": 433,
+      "playTime": 435,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
@@ -67,7 +67,7 @@
         }
       ],
       "rating": 10.7,
-      "playTime": 167,
+      "playTime": 169,
       "playTime30Days": 0,
       "year": 1992,
       "color": "#3a322d"
@@ -100,8 +100,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 165,
-      "playTime30Days": 7,
+      "playTime": 166,
+      "playTime30Days": 8,
       "year": 1999,
       "color": "#001743"
     },
@@ -166,7 +166,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 92,
+      "playTime": 93,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#43495f"
@@ -215,8 +215,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 143,
-      "playTime30Days": 20,
+      "playTime": 144,
+      "playTime30Days": 9,
       "year": 1990,
       "color": "#3c456e"
     },
@@ -461,7 +461,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 35,
+      "playTime": 36,
       "playTime30Days": 0,
       "year": 1994,
       "color": "#702422"
@@ -593,10 +593,10 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 16,
+      "playTime": 22,
       "genre": "Funk",
       "year": 1993,
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#45493e"
     },
     {
@@ -623,7 +623,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 37,
+      "playTime": 38,
       "genre": "Alt-Rock",
       "year": 1997,
       "playTime30Days": 0
@@ -659,7 +659,7 @@
       "playTime": 138,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#7a1511"
     },
     {
@@ -719,9 +719,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 15,
       "genre": "Hip-Hop",
-      "year": 1999
+      "year": 1999,
+      "playTime30Days": 0
     }
   ]
 }

@@ -39,9 +39,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 431,
+      "playTime": 442,
       "genre": "Latin",
-      "playTime30Days": 59
+      "playTime30Days": 43
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -73,7 +73,7 @@
       "rating": 9,
       "playTime": 276,
       "genre": "Rap",
-      "playTime30Days": 10,
+      "playTime30Days": 6,
       "color": "#1f4072"
     },
     {
@@ -110,7 +110,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 88,
+      "playTime": 89,
       "genre": "Electronic",
       "playTime30Days": 0
     },
@@ -142,7 +142,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 668,
+      "playTime": 671,
       "genre": "Synthpop",
       "playTime30Days": 8
     },
@@ -482,7 +482,7 @@
       "rating": 7.7,
       "playTime": 61,
       "genre": "Deutschrap",
-      "playTime30Days": 61
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6foNTuvMw56jj6lYOqy7Vc",
@@ -506,7 +506,7 @@
       "rating": 6,
       "playTime": 0,
       "genre": "Deutschrap",
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4BRrinQr1XF8b4hP2UFBA4",
@@ -536,9 +536,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 139,
+      "playTime": 151,
       "genre": "Deutschpop",
-      "playTime30Days": 139
+      "playTime30Days": 90
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -564,9 +564,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 19,
+      "playTime": 24,
       "genre": "Deutschrap",
-      "playTime30Days": 18
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -576,7 +576,7 @@
       "rating": 4,
       "playTime": 10,
       "genre": "Rap",
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7",
@@ -602,10 +602,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 40,
+      "playTime": 46,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 40
+      "playTime30Days": 46
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -685,10 +685,72 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 91,
+      "playTime": 95,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 91
+      "playTime30Days": 95
+    },
+    {
+      "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738e3c1b54fdbb67aee135dda9",
+      "title": "LOVE ON DIGITAL",
+      "artist": "DESTIN CONRAD",
+      "songs": [
+        {
+          "title": "THE LAST TIME",
+          "preview_url": "https://p.scdn.co/mp3-preview/25ae20e03fc0830334e93a9bbef1f6a7beb272ef?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "KISSING IN PUBLIC",
+          "preview_url": "https://p.scdn.co/mp3-preview/497084b9db4741ebc6bb65cbcf6d8212580ec2ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "MR. E",
+          "preview_url": "https://p.scdn.co/mp3-preview/78f1144d48810b83e73e31cfdf19ab667d1e3d74?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "P.B.S.",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef399b65d7e00aa822734ee1656f87e2b5020d35?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "OUTRO",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e482278db392589a41362203918d28d5bfda0a8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 64,
+      "genre": "R&B",
+      "year": 2025,
+      "playTime30Days": 64
+    },
+    {
+      "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738224aa4d858fb592080a03d8",
+      "title": "WITHERED",
+      "artist": "d4vd",
+      "songs": [
+        {
+          "title": "Crashing (with Kali Uchis)",
+          "preview_url": "https://p.scdn.co/mp3-preview/115f5da2c2b966f370809edd3d06c04c3c883813?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Atomic Land",
+          "preview_url": "https://p.scdn.co/mp3-preview/22b29f0634a146c0bb912d85a33d4ea733786d44?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/f63c1c49e737a1906936a75e88f11a35f759446b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Feel It",
+          "preview_url": "https://p.scdn.co/mp3-preview/32d5a1fa196007fe2b28f028cb3dee90f7adc668?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 29,
+      "genre": "Pop",
+      "year": 2025,
+      "playTime30Days": 29
     }
   ]
 }

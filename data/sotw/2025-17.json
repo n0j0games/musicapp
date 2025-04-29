@@ -1,0 +1,30 @@
+{
+  "year": 2025,
+  "week": 17,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/b1a6430d8f457d4d3bde887bffef9f29b227e747?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c4f0f90c70b1fcadf9e6cc18",
+      "title": "ILYSMIH",
+      "artist": "Kali Uchis",
+      "rating": 9,
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/d152fd7c1d95db7811a52506f69fab377e6b03be?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ff98da82992b5b58a32f27e4",
+      "title": "MONDAY",
+      "artist": "Quadeca",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/7df79d60bfa11ef5be914984ad6012ed61e8217e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bffc95a2df3dd4505f9ddd4f",
+      "title": "What Was That",
+      "artist": "Lorde",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    }
+  ]
+}

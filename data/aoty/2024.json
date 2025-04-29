@@ -231,8 +231,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 228,
-      "playTime30Days": 0,
+      "playTime": 245,
+      "playTime30Days": 18,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -265,7 +265,7 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 326,
+      "playTime": 327,
       "playTime30Days": 0,
       "color": "#a065b1"
     },
@@ -332,7 +332,7 @@
       "rating": 8.7,
       "genre": "Deutscher Indie",
       "playTime": 98,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "color": "#958929"
     },
     {
@@ -364,8 +364,8 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 174,
-      "playTime30Days": 5,
+      "playTime": 175,
+      "playTime30Days": 6,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
     },
@@ -398,8 +398,8 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 114,
-      "playTime30Days": 45,
+      "playTime": 118,
+      "playTime30Days": 47,
       "color": "#104e73"
     },
     {
@@ -460,8 +460,8 @@
       ],
       "rating": 8.8,
       "genre": "Indie Pop",
-      "playTime": 82,
-      "playTime30Days": 18,
+      "playTime": 85,
+      "playTime30Days": 21,
       "color": "#2c3863"
     },
     {
@@ -526,8 +526,8 @@
       ],
       "rating": 8.7,
       "genre": "Rock",
-      "playTime": 174,
-      "playTime30Days": 14,
+      "playTime": 175,
+      "playTime30Days": 11,
       "color": "#357a31"
     },
     {
@@ -654,8 +654,8 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 216,
-      "playTime30Days": 10,
+      "playTime": 217,
+      "playTime30Days": 9,
       "color": "#376893"
     },
     {
@@ -1119,8 +1119,8 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 64,
-      "playTime30Days": 0,
+      "playTime": 69,
+      "playTime30Days": 9,
       "color": "#012c63"
     },
     {
@@ -1646,7 +1646,7 @@
       ],
       "rating": 6,
       "genre": "Deutschrap",
-      "playTime": 54,
+      "playTime": 55,
       "playTime30Days": 0
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 95,
+      "playTime": 97,
       "playTime30Days": 0
     },
     {
@@ -2117,8 +2117,8 @@
       ],
       "rating": 9,
       "genre": "Deutscher Indie",
-      "playTime": 218,
-      "playTime30Days": 19,
+      "playTime": 220,
+      "playTime30Days": 21,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2147,8 +2147,8 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 333,
-      "playTime30Days": 27,
+      "playTime": 358,
+      "playTime30Days": 52,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2271,8 +2271,8 @@
       ],
       "rating": 8.4,
       "genre": "Art Pop",
-      "playTime": 249,
-      "playTime30Days": 17,
+      "playTime": 251,
+      "playTime30Days": 18,
       "color": "#332737"
     },
     {
@@ -2303,9 +2303,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 350,
+      "playTime": 353,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#6c6c6c"
     },
     {

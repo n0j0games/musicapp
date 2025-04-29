@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 481,
-      "playTime30Days": 8,
+      "playTime": 492,
+      "playTime30Days": 15,
       "color": "#687d84"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rating": 9,
       "playTime": 183,
-      "playTime30Days": 29,
+      "playTime30Days": 0,
       "color": "#3b5a22"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 239,
+      "playTime": 240,
       "playTime30Days": 0,
       "color": "#434754"
     },
@@ -358,8 +358,8 @@
       ],
       "rating": 8.99999,
       "genre": "Rap",
-      "playTime": 1193,
-      "playTime30Days": 8,
+      "playTime": 1194,
+      "playTime30Days": 0,
       "color": "#513a39",
       "review": "travis-scott--utopia"
     },
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 629,
+      "playTime": 631,
       "playTime30Days": 0,
       "color": "#4c4559"
     },

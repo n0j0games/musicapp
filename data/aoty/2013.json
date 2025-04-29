@@ -169,8 +169,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 60,
-      "playTime30Days": 14
+      "playTime": 88,
+      "playTime30Days": 42
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -263,8 +263,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 76,
-      "playTime30Days": 6
+      "playTime": 82,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu",
@@ -295,7 +295,7 @@
       ],
       "rating": 8.3,
       "playTime30Days": 0,
-      "playTime": 102
+      "playTime": 103
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",

@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 823,
+      "playTime": 826,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -204,8 +204,8 @@
         }
       ],
       "rating": 10,
-      "playTime": 496,
-      "playTime30Days": 36,
+      "playTime": 511,
+      "playTime30Days": 51,
       "year": 2005,
       "color": "#001621"
     },
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 347,
+      "playTime": 349,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 55,
-      "playTime30Days": 8,
+      "playTime": 57,
+      "playTime30Days": 10,
       "year": 2009
     },
     {
@@ -364,7 +364,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 191,
+      "playTime": 192,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -591,7 +591,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 90,
+      "playTime": 92,
       "playTime30Days": 0,
       "year": 2001
     },
@@ -675,7 +675,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 68,
+      "playTime": 69,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -998,10 +998,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 36,
+      "playTime": 41,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1155,10 +1155,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 62,
+      "playTime": 66,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 58
+      "playTime30Days": 62
     }
   ]
 }

@@ -286,8 +286,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 521,
-      "playTime30Days": 0
+      "playTime": 527,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -376,7 +376,7 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 604,
+      "playTime": 605,
       "playTime30Days": 0
     },
     {
@@ -648,7 +648,7 @@
       "title": "Faith",
       "artist": "Pop Smoke",
       "rating": 4,
-      "playTime": 149,
+      "playTime": 150,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -1029,6 +1029,75 @@
       "playTime": 195,
       "genre": "Soundtrack",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737d6ac8b4a84ad4b342050d87",
+      "title": "Nurture",
+      "artist": "Porter Robinson",
+      "songs": [
+        {
+          "title": "Lifelike",
+          "preview_url": "https://p.scdn.co/mp3-preview/07567eed74a893059994b65261f60dc1040b3f51?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Look at the Sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/6098cb45f301bcfa292daf422e786ecc7460f81d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Get Your Wish",
+          "preview_url": "https://p.scdn.co/mp3-preview/86eeb702db2446906f9a0bba2359c2ba76dac548?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wind Tempos",
+          "preview_url": "https://p.scdn.co/mp3-preview/b79e85247cb7e0640827663f8e80cc85f4e61bc9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Musician",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e68daab03f187fca58d612019fa57f9ecb2aa33?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "do-re-mi-fa-so-la-ti-do",
+          "preview_url": "https://p.scdn.co/mp3-preview/abad84b257e136975240bd50e9a7e952a732cb5f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mother",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c003b4ce9ea58499f8cd74fab4c0a356028ccc3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "dullscythe",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d2784b1e518ae5e734f080e4e4ce59efcf277fe?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sweet Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c5c093d1e439d416b295930586d134f3d492eb5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mirror",
+          "preview_url": "https://p.scdn.co/mp3-preview/6fdb6aa5266123d51acc4c7df27224863919661b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Something Comforting",
+          "preview_url": "https://p.scdn.co/mp3-preview/e286c9da60089d9511daa83999753aba73ffd268?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blossom",
+          "preview_url": "https://p.scdn.co/mp3-preview/96c32c27ac439ea8d715ff2c1e912cc53ad650f4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Unfold",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4fc3f28535825d701e3f012e1d3d5ae59434444?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Trying to Feel Alive",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc976baf94cae04a4ed36d100455ef36ce70e8e5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 15,
+      "genre": "Electropop",
+      "year": 2021,
+      "playTime30Days": 11
     }
   ]
 }

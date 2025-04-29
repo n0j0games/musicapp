@@ -114,7 +114,7 @@
       ],
       "rating": 8.9,
       "playTime": 139,
-      "playTime30Days": 16,
+      "playTime30Days": 15,
       "color": "#9a5630"
     },
     {
@@ -214,9 +214,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 23,
       "genre": "Experimental Rap",
-      "year": 2010
+      "year": 2010,
+      "playTime30Days": 12
     }
   ]
 }
