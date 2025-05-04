@@ -30,7 +30,7 @@
       ],
       "rating": 9.3,
       "genre": "Deutschrap",
-      "playTime": 266,
+      "playTime": 267,
       "playTime30Days": 0,
       "color": "#878787"
     },
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 787,
-      "playTime30Days": 31,
+      "playTime": 788,
+      "playTime30Days": 7,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -231,8 +231,8 @@
       ],
       "rating": 8.8,
       "genre": "Synthpop",
-      "playTime": 245,
-      "playTime30Days": 18,
+      "playTime": 267,
+      "playTime30Days": 40,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -399,7 +399,7 @@
       "rating": 8.7,
       "genre": "Dreampop",
       "playTime": 118,
-      "playTime30Days": 47,
+      "playTime30Days": 26,
       "color": "#104e73"
     },
     {
@@ -527,7 +527,7 @@
       "rating": 8.7,
       "genre": "Rock",
       "playTime": 175,
-      "playTime30Days": 11,
+      "playTime30Days": 7,
       "color": "#357a31"
     },
     {
@@ -655,7 +655,7 @@
       "rating": 8.1,
       "genre": "Synthpop",
       "playTime": 217,
-      "playTime30Days": 9,
+      "playTime30Days": 6,
       "color": "#376893"
     },
     {
@@ -974,7 +974,7 @@
       ],
       "rating": 7.7,
       "genre": "Jazz",
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0,
       "color": "#828282"
     },
@@ -1119,8 +1119,8 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 69,
-      "playTime30Days": 9,
+      "playTime": 72,
+      "playTime30Days": 12,
       "color": "#012c63"
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 97,
+      "playTime": 98,
       "playTime30Days": 0
     },
     {
@@ -2117,8 +2117,8 @@
       ],
       "rating": 9,
       "genre": "Deutscher Indie",
-      "playTime": 220,
-      "playTime30Days": 21,
+      "playTime": 222,
+      "playTime30Days": 23,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2147,8 +2147,8 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 358,
-      "playTime30Days": 52,
+      "playTime": 375,
+      "playTime30Days": 69,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2272,7 +2272,7 @@
       "rating": 8.4,
       "genre": "Art Pop",
       "playTime": 251,
-      "playTime30Days": 18,
+      "playTime30Days": 5,
       "color": "#332737"
     },
     {
@@ -2336,9 +2336,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 635,
+      "playTime": 639,
       "genre": "Wiener Pop",
-      "playTime30Days": 15,
+      "playTime30Days": 19,
       "color": "#c51919"
     },
     {
@@ -2614,7 +2614,7 @@
       "playTime": 15,
       "genre": "Deutschrap",
       "year": 2024,
-      "playTime30Days": 15
+      "playTime30Days": 0
     }
   ]
 }

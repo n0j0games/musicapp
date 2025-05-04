@@ -216,7 +216,7 @@
       ],
       "rating": 9.4,
       "playTime": 144,
-      "playTime30Days": 9,
+      "playTime30Days": 0,
       "year": 1990,
       "color": "#3c456e"
     },
@@ -693,7 +693,7 @@
       "playTime": 15,
       "genre": "Dreampop",
       "year": 1993,
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N",
@@ -723,6 +723,34 @@
       "genre": "Hip-Hop",
       "year": 1999,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27316d23c3d8963299a8cc64740",
+      "title": "Post",
+      "artist": "Björk",
+      "songs": [
+        {
+          "title": "I Miss You",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ecd9c85e4a7b1f6e2b3e4f28d2e6cbd46b8858a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Army Of Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/b08eb236be9824dd48a0e1211646a94168bf6bce?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hyper-ballad",
+          "preview_url": "https://p.scdn.co/mp3-preview/5369a0b69a1bde180e84f7ba7ebff355eb139c5d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "It's Oh So Quiet",
+          "preview_url": "https://p.scdn.co/mp3-preview/c92830039f1e6fc8129b42d69ab46ea3d979266b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Art Pop",
+      "year": 1995
     }
   ]
 }

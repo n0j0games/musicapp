@@ -317,7 +317,39 @@
       "rating": 8.8,
       "playTime": 38,
       "genre": "New Wave",
-      "playTime30Days": 6
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ad27e16c5f844ea1ad6797cd",
+      "title": "Diamond Life",
+      "artist": "Sade",
+      "songs": [
+        {
+          "title": "Smooth Operator",
+          "preview_url": "https://p.scdn.co/mp3-preview/7cd5501c4e39b8c44336d20e139252f25a8ddf04?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Your Love Is King",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7a4f6197c118f1b6ff996d147dc167767153fd6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hang On to Your Love - Long Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c74a6455362b1987b922bc832734fe28e19d122?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Will Be Your Friend",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd5e85a3a18651ba793f203b801d5b79de95ce19?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Why Can't We Live Together",
+          "preview_url": "https://p.scdn.co/mp3-preview/701fc4b94b3d74f404f785fac08d37e93043817c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 0,
+      "genre": "Soul",
+      "year": 1984
     }
   ]
 }

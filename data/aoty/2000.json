@@ -332,8 +332,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 57,
-      "playTime30Days": 10,
+      "playTime": 65,
+      "playTime30Days": 16,
       "year": 2009
     },
     {
@@ -559,7 +559,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 37,
+      "playTime": 38,
       "playTime30Days": 0,
       "year": 2002
     },
@@ -998,10 +998,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 41,
+      "playTime": 43,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 5
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1155,10 +1155,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 66,
+      "playTime": 70,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 62
+      "playTime30Days": 30
     }
   ]
 }

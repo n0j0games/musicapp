@@ -1,0 +1,22 @@
+{
+  "year": 2025,
+  "week": 18,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/071d3a0aae296561351af2eaf5dbe4eca6d955d0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732edaa24724ae5e52482a65c9",
+      "title": "The Way I Love You",
+      "artist": "Jorja Smith",
+      "rating": 9,
+      "url": "https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/8bde80565c622d2494a7d50e2c0b613f7fc42d5c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27358dc51125fd95d1a309b5ae4",
+      "title": "bad bunnies",
+      "artist": "Zsá Zsá",
+      "rating": 6,
+      "url": "https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12"
+    }
+  ]
+}

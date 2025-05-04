@@ -39,9 +39,9 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 442,
+      "playTime": 447,
       "genre": "Latin",
-      "playTime30Days": 43
+      "playTime30Days": 39
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -73,7 +73,7 @@
       "rating": 9,
       "playTime": 276,
       "genre": "Rap",
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#1f4072"
     },
     {
@@ -370,7 +370,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 25,
+      "playTime": 27,
       "genre": "Pop",
       "playTime30Days": 0
     },
@@ -536,9 +536,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 151,
+      "playTime": 179,
       "genre": "Deutschpop",
-      "playTime30Days": 90
+      "playTime30Days": 66
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -602,10 +602,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 46,
+      "playTime": 47,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 46
+      "playTime30Days": 47
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -630,7 +630,7 @@
       "playTime": 15,
       "genre": "Art Rock",
       "year": 2025,
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6Oys1wD8ZKLfIxyqkMf9gp",
@@ -718,10 +718,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 64,
+      "playTime": 104,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 64
+      "playTime30Days": 104
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -751,6 +751,72 @@
       "genre": "Pop",
       "year": 2025,
       "playTime30Days": 29
+    },
+    {
+      "url": "https://open.spotify.com/album/09N3Yw1yNAMNNXSUqnoV6l",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27394efe862a4f3419260e373d8",
+      "title": "Jonatan",
+      "artist": "Yung Lean",
+      "songs": [
+        {
+          "title": "Forever Yung",
+          "preview_url": "https://p.scdn.co/mp3-preview/403daf48e23e92ff41f405edd7c6e16843111f9d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Babyface Maniacs",
+          "preview_url": "https://p.scdn.co/mp3-preview/068e03aa7352c3bc7e17964c24674accc83793a4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Teenage Symphonies 4 God (God Will Only)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4df4d115aee3dbf140c64b4a1e018d6dcbe324b7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Changes",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddad264fa21cc4a5ec4d8e8052ae2734bbeb7c1e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Art Pop",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737015cb8a5400ead6222ef062",
+      "title": "We Live In A Society",
+      "artist": "Flume,\nJPEGMAFIA",
+      "rating": 4,
+      "playTime": 0,
+      "genre": "Experimental Rap",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d95effca19a5daed626ff56d",
+      "title": "Cancionera",
+      "artist": "Natalia Lafourcade",
+      "songs": [
+        {
+          "title": "Apertura Cancionera",
+          "preview_url": "https://p.scdn.co/mp3-preview/051551b8b5ce4c0378a5ce6787e805969461af2e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Cancionera",
+          "preview_url": "https://p.scdn.co/mp3-preview/840a64668f9cc28915cab877ca7f5aec7bfc47e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Cocos en la Playa",
+          "preview_url": "https://p.scdn.co/mp3-preview/08b0e47dc13cf205e6d43ab2eaa1657740a4b48a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Como Quisiera Quererte",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ecbbb11bc5dd42d98b794c6cec04ef3c63ee0a7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Chamber Jazz",
+      "year": 2025
     }
   ]
 }

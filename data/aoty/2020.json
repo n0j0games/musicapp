@@ -977,7 +977,7 @@
       "rating": 7,
       "playTime": 50,
       "genre": "Jazz Fusion",
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",
@@ -1076,6 +1076,30 @@
       "playTime": 35,
       "genre": "Soundtrack",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3uxhPQw6gcLX2HnvvKnEDv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fc540d5ce33129422b835de1",
+      "title": "WEISSWEIN & HEARTBREAKS",
+      "artist": "reezy",
+      "songs": [
+        {
+          "title": "CHROME HEARTS",
+          "preview_url": "https://p.scdn.co/mp3-preview/b42f78ea81900f0d74b5f03855027c9d4d0afbce?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "1+1",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a589842221cfb189889dfcbb2ccfafc380255de?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "SANDMANN",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4168c709bf45c80d118f1c3434761de3a7bc610?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "year": 2020
     }
   ]
 }

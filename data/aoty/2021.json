@@ -30,9 +30,9 @@
       ],
       "rating": 9.1,
       "onVinyl": true,
-      "playTime": 612,
+      "playTime": 614,
       "genre": "Rap",
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#90a692"
     },
     {
@@ -1098,6 +1098,30 @@
       "genre": "Electropop",
       "year": 2021,
       "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/27K2Wz7APmcj7mxDITeXga",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b8edc8e6156e995e379e6f00",
+      "title": "T.O.T.Y.",
+      "artist": "KALIM",
+      "songs": [
+        {
+          "title": "BOUNCE",
+          "preview_url": "https://p.scdn.co/mp3-preview/4dc4b48dc28f649e8e8f172da8e87be8066d1afa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "OZEAN (feat. Haftbefehl)",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd2ed9f30c9109387c9b748d9b1e9d95f632a115?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "1942",
+          "preview_url": "https://p.scdn.co/mp3-preview/daef9af5b59da1ef8901740ded57f88f0e3951ba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "year": 2021
     }
   ]
 }

@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 821,
+      "playTime": 822,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -613,7 +613,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 42,
+      "playTime": 43,
       "playTime30Days": 0
     },
     {
@@ -759,7 +759,7 @@
       "rating": 7,
       "playTime": 177,
       "genre": "Live",
-      "playTime30Days": 9
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",
@@ -864,6 +864,26 @@
       "playTime": 67,
       "genre": "Rap",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/00NqHEsuPC0TG1KItHTuUY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738487c2613931c5d3a247387b",
+      "title": "NULL AUF HUNDERT",
+      "artist": "KALIM",
+      "songs": [
+        {
+          "title": "sig sauer",
+          "preview_url": "https://p.scdn.co/mp3-preview/79c4ddfc88abe84edd196a7be4802366822dba2c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "nie wieder broke",
+          "preview_url": "https://p.scdn.co/mp3-preview/c52676b9fc2a1dc6ac2b07785b8f4af5f6fe1685?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "year": 2019
     }
   ]
 }
