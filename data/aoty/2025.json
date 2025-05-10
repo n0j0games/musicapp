@@ -41,7 +41,8 @@
       "rating": 9,
       "playTime": 452,
       "genre": "Latin",
-      "playTime30Days": 24
+      "playTime30Days": 24,
+      "color" : "#729238"
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -70,7 +71,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/962d3b346180aa3509717e18c84af09d6921bede?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
+      "rating": 9.1,
       "playTime": 276,
       "genre": "Rap",
       "playTime30Days": 0,
