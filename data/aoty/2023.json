@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 492,
-      "playTime30Days": 15,
+      "playTime": 493,
+      "playTime30Days": 13,
       "color": "#687d84"
     },
     {
@@ -289,8 +289,8 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 240,
-      "playTime30Days": 0,
+      "playTime": 254,
+      "playTime30Days": 15,
       "color": "#434754"
     },
     {
@@ -423,8 +423,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 102,
-      "playTime30Days": 0,
+      "playTime": 116,
+      "playTime30Days": 14,
       "color": "#745d4b"
     },
     {
@@ -457,7 +457,7 @@
       "rating": 8.8,
       "genre": "Psychadelic Rock",
       "playTime": 634,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#4c4559"
     },
     {
@@ -633,7 +633,7 @@
       ],
       "rating": 7.1,
       "genre": "Live Performance",
-      "playTime": 681,
+      "playTime": 682,
       "playTime30Days": 0
     },
     {
@@ -1159,7 +1159,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 140,
+      "playTime": 141,
       "playTime30Days": 0,
       "color": "#251c2d"
     },

@@ -63,7 +63,7 @@
       ],
       "rating": 10.1,
       "playTime": 145,
-      "playTime30Days": 21,
+      "playTime30Days": 6,
       "color": "#001e28"
     },
     {
@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 822,
+      "playTime": 825,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -137,8 +137,8 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 346,
-      "playTime30Days": 29,
+      "playTime": 354,
+      "playTime30Days": 36,
       "color": "#0e3258"
     },
     {
@@ -759,7 +759,7 @@
       "rating": 7,
       "playTime": 177,
       "genre": "Live",
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",
@@ -861,7 +861,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 67,
+      "playTime": 68,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -880,10 +880,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c52676b9fc2a1dc6ac2b07785b8f4af5f6fe1685?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "playTime": 0,
       "genre": "Deutschrap",
-      "year": 2019
+      "year": 2019,
+      "playTime30Days": 0
     }
   ]
 }

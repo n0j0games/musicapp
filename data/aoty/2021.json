@@ -32,7 +32,7 @@
       "onVinyl": true,
       "playTime": 614,
       "genre": "Rap",
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#90a692"
     },
     {
@@ -1097,7 +1097,7 @@
       "playTime": 15,
       "genre": "Electropop",
       "year": 2021,
-      "playTime30Days": 11
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/27K2Wz7APmcj7mxDITeXga",
@@ -1118,10 +1118,36 @@
           "preview_url": "https://p.scdn.co/mp3-preview/daef9af5b59da1ef8901740ded57f88f0e3951ba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
+      "rating": 5,
+      "playTime": 12,
       "genre": "Deutschrap",
-      "year": 2021
+      "year": 2021,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+      "title": "SOUR",
+      "artist": "Olivia Rodrigo",
+      "songs": [
+        {
+          "title": "hope ur ok",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ac804019ac8496426c438f27131350a9b4607c1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "drivers license",
+          "preview_url": "https://p.scdn.co/mp3-preview/8265999e85ac5e27aad154a8fdbdd502059e1d00?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "deja vu",
+          "preview_url": "https://p.scdn.co/mp3-preview/3882d764b154e61eade78125e885337ad9d85ae7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.5,
+      "playTime": 14,
+      "genre": "Pop",
+      "year": 2021,
+      "playTime30Days": 14
     }
   ]
 }

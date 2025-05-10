@@ -172,8 +172,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 277,
-      "playTime30Days": 0
+      "playTime": 279,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd",
@@ -300,7 +300,7 @@
       "playTime": 28,
       "genre": "Hip-Hop",
       "year": 2014,
-      "playTime30Days": 19
+      "playTime30Days": 0
     }
   ]
 }

@@ -347,9 +347,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 0,
+      "playTime": 12,
       "genre": "Soul",
-      "year": 1984
+      "year": 1984,
+      "playTime30Days": 9
     }
   ]
 }

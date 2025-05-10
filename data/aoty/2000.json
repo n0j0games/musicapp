@@ -205,7 +205,7 @@
       ],
       "rating": 10,
       "playTime": 511,
-      "playTime30Days": 51,
+      "playTime30Days": 29,
       "year": 2005,
       "color": "#001621"
     },
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 65,
-      "playTime30Days": 16,
+      "playTime": 67,
+      "playTime30Days": 18,
       "year": 2009
     },
     {
@@ -905,9 +905,9 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 48,
+      "playTime": 49,
       "genre": "Folk",
-      "playTime30Days": 5,
+      "playTime30Days": 6,
       "year": 2007,
       "color": "#5a552c"
     },
@@ -998,10 +998,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 43,
+      "playTime": 47,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 7
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1155,10 +1155,39 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 70,
+      "playTime": 85,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 30
+      "playTime30Days": 24
+    },
+    {
+      "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730102924a57d952089d6a5199",
+      "title": "Viva La Vida or Death and All His Friends",
+      "artist": "Coldplay",
+      "songs": [
+        {
+          "title": "Viva La Vida",
+          "preview_url": "https://p.scdn.co/mp3-preview/fb9f4a9b0887326776b4fb7c6d331acd167a7778?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Yes",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf4a8b579f80709e9e9fc46f0284d8c02aa6f7c0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Strawberry Swing",
+          "preview_url": "https://p.scdn.co/mp3-preview/2dbf86c9d9663ca8189a538fdfa4f970f211a9ec?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lovers in Japan",
+          "preview_url": "https://p.scdn.co/mp3-preview/b90f0e221a8175ec8fb6e79cc9a61af04bc0e4ed?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 44,
+      "genre": "Art Pop",
+      "year": 2008,
+      "playTime30Days": 16
     }
   ]
 }

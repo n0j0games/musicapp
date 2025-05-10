@@ -33,7 +33,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 292,
+      "playTime": 293,
       "playTime30Days": 0,
       "color": "#932e50"
     },
@@ -221,7 +221,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 251,
+      "playTime": 252,
       "playTime30Days": 0,
       "color": "#006687"
     },
@@ -870,8 +870,8 @@
         }
       ],
       "rating": 7,
-      "playTime": 162,
-      "playTime30Days": 0
+      "playTime": 192,
+      "playTime30Days": 30
     },
     {
       "url": "https://open.spotify.com/album/1PgZMz7lbQ43xfwGjgXA0Z",
@@ -1017,7 +1017,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 63,
+      "playTime": 64,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -1096,10 +1096,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b4168c709bf45c80d118f1c3434761de3a7bc610?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 42,
       "genre": "Deutschrap",
-      "year": 2020
+      "year": 2020,
+      "playTime30Days": 0
     }
   ]
 }

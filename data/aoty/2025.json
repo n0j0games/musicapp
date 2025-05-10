@@ -38,10 +38,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a3ac094516a56e20f0eae6d56641a25098fcc6f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.9,
-      "playTime": 447,
+      "rating": 9,
+      "playTime": 452,
       "genre": "Latin",
-      "playTime30Days": 39
+      "playTime30Days": 24
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -82,7 +82,7 @@
       "title": "Gesegnet",
       "artist": "Apache 207,\nLuciano",
       "rating": 5,
-      "playTime": 19,
+      "playTime": 21,
       "genre": "Deutschrap",
       "playTime30Days": 0
     },
@@ -206,7 +206,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "Deutschpop",
       "playTime30Days": 0
     },
@@ -536,9 +536,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 179,
+      "playTime": 183,
       "genre": "Deutschpop",
-      "playTime30Days": 66
+      "playTime30Days": 53
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -605,7 +605,7 @@
       "playTime": 47,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 47
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -655,7 +655,7 @@
       "playTime": 0,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 9
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T",
@@ -684,11 +684,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e761888711e7132ecfe4c73d2872abc4fee56cc6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.3,
-      "playTime": 95,
+      "rating": 8.4,
+      "playTime": 115,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 95
+      "playTime30Days": 115
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -769,16 +769,13 @@
         {
           "title": "Teenage Symphonies 4 God (God Will Only)",
           "preview_url": "https://p.scdn.co/mp3-preview/4df4d115aee3dbf140c64b4a1e018d6dcbe324b7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "Changes",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddad264fa21cc4a5ec4d8e8052ae2734bbeb7c1e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 14,
       "genre": "Art Pop",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5",
@@ -788,7 +785,8 @@
       "rating": 4,
       "playTime": 0,
       "genre": "Experimental Rap",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu",
@@ -813,10 +811,44 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9ecbbb11bc5dd42d98b794c6cec04ef3c63ee0a7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
+      "rating": 7,
+      "playTime": 26,
       "genre": "Chamber Jazz",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 26
+    },
+    {
+      "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+      "title": "Sincerely,",
+      "artist": "Kali Uchis",
+      "songs": [
+        {
+          "title": "ILYSMIH",
+          "preview_url": "https://p.scdn.co/mp3-preview/4669d45ce322367f39b0716a83f8fcf11a8d58da?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Heaven is a Home…",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0b284b13ad3cab6061961862b2cf2f068541119?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Angels All Around Me…",
+          "preview_url": "https://p.scdn.co/mp3-preview/d15defb6d8ef4545d43ba2342f8900b2c0eb4256?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lose My Cool,",
+          "preview_url": "https://p.scdn.co/mp3-preview/99b0a145c484b18d0bdfdc5d10780de2b554ecfd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Territorial",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f2ea8c22ccf898dd89ca1990d0fa643ddcf46f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 65,
+      "genre": "Pop Soul",
+      "year": 2025,
+      "playTime30Days": 65
     }
   ]
 }

@@ -30,7 +30,7 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 549,
+      "playTime": 550,
       "playTime30Days": 0,
       "color": "#0c3f83"
     },
@@ -226,7 +226,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 182,
+      "playTime": 183,
       "playTime30Days": 0
     },
     {
@@ -802,7 +802,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 13,
+      "playTime": 14,
       "playTime30Days": 0
     },
     {
@@ -1115,7 +1115,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 46,
+      "playTime": 47,
       "genre": "Trap",
       "playTime30Days": 0
     }

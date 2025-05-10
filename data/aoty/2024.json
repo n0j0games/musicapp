@@ -63,8 +63,8 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 594,
-      "playTime30Days": 21,
+      "playTime": 595,
+      "playTime30Days": 22,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
     },
@@ -198,8 +198,8 @@
       ],
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
-      "playTime": 204,
-      "playTime30Days": 0,
+      "playTime": 208,
+      "playTime30Days": 5,
       "color": "#9a6c1f"
     },
     {
@@ -229,10 +229,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7bc36fe41306df91a552a41305af3d53bb5a9d84?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "genre": "Synthpop",
-      "playTime": 267,
-      "playTime30Days": 40,
+      "playTime": 298,
+      "playTime30Days": 70,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -265,7 +265,7 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 327,
+      "playTime": 330,
       "playTime30Days": 0,
       "color": "#a065b1"
     },
@@ -365,7 +365,7 @@
       "rating": 8.4,
       "genre": "Neo Psychadelia",
       "playTime": 175,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
     },
@@ -399,7 +399,7 @@
       "rating": 8.7,
       "genre": "Dreampop",
       "playTime": 118,
-      "playTime30Days": 26,
+      "playTime30Days": 19,
       "color": "#104e73"
     },
     {
@@ -460,8 +460,8 @@
       ],
       "rating": 8.8,
       "genre": "Indie Pop",
-      "playTime": 85,
-      "playTime30Days": 21,
+      "playTime": 90,
+      "playTime30Days": 26,
       "color": "#2c3863"
     },
     {
@@ -655,7 +655,7 @@
       "rating": 8.1,
       "genre": "Synthpop",
       "playTime": 217,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#376893"
     },
     {
@@ -974,7 +974,7 @@
       ],
       "rating": 7.7,
       "genre": "Jazz",
-      "playTime": 19,
+      "playTime": 20,
       "playTime30Days": 0,
       "color": "#828282"
     },
@@ -1448,7 +1448,7 @@
       ],
       "rating": 5,
       "genre": "Synthpop",
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 98,
+      "playTime": 99,
       "playTime30Days": 0
     },
     {
@@ -2147,8 +2147,8 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 375,
-      "playTime30Days": 69,
+      "playTime": 380,
+      "playTime30Days": 66,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2271,8 +2271,8 @@
       ],
       "rating": 8.4,
       "genre": "Art Pop",
-      "playTime": 251,
-      "playTime30Days": 5,
+      "playTime": 275,
+      "playTime30Days": 27,
       "color": "#332737"
     },
     {
@@ -2613,6 +2613,17 @@
       "rating": 7,
       "playTime": 15,
       "genre": "Deutschrap",
+      "year": 2024,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c21cdbedd49f4a5809cf7be9",
+      "title": "143",
+      "artist": "Katy Perry",
+      "rating": 1,
+      "playTime": 0,
+      "genre": "Pop",
       "year": 2024,
       "playTime30Days": 0
     }
