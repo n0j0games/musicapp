@@ -205,7 +205,7 @@
       ],
       "rating": 10,
       "playTime": 511,
-      "playTime30Days": 29,
+      "playTime30Days": 25,
       "year": 2005,
       "color": "#001621"
     },
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 67,
-      "playTime30Days": 18,
+      "playTime": 71,
+      "playTime30Days": 19,
       "year": 2009
     },
     {
@@ -907,7 +907,7 @@
       "rating": 8.7,
       "playTime": 49,
       "genre": "Folk",
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#5a552c"
     },
@@ -998,10 +998,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 47,
+      "playTime": 48,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 11
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1060,7 +1060,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 46,
+      "playTime": 47,
       "genre": "Instrumental Rap",
       "year": 2000,
       "playTime30Days": 0
@@ -1158,7 +1158,7 @@
       "playTime": 85,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 24
+      "playTime30Days": 23
     },
     {
       "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",

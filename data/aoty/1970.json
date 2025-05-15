@@ -579,10 +579,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 38,
+      "playTime": 39,
       "genre": "Funk",
       "year": 1971,
-      "playTime30Days": 11
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",
@@ -645,6 +645,39 @@
       "genre": "Soundtrack",
       "year": 1977,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d401ded855f7fd747f0de19f",
+      "title": "Lo Mato",
+      "artist": "Willie Colón,\nHéctor Lavoe",
+      "songs": [
+        {
+          "title": "Señora Lola",
+          "preview_url": "https://p.scdn.co/mp3-preview/380e880bab90535de0ae9a7a5688cb9f04f76f14?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Todo Tiene Su Final",
+          "preview_url": "https://p.scdn.co/mp3-preview/e48e1b8e1fbe49cdec2793a8714bcc8665511f4b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "La María",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c54849fa675f523af916c580657041cce20d60b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Junio 73",
+          "preview_url": "https://p.scdn.co/mp3-preview/9a9780171ec5a44e1513afe1674ff94454886177?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "El Día De Mi Suerte",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e2434ed126168a6f40b885cc5315f4603b7c6ff?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 13,
+      "genre": "Latin",
+      "year": 1973,
+      "playTime30Days": 13
     }
   ]
 }

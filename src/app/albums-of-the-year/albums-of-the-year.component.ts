@@ -44,7 +44,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   sortingTitle = "";
   private startYear: number = 1965;
   yearOptions_ : number[] = Array.from({ length: (new Date().getFullYear() - this.startYear + 1) }, (_, i) => this.startYear + i);
-  decadeOptions = [1960, 1970, 1980, 1990, 2000, 2010, 2020];
+  decadeOptions = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
   sortingOptions = <Sorting[]>Object.values(Sorting);
 
   formGroup = new FormGroup({

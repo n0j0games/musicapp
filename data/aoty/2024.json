@@ -30,7 +30,7 @@
       ],
       "rating": 9.3,
       "genre": "Deutschrap",
-      "playTime": 267,
+      "playTime": 268,
       "playTime30Days": 0,
       "color": "#878787"
     },
@@ -64,7 +64,7 @@
       "rating": 9.8,
       "genre": "Electropop",
       "playTime": 595,
-      "playTime30Days": 22,
+      "playTime30Days": 0,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
     },
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 788,
-      "playTime30Days": 7,
+      "playTime": 789,
+      "playTime30Days": 8,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -231,8 +231,8 @@
       ],
       "rating": 9,
       "genre": "Synthpop",
-      "playTime": 298,
-      "playTime30Days": 70,
+      "playTime": 328,
+      "playTime30Days": 100,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -399,7 +399,7 @@
       "rating": 8.7,
       "genre": "Dreampop",
       "playTime": 118,
-      "playTime30Days": 19,
+      "playTime30Days": 12,
       "color": "#104e73"
     },
     {
@@ -460,8 +460,8 @@
       ],
       "rating": 8.8,
       "genre": "Indie Pop",
-      "playTime": 90,
-      "playTime30Days": 26,
+      "playTime": 91,
+      "playTime30Days": 9,
       "color": "#2c3863"
     },
     {
@@ -655,7 +655,7 @@
       "rating": 8.1,
       "genre": "Synthpop",
       "playTime": 217,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#376893"
     },
     {
@@ -1120,7 +1120,7 @@
       "rating": 7.8,
       "genre": "Latin",
       "playTime": 72,
-      "playTime30Days": 12,
+      "playTime30Days": 11,
       "color": "#012c63"
     },
     {
@@ -1982,8 +1982,8 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 99,
-      "playTime30Days": 0
+      "playTime": 102,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2064,7 +2064,7 @@
       ],
       "rating": 7.5,
       "genre": "Deutschrap",
-      "playTime": 113,
+      "playTime": 114,
       "playTime30Days": 0,
       "color": "#000000"
     },
@@ -2272,7 +2272,7 @@
       "rating": 8.4,
       "genre": "Art Pop",
       "playTime": 275,
-      "playTime30Days": 27,
+      "playTime30Days": 26,
       "color": "#332737"
     },
     {
@@ -2305,7 +2305,7 @@
       "rating": 8.3,
       "playTime": 353,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#6c6c6c"
     },
     {
@@ -2338,7 +2338,7 @@
       "rating": 9.2,
       "playTime": 639,
       "genre": "Wiener Pop",
-      "playTime30Days": 19,
+      "playTime30Days": 0,
       "color": "#c51919"
     },
     {
@@ -2581,11 +2581,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3c13308aaae6ed98b76fb8e36e7bf72906ed8100?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6,
-      "playTime": 0,
+      "rating": 7,
+      "playTime": 21,
       "genre": "Deutschrap",
       "year": 2024,
-      "playTime30Days": 0
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/2pePDyycyqpk7WxaXB81To",

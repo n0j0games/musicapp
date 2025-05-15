@@ -218,6 +218,31 @@
       "genre": "Experimental Rap",
       "year": 2010,
       "playTime30Days": 12
+    },
+    {
+      "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f619042d5f6b2149a4f5e0ca",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "songs": [
+        {
+          "title": "Last Friday Night (T.G.I.F.)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e82b61946a5ddb0fd77ceec97c002b28f58003b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "California Gurls",
+          "preview_url": "https://p.scdn.co/mp3-preview/68a9e935c2d5b857dc4da49d5be2789f3d392e03?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Firework",
+          "preview_url": "https://p.scdn.co/mp3-preview/f5452ebf843f4c126eacc038fbfdc9502bf0a9b5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Pop",
+      "year": 2010,
+      "playTime30Days": 5
     }
   ]
 }

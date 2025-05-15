@@ -109,7 +109,7 @@ export class HomeComponent implements OnInit {
       });
       this.aotyListsGroupedByDecade.push({ items: t, decade: decade });
     }
-    for (const decade of [1960, 1970, 1980, 1990, 2000]) {
+    for (const decade of [1950, 1960, 1970, 1980, 1990, 2000]) {
       for (const item of aotyList.items) {
         if (item.year === decade) {
           this.aotyListsWithoutDecade.push(item);

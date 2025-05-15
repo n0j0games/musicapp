@@ -157,7 +157,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 261,
+      "playTime": 262,
       "playTime30Days": 0
     },
     {
@@ -286,8 +286,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 527,
-      "playTime30Days": 6
+      "playTime": 528,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -896,7 +896,7 @@
       "rating": 8.3,
       "playTime": 65,
       "genre": "Synthpop",
-      "playTime30Days": 16
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
@@ -1143,11 +1143,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3882d764b154e61eade78125e885337ad9d85ae7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.5,
-      "playTime": 14,
+      "rating": 7,
+      "playTime": 20,
       "genre": "Pop",
       "year": 2021,
-      "playTime30Days": 14
+      "playTime30Days": 20
     }
   ]
 }

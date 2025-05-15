@@ -1,0 +1,85 @@
+{
+  "year": 1950,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27374e3823e9643fabc830851dd",
+      "title": "Fats Domino Swings",
+      "artist": "Fats Domino",
+      "songs": [
+        {
+          "title": "The Fat Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/08d49df3ab324d96ff561c8127e5d2e9d651ddb3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blue Monday",
+          "preview_url": "https://p.scdn.co/mp3-preview/49324289f93cc4349f5547067bc171a17426d7ac?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blueberry Hill",
+          "preview_url": "https://p.scdn.co/mp3-preview/90baa5b9710c8b07e034dc64d333e5f4bbd4225d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'm In Love Again",
+          "preview_url": "https://p.scdn.co/mp3-preview/d2f55333297e0eec5fd21449f3858795dcd16f55?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Early R&B",
+      "year": 1959
+    },
+    {
+      "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f0e951707ca49b533fdbf64e",
+      "title": "Ray Charles (aka: Hallelujah, I Love Her So)",
+      "artist": "Ray Charles",
+      "songs": [
+        {
+          "title": "I've Got a Woman",
+          "preview_url": "https://p.scdn.co/mp3-preview/425d081433204c6ded4ae8f852ee89e5d5bcdc0d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Drown in My Own Tears",
+          "preview_url": "https://p.scdn.co/mp3-preview/766cbabb3295b48e151a68e84fcad440e5961830?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Come Back Baby",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4eb89b1395108ef9f5e7ef40b6d88f3009fc875?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hallelujah, I Love Her So",
+          "preview_url": "https://p.scdn.co/mp3-preview/01855a1cf93d484ef00e7aba5af56da9b95e4378?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mess Around",
+          "preview_url": "https://p.scdn.co/mp3-preview/06b369274ecece821bb4ac82aadf484eeab83982?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.9,
+      "playTime": 0,
+      "genre": "Early R&B",
+      "year": 1957
+    },
+    {
+      "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733d458302f94dcb78cbde22e6",
+      "title": "The Coasters",
+      "artist": "The Coasters",
+      "songs": [
+        {
+          "title": "Searchin'",
+          "preview_url": "https://p.scdn.co/mp3-preview/dda852d60d7db2b099a40142aff3dff2db712c7b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "One Kiss Led to Another",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f091da9ca44bcb5a77d10d45c658831fbc68159?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Early R&B",
+      "year": 1957
+    }
+  ]
+}

@@ -133,7 +133,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 132,
+      "playTime": 133,
       "playTime30Days": 0,
       "year": 1998,
       "color": "#933a2b"
@@ -752,6 +752,39 @@
       "genre": "Art Pop",
       "year": 1995,
       "playTime30Days": 16
+    },
+    {
+      "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27391d080c66f2425c23c6eadf8",
+      "title": "Ray of Light",
+      "artist": "Madonna",
+      "songs": [
+        {
+          "title": "Candy Perfume Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/24cebe406b89ecade2bc77b28a8190d46e806cd1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Skin",
+          "preview_url": "https://p.scdn.co/mp3-preview/03f16ab6ac8a0a632db55f52f41f07994ebdba90?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sky Fits Heaven",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0786dbc3d6bd827cfb39c33b988f550b998f9ee?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ray of Light",
+          "preview_url": "https://p.scdn.co/mp3-preview/b96547084952b1926df53e5caa95f22963f13b1f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Power of Good-Bye",
+          "preview_url": "https://p.scdn.co/mp3-preview/727fbed575a42bc8a20337956babbc06db4e4b69?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 14,
+      "genre": "Art Pop",
+      "year": 1998,
+      "playTime30Days": 14
     }
   ]
 }

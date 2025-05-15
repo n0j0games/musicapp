@@ -63,7 +63,7 @@
       ],
       "rating": 10.1,
       "playTime": 145,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#001e28"
     },
     {
@@ -462,7 +462,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 65,
+      "playTime": 66,
       "playTime30Days": 0
     },
     {
@@ -731,7 +731,7 @@
       "rating": 7,
       "playTime": 94,
       "genre": "Trap",
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x",
@@ -757,7 +757,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 177,
+      "playTime": 178,
       "genre": "Live",
       "playTime30Days": 0
     },

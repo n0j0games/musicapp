@@ -63,7 +63,7 @@
       ],
       "rating": 10.1,
       "playTime": 491,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#51aab9"
     },
     {
@@ -127,7 +127,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime30Days": 27,
+      "playTime30Days": 9,
       "playTime": 161,
       "color": "#74000e"
     },
@@ -190,8 +190,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 64,
-      "playTime30Days": 5
+      "playTime": 66,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI",

@@ -39,10 +39,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 452,
+      "playTime": 468,
       "genre": "Latin",
-      "playTime30Days": 24,
-      "color" : "#729238"
+      "playTime30Days": 38,
+      "color": "#729238"
     },
     {
       "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY",
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 276,
+      "playTime": 282,
       "genre": "Rap",
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#1f4072"
     },
     {
@@ -145,7 +145,7 @@
       "rating": 8,
       "playTime": 671,
       "genre": "Synthpop",
-      "playTime30Days": 8
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -371,7 +371,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 27,
+      "playTime": 28,
       "genre": "Pop",
       "playTime30Days": 0
     },
@@ -537,9 +537,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 183,
+      "playTime": 185,
       "genre": "Deutschpop",
-      "playTime30Days": 53
+      "playTime30Days": 48
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -565,9 +565,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 24,
+      "playTime": 64,
       "genre": "Deutschrap",
-      "playTime30Days": 5
+      "playTime30Days": 45
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -606,7 +606,7 @@
       "playTime": 47,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 19
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -656,7 +656,7 @@
       "playTime": 0,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T",
@@ -689,7 +689,7 @@
       "playTime": 115,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 115
+      "playTime30Days": 47
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -719,10 +719,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 104,
+      "playTime": 115,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 104
+      "playTime30Days": 115
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -846,10 +846,31 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 65,
+      "playTime": 199,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 65
+      "playTime30Days": 199
+    },
+    {
+      "url": "https://open.spotify.com/album/3u952Zxzx60qhCoohKSf5k",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27338d54194828367fb801ced67",
+      "title": "7 piano sketches",
+      "artist": "André 3000",
+      "songs": [
+        {
+          "title": "bluffing in the snow",
+          "preview_url": "https://p.scdn.co/mp3-preview/6047e092bca611e10fa80c66af9446d1f89ec2ad?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "and then one day you'll ...",
+          "preview_url": "https://p.scdn.co/mp3-preview/b1cc3b2baf01d7ebd3ea68a04ad7c8e6b5ae5870?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Piano Instrumental",
+      "year": 2025,
+      "playTime30Days": 0
     }
   ]
 }
