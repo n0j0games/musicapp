@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 468,
+      "playTime": 472,
       "genre": "Latin",
-      "playTime30Days": 38,
+      "playTime30Days": 36,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 282,
+      "playTime": 294,
       "genre": "Rap",
-      "playTime30Days": 6,
+      "playTime30Days": 18,
       "color": "#1f4072"
     },
     {
@@ -145,7 +145,7 @@
       "rating": 8,
       "playTime": 671,
       "genre": "Synthpop",
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -537,9 +537,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 185,
+      "playTime": 186,
       "genre": "Deutschpop",
-      "playTime30Days": 48
+      "playTime30Days": 46
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -606,7 +606,7 @@
       "playTime": 47,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 10
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -686,10 +686,10 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 115,
+      "playTime": 130,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 47
+      "playTime30Days": 37
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -719,10 +719,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 115,
+      "playTime": 146,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 115
+      "playTime30Days": 146
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -846,10 +846,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 199,
+      "playTime": 270,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 199
+      "playTime30Days": 270,
+      "onVinyl": true
     },
     {
       "url": "https://open.spotify.com/album/3u952Zxzx60qhCoohKSf5k",

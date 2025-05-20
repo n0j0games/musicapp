@@ -35,7 +35,7 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 323,
+      "playTime": 324,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -579,10 +579,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 39,
+      "playTime": 40,
       "genre": "Funk",
       "year": 1971,
-      "playTime30Days": 12
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",

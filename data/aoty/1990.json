@@ -596,7 +596,7 @@
       "playTime": 22,
       "genre": "Funk",
       "year": 1993,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#45493e"
     },
     {
@@ -781,10 +781,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 14,
+      "playTime": 17,
       "genre": "Art Pop",
       "year": 1998,
-      "playTime30Days": 14
+      "playTime30Days": 17
     }
   ]
 }

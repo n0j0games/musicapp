@@ -63,7 +63,7 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 595,
+      "playTime": 596,
       "playTime30Days": 0,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
@@ -98,7 +98,7 @@
       "rating": 8.4,
       "genre": "Country Pop",
       "playTime": 789,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -199,7 +199,7 @@
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
       "playTime": 208,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#9a6c1f"
     },
     {
@@ -399,7 +399,7 @@
       "rating": 8.7,
       "genre": "Dreampop",
       "playTime": 118,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#104e73"
     },
     {
@@ -460,8 +460,8 @@
       ],
       "rating": 8.8,
       "genre": "Indie Pop",
-      "playTime": 91,
-      "playTime30Days": 9,
+      "playTime": 104,
+      "playTime30Days": 22,
       "color": "#2c3863"
     },
     {
@@ -527,7 +527,7 @@
       "rating": 8.7,
       "genre": "Rock",
       "playTime": 175,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#357a31"
     },
     {
@@ -654,7 +654,7 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 217,
+      "playTime": 218,
       "playTime30Days": 0,
       "color": "#376893"
     },
@@ -799,7 +799,7 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 95,
+      "playTime": 96,
       "playTime30Days": 0,
       "color": "#872d11"
     },
@@ -1120,7 +1120,7 @@
       "rating": 7.8,
       "genre": "Latin",
       "playTime": 72,
-      "playTime30Days": 11,
+      "playTime30Days": 0,
       "color": "#012c63"
     },
     {
@@ -1983,7 +1983,7 @@
       "rating": 6,
       "genre": "Synthpop",
       "playTime": 102,
-      "playTime30Days": 7
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2118,7 +2118,7 @@
       "rating": 9,
       "genre": "Deutscher Indie",
       "playTime": 222,
-      "playTime30Days": 23,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2148,7 +2148,7 @@
       "rating": 7.9,
       "genre": "Experimental Rap",
       "playTime": 380,
-      "playTime30Days": 66,
+      "playTime30Days": 45,
       "onVinyl": true,
       "color": "#158836FF"
     },

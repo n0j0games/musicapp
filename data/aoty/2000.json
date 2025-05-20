@@ -204,8 +204,8 @@
         }
       ],
       "rating": 10,
-      "playTime": 511,
-      "playTime30Days": 25,
+      "playTime": 512,
+      "playTime30Days": 16,
       "year": 2005,
       "color": "#001621"
     },
@@ -333,7 +333,7 @@
       ],
       "rating": 8.7,
       "playTime": 71,
-      "playTime30Days": 19,
+      "playTime30Days": 11,
       "year": 2009
     },
     {
@@ -942,7 +942,7 @@
       "playTime": 51,
       "genre": "French House",
       "year": 2007,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#20190a"
     },
     {
@@ -998,10 +998,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 48,
+      "playTime": 49,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 12
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1060,7 +1060,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 47,
+      "playTime": 48,
       "genre": "Instrumental Rap",
       "year": 2000,
       "playTime30Days": 0
@@ -1184,7 +1184,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "Art Pop",
       "year": 2008,
       "playTime30Days": 16

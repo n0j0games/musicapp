@@ -30,7 +30,7 @@
       ],
       "rating": 10.1,
       "genre": "Pop Rap",
-      "playTime": 755,
+      "playTime": 756,
       "playTime30Days": 5,
       "color": "#965f0f"
     },
@@ -95,8 +95,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 154,
-      "playTime30Days": 0,
+      "playTime": 159,
+      "playTime30Days": 6,
       "color": "#8884ba"
     },
     {
@@ -217,8 +217,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 222,
-      "playTime30Days": 172
+      "playTime": 254,
+      "playTime30Days": 198
     },
     {
       "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",
@@ -249,7 +249,7 @@
       ],
       "rating": 8.7,
       "playTime": 90,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
@@ -280,7 +280,7 @@
       ],
       "rating": 8.6,
       "genre": "Rap",
-      "playTime": 641,
+      "playTime": 642,
       "playTime30Days": 0
     },
     {
@@ -752,7 +752,7 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 140,
+      "playTime": 141,
       "genre": "R&B",
       "playTime30Days": 0
     },
