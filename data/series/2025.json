@@ -10,6 +10,16 @@
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/hWBc5kZCtZ2dDZvU7aQNkNrTerh.jpg",
       "rating": 7,
       "year": 2025
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/83867/season/427323/2",
+      "title": "Andor",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/33864654",
+      "url": "https://www.serializd.com/show/Andor-83867",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/ugkhd9olFiJwDgO3tK1ZrPxUdxQ.jpg",
+      "rating": 9,
+      "year": 2025
     }
   ]
 }

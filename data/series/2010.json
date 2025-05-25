@@ -70,6 +70,15 @@
       "url": "https://www.serializd.com/review/25936183",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3vGy8NVfX0bis3YyTwJw3z5JAAQ.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/3752/2",
+      "title": "Modern Family",
+      "subtitle": "Season 2",
+      "reviewHref": "https://www.serializd.com/review/34216042",
+      "url": "https://www.serializd.com/review/34216042",
+      "rating": 8,
+      "year": 2010
     }
   ]
 }

@@ -50,6 +50,16 @@
       "url": "https://www.serializd.com/review/25936162",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/goZWLm1I8o6Gri7dS26OMpXGRmM.jpg",
       "rating": 6
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/3751/1",
+      "title": "Modern Family",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/33769861",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/i1KhQoI391KaEA5fKArrzoTvNDk.jpg",
+      "rating": 7,
+      "year": 2009
     }
   ]
 }
