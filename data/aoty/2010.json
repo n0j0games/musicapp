@@ -243,6 +243,34 @@
       "genre": "Pop",
       "year": 2010,
       "playTime30Days": 5
+    },
+    {
+      "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739d37f979163154904099eece",
+      "title": "K.I.D.S.",
+      "artist": "Mac Miller",
+      "songs": [
+        {
+          "title": "Outside",
+          "preview_url": "https://p.scdn.co/mp3-preview/ca4fdb4ad998bc67fbb6cbb5f6056b7c0baa66b2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Spins",
+          "preview_url": "https://p.scdn.co/mp3-preview/8646d3b6544d0126b5b48d36aa857ac4a4a1d82f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Poppy",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe542bd47786e04da50bffe6ebe868fa1401f6e9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Face In The Crowd",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d143816ad62bf529efcda85922d997df9c335ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Pop Rap",
+      "year": 2010
     }
   ]
 }

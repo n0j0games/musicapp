@@ -75,7 +75,8 @@
       "playTime": 294,
       "genre": "Rap",
       "playTime30Days": 18,
-      "color": "#1f4072"
+      "color": "#1f4072",
+      "type": "Reissue"
     },
     {
       "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk",
@@ -872,6 +873,58 @@
       "genre": "Piano Instrumental",
       "year": 2025,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7uu6SJRaMfIuoiMUKs5hIO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27314a0a2d3f10fdfd9cbc3b510",
+      "title": "13 Months of Sunshine",
+      "artist": "Aminé",
+      "songs": [
+        {
+          "title": "Arc de Triomphe",
+          "preview_url": "https://p.scdn.co/mp3-preview/0491e77a8f8e4e9daae2910ab622c9c2d7573453?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Images (feat. 454 & Toro y Moi)",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c6b1a5a6ba62e01953e97d0828db4ffdd45ba48?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "New Flower! (feat. Leon Thomas)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ef859a9ef702c8362762bcff646e6f302917e12?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Hip Hop",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/78Wcqh7ygPyANYSd8kn5PG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aef0d83e19fffab7a3f82e2b",
+      "title": "Bittersüß",
+      "artist": "Abor & Tynna",
+      "songs": [
+        {
+          "title": "Parallele Linien",
+          "preview_url": "https://p.scdn.co/mp3-preview/0a6f0090fcb099ec1745d0f5a4840c2125d640fb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Coco Taxi",
+          "preview_url": "https://p.scdn.co/mp3-preview/256ae5e513c8e79fff819f64f78eb9cf1a14fa6b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Seifenblasen",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d4ae49362373fe8c3b3feafebec385334298cf2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Babylon",
+          "preview_url": "https://p.scdn.co/mp3-preview/b41134f573227a50b770749ea192225e9c273e74?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Deutschpop",
+      "year": 2025
     }
   ]
 }

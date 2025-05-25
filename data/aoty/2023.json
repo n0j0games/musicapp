@@ -602,7 +602,8 @@
       "rating": 7.7,
       "playTime": 235,
       "playTime30Days": 0,
-      "color": "#539390"
+      "color": "#539390",
+      "type" : "Deluxe"
     },
     {
       "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92",

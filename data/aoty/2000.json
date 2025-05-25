@@ -305,33 +305,33 @@
       "color": "#453c35"
     },
     {
-      "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
-      "title": "The Fame Monster (Deluxe Edition)",
+      "url": "https://open.spotify.com/album/58WSd6SDPOcbnnJ2tq0Ph8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e",
+      "title": "The Fame Monster",
       "artist": "Lady Gaga",
       "songs": [
         {
+          "title": "Telephone",
+          "preview_url": "https://p.scdn.co/mp3-preview/4817670122ae479bba81a1959aae2fe79d57f34d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
           "title": "Bad Romance",
-          "preview_url": "https://p.scdn.co/mp3-preview/a58b8677ea3858185308224d36808920e587cec5?cid=941103e4872f4d3fad60066c677df34f"
+          "preview_url": "https://p.scdn.co/mp3-preview/a58b8677ea3858185308224d36808920e587cec5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
           "title": "Alejandro",
-          "preview_url": "https://p.scdn.co/mp3-preview/43daff8bc053a1805a17c91869cb8b5686f84342?cid=941103e4872f4d3fad60066c677df34f"
+          "preview_url": "https://p.scdn.co/mp3-preview/43daff8bc053a1805a17c91869cb8b5686f84342?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Telephone",
-          "preview_url": "https://p.scdn.co/mp3-preview/4817670122ae479bba81a1959aae2fe79d57f34d?cid=941103e4872f4d3fad60066c677df34f"
+          "title": "Speechless",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a59dcc8015d4ac6dec691c5e6d170a08fe0518e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Paparazzi",
-          "preview_url": "https://p.scdn.co/mp3-preview/769475c6a0156d8458fa41b1110860d8ff41a3cf?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Poker Face",
-          "preview_url": "https://p.scdn.co/mp3-preview/36abf77572983417d63a3aed8923d00e07167efa?cid=941103e4872f4d3fad60066c677df34f"
+          "title": "Dance In The Dark",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8c51ceaf95a1f32516ca8bf1b03bddf5e884150?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
+      "rating": 9.0,
       "playTime": 71,
       "playTime30Days": 11,
       "year": 2009

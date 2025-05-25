@@ -76,6 +76,26 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5f091da9ca44bcb5a77d10d45c658831fbc68159?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Early R&B",
+      "year": 1957
+    },
+    {
+      "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738a22827b01e5d68d3736d58b",
+      "title": "Here's Little Richard (Deluxe Edition)",
+      "artist": "Little Richard",
+      "songs": [
+        {
+          "title": "Tutti Frutti",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ab99dc9866e1f12b943b7848c78de38a37b3151?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "True, Fine Mama",
+          "preview_url": "https://p.scdn.co/mp3-preview/664a49a011a3f305b0606ab9a869e5bc6b2c1395?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
       "rating": 5.0,
       "playTime": 0,
       "genre": "Early R&B",
