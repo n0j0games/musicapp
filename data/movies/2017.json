@@ -12,7 +12,7 @@
     {
       "title": "Call Me by Your Name",
       "url": "https://letterboxd.com/film/call-me-by-your-name/",
-      "rating": 9.9,
+      "rating": 10.5,
       "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4",
       "creator": "Luca Guadagnino",
       "year": 2017
@@ -87,6 +87,14 @@
       "rating": 6,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/1/2/3/0/6/6/123066-pirates-of-the-caribbean-dead-men-tell-no-tales-0-230-0-345-crop.jpg?v=67c23b3308",
       "creator": "Espen Sandberg,\nJoachim Rønning",
+      "year": 2017
+    },
+    {
+      "title": "Lady Bird",
+      "url": "https://letterboxd.com/film/lady-bird/",
+      "rating": 9,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/3/2/6/2/7/9/326279-lady-bird-0-230-0-345-crop.jpg?v=754ff28eb4",
+      "creator": "Greta Gerwig",
       "year": 2017
     }
   ]
