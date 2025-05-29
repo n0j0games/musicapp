@@ -334,7 +334,8 @@
       "rating": 9.3,
       "playTime": 75,
       "playTime30Days": 13,
-      "year": 2009
+      "year": 2009,
+      "color" : "#4c4c4c"
     },
     {
       "url": "https://open.spotify.com/album/1OnCqi7IuzjnrOh2ZNvJHd",

@@ -218,7 +218,8 @@
       ],
       "rating": 9.7,
       "playTime": 307,
-      "playTime30Days": 179
+      "playTime30Days": 179,
+      "color" : "#064cb7"
     },
     {
       "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",
