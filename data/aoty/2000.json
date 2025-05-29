@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 826,
+      "playTime": 828,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -204,8 +204,8 @@
         }
       ],
       "rating": 10,
-      "playTime": 512,
-      "playTime30Days": 16,
+      "playTime": 514,
+      "playTime30Days": 0,
       "year": 2005,
       "color": "#001621"
     },
@@ -331,9 +331,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b8c51ceaf95a1f32516ca8bf1b03bddf5e884150?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.0,
-      "playTime": 71,
-      "playTime30Days": 11,
+      "rating": 9.3,
+      "playTime": 75,
+      "playTime30Days": 13,
       "year": 2009
     },
     {
@@ -1001,7 +1001,7 @@
       "playTime": 49,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 13
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1122,7 +1122,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 66,
+      "playTime": 67,
       "genre": "Hip-Hop",
       "year": 2000,
       "playTime30Days": 0
@@ -1158,7 +1158,7 @@
       "playTime": 85,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 23
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",
@@ -1184,10 +1184,43 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 45,
+      "playTime": 54,
       "genre": "Art Pop",
       "year": 2008,
-      "playTime30Days": 16
+      "playTime30Days": 22
+    },
+    {
+      "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aaa9d84415623c1e790cd07b",
+      "title": "Confessions on a Dance Floor",
+      "artist": "Madonna",
+      "songs": [
+        {
+          "title": "Hung Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/dffaf6d378f42c2ec6311d17fadc5fc26eb84bf8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Like It or Not",
+          "preview_url": "https://p.scdn.co/mp3-preview/7c9d7a74a27a28013e28f690ea4dd74245665490?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Get Together",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb3ad9e3d1cf64b7e413c74ee9a3ffac53b3c8ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sorry",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d197614a3887976e8cd091c5b943b4aa1edead4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Forbidden Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/a2b1cb47a2aff09cfe2b98b7e4eea7bcbba9d0c8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 50,
+      "genre": "Dance Pop",
+      "year": 2005,
+      "playTime30Days": 31
     }
   ]
 }

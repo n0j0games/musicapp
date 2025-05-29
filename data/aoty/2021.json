@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 150,
+      "playTime": 151,
       "playTime30Days": 0,
       "color": "#622d00"
     },
@@ -287,7 +287,7 @@
       ],
       "rating": 8.8,
       "playTime": 528,
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -1097,7 +1097,7 @@
       "playTime": 15,
       "genre": "Electropop",
       "year": 2021,
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/27K2Wz7APmcj7mxDITeXga",
@@ -1144,10 +1144,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 20,
+      "playTime": 21,
       "genre": "Pop",
       "year": 2021,
-      "playTime30Days": 20
+      "playTime30Days": 21
     }
   ]
 }

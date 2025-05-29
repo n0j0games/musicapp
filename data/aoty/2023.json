@@ -62,7 +62,7 @@
       ],
       "rating": 9.6,
       "playTime": 493,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#687d84"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 254,
+      "playTime": 255,
       "playTime30Days": 15,
       "color": "#434754"
     },
@@ -457,7 +457,7 @@
       "rating": 8.8,
       "genre": "Psychadelic Rock",
       "playTime": 635,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#4c4559"
     },
     {
@@ -603,7 +603,7 @@
       "playTime": 235,
       "playTime30Days": 0,
       "color": "#539390",
-      "type" : "Deluxe"
+      "type": "Deluxe"
     },
     {
       "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92",
@@ -1160,7 +1160,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 141,
+      "playTime": 142,
       "playTime30Days": 0,
       "color": "#251c2d"
     },
@@ -2245,7 +2245,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "Electronic",
       "year": 2023,
       "playTime30Days": 0

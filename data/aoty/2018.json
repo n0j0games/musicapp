@@ -65,7 +65,7 @@
       "rating": 9.99,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1147,
+      "playTime": 1148,
       "playTime30Days": 0,
       "color": "#4683b1"
     },
@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 291,
+      "playTime": 292,
       "playTime30Days": 0,
       "color": "#926d70"
     },
@@ -195,8 +195,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 209,
-      "playTime30Days": 0,
+      "playTime": 216,
+      "playTime30Days": 7,
       "color": "#8a7877"
     },
     {

@@ -63,8 +63,8 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 596,
-      "playTime30Days": 0,
+      "playTime": 619,
+      "playTime30Days": 25,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
     },
@@ -198,8 +198,8 @@
       ],
       "rating": 8.8,
       "genre": "Hardcore Hip Hop",
-      "playTime": 208,
-      "playTime30Days": 0,
+      "playTime": 209,
+      "playTime30Days": 5,
       "color": "#9a6c1f"
     },
     {
@@ -231,7 +231,7 @@
       ],
       "rating": 9,
       "genre": "Synthpop",
-      "playTime": 328,
+      "playTime": 340,
       "playTime30Days": 100,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
@@ -460,8 +460,8 @@
       ],
       "rating": 8.8,
       "genre": "Indie Pop",
-      "playTime": 104,
-      "playTime30Days": 22,
+      "playTime": 108,
+      "playTime30Days": 23,
       "color": "#2c3863"
     },
     {
@@ -654,7 +654,7 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 218,
+      "playTime": 219,
       "playTime30Days": 0,
       "color": "#376893"
     },
@@ -828,7 +828,7 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 451,
+      "playTime": 452,
       "playTime30Days": 0,
       "color": "#7d716f",
       "review": "og-keemo--fieber"
@@ -974,7 +974,7 @@
       ],
       "rating": 7.7,
       "genre": "Jazz",
-      "playTime": 20,
+      "playTime": 21,
       "playTime30Days": 0,
       "color": "#828282"
     },
@@ -1982,8 +1982,8 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 102,
-      "playTime30Days": 6
+      "playTime": 123,
+      "playTime30Days": 26
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2148,7 +2148,7 @@
       "rating": 7.9,
       "genre": "Experimental Rap",
       "playTime": 380,
-      "playTime30Days": 45,
+      "playTime30Days": 22,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2272,7 +2272,7 @@
       "rating": 8.4,
       "genre": "Art Pop",
       "playTime": 275,
-      "playTime30Days": 26,
+      "playTime30Days": 24,
       "color": "#332737"
     },
     {
