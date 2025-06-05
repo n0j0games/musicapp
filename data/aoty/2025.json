@@ -846,7 +846,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1f2ea8c22ccf898dd89ca1990d0fa643ddcf46f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.5,
+      "rating": 8.7,
       "playTime": 403,
       "genre": "Pop Soul",
       "year": 2025,
@@ -955,7 +955,8 @@
       "playTime": 76,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 38
+      "playTime30Days": 38,
+      "onVinyl" : "true"
     },
     {
       "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ",
@@ -984,7 +985,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72f4c3e7219a47839daeef730832fdba8e0b5573?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
+      "rating": 8.6,
       "playTime": 93,
       "genre": "Art Pop",
       "year": 2025,
@@ -1005,22 +1006,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/331a9e06b3bf60cbbfff085e29f1fe3c678e436a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Undesirable",
-          "preview_url": "https://p.scdn.co/mp3-preview/99e0054b99b5a27392d2e0533e12df66b39d6062?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "9th Gate",
-          "preview_url": "https://p.scdn.co/mp3-preview/60533e9ee06f95df3ad2346b55749a698072210c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "9th Heaven",
-          "preview_url": "https://p.scdn.co/mp3-preview/717d40fc72ba81e3c35e67fae4edeceba48fb8ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "Dissociation",
-          "preview_url": "https://p.scdn.co/mp3-preview/2d67cf7f2fd9b77b066856b6478bf4f6be99c88f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "History Of Violence",
           "preview_url": "https://p.scdn.co/mp3-preview/f0dd945ecc7b5652dae8f038f413b22185595c7a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
@@ -1029,17 +1014,13 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9c79a65c6088a6c01225eca53166e3244931606d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Love After Death",
-          "preview_url": "https://p.scdn.co/mp3-preview/14eef5c8ccdd0684b0580c4ea149e13ff8d4b71d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "Only Dust Remains",
           "preview_url": "https://p.scdn.co/mp3-preview/5c806ec704ea6f5d4855dd974c843bd5798a5a89?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 0,
+      "rating": 8.3,
       "playTime": 0,
-      "genre": "",
+      "genre": "Experimental Rap",
       "year": 2025
     }
   ]
