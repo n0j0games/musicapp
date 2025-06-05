@@ -30,8 +30,8 @@
       ],
       "rating": 11.6,
       "genre": "Dance Pop",
-      "playTime": 1024,
-      "playTime30Days": 0,
+      "playTime": 1026,
+      "playTime30Days": 5,
       "color": "#465b6b"
     },
     {
@@ -709,7 +709,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 44,
+      "playTime": 45,
       "playTime30Days": 0
     },
     {
@@ -1429,7 +1429,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 109,
+      "playTime": 110,
       "playTime30Days": 0
     },
     {
@@ -1921,7 +1921,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 53,
+      "playTime": 55,
       "genre": "Hyperpop",
       "playTime30Days": 0
     },
@@ -1997,7 +1997,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 90,
+      "playTime": 91,
       "genre": "Rap",
       "playTime30Days": 0
     },

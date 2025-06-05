@@ -199,7 +199,7 @@
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
       "playTime": 209,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#9a6c1f"
     },
     {
@@ -232,7 +232,7 @@
       "rating": 9,
       "genre": "Synthpop",
       "playTime": 340,
-      "playTime30Days": 100,
+      "playTime30Days": 50,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -265,7 +265,7 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 330,
+      "playTime": 331,
       "playTime30Days": 0,
       "color": "#a065b1"
     },
@@ -431,7 +431,7 @@
       ],
       "rating": 8.1,
       "genre": "Electronic",
-      "playTime": 186,
+      "playTime": 187,
       "playTime30Days": 0,
       "color": "#595959"
     },
@@ -461,7 +461,7 @@
       "rating": 8.7,
       "genre": "Indie Pop",
       "playTime": 108,
-      "playTime30Days": 23,
+      "playTime30Days": 18,
       "color": "#2c3863"
     },
     {
@@ -1090,7 +1090,7 @@
       ],
       "rating": 7.5,
       "genre": "Darkwave",
-      "playTime": 57,
+      "playTime": 58,
       "playTime30Days": 0,
       "color": "#2f341a"
     },
@@ -1670,7 +1670,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 73,
+      "playTime": 74,
       "playTime30Days": 0
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 123,
+      "playTime": 125,
       "playTime30Days": 26
     },
     {
@@ -2147,8 +2147,8 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 380,
-      "playTime30Days": 22,
+      "playTime": 381,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
     },
@@ -2272,7 +2272,7 @@
       "rating": 8.4,
       "genre": "Art Pop",
       "playTime": 275,
-      "playTime30Days": 24,
+      "playTime30Days": 0,
       "color": "#332737"
     },
     {

@@ -161,7 +161,7 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 97,
+      "playTime": 98,
       "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
@@ -350,7 +350,7 @@
       "playTime": 12,
       "genre": "Soul",
       "year": 1984,
-      "playTime30Days": 9
+      "playTime30Days": 0
     }
   ]
 }

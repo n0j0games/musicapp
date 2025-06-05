@@ -1,14 +1,58 @@
 {
   "year": 2025,
-  "week": 22,
+  "week": 23,
   "songs": [
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/4477bcdad26c0d224101463a51fddecd72de0783?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27373d0c75e3d7b0a54d962d52f",
-      "title": "Man Of The Year",
-      "artist": "Lorde",
+      "previewUrl": "https://p.scdn.co/mp3-preview/036cb3575f4e761a740aeef314fa25c3bb1ce752?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273309dc809182edea19bcf268d",
+      "title": "Reborn",
+      "artist": "Miley Cyrus",
       "rating": 8.5,
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "album": "Something Beautiful",
+      "url": "https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/dbe572ecb735fc1ed50cb6ca82f6c33ec2823152?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735d7988b9154f5fac80ed1d39",
+      "title": "Ace Trumpets",
+      "artist": "Clipse, Pusha T, No Malice",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/8712cb612573c9261b654a19896e908f0d35c8ee?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273549321cef322b8842918ec4a",
+      "title": "Wenn das Liebe ist",
+      "artist": "Nina Chuba",
+      "rating": 8.7,
+      "url": "https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/362a1330cb565b9033db8d9562256bba5622ee45?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273309dc809182edea19bcf268d",
+      "title": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+      "artist": "Miley Cyrus, Naomi Campbell",
+      "rating": 9.2,
+      "album": "Something Beautiful",
+      "url": "https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/72f4c3e7219a47839daeef730832fdba8e0b5573?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273309dc809182edea19bcf268d",
+      "title": "Golden Burning Sun",
+      "artist": "Miley Cyrus",
+      "rating": 8,
+      "album": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/734d6283c5a341372d3a70703fa4bf448de0780c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273309dc809182edea19bcf268d",
+      "title": "More to Lose",
+      "artist": "Miley Cyrus",
+      "rating": 8,
+      "album": "Something Beautiful",
+      "url": "https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI"
     }
   ]
 }

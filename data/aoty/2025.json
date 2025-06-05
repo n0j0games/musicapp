@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 472,
+      "playTime": 479,
       "genre": "Latin",
-      "playTime30Days": 30,
+      "playTime30Days": 32,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 300,
+      "playTime": 312,
       "genre": "Rap",
-      "playTime30Days": 24,
+      "playTime30Days": 36,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -540,7 +540,7 @@
       "rating": 8.3,
       "playTime": 188,
       "genre": "Deutschpop",
-      "playTime30Days": 37
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -723,7 +723,7 @@
       "playTime": 146,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 144
+      "playTime30Days": 42
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -777,7 +777,7 @@
       "playTime": 14,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5",
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 364,
+      "playTime": 403,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 364,
+      "playTime30Days": 403,
       "onVinyl": true
     },
     {
@@ -923,10 +923,124 @@
         }
       ],
       "rating": 7,
-      "playTime": 37,
+      "playTime": 39,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 37
+      "playTime30Days": 39
+    },
+    {
+      "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273212d6e87be9afd4645175ef3",
+      "title": "Evangelic Girl is a Gun",
+      "artist": "yeule",
+      "songs": [
+        {
+          "title": "Evangelic Girl is a Gun",
+          "preview_url": "https://p.scdn.co/mp3-preview/99856678a044fafcc8e4d91da8fa44235f065aba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tequila Coma",
+          "preview_url": "https://p.scdn.co/mp3-preview/1045a83a3065a1f40ae6227127d668ddd7085858?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Eko",
+          "preview_url": "https://p.scdn.co/mp3-preview/503c0db07adfae8e638c3042f46f0aa1c604105a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Skullcrusher",
+          "preview_url": "https://p.scdn.co/mp3-preview/72008ea4560bec3a3e3b02637eb37b25d08a3648?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.9,
+      "playTime": 76,
+      "genre": "Trip Hop",
+      "year": 2025,
+      "playTime30Days": 38
+    },
+    {
+      "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273309dc809182edea19bcf268d",
+      "title": "Something Beautiful",
+      "artist": "Miley Cyrus",
+      "songs": [
+        {
+          "title": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+          "preview_url": "https://p.scdn.co/mp3-preview/362a1330cb565b9033db8d9562256bba5622ee45?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Reborn",
+          "preview_url": "https://p.scdn.co/mp3-preview/036cb3575f4e761a740aeef314fa25c3bb1ce752?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Something Beautiful",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ed8205465475ff53fdffb2b71f083299b734562?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "More to Lose",
+          "preview_url": "https://p.scdn.co/mp3-preview/734d6283c5a341372d3a70703fa4bf448de0780c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Golden Burning Sun",
+          "preview_url": "https://p.scdn.co/mp3-preview/72f4c3e7219a47839daeef730832fdba8e0b5573?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 93,
+      "genre": "Art Pop",
+      "year": 2025,
+      "playTime30Days": 93
+    },
+    {
+      "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732d5fa1c777a660eeed166c93",
+      "title": "Only Dust Remains",
+      "artist": "Backxwash",
+      "songs": [
+        {
+          "title": "Black Lazarus",
+          "preview_url": "https://p.scdn.co/mp3-preview/58174b1953e4223da6bf1d6ef789110a8cd78a1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wake Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/331a9e06b3bf60cbbfff085e29f1fe3c678e436a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Undesirable",
+          "preview_url": "https://p.scdn.co/mp3-preview/99e0054b99b5a27392d2e0533e12df66b39d6062?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "9th Gate",
+          "preview_url": "https://p.scdn.co/mp3-preview/60533e9ee06f95df3ad2346b55749a698072210c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "9th Heaven",
+          "preview_url": "https://p.scdn.co/mp3-preview/717d40fc72ba81e3c35e67fae4edeceba48fb8ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dissociation",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d67cf7f2fd9b77b066856b6478bf4f6be99c88f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "History Of Violence",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0dd945ecc7b5652dae8f038f413b22185595c7a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stairway To Heaven",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c79a65c6088a6c01225eca53166e3244931606d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love After Death",
+          "preview_url": "https://p.scdn.co/mp3-preview/14eef5c8ccdd0684b0580c4ea149e13ff8d4b71d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Only Dust Remains",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c806ec704ea6f5d4855dd974c843bd5798a5a89?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "",
+      "year": 2025
     }
   ]
 }

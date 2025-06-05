@@ -30,7 +30,7 @@
       ],
       "rating": 9.9,
       "genre": "Alternative Rock",
-      "playTime": 436,
+      "playTime": 437,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
@@ -345,7 +345,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 86,
+      "playTime": 87,
       "playTime30Days": 0,
       "year": 1990
     },
@@ -751,7 +751,7 @@
       "playTime": 36,
       "genre": "Art Pop",
       "year": 1995,
-      "playTime30Days": 21
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI",
@@ -785,18 +785,18 @@
       "genre": "Art Pop",
       "year": 1998,
       "playTime30Days": 43,
-      "color" : "#458d97"
+      "color": "#458d97"
     },
     {
-      "url" : "https://www.youtube.com/playlist?list=PLG4ENma2RvT4_nBU6aTFqW_iLYfOe2ges",
-      "imgUrl" : "https://m.media-amazon.com/images/I/81EnnoYEdsL._UF894,1000_QL80_.jpg",
-      "title" : "Perfect Blue",
-      "artist" : "Masahiro Ikumi",
-      "rating" : 8.5,
-      "playTime" : 12,
-      "genre" : "Soundtrack",
-      "year" : 1998,
-      "playTime30Days" : 0
+      "url": "https://www.youtube.com/playlist?list=PLG4ENma2RvT4_nBU6aTFqW_iLYfOe2ges",
+      "imgUrl": "https://m.media-amazon.com/images/I/81EnnoYEdsL._UF894,1000_QL80_.jpg",
+      "title": "Perfect Blue",
+      "artist": "Masahiro Ikumi",
+      "rating": 8.5,
+      "playTime": 12,
+      "genre": "Soundtrack",
+      "year": 1998,
+      "playTime30Days": 0
     }
   ]
 }
