@@ -12,11 +12,14 @@ import {AliasList} from "../models/alias-list";
 import {MotyItem} from "../models/moty-item";
 import {MotyService} from "./moty.service";
 import {ReviewService} from "./review.service";
+import {Logger} from "../logger";
 
 @Injectable({
     providedIn: 'root'
 })
 export class DataStorageService {
+
+    private logger: Logger = new Logger("DataStorageService");
 
     constructor(private http: HttpClient,
                 private sotwService: SotwService,
@@ -32,12 +35,12 @@ export class DataStorageService {
         ).pipe(
             tap((value: AliasList) => {
                 if (value != null) {
-                    console.log("Requested ALIAS list");
+                    this.logger.log("Requested ALIAS list");
                     this.aotyService.setAliasList(value);
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -49,12 +52,12 @@ export class DataStorageService {
         ).pipe(
             tap((value: SotwList) => {
                 if (value != null) {
-                    console.log("Requested SOTW list");
+                    this.logger.log("Requested SOTW list");
                     this.sotwService.setSotwList(value);
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -66,12 +69,12 @@ export class DataStorageService {
         ).pipe(
             tap((value: SotwItem) => {
                 if (value != null) {
-                    console.log("Requested SOTW item", value)
+                    this.logger.log("Requested SOTW item", value)
                     this.sotwService.setSongsOfTheWeek(value);
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -87,7 +90,6 @@ export class DataStorageService {
 
 
     fetchAggregatedSotwItems(year: number, validWeeks: number[]): Observable<(SotwItem | HttpErrorResponse)[]> {
-        console.log("YEAR", year)
         const urls = year === 0 ?
             [this.fetchSingleAggregatedSotwItem(0, 0)] :
             validWeeks.map(week => this.fetchSingleAggregatedSotwItem(year, week));
@@ -103,7 +105,7 @@ export class DataStorageService {
             }),
             tap((value: (SotwItem | HttpErrorResponse)[]) => {
                 if (value != null) {
-                    console.log("Requested SOTW-YEAR item", value)
+                    this.logger.log("Requested SOTW-YEAR item", value)
                     this.sotwService.setSongsOfTheYear(value);
                 }
             })
@@ -116,12 +118,12 @@ export class DataStorageService {
         ).pipe(
             tap((value: AotyList) => {
                 if (value != null) {
-                    console.log("Requested AOTY list");
+                    this.logger.log("Requested AOTY list");
                     this.aotyService.setAotyList(value);
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -133,12 +135,12 @@ export class DataStorageService {
         ).pipe(
             tap((value: AotyItem) => {
                 if (value != null) {
-                    console.log("Requested AOTY item", value)
+                    this.logger.log("Requested AOTY item", value)
                     this.aotyService.setAlbumsOfTheYear(value);
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
         );
@@ -159,7 +161,7 @@ export class DataStorageService {
             }),
             tap((value: (MotyItem | HttpErrorResponse)[]) => {
                 if (value != null) {
-                    console.log("Requested SERIES items", value)
+                    this.logger.log("Requested SERIES items", value)
                     this.motyService.setSeriesOfTheYear(value);
                 }
             })
@@ -181,7 +183,7 @@ export class DataStorageService {
             }),
             tap((value: (MotyItem | HttpErrorResponse)[]) => {
                 if (value != null) {
-                    console.log("Requested MOTY items", value)
+                    this.logger.log("Requested MOTY items", value)
                     this.motyService.setMoviesOfTheYear(value);
                 }
             })
@@ -218,7 +220,7 @@ export class DataStorageService {
             }),
             tap((value: (AotyItem | HttpErrorResponse)[]) => {
                 if (value != null) {
-                    console.log("Requested AOTY-AGGREGATE item", value)
+                    this.logger.log("Requested AOTY-AGGREGATE item", value)
                     this.aotyService.setAggregatedAlbums(value);
                 }
             })
@@ -242,12 +244,12 @@ export class DataStorageService {
         ).pipe(
             tap((value: string) => {
                 if (value != null) {
-                    console.log("Requested review item")
+                    this.logger.log("Requested review item")
                     this.reviewService.addReview(path, value);
                 }
             }),
             catchError((err, caught) => {
-                this.router.navigate(['**']).then(() => console.error("Error while loading", err));
+                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
         );

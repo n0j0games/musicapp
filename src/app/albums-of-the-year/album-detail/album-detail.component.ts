@@ -14,6 +14,7 @@ import {LastfmBadge} from "../../common/components/lastfm-badge/lastfm-badge";
 import {NormalizeHelper} from "../../common/normalize-helper";
 import {ReviewService} from "../../common/services/review.service";
 import {ReviewButtonComponent} from "../../common/components/review-button/review-button.component";
+import {Logger} from "../../common/logger";
 
 @Component({
   selector: 'app-album-detail',
@@ -46,6 +47,8 @@ export class AlbumDetailComponent implements OnInit {
   songinfo! : SongInfo[];
   albumNames! : string;
   midOrWorst : boolean = false;
+
+  private logger: Logger = new Logger(this);
 
   constructor(private audioService : AudioService, private router: Router, private route: ActivatedRoute, private reviewService: ReviewService) {
   }
@@ -85,6 +88,6 @@ export class AlbumDetailComponent implements OnInit {
               queryParams: { q: NormalizeHelper.fromNormalToQueryString(this.album.artist) },
               queryParamsHandling: 'merge'
           }
-      ).then(_ => {console.log("Refreshed params")});
+      ).then(_ => {this.logger.log("Refreshed params")});
   }
 }

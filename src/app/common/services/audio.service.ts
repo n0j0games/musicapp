@@ -1,6 +1,7 @@
 import {Injectable} from "@angular/core";
 import {Subject} from "rxjs";
 import {SongInfo} from "../models/songinfo";
+import {Logger} from "../logger";
 
 @Injectable({
     providedIn: 'root'
@@ -18,6 +19,8 @@ export class AudioService {
     private artist: string | null = null;
     private defaultVolume: number = 0.2;
     private volume: number = this.defaultVolume;
+
+    private logger: Logger = new Logger(this);
 
     constructor() {
         const context = this;
@@ -78,7 +81,7 @@ export class AudioService {
         this.track = previewUrl.track;
         this.artist = previewUrl.artist;
         this.audio.load();
-        this.audio.play().then(() => console.log("Playing " + this.audio.src));
+        this.audio.play().then(() => this.logger.log("Playing " + this.audio.src));
         this.playStatusChanged$.next(this.audio.src);
         this.pausedChanged$.next(false);
     }
@@ -89,7 +92,7 @@ export class AudioService {
         this.artist = null;
         if (!this.audio.paused || force) {
             this.audio.pause();
-            console.log("Stopped audio")
+            this.logger.log("Stopped audio")
         }
         this.playStatusChanged$.next(null);
         this.pausedChanged$.next(true);

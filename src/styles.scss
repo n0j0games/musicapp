@@ -421,6 +421,33 @@ option:disabled {
   font-size: 16px;
 }
 
+.new-highlight-card {
+  border-radius: 5px;
+  position: relative;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}
+
+.new-highlight-card-img {
+  pointer-events: none;
+  width: auto;
+  border-radius: 5px;
+}
+
+.new-highlight-card-above {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+}
+
+.new-highlight-card-above span {
+  margin-left: 30px;
+}
+
 @media (width < 600px) or (height < 700px) {
 
   .list-banner {

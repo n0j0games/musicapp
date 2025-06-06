@@ -33,7 +33,6 @@ export class MotyService {
     getSeriesOfTheYear(year: number): MotyItem | null {
         for (const item of this.seriesItems) {
             if (item.year == year) {
-                console.log(item);
                 return item;
             }
         }
@@ -43,7 +42,6 @@ export class MotyService {
     getMoviesOfTheYear(year: number): MotyItem | null {
         for (const item of this.motyItems) {
             if (item.year == year) {
-                console.log(item);
                 return item;
             }
         }

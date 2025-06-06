@@ -9,6 +9,7 @@ import {PlayTrackComponent} from "../common/components/play-track/play-track.com
 import {SongInfo} from "../common/models/songinfo";
 import {NgClass, NgIf} from "@angular/common";
 import {MuteButtonComponent} from "../common/components/mute-button/mute-button.component";
+import {Logger} from "../common/logger";
 
 @Component({
   selector: 'app-header',
@@ -38,6 +39,8 @@ export class HeaderComponent implements OnInit {
   onMovieSite : boolean = false;
   emptyUrl = new SongInfo("","","");
 
+  private logger: Logger = new Logger(this);
+
   ngOnInit() {
     this.audioServiceListener();
     this.sotwListChangedListener();
@@ -61,7 +64,7 @@ export class HeaderComponent implements OnInit {
         next: (v) => {
           this.setCurrentWeek(v);
         },
-        error: (e) => console.error(e)
+        error: (e) => this.logger.error(e)
       })
       return;
     }

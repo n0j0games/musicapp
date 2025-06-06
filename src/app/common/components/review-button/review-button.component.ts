@@ -1,6 +1,7 @@
 import {Component, Input} from '@angular/core';
 import {Album} from "../../models/album";
-import {ActivatedRoute, Router} from "@angular/router";
+import {Router} from "@angular/router";
+import {Logger} from "../../logger";
 
 @Component({
   selector: 'app-review-button',
@@ -10,6 +11,8 @@ import {ActivatedRoute, Router} from "@angular/router";
   styleUrl: './review-button.component.scss'
 })
 export class ReviewButtonComponent {
+
+  private logger: Logger = new Logger(this);
 
   constructor(private router: Router) {}
 
@@ -21,7 +24,7 @@ export class ReviewButtonComponent {
         {
           queryParams: {name: this.album.artist + " - " + this.album.title, coverImg: this.album.imgUrl.replaceAll("/", "\\")}
         }
-    ).then(res => console.log("Navigated to ", res))
+    ).then(res => this.logger.debug("Navigated to ", res))
   }
 
 }

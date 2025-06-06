@@ -12,6 +12,7 @@ import {ListHeaderComponent} from "../common/components/list-header/list-header.
 import { NormalizeHelper } from "../common/normalize-helper";
 import {DEFAULT_PARAMS, QueryParamHelper, QueryParams} from "../common/query-param-helper";
 import {QueryFilterHelper} from "../common/query-filter-helper";
+import {Logger} from "../common/logger";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -54,6 +55,8 @@ export class AlbumsOfTheYearComponent implements OnInit {
     rating: new FormControl<number | null>(null),
     decade: new FormControl<number | null>(null)
   });
+
+  private logger: Logger = new Logger(this);
 
   constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
 
@@ -106,7 +109,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
           queryParams,
           queryParamsHandling: 'replace'
         }
-    ).then(_ => {console.log("Refreshed params")});
+    ).then(_ => {this.logger.log("Refreshed params")});
   }
 
 
@@ -242,9 +245,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private includedInAliases(artist : string, qArtist: string) : boolean {
     const aliases = this.getGroupAliases(artist.toLowerCase(), this.aliasList!);
-    if (aliases.length > 0) {
-      console.log(artist, aliases);
-    }
     for (const alias of aliases) {
       if (qArtist.includes(alias)) {
         return true;
@@ -258,7 +258,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
     const queryYears = aotyList!.items!.map(value => value.year);
     let aotyItems = this.aotyService.getAggregatedAlbums(queryYears);
     if (aotyItems == null) {
-      this.router.navigate(['**']).then(() => console.error("Empty, routed to 404"));
+      this.router.navigate(['**']).then(() => this.logger.error("Empty, routed to 404"));
       return [];
     }
     let albums : Album[] = [];

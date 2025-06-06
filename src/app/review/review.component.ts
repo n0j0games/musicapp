@@ -42,7 +42,6 @@ export class ReviewComponent implements OnInit, AfterViewInit {
         }
         this.name = this.route.snapshot.queryParams["name"];
         this.coverImg = this.route.snapshot.queryParams["coverImg"].replaceAll("\\", "/");
-        console.log(this.coverImg);
 
         if (this.name === undefined) {
             this.name = path.split("--")[0].replaceAll("-", " ") + " - " + path.split("--")[1].replaceAll("-", " ");

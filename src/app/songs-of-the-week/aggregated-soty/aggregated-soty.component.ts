@@ -5,6 +5,7 @@ import {SotwService} from "../../common/services/sotw.service";
 import {Song} from "../../common/models/song";
 import {NgForOf, NgIf} from "@angular/common";
 import {SongDetailComponent} from "../song-detail/song-detail.component";
+import {Logger} from "../../common/logger";
 
 @Component({
   selector: 'app-aggregated-soty',
@@ -22,19 +23,21 @@ export class AggregatedSotyComponent implements OnInit {
 
   songsOfTheYear! : SotwItem | null;
 
+  private logger: Logger = new Logger(this);
+
   constructor(private route: ActivatedRoute, private router: Router, private sotwService : SotwService) {}
 
   ngOnInit(): void {
     const year = this.route.snapshot.paramMap.get('year');
     if (year === undefined || year === null) {
-      this.router.navigate(['**']).then(() => console.error("Undefined year, routed to 404"));
+      this.router.navigate(['**']).then(() => this.logger.error("Undefined year, routed to 404"));
       return;
     }
     this.activeYear = parseInt(year);
     const sotyItem = this.sotwService.getSongsOfTheYear(this.activeYear);
-    console.log("SOTY", this.songsOfTheYear)
+    this.logger.debug("SOTY", this.songsOfTheYear)
     if (sotyItem == null) {
-      this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
+      this.router.navigate(['**']).then(() => this.logger.error("Empty year, routed to 404"));
       return;
     }
     let songs  : Song[] = [];

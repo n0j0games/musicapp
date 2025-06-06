@@ -4,6 +4,7 @@ import {Subject} from "rxjs";
 import {SotwItem} from "../models/sotw-item";
 import {AotyItem} from "../models/aoty-item";
 import {HttpErrorResponse} from "@angular/common/http";
+import {Logger} from "../logger";
 
 @Injectable({
   providedIn: 'root'
@@ -26,15 +27,12 @@ export class SotwService {
 
   getSongsOfTheYear(year : number): SotwItem[] | null {
     const aggregatedYearItems : SotwItem[] = [];
-    console.log("A", this.sotwItems);
     for (const item of this.sotwItems) {
       if (item.year === year) {
         aggregatedYearItems.push(item);
       }
     }
     const weeksOfYear = this.getWeeksOfYear(year);
-    console.log("X", weeksOfYear, year, aggregatedYearItems.length);
-    console.log(weeksOfYear, aggregatedYearItems);
     if (aggregatedYearItems.length === 0 || aggregatedYearItems.length !== weeksOfYear) {
       return null;
     }

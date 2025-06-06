@@ -8,6 +8,7 @@ import {animate, AnimationBuilder, keyframes, style} from "@angular/animations";
 import {TypewriterService} from "../../services/typewriter.service";
 import {map, Observable} from "rxjs";
 import {Song} from "../../models/song";
+import {Logger} from "../../logger";
 
 @Component({
     selector: 'app-recap',
@@ -56,13 +57,14 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     typedText$ : any;
     typedArtist$ : any;
 
+    private logger: Logger = new Logger("RecapComponent");
+
     constructor(private audioService: AudioService, private builder: AnimationBuilder, private typeWriterService: TypewriterService, private router: Router) {
     }
 
     ngOnInit(): void {
         this.recapItems$.subscribe({
             next: (value) => {
-                console.log("BRR", value);
                 if (value === null) {
                     return;
                 }
@@ -75,15 +77,14 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
                     if (this.destroyCalled) {
                         return;
                     }
-                    console.log(playStatus, !this.interruptExpected)
+                    this.logger.debug(playStatus, !this.interruptExpected)
                     if (playStatus == null && !this.interruptExpected) {
-                        console.log("NEXT");
                         this.nextAlbum();
                     }
                 })
                 this.updateActiveAlbum(false);
             },
-            error: (e) => console.error(e)
+            error: (e) => this.logger.error(e)
         })
     }
 
@@ -95,12 +96,10 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
                 queryParams: routeParams,
                 queryParamsHandling: 'merge'
             }
-        ).then(_ => {console.log("Refreshed params")});
+        ).then(_ => {this.logger.debug("Refreshed params")});
     }
 
     private createStyle(reverse: boolean) {
-
-        console.log("AA", this.activeAlbumNumber, this.linearGradients[this.activeAlbumNumber-1], this.linearGradients[this.activeAlbumNumber]);
 
         if (!reverse) {
             return style({
@@ -138,7 +137,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
 
         if (this.outerElement === undefined || this.outerElement.nativeElement === undefined) {
-            console.warn("Element undefined");
+            this.logger.warn("Element undefined");
             return;
         }
 
@@ -161,7 +160,6 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     }
 
     nextAlbum() {
-        console.log("NEXT");
         if (this.activeAlbumNumber <= 1) {
             return;
         }
@@ -180,7 +178,6 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     }
 
     updateActiveAlbum(reverse: boolean) {
-        console.log("ARI", this.recapItems)
         this.activeRecapItem = this.recapItems![this.activeAlbumNumber-1];
 
         this.typedText$ = this.typeWriterService.getTypewriterEffect([this.activeRecapItem!.title.toLowerCase()], 100, 700).pipe(map((text) => text))
@@ -199,7 +196,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
     ngOnDestroy() {
         this.destroyCalled = true;
-        console.log("KILL");
+        this.logger.debug("Killing Recap Component");
         this.audioService.stopAudio(true);
     }
 

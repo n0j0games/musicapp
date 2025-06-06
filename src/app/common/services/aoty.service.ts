@@ -24,16 +24,19 @@ export class AotyService {
   }
 
   getAliasList(): AliasList | undefined {
-    return this.aliasList;
+    if (this.aliasList != undefined) {
+      return {...this.aliasList};
+    }
+    return undefined;
   }
 
   setAotyList(aotyList: AotyList) {
     this.aotyList = aotyList;
-    this.aotyListChanged$.next(aotyList);
+    this.aotyListChanged$.next({...aotyList});
   }
 
   getAotyList(): AotyList | null {
-    return this.aotyList;
+    return {...this.aotyList};
   }
 
   getAggregatedAlbums(queryYears : number[]) : AotyItem[] | null {
@@ -61,7 +64,7 @@ export class AotyService {
     if (aggregatedDecadeAlbums.length === 0 || aggregatedDecadeAlbums.length !== yearsInDecade) {
       return null;
     }
-    return aggregatedDecadeAlbums.slice();
+    return {...aggregatedDecadeAlbums}.slice();
   }
 
   getYearsInDecade(decade : number) : number {

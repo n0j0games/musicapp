@@ -6,6 +6,7 @@ import {Album} from "../../common/models/album";
 import {SongInfo} from "../../common/models/songinfo";
 import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";
+import {Logger} from "../../common/logger";
 
 @Component({
     selector: 'app-aoty-recap',
@@ -41,19 +42,20 @@ export class AotyRecapComponent implements OnInit {
     linearGradients: string[] = [];
     title!: string;
 
+    private logger: Logger = new Logger(this);
+
     ngOnInit(): void {
         const year = this.route.snapshot.paramMap.get('year');
-        console.log(year);
         if (year === undefined || year === null) {
-            this.router.navigate(['**']).then(() => console.error("Undefined year, routed to 404"));
+            this.router.navigate(['**']).then(() => this.logger.error("Undefined year, routed to 404"));
             return;
         }
         this.activeYear = <number><unknown>year;
         this.title = 'ALBUMS OF THE YEAR ' + this.activeYear;
         this.maxAlbums = this.maxAlbumsPerAllowedYear[this.allowedYears.indexOf(year)];
-        console.log("XY", this.activeYear, this.title, this.maxAlbums);
+        this.logger.debug("Recap: ", this.activeYear, this.title, this.maxAlbums);
         if (!this.allowedYears.includes(this.activeYear.toString())) {
-            this.router.navigate(['/aoty', this.activeYear]).then(() => console.log("Unsupported year, routed to aoty"));
+            this.router.navigate(['/aoty', this.activeYear]).then(() => this.logger.warn("Unsupported year, routed to aoty"));
         }
 
         if (this.activeYear == 0) {
@@ -68,7 +70,7 @@ export class AotyRecapComponent implements OnInit {
     private getAlbumsFromYear() {
         this.albumsOfTheYear = this.aotyService.getAlbumsOfTheYear(this.activeYear);
         if (this.albumsOfTheYear == null) {
-            this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
+            this.router.navigate(['**']).then(() => this.logger.error("Empty year, routed to 404"));
             return;
         }
         for (let album of this.albumsOfTheYear.albums) {
@@ -94,7 +96,7 @@ export class AotyRecapComponent implements OnInit {
     private getAggregatedAlbums(queryYears : number[]) : Album[] {
         let aotyItems = this.aotyService.getAggregatedAlbums(queryYears);
         if (aotyItems == null) {
-            this.router.navigate(['**']).then(() => console.error("Empty query, routed to 404"));
+            this.router.navigate(['**']).then(() => this.logger.error("Empty query, routed to 404"));
             return [];
         }
         aotyItems = aotyItems.sort((a, b) => a.year - b.year);
@@ -114,12 +116,12 @@ export class AotyRecapComponent implements OnInit {
 
     private aggregateSongs() {
         const albums: Album[] = <Album[]>this.albumsOfTheYear!.albums;
-        console.log(albums, "albums")
+        this.logger.debug(albums, "albums")
         const aggregatedSongs: SongInfo[][] = [];
         for (let album of albums) {
             const aggregatedSongsPerAlbum: SongInfo[] = [];
             if (album.songs == undefined) {
-                console.log(album, "undef songs")
+                this.logger.debug(album, "undef songs")
             } else {
                 for (let i = 0; i < 1; i++) {
                     aggregatedSongsPerAlbum.push({

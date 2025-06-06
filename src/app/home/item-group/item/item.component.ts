@@ -2,6 +2,7 @@ import {Component, Input, OnInit} from '@angular/core';
 import {LowerCasePipe, NgClass, NgForOf, NgIf} from "@angular/common";
 import {Params, Router, RouterLink} from "@angular/router";
 import {WeekHelper} from "../../../common/week-helper";
+import {Logger} from "../../../common/logger";
 
 @Component({
   selector: 'app-item',
@@ -28,6 +29,8 @@ export class ItemComponent implements OnInit {
 
   fridayOfTheWeek! : string;
   weekHelper = new WeekHelper();
+
+  private logger: Logger = new Logger(this);
 
   constructor(private router: Router) {
   }
@@ -61,7 +64,7 @@ export class ItemComponent implements OnInit {
           queryParams: qParams,
           queryParamsHandling: 'merge'
         }
-    ).then(_ => {console.log("Refreshed params")});
+    ).then(_ => {this.logger.debug("Refreshed params")});
   }
 
   private createWeekString (week : number) : string {

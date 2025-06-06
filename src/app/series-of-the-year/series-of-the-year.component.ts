@@ -7,6 +7,7 @@ import {NgForOf, NgIf} from "@angular/common";
 import {SeriesDetailComponent} from "./series-detail/series-detail.component";
 import {Movie} from "../common/models/movie";
 import {Album} from "../common/models/album";
+import {Logger} from "../common/logger";
 
 @Component({
   selector: 'app-movies-of-the-year',
@@ -26,6 +27,8 @@ export class SeriesOfTheYearComponent implements OnInit {
   seriesOfTheYear! : MotyItem | null;
   aggregatedTitle : string | null = null;
 
+  private logger: Logger = new Logger(this);
+
   constructor(private route: ActivatedRoute, private router: Router, private motyService : MotyService) {}
 
   ngOnInit(): void {
@@ -33,7 +36,7 @@ export class SeriesOfTheYearComponent implements OnInit {
       const year = this.route.snapshot.paramMap.get('year');
       const query = this.route.snapshot.paramMap.get('query');
       if (year === undefined && query === undefined) {
-        this.router.navigate(['**']).then(() => console.error("Undefined year/query, routed to 404"));
+        this.router.navigate(['**']).then(() => this.logger.error("Undefined year/query, routed to 404"));
         return;
       }
       if (year !== null) {
@@ -59,7 +62,7 @@ export class SeriesOfTheYearComponent implements OnInit {
   getAllSeries() {
     this.seriesOfTheYear = this.motyService.getAllUnsortedSeries();
     if (this.seriesOfTheYear == null) {
-      this.router.navigate(['**']).then(() => console.error("Empty list, routed to 404"));
+      this.router.navigate(['**']).then(() => this.logger.error("Empty list, routed to 404"));
       return;
     }
     this.seriesOfTheYear.items = this.seriesOfTheYear.items.sort((a, b) => b.rating - a.rating);
@@ -69,7 +72,7 @@ export class SeriesOfTheYearComponent implements OnInit {
     this.activeYear = <number><unknown>year;
     this.seriesOfTheYear = this.motyService.getSeriesOfTheYear(this.activeYear);
     if (this.seriesOfTheYear == null) {
-      this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
+      this.router.navigate(['**']).then(() => this.logger.error("Empty year, routed to 404"));
       return;
     }
     this.seriesOfTheYear.items = this.seriesOfTheYear.items.sort((a, b) => b.rating - a.rating);
@@ -86,7 +89,7 @@ export class SeriesOfTheYearComponent implements OnInit {
   private getAggregatedSeries() : Movie[] {
     let motyItem = this.motyService.getAllUnsortedSeries();
     if (motyItem == null) {
-      this.router.navigate(['**']).then(() => console.error("Empty query, routed to 404"));
+      this.router.navigate(['**']).then(() => this.logger.error("Empty query, routed to 404"));
       return [];
     }
     return motyItem.items;

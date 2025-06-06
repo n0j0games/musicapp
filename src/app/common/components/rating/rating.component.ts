@@ -1,6 +1,7 @@
 import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {NgForOf, NgIf, NgStyle} from "@angular/common";
 import {RatingPipe} from "../../pipes/rating.pipe";
+import {Logger} from "../../logger";
 
 @Component({
   selector: 'app-rating',
@@ -35,6 +36,8 @@ export class RatingComponent implements OnInit, OnChanges {
 
   colors = [this.horrible, this.horrible, this.horrible, this.bad, this.bad, this.mid, this.solid, this.good, this.verygood, this.amazing, this.perfect, this.perfect];
 
+  private logger: Logger = new Logger(this);
+
   ngOnChanges(changes: SimpleChanges) {
     if (this.singleRating) {
       this.width = this.calcWidth();
@@ -44,7 +47,7 @@ export class RatingComponent implements OnInit, OnChanges {
   ngOnInit() {
     this.setRatings(this.rating);
     if (this.singleRating == null && this.arrayRating == null) {
-      console.warn("Unknown rating type used");
+      this.logger.warn("Unknown rating type used");
     }
     if (this.arrayRating) {
       this.processRatingArray();
@@ -57,14 +60,14 @@ export class RatingComponent implements OnInit, OnChanges {
   processRatingArray() {
     for (const rating of this.arrayRating!) {
       if (rating < 0 || rating >= 12 ) {
-        console.warn("Unexpected rating", rating);
+        this.logger.warn("Unexpected rating", rating);
       }
     }
   }
 
   processSingleRating() {
     if (this.singleRating! < 0 || this.singleRating! >= 12 ) {
-      console.warn("Unexpected rating", this.singleRating);
+      this.logger.warn("Unexpected rating", this.singleRating);
     }
     this.width = this.calcWidth();
   }

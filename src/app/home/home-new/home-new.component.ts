@@ -7,6 +7,7 @@ import {SotwService} from "../../common/services/sotw.service";
 import {AotyService} from "../../common/services/aoty.service";
 import {SotwList} from "../../common/models/sotw-list";
 import {Album} from "../../common/models/album";
+import {Logger} from "../../common/logger";
 
 @Component({
   selector: 'app-home-new',
@@ -27,6 +28,8 @@ export class HomeNewComponent implements OnInit {
   currentWeek = 0;
   currentYear = 2025;
   currentWeekItems : string[] = [];
+
+  private logger: Logger = new Logger(this);
 
   constructor(private aotyService : AotyService, private sotwService: SotwService) {
   }
@@ -62,7 +65,7 @@ export class HomeNewComponent implements OnInit {
         next: (v) => {
           this.setCurrentWeek(v);
         },
-        error: (e) => console.error(e)
+        error: (e) => this.logger.error(e)
       })
       return;
     }
@@ -72,7 +75,6 @@ export class HomeNewComponent implements OnInit {
   private setCurrentWeek(sotwList : SotwList) {
     if (sotwList.items !== undefined) {
       const sotwItems = sotwList.items.sort((a, b) => b.year - a.year || b.week - a.week);
-      console.log(sotwItems);
       this.currentWeek = sotwItems[0].week;
       this.currentYear = sotwItems[0].year;
       this.currentWeekItems = sotwItems[0].preview!;

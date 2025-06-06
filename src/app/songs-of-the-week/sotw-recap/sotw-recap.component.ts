@@ -12,6 +12,7 @@ import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";
 import {SotwService} from "../../common/services/sotw.service";
 import {Song} from "../../common/models/song";
+import {Logger} from "../../common/logger";
 
 @Component({
     selector: 'app-sotw-recap',
@@ -47,39 +48,32 @@ export class SotwRecapComponent implements OnInit {
     linearGradients: string[] = [];
     title!: string;
 
+    private logger: Logger = new Logger(this);
+
     ngOnInit(): void {
         const year = this.route.snapshot.paramMap.get('year');
         if (year === undefined || year === null) {
-            this.router.navigate(['**']).then(() => console.error("Undefined year, routed to 404"));
+            this.router.navigate(['**']).then(() => this.logger.error("Undefined year, routed to 404"));
             return;
         }
         this.activeYear = <number><unknown>year;
         this.title = this.activeYear != 0 ? 'FAV SONGS OF THE YEAR ' + this.activeYear : 'SOME OF MY FAV SONGS OF ALL TIME';
         this.maxAlbums = this.activeYear != 0 ? 50 : 100;
         this.activeSongNumber = this.maxAlbums;
-        console.log(this.allowedYears, this.activeYear, this.maxAlbums);
+        this.logger.debug(this.allowedYears, this.activeYear, this.maxAlbums);
         if (!this.allowedYears.includes(this.activeYear.toString())) {
-            this.router.navigate(['/aoty', this.activeYear]).then(() => console.log("Unsupported year, routed to aoty"));
+            this.router.navigate(['/aoty', this.activeYear]).then(() => this.logger.warn("Unsupported year, routed to aoty"));
         }
 
-        console.log("YEAR", this.activeYear);
+        this.logger.debug("YEAR", this.activeYear);
         const sotyItems = this.sotwService.getSongsOfTheYear(parseInt(year));
-        /* if (sotyItems === null) {
-            this.router.navigate(['**']).then(() => console.error("Empty year, routed to 404"));
-            return;
-        }*/
-        console.log("YEAR_RES", sotyItems);
+        this.logger.debug("YEAR_RES", sotyItems);
 
         let songs  : Song[] = [];
         for (const item of sotyItems!) {
             songs = songs.concat(item.songs);
         }
         this.songsOfTheYear = { year : this.activeYear, week : 0, songs: songs }
-        /* for (let song of this.songsOfTheYear.songs) {
-            if (song.year === undefined) {
-                song.year = this.activeYear;
-            }
-        }*/
         this.songsOfTheYear.songs = this.songsOfTheYear.songs.slice();
         this.songsOfTheYear.songs = this.songsOfTheYear.songs.sort((a, b) => b.rating - a.rating).slice(0, this.maxAlbums)
         this.playTracks = this.aggregateSongs();

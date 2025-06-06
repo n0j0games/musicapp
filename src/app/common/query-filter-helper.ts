@@ -10,7 +10,7 @@ export function passYearFilter(queryParams: QueryParams, year: number): boolean 
         if (queryParams.year === null) {
             return true;
         }
-        return year === queryParams.year;
+        return year == queryParams.year;
     }
 
     export function passRatingFilter(queryParams: QueryParams, rating: number): boolean {
