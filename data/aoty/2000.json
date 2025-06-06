@@ -1222,6 +1222,26 @@
       "genre": "Dance Pop",
       "year": 2005,
       "playTime30Days": 48
+    },
+    {
+      "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a9fd4a0405945cd51e8de130",
+      "title": "Dangerously In Love",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "Crazy In Love (feat. JAY-Z)",
+          "preview_url": "https://p.scdn.co/mp3-preview/bcd82e2e27606ec0a0d024e10dfdec5c58188a53?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Naughty Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/0a059d982b9ef50a9107e9b3bf45dc7080b3ba52?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.9,
+      "playTime": 0,
+      "genre": "Pop",
+      "year": 2003
     }
   ]
 }

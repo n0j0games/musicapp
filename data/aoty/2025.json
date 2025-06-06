@@ -565,7 +565,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 8,
       "playTime": 69,
       "genre": "Deutschrap",
       "playTime30Days": 45
@@ -956,7 +956,7 @@
       "genre": "Trip Hop",
       "year": 2025,
       "playTime30Days": 38,
-      "onVinyl" : "true"
+      "onVinyl": "true"
     },
     {
       "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ",
@@ -1021,6 +1021,38 @@
       "rating": 8.3,
       "playTime": 0,
       "genre": "Experimental Rap",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d0e17539a0ac5b32b6db47bb",
+      "title": "Lotus",
+      "artist": "Little Simz",
+      "songs": [
+        {
+          "title": "Thief",
+          "preview_url": "https://p.scdn.co/mp3-preview/f66a5283a61ba1f7142e4ec068887a178e7735e8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Flood",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd0a6a65b4657675fe2a0cf25d0a9bfb736be7ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Peace",
+          "preview_url": "https://p.scdn.co/mp3-preview/88e534a37830fe302c601c794ae672506847b408?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lotus",
+          "preview_url": "https://p.scdn.co/mp3-preview/ff0072f6b24e70241a79f08af7f95cf5f29c5ede?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blue",
+          "preview_url": "https://p.scdn.co/mp3-preview/c04094d2de049f9c206b65626e31ab1873725b60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.3,
+      "playTime": 0,
+      "genre": "Hip-Hop",
       "year": 2025
     }
   ]
