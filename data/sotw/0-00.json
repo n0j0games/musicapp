@@ -13,16 +13,6 @@
       "color" : "#194d64"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/76993b34a8a399ac28677e5a9ec2c4f06c9e0869?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5",
-      "title": "Shine On You Crazy Diamond",
-      "artist": "Pink Floyd",
-      "rating": 0,
-      "album": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45",
-      "color" : "#546071"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/2cfd4012a9ac9bac50a308cfc17b4173a7a84aae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
       "title": "Let It Happen",
@@ -73,6 +63,16 @@
       "color" : "#413f38"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/fb9f4a9b0887326776b4fb7c6d331acd167a7778?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730102924a57d952089d6a5199",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "rating": 0,
+      "album": "Viva La Vida or Death and All His Friends",
+      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea",
+      "color" : "#7a7368"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/5901e1331547247d90519fd06e462ec61fc3a2cd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730c64e752dec4c08362cc4a88",
       "title": "Movies",
@@ -91,6 +91,16 @@
       "album": "Mann Beisst Hund",
       "url": "https://open.spotify.com/track/0rTaDlcde6sL7GMOdsMQGA",
       "color" : "#2c2c2c"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/76993b34a8a399ac28677e5a9ec2c4f06c9e0869?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5",
+      "title": "Shine On You Crazy Diamond",
+      "artist": "Pink Floyd",
+      "rating": 0,
+      "album": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45",
+      "color" : "#546071"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/0763b5cdbf01b2efd1384e255482aff8ba8e8f56?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -243,26 +253,6 @@
       "color" : "#83250c"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/fb9f4a9b0887326776b4fb7c6d331acd167a7778?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730102924a57d952089d6a5199",
-      "title": "Viva La Vida",
-      "artist": "Coldplay",
-      "rating": 0,
-      "album": "Viva La Vida or Death and All His Friends",
-      "url": "https://open.spotify.com/track/3Fcfwhm8oRrBvBZ8KGhtea",
-      "color" : "#7a7368"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/f36e2a9de9db417959c9bade60a1ad4d20b35850?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-      "title": "Saint Pablo",
-      "artist": "Kanye West",
-      "rating": 0,
-      "album": "The Life Of Pablo",
-      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf",
-      "color" : "#a85f3b"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/b469f44c8cbdf55c5d073e79fae274b9978b6505?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27326b7dd89810cc1a40ada642c",
       "title": "Good News",
@@ -311,6 +301,16 @@
       "album": "Songs In The Key Of Life",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn",
       "color" : "#f58e39"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/b01411c77500efa3830f69a04a0026d5cb01f3e7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+      "title": "Ghost Town",
+      "artist": "Kanye West, PARTYNEXTDOOR",
+      "rating": 0,
+      "album": "ye",
+      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
+      "color" : "#32527c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/ae4ae52e313377f6dd438dbf52162a2cb9aad809?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -373,14 +373,14 @@
       "color" : "#437b76"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/e8b358385323a1061d08c1601512b6dc054f0375?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739565c4df27be4aee5edc8009",
-      "title": "Head Over Heels / Broken",
-      "artist": "Tears For Fears",
+      "previewUrl": "https://p.scdn.co/mp3-preview/2d61984434e80e24a0b2a44eae77fcb3281b357f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733230e89363780d0cf2ea6c64",
+      "title": "Summer Madness",
+      "artist": "Kool & The Gang",
       "rating": 0,
-      "album": "Songs From The Big Chair",
-      "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt",
-      "color" : "#7e7e7e"
+      "album": "Light Of Worlds",
+      "url": "https://open.spotify.com/track/5BxHfyGk49gqbg5BdW6FO4",
+      "color" : "#2f242c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/b13a1bb2d8a04132982a49b6efee933cc9d67c7e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -549,6 +549,16 @@
       "color" : "#491d20"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/97281633ef0a60f95bcf8e23e8473f0dbd028987?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+      "title": "Perfect Places",
+      "artist": "Lorde",
+      "rating": 0,
+      "album": "Melodrama",
+      "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8",
+      "color" : "#005f9d"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/e696d540ee3b6819bf76dd0f5e6acae360ca4ef8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738c72ca56b33ace6ae85db47f",
       "title": "Vorwort",
@@ -599,6 +609,16 @@
       "color" : "#6b5345"
     },
     {
+      "previewUrl": "https://p.scdn.co/mp3-preview/f36e2a9de9db417959c9bade60a1ad4d20b35850?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+      "title": "Saint Pablo",
+      "artist": "Kanye West",
+      "rating": 0,
+      "album": "The Life Of Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf",
+      "color" : "#a85f3b"
+    },
+    {
       "previewUrl": "https://p.scdn.co/mp3-preview/d1b9ffbe694544c52684f0b39235b831eee1f1e4?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b8f0101e1dbcbb4d78b325a8",
       "title": "Light of the Seven",
@@ -628,13 +648,13 @@
       "color" : "#1b1521"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/eba8105c02fdb0ead805858e36b4dda9494ac7e1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "previewUrl": "https://p.scdn.co/mp3-preview/8897b4d060924eb9e71130b35d8960abf2eea9e2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c93e5d445758bfd4a9693686",
-      "title": "An Angel Held Me Like a Child",
+      "title": "Poison Arrow",
       "artist": "yeule",
       "rating": 0,
       "album": "Serotonin II",
-      "url": "https://open.spotify.com/track/1B9O3T7mzx9SyS5bsAaZPu",
+      "url": "https://open.spotify.com/track/5Pljdb5h9t6AwhDZAv2h1v",
       "color" : "#001e28"
     },
     {
@@ -666,6 +686,16 @@
       "album": "Dye It Blonde",
       "url": "https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih",
       "color" : "#a22f1b"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/00f86064aaf68c8b4352768b6c3117d1c6d2c77f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "title": "Untitled (How Does It Feel)",
+      "artist": "D'Angelo",
+      "rating": 0,
+      "album": "Voodoo",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966",
+      "color" : "#723033"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/5ba28f0c38a4b8916d50915216553046cf9331d0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -746,16 +776,6 @@
       "album": "Flower Boy",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
       "color" : "#965f0f"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/95bb6c65d9acb268621093a7eed7e4b1cceff153?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27329d53a2ea80ad242590f3f4c",
-      "title": "No More Trouble",
-      "artist": "Bob Marley & The Wailers, Erykah Badu",
-      "rating": 0,
-      "album": "Chant Down Babylon",
-      "url": "https://open.spotify.com/track/6zi8kGpTadjpsLCO4jvMsH",
-      "color" : "#906633"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/f5b6d13e2e4f3828dd3d70c2110ae9522c8e8732?cid=941103e4872f4d3fad60066c677df34f",
@@ -846,16 +866,6 @@
       "color" : "#917d65"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/b01411c77500efa3830f69a04a0026d5cb01f3e7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-      "title": "Ghost Town",
-      "artist": "Kanye West, PARTYNEXTDOOR",
-      "rating": 0,
-      "album": "ye",
-      "url": "https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM",
-      "color" : "#32527c"
-    },
-    {
       "previewUrl": "https://p.scdn.co/mp3-preview/2b57d233ddb7137924c7a198741b97e8698023ae?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
       "title": "CHIHIRO",
@@ -894,24 +904,14 @@
       "color" : "#454955"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/9c5fe8ebc12d8399a87c982efa6867157d69366a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
-      "title": "Nightcall",
-      "artist": "Kavinsky",
+      "previewUrl": "https://p.scdn.co/mp3-preview/aed7df1518130a18b22aa9b2e764b8d3cedcf508?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273721aa94703c1a94c735aacd0",
+      "title": "Fastlove, Pt. 1",
+      "artist": "George Michael",
       "rating": 0,
-      "album": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
-      "color" : "#072d55"
-    },
-    {
-      "previewUrl": "https://p.scdn.co/mp3-preview/5f898323e428d54b549ee5cf20ef0d7687adf094?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/So_Anxious.jpg",
-      "title": "So Anxious",
-      "artist": "Ginuwine",
-      "rating": 0,
-      "album": "100% Ginuwine",
-      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l",
-      "color" : "#352774"
+      "album": "Older",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK",
+      "color" : "#64696c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/2be9dc7750d7f12ce320b3d4afe1375728dea84c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -983,14 +983,34 @@
       "color" : "#404330"
     },
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/2f7931b7b6bbf15b53cabd272bd433b336d9c7a2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8",
-      "title": "Harambe",
-      "artist": "Young Thug",
+      "previewUrl": "https://p.scdn.co/mp3-preview/17bed183741cd92a306cc7b129514b972ba54c89?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+      "title": "Canned Heat",
+      "artist": "Jamiroquai",
       "rating": 0,
-      "album": "JEFFERY",
-      "url": "https://open.spotify.com/track/1yKLa9X63tBfvLojNOw9y8",
-      "color" : "#9d9fcc"
+      "album": "Synkronized",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
+      "color" : "#2c3039"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e8b358385323a1061d08c1601512b6dc054f0375?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739565c4df27be4aee5edc8009",
+      "title": "Head Over Heels",
+      "artist": "Tears For Fears",
+      "rating": 0,
+      "album": "Songs From The Big Chair",
+      "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt",
+      "color" : "#aeacad"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/47a218dcc09f6968813fd7301732072ea570628c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2732ff501573e7f70f28652dfd1",
+      "title": "Memorial",
+      "artist": "Susanne Sundfør",
+      "rating": 0,
+      "album": "Ten Love Songs",
+      "url": "https://open.spotify.com/track/4bjrkGKddXrE8wZu4X9o6C",
+      "color" : "#737d80"
     }
   ]
 }
