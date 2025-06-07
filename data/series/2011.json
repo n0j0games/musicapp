@@ -80,6 +80,16 @@
       "url": "https://www.serializd.com/review/25935098",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/A2D1gsPYGyPmWso00wA9y2dxZMA.jpg",
       "rating": 9
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/3753/3",
+      "title": "Modern Family",
+      "subtitle": "Season 3",
+      "reviewHref": "https://www.serializd.com/review/34779132",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/a4EJOG8VOV02veUIYtu4lX6FVdr.jpg",
+      "rating": 8.5,
+      "year": 2011
     }
   ]
 }
