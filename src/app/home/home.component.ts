@@ -1,6 +1,4 @@
 import {Component, OnInit} from '@angular/core';
-import {ItemComponent} from "./item-group/item/item.component";
-import {ItemGroupComponent} from "./item-group/item-group.component";
 import {NgForOf} from "@angular/common";
 import {RouterLink} from "@angular/router";
 import {SotwService} from "../common/services/sotw.service";
@@ -8,15 +6,16 @@ import {AotyService} from "../common/services/aoty.service";
 import {SotwList} from "../common/models/sotw-list";
 import {Album} from "../common/models/album";
 import {Logger} from "../common/logger";
+import {ItemComponent} from "./item/item.component";
 
 @Component({
   selector: 'app-home-new',
   standalone: true,
   imports: [
     ItemComponent,
-    ItemGroupComponent,
     NgForOf,
-    RouterLink
+    RouterLink,
+    ItemComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'

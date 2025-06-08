@@ -1,6 +1,6 @@
 import {Component, Input} from '@angular/core';
 import {NgForOf, NgIf} from "@angular/common";
-import {ItemComponent} from "./item/item.component";
+import {ItemComponent} from "../item/item.component";
 import {RouterLink} from "@angular/router";
 
 @Component({

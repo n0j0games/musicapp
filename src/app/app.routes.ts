@@ -11,7 +11,7 @@ import {SotwAggregateResolverService} from "./common/resolver/sotw-aggregate.res
 import {AotyAggregateResolverService} from "./common/resolver/aoty-aggregate.resolver.service";
 import {AliasResolverService} from "./common/resolver/alias.resolver.service";
 import {MotyResolverService} from "./common/resolver/moty.resolver.service";
-import {HomeComponent} from "./home-new/home.component";
+import {HomeComponent} from "./home/home.component";
 import {AotyRecapComponent} from "./albums-of-the-year/aoty-recap/aoty-recap.component";
 import {SotwRecapComponent} from "./songs-of-the-week/sotw-recap/sotw-recap.component";
 import {AllAlbumsRecapComponent} from "./albums-of-the-year/all-albums-recap/all-albums-recap.component";

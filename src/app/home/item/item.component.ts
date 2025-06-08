@@ -1,8 +1,8 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {LowerCasePipe, NgClass, NgForOf, NgIf} from "@angular/common";
 import {Params, Router, RouterLink} from "@angular/router";
-import {WeekHelper} from "../../../common/week-helper";
-import {Logger} from "../../../common/logger";
+import {WeekHelper} from "../../common/week-helper";
+import {Logger} from "../../common/logger";
 
 @Component({
   selector: 'app-item',
