@@ -351,6 +351,38 @@
       "genre": "Soul",
       "year": 1984,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3",
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "songs": [
+        {
+          "title": "Material Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/c11e497ca9c4066d3d8f7cb519d19eb342f973a6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Angel",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c553ec94e18c7fffa237011de81be4ba382ac5b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Like a Virgin",
+          "preview_url": "https://p.scdn.co/mp3-preview/432313c4732bd242c04b5eafee08bdc93f616251?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dress You Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c1471bbaa58dc48d805914aa9bc8abd340db8ad?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stay",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9afcde4dc1760c0b68382345ff1a3b8bb5102dd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Synthpop",
+      "year": 1984
     }
   ]
 }

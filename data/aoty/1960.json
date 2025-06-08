@@ -167,6 +167,62 @@
       "playTime": 18,
       "playTime30Days": 0,
       "year": 1968
+    },
+    {
+      "url": "https://open.spotify.com/album/0L1jTkX24GS4gHP4Silxr8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27363dcbe930dedaacf83f16199",
+      "title": "Keep On Pushing",
+      "artist": "The Impressions",
+      "songs": [
+        {
+          "title": "Keep On Pushing",
+          "preview_url": "https://p.scdn.co/mp3-preview/f19c78d45c5f1d646bc8cb444ca51e1dcbbd1550?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I've Been Trying",
+          "preview_url": "https://p.scdn.co/mp3-preview/524851f847a40c0407894feb31bd73302f14812f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Amen",
+          "preview_url": "https://p.scdn.co/mp3-preview/4894645a8bfa6a9caea984cf7ea9b361a84577e6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Talking About My Baby",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f2790fc8ab10c5978e8a3721a8f8bd43e98d0a2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Chicago Soul",
+      "year": 1964
+    },
+    {
+      "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27347e92d736f178e95bf50d3ed",
+      "title": "Night Beat",
+      "artist": "Sam Cooke",
+      "songs": [
+        {
+          "title": "Little Red Rooster",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7528817fa18b4f03cc935262352016c880d251a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nobody Knows the Trouble I've Seen",
+          "preview_url": "https://p.scdn.co/mp3-preview/570f77331bcc74c5712eb99aeb8ef9b96fd93278?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lost and Lookin'",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ad81c82b9e24b8421b664199c3ba252eb4ef8d8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mean Old World",
+          "preview_url": "https://p.scdn.co/mp3-preview/030819a6eac5ac209acb67d2c24b614d61f57e53?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Southern Soul",
+      "year": 1963
     }
   ]
 }

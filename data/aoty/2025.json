@@ -1018,7 +1018,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5c806ec704ea6f5d4855dd974c843bd5798a5a89?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.3,
+      "rating": 8,
       "playTime": 0,
       "genre": "Experimental Rap",
       "year": 2025
@@ -1053,6 +1053,72 @@
       "rating": 8.3,
       "playTime": 0,
       "genre": "Hip-Hop",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737ce4002911f389a2a4465d6f",
+      "title": "PRINCESS OF POWER",
+      "artist": "MARINA",
+      "songs": [
+        {
+          "title": "CUNTISSIMO",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c6957b1a8f5496116919c07a70b552865b6720a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CUPID'S GIRL",
+          "preview_url": "https://p.scdn.co/mp3-preview/f16c832a76f22a05f7808ee7d5c28d315d6d2ac2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "METALLIC STALLION",
+          "preview_url": "https://p.scdn.co/mp3-preview/29ce67df3eea70cf312266f2b98c682149bc8ef0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "FINAL BOSS",
+          "preview_url": "https://p.scdn.co/mp3-preview/6e9670f68b0e12b0d070c3f4014b01b261898501?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Dancepop",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ec92248aecf970a5e6eae916",
+      "title": "Addison",
+      "artist": "Addison Rae",
+      "songs": [
+        {
+          "title": "Diet Pepsi",
+          "preview_url": "https://p.scdn.co/mp3-preview/ed57199bfd5a67df0a0de3451b111ab128416916?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Aquamarine",
+          "preview_url": "https://p.scdn.co/mp3-preview/a4b84ce320f0758612061eecff82333a10f8ce14?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fame is a Gun",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e4faf6be8499b049c4799a51215688dbeae73d6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Headphones On",
+          "preview_url": "https://p.scdn.co/mp3-preview/cc8cfead653f317850f7efac23f3d76c8017792a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.7,
+      "playTime": 0,
+      "genre": "Synthpop",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733cf33f080e04f7d6400def5d",
+      "title": "Tha Carter VI",
+      "artist": "Lil Wayne",
+      "rating": 4.0,
+      "playTime": 0,
+      "genre": "Rap",
       "year": 2025
     }
   ]
