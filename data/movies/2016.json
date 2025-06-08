@@ -55,7 +55,8 @@
       "rating": 8,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/5/8/1/2/8/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg?v=eff30d0282",
       "creator": "Gareth Edwards",
-      "year": 2016
+      "year": 2016,
+      "franchises" : ["Star Wars"]
     },
     {
       "title": "Suicide Squad",

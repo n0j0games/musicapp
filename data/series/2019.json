@@ -159,7 +159,8 @@
       "reviewHref": "https://www.serializd.com/review/25935044",
       "url": "https://www.serializd.com/review/25935044",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/K45A0qGcnGsxNKEvaOItvfVrZx.jpg",
-      "rating": 8
+      "rating": 8,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2019,

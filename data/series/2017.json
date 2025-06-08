@@ -109,7 +109,8 @@
       "reviewHref": "https://www.serializd.com/review/25935137",
       "url": "https://www.serializd.com/review/25935137",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4iMmQdiPUCWTOt2T4MYk1oHsy4U.jpg",
-      "rating": 9.6
+      "rating": 9.6,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2017,

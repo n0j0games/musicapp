@@ -89,7 +89,8 @@
       "reviewHref": "https://www.serializd.com/review/25935126",
       "url": "https://www.serializd.com/review/25935126",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/p1iWlMnwheRFcvVHccR61RmesAo.jpg",
-      "rating": 7
+      "rating": 7,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2014,
@@ -99,7 +100,8 @@
       "reviewHref": "https://www.serializd.com/review/25935108",
       "url": "https://www.serializd.com/review/25935108",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3bGdVZQbgoyp9xr61V0u8lnQ4D4.jpg",
-      "rating": 8
+      "rating": 8,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2014,

@@ -19,7 +19,8 @@
       "reviewHref": "https://www.serializd.com/review/19541302",
       "url": "https://www.serializd.com/show/Star-Wars%3A-The-Clone-Wars-4194",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/kjGRsE9fWWoXNodtiuGHDwtlHpj.jpg",
-      "rating": 10.9
+      "rating": 10.9,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2020,

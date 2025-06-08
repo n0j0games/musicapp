@@ -29,7 +29,8 @@
       "reviewHref": "https://www.serializd.com/review/19540878",
       "url": "https://www.serializd.com/show/Obi-Wan-Kenobi-92830",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/oPkm7vwYCa1McT8jEIFWLj393s4.jpg",
-      "rating": 6
+      "rating": 6,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2022,
@@ -39,7 +40,8 @@
       "reviewHref": "https://www.serializd.com/review/19540728",
       "url": "https://www.serializd.com/show/Star-Wars%3A-Andor-83867",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/dvlb68T08PpjuIZLMCvFUbbTsNZ.jpg",
-      "rating": 9.7
+      "rating": 9.7,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2022,
@@ -49,7 +51,8 @@
       "reviewHref": "https://www.serializd.com/review/19540712",
       "url": "https://www.serializd.com/show/Star-Wars%3A-Tales-of-the-Jedi-203085",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/l6p2eG9YDt7x6OgTC2PCW8yvVqb.jpg",
-      "rating": 5
+      "rating": 5,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2022,

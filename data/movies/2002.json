@@ -2,12 +2,13 @@
   "year": 2002,
   "items": [
     {
-      "title": "Star Wars: Episode II – Attack of the Clones",
+      "title": "Star Wars: Episode II – Attack of the Clones",
       "url": "https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/",
       "rating": 7,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/0/7/1/0/50710-star-wars-episode-ii-attack-of-the-clones-0-230-0-345-crop.jpg?v=cdb8caab10",
       "creator": "George Lucas",
-      "year": 2002
+      "year": 2002,
+      "franchises" : ["Star Wars"]
     },
     {
       "title": "The Lord of the Rings: The Two Towers",

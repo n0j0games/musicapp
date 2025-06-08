@@ -59,7 +59,8 @@
       "reviewHref": "https://www.serializd.com/review/25935079",
       "url": "https://www.serializd.com/review/25935079",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/2rNUrLVj88W1Aw0sLAg45KNB7Q.jpg",
-      "rating": 5
+      "rating": 5,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2008,

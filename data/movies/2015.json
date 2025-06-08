@@ -23,7 +23,8 @@
       "rating": 5,
       "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/t1/n6/d1/k6/g2mqdMU3jaz6uEosF5aqJgbw7e9-0-230-0-345-crop.jpg?v=f105fa4be0",
       "creator": "J.J. Abrams",
-      "year": 2015
+      "year": 2015,
+      "franchises" : ["Star Wars"]
     }
   ]
 }

@@ -89,7 +89,8 @@
       "reviewHref": "https://www.serializd.com/review/25935129",
       "url": "https://www.serializd.com/review/25935129",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9qJT1qBBZK87Bc3S1Rd2xTYNDcX.jpg",
-      "rating": 7
+      "rating": 7,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2015,

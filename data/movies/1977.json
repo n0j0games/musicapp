@@ -7,7 +7,8 @@
       "rating": 9.4,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/7/0/6/2706-star-wars-0-230-0-345-crop.jpg?v=f1f1271bf5",
       "creator": "George Lucas",
-      "year": 1977
+      "year": 1977,
+      "franchises" : ["Star Wars"]
     }
   ]
 }

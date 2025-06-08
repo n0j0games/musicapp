@@ -19,7 +19,8 @@
       "url": "https://www.serializd.com/show/Andor-83867",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/emgToRT99Vn1A2BLYtXJweHTSFp.jpg",
       "rating": 9.7,
-      "year": 2025
+      "year": 2025,
+      "franchises" : ["Star Wars"]
     },
     {
       "seasonHref": "https://www.serializd.com/show/247619/season/381275/1",

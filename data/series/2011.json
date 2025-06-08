@@ -79,7 +79,8 @@
       "reviewHref": "https://www.serializd.com/review/25935098",
       "url": "https://www.serializd.com/review/25935098",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/A2D1gsPYGyPmWso00wA9y2dxZMA.jpg",
-      "rating": 9
+      "rating": 9,
+      "franchises" : ["Star Wars"]
     },
     {
       "seasonHref": "https://www.serializd.com/show/1421/season/3753/3",

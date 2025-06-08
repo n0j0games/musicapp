@@ -29,7 +29,8 @@
       "reviewHref": "https://www.serializd.com/review/19541273",
       "url": "https://www.serializd.com/show/The-Book-of-Boba-Fett-115036",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/3IAghjAacZKP2aomDmZsUDuq812.jpg",
-      "rating": 4
+      "rating": 4,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2021,

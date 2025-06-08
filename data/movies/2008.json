@@ -23,7 +23,8 @@
       "rating": 4,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/4/7/2/4/44724-star-wars-the-clone-wars-0-230-0-345-crop.jpg?v=ce06963c5f",
       "creator": "Dave Filoni",
-      "year": 2008
+      "year": 2008,
+      "franchises" : ["Star Wars"]
     },
     {
       "title": "The Incredible Hulk",

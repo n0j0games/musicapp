@@ -63,7 +63,8 @@
       "rating": 2,
       "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/21/h4/fo/18/47zTsc9gkruDmDssiCqyZTxdOla-0-230-0-345-crop.jpg?v=2a45b40d17",
       "creator": "Rian Johnson",
-      "year": 2017
+      "year": 2017,
+      "franchises" : ["Star Wars"]
     },
     {
       "title": "Thor: Ragnarok",

@@ -59,7 +59,8 @@
       "reviewHref": "https://www.serializd.com/review/25935103",
       "url": "https://www.serializd.com/review/25935103",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/euYkZXmsZw3g1HkSyl9KxM2BrCW.jpg",
-      "rating": 9
+      "rating": 9,
+      "franchises" : ["Star Wars"]
     }
   ]
 }

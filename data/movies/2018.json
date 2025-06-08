@@ -71,7 +71,8 @@
       "rating": 5,
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/2/7/8/6/6/8/278668-solo-a-star-wars-story-0-230-0-345-crop.jpg?v=c7012d8308",
       "creator": "Ron Howard",
-      "year": 2018
+      "year": 2018,
+      "franchises" : ["Star Wars"]
     },
     {
       "title": "Spider-Man: Into the Spider-Verse",

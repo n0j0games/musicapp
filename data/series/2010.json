@@ -59,7 +59,8 @@
       "reviewHref": "https://www.serializd.com/review/25935092",
       "url": "https://www.serializd.com/review/25935092",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/eQEuu8Fq2yjEftEgoKCIdWXtRNo.jpg",
-      "rating": 7
+      "rating": 7,
+      "franchises" : ["Star Wars"]
     },
     {
       "year": 2010,

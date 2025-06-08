@@ -6,7 +6,9 @@ export class Movie {
                 public url : string,
                 public imgSrc : string,
                 public creator? : string,
-                public subtitle? : string
+                public subtitle? : string,
+                public seasonHref? : string,
+                public franchises?: string[]
     ) {}
 
 }
