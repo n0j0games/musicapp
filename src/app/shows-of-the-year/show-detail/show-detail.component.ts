@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, Input} from '@angular/core';
 import {NgClass, NgIf} from "@angular/common";
 import {PlayButtonComponent} from "../../common/components/play-button/play-button.component";
 import {RatingComponent} from "../../common/components/rating/rating.component";
@@ -7,8 +7,6 @@ import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {Movie} from "../../common/models/movie";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
-import {AudioService} from "../../common/services/audio.service";
-import {ReviewService} from "../../common/services/review.service";
 import {NormalizeHelper} from "../../common/normalize-helper";
 import {Logger} from "../../common/logger";
 

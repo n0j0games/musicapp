@@ -4,7 +4,6 @@ import {ListHeaderComponent} from "../common/components/list-header/list-header.
 import {NgForOf, NgIf} from "@angular/common";
 import {Movie} from "../common/models/movie";
 import {
-  DEFAULT_PARAMS,
   DEFAULT_PARAMS_WITH_CATEGORY,
   QueryParamHelper,
   QueryParams

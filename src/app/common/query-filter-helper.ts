@@ -1,4 +1,3 @@
-import {Album} from "./models/album";
 import {QueryParams} from "./query-param-helper";
 
 /**

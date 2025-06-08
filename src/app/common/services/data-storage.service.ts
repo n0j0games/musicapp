@@ -1,6 +1,6 @@
 import {Injectable} from '@angular/core';
-import {HttpClient, HttpErrorResponse, HttpHeaders} from "@angular/common/http";
-import {catchError, concatMap, forkJoin, map, Observable, of, tap} from "rxjs";
+import {HttpClient, HttpErrorResponse} from "@angular/common/http";
+import {catchError, forkJoin, map, Observable, of, tap} from "rxjs";
 import {SotwList} from "../models/sotw-list";
 import {SotwItem} from "../models/sotw-item";
 import {SotwService} from "./sotw.service";
@@ -39,7 +39,7 @@ export class DataStorageService {
                     this.aotyService.setAliasList(value);
                 }
             }),
-            catchError((err, caught) => {
+            catchError((err, _) => {
                 this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
@@ -56,7 +56,7 @@ export class DataStorageService {
                     this.sotwService.setSotwList(value);
                 }
             }),
-            catchError((err, caught) => {
+            catchError((err, _) => {
                 this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
@@ -73,7 +73,7 @@ export class DataStorageService {
                     this.sotwService.setSongsOfTheWeek(value);
                 }
             }),
-            catchError((err, caught) => {
+            catchError((err, _) => {
                 this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
@@ -84,7 +84,7 @@ export class DataStorageService {
         return this.http.get<SotwItem>(
             'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/sotw/' + year + '-' + this.createWeekString(week) + '.json',
         ).pipe(
-            catchError((err, caught) => of(err))
+            catchError((err, _) => of(err))
         );
     }
 
@@ -122,7 +122,7 @@ export class DataStorageService {
                     this.aotyService.setAotyList(value);
                 }
             }),
-            catchError((err, caught) => {
+            catchError((err, _) => {
                 this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
@@ -139,7 +139,7 @@ export class DataStorageService {
                     this.aotyService.setAlbumsOfTheYear(value);
                 }
             }),
-            catchError((err, caught) => {
+            catchError((err, _) => {
                 this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })
@@ -174,7 +174,7 @@ export class DataStorageService {
         return this.http.get<MotyItem>(
             'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/' + type + '/' + url + '.json',
         ).pipe(
-            catchError((err, caught) => of(err))
+            catchError((err, _) => of(err))
         );
     }
 
@@ -203,7 +203,7 @@ export class DataStorageService {
         return this.http.get<AotyItem>(
             'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
         ).pipe(
-            catchError((err, caught) => of(err))
+            catchError((err, _) => of(err))
         );
     }
 
@@ -220,7 +220,7 @@ export class DataStorageService {
                     this.reviewService.addReview(path, value);
                 }
             }),
-            catchError((err, caught) => {
+            catchError((err, _) => {
                 this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             })

@@ -2,7 +2,6 @@ import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {FormGroup, FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {NgForOf, NgIf} from "@angular/common";
 import {Sorting} from "../../models/sorting.enum";
-import {Option} from "../../models/option";
 
 @Component({
   selector: 'app-list-header',
