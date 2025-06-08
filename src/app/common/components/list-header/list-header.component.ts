@@ -1,6 +1,6 @@
 import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {FormGroup, FormsModule, ReactiveFormsModule} from "@angular/forms";
-import {NgForOf} from "@angular/common";
+import {NgForOf, NgIf} from "@angular/common";
 import {Sorting} from "../../models/sorting.enum";
 import {Option} from "../../models/option";
 
@@ -10,7 +10,8 @@ import {Option} from "../../models/option";
     imports: [
         FormsModule,
         NgForOf,
-        ReactiveFormsModule
+        ReactiveFormsModule,
+        NgIf
     ],
   templateUrl: './list-header.component.html'
 })
@@ -42,6 +43,9 @@ export class ListHeaderComponent {
 
     @Input()
     subtitle!: string;
+
+    @Input()
+    enableMovieCategories!: boolean;
 
     submitForm(event: any) {
         this.onFormChanges.emit(event);

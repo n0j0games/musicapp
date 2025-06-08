@@ -13,6 +13,7 @@ import { NormalizeHelper } from "../common/normalize-helper";
 import {DEFAULT_PARAMS, QueryParamHelper, QueryParams} from "../common/query-param-helper";
 import {QueryFilterHelper} from "../common/query-filter-helper";
 import {Logger} from "../common/logger";
+import {AggregateTitleHelper} from "../common/aggregate-title-helper";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -46,14 +47,15 @@ export class AlbumsOfTheYearComponent implements OnInit {
   private startYear: number = 1965;
   yearOptions_ : number[] = Array.from({ length: (new Date().getFullYear() - this.startYear + 1) }, (_, i) => this.startYear + i);
   decadeOptions = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
-  sortingOptions = <Sorting[]>Object.values(Sorting);
+  sortingOptions = [ Sorting.RATING, Sorting.ALPHABETICAL, Sorting.ARTIST, Sorting.RELEASE_DATE, Sorting.PlAY_TIME, Sorting.RECENT ];
 
   formGroup = new FormGroup({
     search : new FormControl<string>(''),
     sorting: new FormControl<Sorting | null>(null),
     year: new FormControl<number | null>({value: null, disabled: this.yearOptions.length === 0}, Validators.required),
     rating: new FormControl<number | null>(null),
-    decade: new FormControl<number | null>(null)
+    decade: new FormControl<number | null>(null),
+    category: new FormControl<string | null>(null)
   });
 
   private logger: Logger = new Logger(this);
@@ -153,7 +155,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   }
 
   private sortAlbums(albums: Album[]): Album[] {
-    this.updateSubTitle();
+    this.sortingTitle = AggregateTitleHelper.updateSubTitle(this.queryParams);
     albums = albums.sort((a, b) => b.rating - a.rating);
     switch (this.queryParams.sorting) {
       case Sorting.ALPHABETICAL:
@@ -204,22 +206,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
   private updateTitle() {
     if (this.queryParams.search !== null) {
       this.title = " albums by " + this.queryParams.search.replace("-", " ") + "";
-    }
-  }
-
-  private updateSubTitle() {
-    this.sortingTitle = "";
-    if (this.queryParams.year !== null) {
-      this.sortingTitle = "from " + this.queryParams.year;
-    }
-    if (this.queryParams.year === null && this.queryParams.decade !== null) {
-      this.sortingTitle = "from the " + this.queryParams.decade + "s";
-    }
-    if (this.queryParams.rating !== null) {
-      this.sortingTitle = this.sortingTitle + " rated " + this.queryParams.rating;
-    }
-    if (this.queryParams.sorting !== null) {
-      this.sortingTitle = this.sortingTitle + " sorted by " + this.queryParams.sorting;
     }
   }
 

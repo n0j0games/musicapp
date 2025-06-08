@@ -16,7 +16,7 @@ export class MotyResolverService implements Resolve<(MotyItem|HttpErrorResponse)
     resolve(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): MaybeAsync<(MotyItem|HttpErrorResponse)[]> {
 
 
-        let motyList = this.motyService.getAllMovies();
+        let motyList = this.motyService.getAllMoviesAndShows();
         if (motyList !== null && motyList.length !== 0) {
             return motyList;
         }

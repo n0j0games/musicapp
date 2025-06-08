@@ -1,0 +1,24 @@
+<app-list-header
+        [title]="title"
+        [subtitle]="sortingTitle"
+        [sortingOptions]="sortingOptions"
+        [yearOptions]="yearOptions"
+        [decadeOptions]="decadeOptions"
+        [formGroup]="formGroup"
+        [enableMovieCategories]="true"
+        (onFormChanges)="submitForm()"
+        (onFormReset)="resetForm()"
+        (onItemReset)="resetItem($event)"
+></app-list-header>
+<div *ngIf="showsOfTheYear !== null" class="list gap-xl">
+    <app-show-detail
+            *ngFor="let movie of showsOfTheYear; index as i"
+            [movie]="movie"
+            [index]="i+1"
+    ></app-show-detail>
+    <p class="p-b fs-l" *ngIf="this.showsOfTheYear?.length === 0">No movies & shows found for the selected query</p>
+    <a *ngIf="this.showsOfTheYearWithoutMaxCap && this.maxCap < this.showsOfTheYearWithoutMaxCap.length" class="p-b fs-l" (click)="loadMore()">Load More</a>
+</div>
+<div *ngIf="showsOfTheYear === null">
+    <p> Something went wrong! </p>
+</div>

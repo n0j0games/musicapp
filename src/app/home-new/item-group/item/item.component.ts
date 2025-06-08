@@ -28,7 +28,6 @@ export class ItemComponent implements OnInit {
   routerLink : string[] = [];
 
   fridayOfTheWeek! : string;
-  weekHelper = new WeekHelper();
 
   private logger: Logger = new Logger(this);
 
@@ -39,18 +38,12 @@ export class ItemComponent implements OnInit {
     if (this.isAoty === "AOTY" || this.isAoty === "LIST") {
       this.routerLink = ['/aoty'];
     } else if (this.isAoty === "SOTW") {
-      this.fridayOfTheWeek = this.weekHelper.getFridayOfWeek(this.item.week, this.item.year);
+      this.fridayOfTheWeek = WeekHelper.getFridayOfWeek(this.item.week, this.item.year);
       this.routerLink = ['/sotw', this.item.year.toString() + this.createWeekString(this.item.week!)]
     } else if (this.isAoty === "SOTY") {
       this.routerLink = ['/soty', this.item.year.toString()]
-    } else if (this.isAoty === "MOTY") {
-      this.routerLink = ['/moty', this.item.year.toString()];
-    } else if (this.isAoty === "SERIES") {
-      this.routerLink = ['/series', this.item.year.toString()];
-    } else if (this.isAoty === "MLIST") {
-      this.routerLink = ['/moty-lists', this.queryParam];
     } else if (this.isAoty === "SLIST") {
-      this.routerLink = ['/series-lists', this.queryParam];
+      this.routerLink = ['/shows'];
     } else {
       throw new Error("unknown type");
     }

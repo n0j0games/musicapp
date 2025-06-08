@@ -5,4 +5,5 @@ export enum Sorting {
     RELEASE_DATE = 'release-date',
     PlAY_TIME = 'play-time',
     RECENT = 'recent',
+    DIRECTOR = 'director'
 }

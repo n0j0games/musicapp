@@ -1,6 +1,6 @@
 export class WeekHelper {
 
-    public getCurrentDateWeek(): number {
+    public static getCurrentDateWeek(): number {
         // Copying date so the original date won't be modified
         const tempDate = new Date(Date.now());
 
@@ -28,7 +28,7 @@ export class WeekHelper {
     }
 
 
-    public getFridayOfWeek(week : number | undefined, year : number | undefined) {
+    public static getFridayOfWeek(week : number | undefined, year : number | undefined) {
         if (week === undefined || year === undefined) {
             return Date.now().toLocaleString("de-DE");
         }

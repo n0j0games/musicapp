@@ -4,16 +4,16 @@ import {QueryParams} from "./query-param-helper";
 /**
  * Helper for filtering entries by query parameters
  */
-export module QueryFilterHelper {
+export class QueryFilterHelper {
 
-export function passYearFilter(queryParams: QueryParams, year: number): boolean {
+    public static passYearFilter(queryParams: QueryParams, year: number): boolean {
         if (queryParams.year === null) {
             return true;
         }
         return year == queryParams.year;
     }
 
-    export function passRatingFilter(queryParams: QueryParams, rating: number): boolean {
+    public static passRatingFilter(queryParams: QueryParams, rating: number): boolean {
         if (queryParams.rating === null) {
             return true;
         }
@@ -26,18 +26,26 @@ export function passYearFilter(queryParams: QueryParams, year: number): boolean 
         return rating >= queryParams.rating && rating < (queryParams.rating + 1);
     }
 
-    export function passReviewOnlyFilter(queryParams: QueryParams, review: string | undefined): boolean {
+    public static passReviewOnlyFilter(queryParams: QueryParams, review: string | undefined): boolean {
         if (!queryParams.isReviewsOnly) {
             return true;
         }
         return !!review;
     }
 
-    export function passDecadeFilter(queryParams: QueryParams, year: number): boolean {
+    public static passDecadeFilter(queryParams: QueryParams, year: number): boolean {
         if (queryParams.decade === null || queryParams.year !== null) {
             return true;
         }
         return year >= queryParams.decade && year < (queryParams.decade + 10);
+    }
+
+    public static passCategoryFilter(queryParams: QueryParams, seasonHref: string | undefined): boolean {
+        const qCategory = queryParams.category;
+        if (qCategory === null || qCategory === 'all') {
+            return true;
+        }
+        return (qCategory === 'shows') === (seasonHref !== undefined)
     }
 
 }

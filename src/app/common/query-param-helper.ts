@@ -11,12 +11,15 @@ export class QueryParams {
                 public search: string | null,
                 public rating: number | null,
                 public isStrict: boolean,
-                public isReviewsOnly: boolean) {
+                public isReviewsOnly: boolean,
+                public category: string | null) {
     }
 
 }
 
-export const DEFAULT_PARAMS = new QueryParams(Sorting.RATING, null, null, null, null, false, false);
+const VALID_CATEGORIES = ["movies", "shows", "all"];
+export const DEFAULT_PARAMS = new QueryParams(Sorting.RATING, null, null, null, null, false, false, null);
+export const DEFAULT_PARAMS_WITH_CATEGORY = new QueryParams(Sorting.RATING, null, null, null, null, false, false, "all");
 
 /**
  * Helper for query parameter formatting
@@ -35,7 +38,8 @@ export module QueryParamHelper {
             getSearchFromParams(params),
             getRatingFromParams(params),
             getBooleanValueFromParams(params, 'type', 'strict'),
-            getBooleanValueFromParams(params, 'reviews', 'only')
+            getBooleanValueFromParams(params, 'reviews', 'only'),
+            getCategoryFromParams(params)
         );
     }
 
@@ -51,6 +55,7 @@ export module QueryParamHelper {
         updateYearAndDecade(formGroup, queryParams);
         updateRating(formGroup, queryParams);
         updateRating(formGroup, queryParams);
+        updateCategory(formGroup, queryParams)
         if (resetComponent !== null) {
             queryParams[resetComponent] = undefined;
         }
@@ -72,6 +77,14 @@ export module QueryParamHelper {
     function getSearchFromParams(params: Params): string | null {
         const search = params['q'];
         return !!search ? NormalizeHelper.fromQueryStringToNormal(search) : null;
+    }
+
+    function getCategoryFromParams(params: Params): string | null {
+        const category = params['c'];
+        if (!category) {
+            return null;
+        }
+        return VALID_CATEGORIES.includes(category.toLowerCase()) ? category : null;
     }
 
     function getDecadeFromParams(params: Params): number | null {
@@ -134,6 +147,15 @@ export module QueryParamHelper {
             queryParams['r'] = qRating;
         } else {
             queryParams['r'] = undefined;
+        }
+    }
+
+    function updateCategory(formGroup: FormGroup, queryParams: Params) {
+        const qCategory = formGroup.get('category')?.value;
+        if (qCategory !== null) {
+            queryParams['c'] = qCategory;
+        } else {
+            queryParams['c'] = undefined;
         }
     }
 

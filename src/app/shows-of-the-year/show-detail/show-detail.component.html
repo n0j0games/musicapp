@@ -1,0 +1,28 @@
+<div [ngClass]="{ 'halfTransparent' : false }" class="flex-row align-center gap-l">
+    <p class="p-b-i fs-xl counter">{{ index }}</p>
+    <img class="movie-poster" src="{{movie.imgSrc}}" alt="">
+    <div class="flex-column align-start gap-s">
+        <a
+                *ngIf="movie.creator" class="p-b-i fs-l left-text movies-less-important-link"
+               (click)="routeWithQueryString(movie.creator)"
+        >
+            <span class="m-counter">{{ index }}. </span>{{ movie.creator }}
+        </a>
+        <div class="flex-column align-start gap-s fake-gap-b m-flex-wrap">
+            <a
+                    class="p-b-i movies-text fs-xl left-text max-width-800"
+                    href="{{movie.url}}"
+            >
+                {{ movie.title }}<span class="p-b-i text-color" *ngIf="movie.subtitle !== undefined"> - {{ movie.subtitle }}</span>
+            </a>
+            <a class="left-text fs-m p-b-i max-width-800 less-important-link"
+               *ngIf="movie.franchises !== undefined && movie.franchises.length > 0"
+               (click)="routeWithQueryString(movie.franchises[0])"
+            >Franchises: {{ movie.franchises.join(" ") }}</a>
+        </div>
+        <div class="flex-row align-center gap-s">
+            <app-rating [rating]="movie.rating" [activeSeason]="undefined"></app-rating>
+        </div>
+
+    </div>
+</div>

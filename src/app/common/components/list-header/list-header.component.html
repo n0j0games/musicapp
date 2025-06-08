@@ -52,6 +52,16 @@
                     <button (click)="resetItem('y')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
                 </div>
             </div>
+            <div *ngIf="enableMovieCategories">
+                <p class="fs-m">category</p>
+                <div class="select">
+                    <select class="fs-l p-b-i" formControlName="category" (change)="submitForm($event)">
+                        <option hidden></option>
+                        <option [value]="option" *ngFor="let option of ['all', 'movies', 'shows']">{{ option }}</option>
+                    </select>
+                    <button (click)="resetItem('c')" class="single-reset-button"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+            </div>
             <div>
                 <button class="reset-button fs-l p-b-i" type="reset"><i class="fa-solid fa-xmark"></i></button>
             </div>

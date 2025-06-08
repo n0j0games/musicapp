@@ -146,31 +146,11 @@ export class DataStorageService {
         );
     }
 
-    fetchSeriesItems(): Observable<(MotyItem | HttpErrorResponse)[]> {
-        const rawUrls = [1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
-        const urls = rawUrls.map(url => this.fetchSingleSeriesItem(url));
-        return forkJoin<(MotyItem | HttpErrorResponse)[]>(urls).pipe(
-            map((value: (MotyItem | HttpErrorResponse)[]) => {
-                const res: (MotyItem | HttpErrorResponse)[] = [];
-                for (const item of value) {
-                    if (!(item instanceof HttpErrorResponse)) {
-                        res.push(item)
-                    }
-                }
-                return res;
-            }),
-            tap((value: (MotyItem | HttpErrorResponse)[]) => {
-                if (value != null) {
-                    this.logger.log("Requested SERIES items", value)
-                    this.motyService.setSeriesOfTheYear(value);
-                }
-            })
-        )
-    }
 
     fetchMotyItems(): Observable<(MotyItem | HttpErrorResponse)[]> {
-        const rawUrls = [1976, 1977, 1980, 1983, 1988, 1990, 1992, 1993, 1994, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
-        const urls = rawUrls.map(url => this.fetchSingleMotyItem(url));
+        const movieUrls = [1976, 1977, 1980, 1983, 1988, 1990, 1992, 1993, 1994, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
+        const seriesUrls = [1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
+        const urls = movieUrls.map(url => this.fetchSingleMotyItem(url, 'movies')).concat(seriesUrls.map(url => this.fetchSingleMotyItem(url, 'series')));
         return forkJoin<(MotyItem | HttpErrorResponse)[]>(urls).pipe(
             map((value: (MotyItem | HttpErrorResponse)[]) => {
                 const res: (MotyItem | HttpErrorResponse)[] = [];
@@ -184,23 +164,15 @@ export class DataStorageService {
             tap((value: (MotyItem | HttpErrorResponse)[]) => {
                 if (value != null) {
                     this.logger.log("Requested MOTY items", value)
-                    this.motyService.setMoviesOfTheYear(value);
+                    this.motyService.setAllMoviesAndShows(value);
                 }
             })
         )
     }
 
-    fetchSingleMotyItem(url: number): Observable<MotyItem | HttpErrorResponse> {
+    fetchSingleMotyItem(url: number, type: string): Observable<MotyItem | HttpErrorResponse> {
         return this.http.get<MotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/movies/' + url + '.json',
-        ).pipe(
-            catchError((err, caught) => of(err))
-        );
-    }
-
-    fetchSingleSeriesItem(url: number): Observable<MotyItem | HttpErrorResponse> {
-        return this.http.get<MotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/series/' + url + '.json',
+            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/' + type + '/' + url + '.json',
         ).pipe(
             catchError((err, caught) => of(err))
         );
@@ -254,7 +226,6 @@ export class DataStorageService {
             })
         );
     }
-
 
     private createWeekString (week : number) : string {
         const weekStr = week.toString();

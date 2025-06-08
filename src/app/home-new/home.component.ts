@@ -1,13 +1,13 @@
 import {Component, OnInit} from '@angular/core';
-import {ItemComponent} from "../item-group/item/item.component";
-import {ItemGroupComponent} from "../item-group/item-group.component";
+import {ItemComponent} from "./item-group/item/item.component";
+import {ItemGroupComponent} from "./item-group/item-group.component";
 import {NgForOf} from "@angular/common";
 import {RouterLink} from "@angular/router";
-import {SotwService} from "../../common/services/sotw.service";
-import {AotyService} from "../../common/services/aoty.service";
-import {SotwList} from "../../common/models/sotw-list";
-import {Album} from "../../common/models/album";
-import {Logger} from "../../common/logger";
+import {SotwService} from "../common/services/sotw.service";
+import {AotyService} from "../common/services/aoty.service";
+import {SotwList} from "../common/models/sotw-list";
+import {Album} from "../common/models/album";
+import {Logger} from "../common/logger";
 
 @Component({
   selector: 'app-home-new',
@@ -18,10 +18,10 @@ import {Logger} from "../../common/logger";
     NgForOf,
     RouterLink
   ],
-  templateUrl: './home-new.component.html',
-  styleUrl: './home-new.component.scss'
+  templateUrl: './home.component.html',
+  styleUrl: './home.component.scss'
 })
-export class HomeNewComponent implements OnInit {
+export class HomeComponent implements OnInit {
 
   rotationList : string[] = [];
   currentYearList : string[] = [];

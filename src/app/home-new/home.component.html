@@ -41,6 +41,14 @@
                 ></app-item>
             </div>
         </div>
+        <div class="outer-highlight-card">
+            <a
+                    class="flex-column gap-s align-center"
+                    [routerLink]="['/aoty']"
+            >
+                <span class="fs-xl p-b">show all albums</span>
+            </a>
+        </div>
         <div class="flex-column gap-xl flex-wrap justify-center">
             <div class="new-highlight-card" style="background: rgb(139, 200, 0)">
                 <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://qnews.com.au/wp-content/uploads/2024/10/24-10-12-charli-xcx-brat-composite-photo.jpg">
@@ -137,14 +145,6 @@
                 </div>
             </div>
         </div>
-        <div class="outer-highlight-card">
-            <a
-                    class="flex-column gap-s align-center"
-                    [routerLink]="['/aoty']"
-            >
-                <span class="fs-xl p-b">show all albums</span>
-            </a>
-        </div>
     </div>
     <div class="flex-column gap-xxl flex-wrap justify-center">
         <div class="flex-column align-center justify-center">
@@ -160,8 +160,8 @@
                 'https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-230-0-345-crop.jpg?v=1ed5878cce',
                 'https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4',
                 ]}"
-                    [isAoty]="'MLIST'"
-                    [queryParam]="'all-movies'"
+                    [isAoty]="'SLIST'"
+                    [queryParams]="{ c: 'movies', s: 'rating'  }"
                     [text]="'all movies by rating'"
             ></app-item>
             <app-item
@@ -172,14 +172,14 @@
                 'https://serializd-tmdb-images.b-cdn.net/t/p/w500/p3NB75PVMctDhRtLuwK4dDWWXLJ.jpg'
                 ]}"
                     [isAoty]="'SLIST'"
-                    [queryParam]="'all-shows'"
+                    [queryParams]="{ c: 'shows', s: 'rating' }"
                     [text]="'all shows by rating'"
             ></app-item>
         </div>
         <div class="outer-highlight-card outer-highlight-card-movie">
             <a
                     class="flex-column gap-s align-center"
-                    [routerLink]="['/movie-home']"
+                    [routerLink]="['/shows']"
             >
                 <span class="fs-xl p-b">show all years & lists</span>
             </a>

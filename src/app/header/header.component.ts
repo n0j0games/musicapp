@@ -32,9 +32,7 @@ export class HeaderComponent implements OnInit {
               private audioService : AudioService) {
   }
 
-  private weekHelper = new WeekHelper();
-  currentYear : number = new Date().getFullYear();
-  currentWeek : number = this.weekHelper.getCurrentDateWeek();
+  currentWeek : number = WeekHelper.getCurrentDateWeek();
   isAnySongPlaying : boolean = false;
   onMovieSite : boolean = false;
   emptyUrl = new SongInfo("","","");
