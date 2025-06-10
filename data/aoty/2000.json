@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 384,
+      "playTime": 385,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 80,
-      "playTime30Days": 14,
+      "playTime": 81,
+      "playTime30Days": 12,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -999,10 +999,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 49,
+      "playTime": 50,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1159,7 +1159,7 @@
       "playTime": 92,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 22
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",
@@ -1188,7 +1188,7 @@
       "playTime": 55,
       "genre": "Art Pop",
       "year": 2008,
-      "playTime30Days": 23
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr",
@@ -1218,10 +1218,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 67,
+      "playTime": 69,
       "genre": "Dance Pop",
       "year": 2005,
-      "playTime30Days": 48
+      "playTime30Days": 50
     },
     {
       "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y",
@@ -1239,9 +1239,10 @@
         }
       ],
       "rating": 5.9,
-      "playTime": 0,
+      "playTime": 48,
       "genre": "Pop",
-      "year": 2003
+      "year": 2003,
+      "playTime30Days": 14
     }
   ]
 }

@@ -131,7 +131,7 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 15,
+      "playTime": 16,
       "playTime30Days": 0,
       "year": 1965
     },
@@ -192,9 +192,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 0,
+      "playTime": 18,
       "genre": "Chicago Soul",
-      "year": 1964
+      "year": 1964,
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk",
@@ -220,9 +221,167 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 17,
       "genre": "Southern Soul",
-      "year": 1963
+      "year": 1963,
+      "playTime30Days": 17
+    },
+    {
+      "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273090fcdd42a5c9d2877f41dd5",
+      "title": "Wish Someone Would Care",
+      "artist": "Irma Thomas",
+      "songs": [
+        {
+          "title": "Break-A-Way",
+          "preview_url": "https://p.scdn.co/mp3-preview/2bd68b192785c7df78c30d195b01d38365e9da03?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wish Someone Would Care",
+          "preview_url": "https://p.scdn.co/mp3-preview/d0fda0a33dc08338e23fbe8563b2c29cf9e749f0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Need Your Love So Bad",
+          "preview_url": "https://p.scdn.co/mp3-preview/3e98c95b4b3d35b796b9c0293af6e1ad21e09e37?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Please Send Me Someone To Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/15c6232d1f79c98091cf344eed5a35407e3f2778?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Time Is On My Side",
+          "preview_url": "https://p.scdn.co/mp3-preview/4029d1bc5172ef6ae0901476f4841af7bf0c2926?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.6,
+      "playTime": 29,
+      "genre": "Southern Soul",
+      "year": 1964,
+      "playTime30Days": 29
+    },
+    {
+      "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d5ea1215e77c3f7a7c716370",
+      "title": "Where Did Our Love Go",
+      "artist": "The Supremes",
+      "songs": [
+        {
+          "title": "When The Lovelight Starts Shining Through His Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/12c8e1ba73413d9613c9c9587c01468cfcfa7369?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Where Did Our Love Go",
+          "preview_url": "https://p.scdn.co/mp3-preview/7daf6b40a9edea7c5f032e85fbfd74b792b4226c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Baby Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/2f5598c02adad78366b430c2481d761cd335bbec?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Come See About Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/15ececec984e99bc65888cd2f35419b7a4b459c5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 20,
+      "genre": "Motown Sound",
+      "year": 1964,
+      "playTime30Days": 20
+    },
+    {
+      "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735060210758180bbc93db96de",
+      "title": "Four Tops",
+      "artist": "Four Tops",
+      "songs": [
+        {
+          "title": "Ask The Lonely",
+          "preview_url": "https://p.scdn.co/mp3-preview/077ce5574e705c43fe7ad4da2647b1b49e219c51?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Without The One You Love (Life's Not Worthwhile)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5bb15a914df0b1af49ab5e55ee0cea4c39bfadc0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Baby I Need Your Loving",
+          "preview_url": "https://p.scdn.co/mp3-preview/058aa538bf2dbc57e275a5172094f14370779f98?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Where Did You Go",
+          "preview_url": "https://p.scdn.co/mp3-preview/23ebfd2147942f2fd9a613592aceee1f18907dcb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.3,
+      "playTime": 0,
+      "genre": "Motown Sound",
+      "year": 1965,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2P0TLZSGxpDmYdp16bI4hv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27324f0c2f7b98deaf178f769f5",
+      "title": "Otis Blue",
+      "artist": "Otis Redding",
+      "songs": [
+        {
+          "title": "My Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/16eef47b201af305a210551357cf254788405c57?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ole Man Trouble",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa92de7f49849f9969ba959399800f2cd1e458bc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A Change Is Gonna Come",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1390a4fa4f1724dbdb509b8c88d67892b332661?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I've Been Loving You Too Long",
+          "preview_url": "https://p.scdn.co/mp3-preview/25802849c37b46cccda6f892f435328f98643dc8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "(I Can't Get No) Satisfaction",
+          "preview_url": "https://p.scdn.co/mp3-preview/11e3308b2cf3dd56d6ec324390df605f74d18336?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.2,
+      "playTime": 36,
+      "genre": "Southern Soul",
+      "year": 1965,
+      "playTime30Days": 36
+    },
+    {
+      "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f94461acebee60775ea22e77",
+      "title": "Wild Is The Wind",
+      "artist": "Nina Simone",
+      "songs": [
+        {
+          "title": "Wild Is The Wind",
+          "preview_url": "https://p.scdn.co/mp3-preview/49967910246a7cd459429d0fe9da04c2577826b2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Four Women",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8d3d0fdc0c747d66bff8765c0af89729e6998c1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "If I Should Lose You",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3b617ef3888d25c8b3b8c9561ed20c11085de0a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "What More Can I Say?",
+          "preview_url": "https://p.scdn.co/mp3-preview/d5166b07a0cfaabb73968e53d004cdb55d0821db?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lilac Wine",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab7f832c9dc1a719669ca917836445cf4d0ad943?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.7,
+      "playTime": 27,
+      "genre": "Soul-Jazz",
+      "year": 1966,
+      "playTime30Days": 26
     }
   ]
 }

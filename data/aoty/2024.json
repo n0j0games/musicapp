@@ -64,7 +64,7 @@
       "rating": 9.8,
       "genre": "Electropop",
       "playTime": 619,
-      "playTime30Days": 25,
+      "playTime30Days": 24,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
     },
@@ -232,7 +232,7 @@
       "rating": 9.2,
       "genre": "Synthpop",
       "playTime": 340,
-      "playTime30Days": 50,
+      "playTime30Days": 38,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -461,7 +461,7 @@
       "rating": 8.7,
       "genre": "Indie Pop",
       "playTime": 108,
-      "playTime30Days": 18,
+      "playTime30Days": 17,
       "color": "#2c3863"
     },
     {
@@ -799,7 +799,7 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 96,
+      "playTime": 97,
       "playTime30Days": 0,
       "color": "#872d11"
     },
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 125,
+      "playTime": 127,
       "playTime30Days": 26
     },
     {
@@ -2303,7 +2303,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 353,
+      "playTime": 354,
       "genre": "West Coast Hip Hop",
       "playTime30Days": 0,
       "color": "#6c6c6c"

@@ -31,7 +31,7 @@
       "rating": 11.6,
       "genre": "Dance Pop",
       "playTime": 1026,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#465b6b"
     },
     {
@@ -161,7 +161,7 @@
       "rating": 9.4,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 948,
+      "playTime": 949,
       "playTime30Days": 0,
       "color": "#123b49"
     },
@@ -520,7 +520,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 254,
+      "playTime": 255,
       "playTime30Days": 0,
       "color": "#141c36"
     },

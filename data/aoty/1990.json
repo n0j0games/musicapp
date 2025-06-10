@@ -30,7 +30,7 @@
       ],
       "rating": 9.7,
       "genre": "Alternative Rock",
-      "playTime": 437,
+      "playTime": 438,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
@@ -373,7 +373,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 41,
+      "playTime": 42,
       "playTime30Days": 0,
       "year": 1993
     },
@@ -781,10 +781,10 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 43,
+      "playTime": 72,
       "genre": "Art Pop",
       "year": 1998,
-      "playTime30Days": 43,
+      "playTime30Days": 59,
       "color": "#458d97"
     },
     {

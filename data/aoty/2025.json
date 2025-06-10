@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 479,
+      "playTime": 481,
       "genre": "Latin",
-      "playTime30Days": 32,
+      "playTime30Days": 13,
       "color": "#729238"
     },
     {
@@ -144,7 +144,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 671,
+      "playTime": 672,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -540,7 +540,7 @@
       "rating": 8.3,
       "playTime": 188,
       "genre": "Deutschpop",
-      "playTime30Days": 9
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -566,9 +566,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 69,
+      "playTime": 70,
       "genre": "Deutschrap",
-      "playTime30Days": 45
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -690,7 +690,7 @@
       "playTime": 133,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 38
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 403,
+      "playTime": 419,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 403,
+      "playTime30Days": 317,
       "onVinyl": true
     },
     {
@@ -923,10 +923,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 39,
+      "playTime": 40,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 39
+      "playTime30Days": 40
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -952,10 +952,10 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 76,
+      "playTime": 81,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 38,
+      "playTime30Days": 36,
       "onVinyl": "true"
     },
     {
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 93,
+      "playTime": 137,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 93
+      "playTime30Days": 137
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1019,9 +1019,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 0,
+      "playTime": 11,
       "genre": "Experimental Rap",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X",
@@ -1051,9 +1052,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 0,
+      "playTime": 68,
       "genre": "Hip-Hop",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 68
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1079,9 +1081,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 29,
       "genre": "Dancepop",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 29
     },
     {
       "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4",
@@ -1107,19 +1110,21 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 0,
+      "playTime": 41,
       "genre": "Synthpop",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 41
     },
     {
       "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733cf33f080e04f7d6400def5d",
       "title": "Tha Carter VI",
       "artist": "Lil Wayne",
-      "rating": 4.0,
+      "rating": 4,
       "playTime": 0,
       "genre": "Rap",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 0
     }
   ]
 }

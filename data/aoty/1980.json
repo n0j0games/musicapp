@@ -226,7 +226,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 145,
+      "playTime": 146,
       "playTime30Days": 0,
       "year": 1983,
       "color": "#5d5340"
@@ -379,10 +379,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d9afcde4dc1760c0b68382345ff1a3b8bb5102dd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 0,
+      "rating": 8,
+      "playTime": 14,
       "genre": "Synthpop",
-      "year": 1984
+      "year": 1984,
+      "playTime30Days": 12
     }
   ]
 }
