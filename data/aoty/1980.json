@@ -161,7 +161,7 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 98,
+      "playTime": 99,
       "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
@@ -315,7 +315,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 39,
+      "playTime": 40,
       "genre": "New Wave",
       "playTime30Days": 0
     },
@@ -383,7 +383,7 @@
       "playTime": 14,
       "genre": "Synthpop",
       "year": 1984,
-      "playTime30Days": 12
+      "playTime30Days": 0
     }
   ]
 }

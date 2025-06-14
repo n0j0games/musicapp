@@ -33,8 +33,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 303,
-      "playTime30Days": 10,
+      "playTime": 305,
+      "playTime30Days": 12,
       "color": "#932e50"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 306,
+      "playTime": 308,
       "playTime30Days": 0,
       "color": "#601f30"
     },
@@ -221,8 +221,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 280,
-      "playTime30Days": 28,
+      "playTime": 287,
+      "playTime30Days": 35,
       "color": "#006687"
     },
     {
@@ -533,7 +533,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 162,
+      "playTime": 164,
       "playTime30Days": 0,
       "color": "#9d9d9d"
     },

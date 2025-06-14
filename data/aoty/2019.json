@@ -62,8 +62,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 152,
-      "playTime30Days": 7,
+      "playTime": 154,
+      "playTime30Days": 9,
       "color": "#001e28"
     },
     {
@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 826,
+      "playTime": 828,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -137,7 +137,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 354,
+      "playTime": 356,
       "playTime30Days": 0,
       "color": "#0e3258"
     },

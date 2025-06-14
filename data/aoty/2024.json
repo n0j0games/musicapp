@@ -97,7 +97,7 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 789,
+      "playTime": 792,
       "playTime30Days": 0,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
@@ -232,7 +232,7 @@
       "rating": 9.2,
       "genre": "Synthpop",
       "playTime": 340,
-      "playTime30Days": 38,
+      "playTime30Days": 12,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -460,8 +460,8 @@
       ],
       "rating": 8.7,
       "genre": "Indie Pop",
-      "playTime": 108,
-      "playTime30Days": 17,
+      "playTime": 109,
+      "playTime30Days": 18,
       "color": "#2c3863"
     },
     {
@@ -1235,7 +1235,7 @@
       ],
       "rating": 7,
       "genre": "Synthpop",
-      "playTime": 89,
+      "playTime": 90,
       "playTime30Days": 0,
       "color": "#2f676a"
     },
@@ -1983,7 +1983,7 @@
       "rating": 6,
       "genre": "Synthpop",
       "playTime": 127,
-      "playTime30Days": 26
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2585,7 +2585,7 @@
       "playTime": 21,
       "genre": "Deutschrap",
       "year": 2024,
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2pePDyycyqpk7WxaXB81To",

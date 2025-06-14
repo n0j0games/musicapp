@@ -217,8 +217,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 320,
-      "playTime30Days": 112,
+      "playTime": 331,
+      "playTime30Days": 109,
       "color": "#064cb7"
     },
     {
@@ -753,9 +753,9 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 143,
+      "playTime": 145,
       "genre": "R&B",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd",

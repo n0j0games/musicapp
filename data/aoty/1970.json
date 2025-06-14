@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 127,
+      "playTime": 129,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -677,7 +677,7 @@
       "playTime": 37,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 25
+      "playTime30Days": 24
     }
   ]
 }

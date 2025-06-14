@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 481,
+      "playTime": 486,
       "genre": "Latin",
-      "playTime30Days": 13,
+      "playTime30Days": 16,
       "color": "#729238"
     },
     {
@@ -74,7 +74,7 @@
       "rating": 9.1,
       "playTime": 312,
       "genre": "Rap",
-      "playTime30Days": 36,
+      "playTime30Days": 30,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -540,7 +540,7 @@
       "rating": 8.3,
       "playTime": 188,
       "genre": "Deutschpop",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -568,7 +568,7 @@
       "rating": 8,
       "playTime": 70,
       "genre": "Deutschrap",
-      "playTime30Days": 25
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -723,7 +723,7 @@
       "playTime": 146,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 42
+      "playTime30Days": 31
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 419,
+      "playTime": 428,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 317,
+      "playTime30Days": 224,
       "onVinyl": true
     },
     {
@@ -923,10 +923,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 40,
+      "playTime": 41,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 40
+      "playTime30Days": 41
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -952,7 +952,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 81,
+      "playTime": 83,
       "genre": "Trip Hop",
       "year": 2025,
       "playTime30Days": 36,
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 137,
+      "playTime": 148,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 137
+      "playTime30Days": 148
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1052,10 +1052,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 68,
+      "playTime": 86,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 68
+      "playTime30Days": 86
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1081,10 +1081,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 29,
+      "playTime": 30,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 29
+      "playTime30Days": 30
     },
     {
       "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4",
@@ -1110,10 +1110,10 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 41,
+      "playTime": 71,
       "genre": "Synthpop",
       "year": 2025,
-      "playTime30Days": 41
+      "playTime30Days": 71
     },
     {
       "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ",
@@ -1125,6 +1125,35 @@
       "genre": "Rap",
       "year": 2025,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27366a697900e0821dba469eef2",
+      "title": "traence",
+      "artist": "Souly",
+      "songs": [
+        {
+          "title": "Kann nicht warten",
+          "preview_url": "https://p.scdn.co/mp3-preview/d7fcf2bc02422e3351abd9a99b1e41bf1ca2f170?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "All white",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb04d4f289668b45bb465780d32a60e9ece473b2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Maske weg",
+          "preview_url": "https://p.scdn.co/mp3-preview/c0e87a5a1ec5d63b20cad9f2031bf64c028ddd37?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "triff mich halben Weg",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba74b54fecd75f96115505dfd6d914080b968251?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 32,
+      "genre": "Trap",
+      "year": 2025,
+      "playTime30Days": 32
     }
   ]
 }

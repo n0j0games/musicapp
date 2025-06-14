@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 828,
+      "playTime": 830,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 385,
+      "playTime": 387,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -204,8 +204,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 515,
-      "playTime30Days": 0,
+      "playTime": 517,
+      "playTime30Days": 6,
       "year": 2005,
       "color": "#001621"
     },
@@ -332,7 +332,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 81,
+      "playTime": 84,
       "playTime30Days": 12,
       "year": 2009,
       "color": "#4c4c4c"
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 50,
+      "playTime": 52,
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 0
@@ -1218,10 +1218,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 69,
+      "playTime": 70,
       "genre": "Dance Pop",
       "year": 2005,
-      "playTime30Days": 50
+      "playTime30Days": 51
     },
     {
       "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y",
@@ -1243,6 +1243,35 @@
       "genre": "Pop",
       "year": 2003,
       "playTime30Days": 14
+    },
+    {
+      "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273632e4eafb2ffba59a2ae4500",
+      "title": "B'Day",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "Irreplaceable",
+          "preview_url": "https://p.scdn.co/mp3-preview/0030b44b8d25ab9048ea13672bfa33df87413d8e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Resentment",
+          "preview_url": "https://p.scdn.co/mp3-preview/a13dc402471a50aa871b4878c7d97d5ff5c919b4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Upgrade U (feat. JAY-Z)",
+          "preview_url": "https://p.scdn.co/mp3-preview/65dd15cc000b80ec4ee20fd98bfb75d8119f3fa3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Get Me Bodied",
+          "preview_url": "https://p.scdn.co/mp3-preview/2efe975326a5d47eeb37b9b3ced30f5f117c1f21?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 18,
+      "genre": "Dance-Pop",
+      "year": 2006,
+      "playTime30Days": 18
     }
   ]
 }

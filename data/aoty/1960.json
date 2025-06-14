@@ -131,8 +131,8 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 16,
-      "playTime30Days": 0,
+      "playTime": 20,
+      "playTime30Days": 5,
       "year": 1965
     },
     {
@@ -254,10 +254,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 29,
+      "playTime": 33,
       "genre": "Southern Soul",
       "year": 1964,
-      "playTime30Days": 29
+      "playTime30Days": 33
     },
     {
       "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
@@ -283,10 +283,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 20,
+      "playTime": 21,
       "genre": "Motown Sound",
       "year": 1964,
-      "playTime30Days": 20
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm",
@@ -378,10 +378,101 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 27,
+      "playTime": 65,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 26
+      "playTime30Days": 64
+    },
+    {
+      "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
+      "title": "I Never Loved a Man the Way I Love You",
+      "artist": "Aretha Franklin",
+      "songs": [
+        {
+          "title": "Respect",
+          "preview_url": "https://p.scdn.co/mp3-preview/7768dd513193e30ab1ad19deeff2dcc63d2c7555?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Drown in My Own Tears",
+          "preview_url": "https://p.scdn.co/mp3-preview/14dc9636750a41c684702ea2a2a796af28fdeb56?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Never Loved a Man (The Way I Love You)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0a17b209d684956e6dc8bcdcccda5b80f80583a6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Soul Serenade",
+          "preview_url": "https://p.scdn.co/mp3-preview/e45649938cdc21c55e6bac379fe4f46096a7b612?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A Change Is Gonna Come",
+          "preview_url": "https://p.scdn.co/mp3-preview/e278da1bd0b70670e955869a8f929a5a34603eea?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.2,
+      "playTime": 38,
+      "genre": "Southern Soul",
+      "year": 1967,
+      "playTime30Days": 34
+    },
+    {
+      "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731cdb72ef6962e80e97d27c75",
+      "title": "Warm & Tender Soul",
+      "artist": "Percy Sledge",
+      "songs": [
+        {
+          "title": "It Tears Me Up - Single Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe18d0da62eb5844bb053a51d13257fc53bb9aeb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'm Hanging Up My Heart for You",
+          "preview_url": "https://p.scdn.co/mp3-preview/89dcf64a5b877ed6da47c980189c74890d4fb6cb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "You Really Got a Hold on Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/36ee61c203ff5b04996b97787c24c1b7d7ac8aab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "That's How Strong My Love Is",
+          "preview_url": "https://p.scdn.co/mp3-preview/887efacc17ab0456fc44a6238cac39f72ea851f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 15,
+      "genre": "Southern Soul",
+      "year": 1966,
+      "playTime30Days": 15
+    },
+    {
+      "url": "https://open.spotify.com/album/55E0BKK84Zv6x5y7j8BGTk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c625dd0c6f1c839c8270a234",
+      "title": "Soul Finger",
+      "artist": "The Bar-Kays",
+      "songs": [
+        {
+          "title": "Soul Finger",
+          "preview_url": "https://p.scdn.co/mp3-preview/1fccf19c500bbdea5d1649900151092f26c55b5b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Knucklehead",
+          "preview_url": "https://p.scdn.co/mp3-preview/6483c8869f7efec915b82c7f86063b613b79c88f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "With a Child's Heart",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb325240760f4aa502dcb70141157fd7c7503a7e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bar-Kays Boogaloo",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f3fafe9f220c07d8c698d9fbff38bcef886bb40?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 14,
+      "genre": "Funk",
+      "year": 1967,
+      "playTime30Days": 14
     }
   ]
 }
