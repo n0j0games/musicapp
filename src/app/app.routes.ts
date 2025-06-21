@@ -21,7 +21,7 @@ import {ShowsOfTheYearComponent} from "./shows-of-the-year/shows-of-the-year.com
 
 export const routes: Routes = [
   { path: 'home', component: HomeComponent, resolve: [AotyResolverService, AotyAggregateResolverService, SotwResolverService] },
-  { path: 'review/:path', component: ReviewComponent, resolve: [ReviewResolverService]},
+  { path: 'review/:path', component: ReviewComponent, resolve: [AotyResolverService, AotyAggregateResolverService, ReviewResolverService]},
   { path: 'sotw/:week', component: SongsOfTheWeekComponent, resolve: [SotwItemResolverService, SotwResolverService, AotyResolverService] },
   { path: 'aoty', component: AlbumsOfTheYearComponent, resolve: [AotyResolverService,  SotwResolverService, AotyAggregateResolverService, AliasResolverService] },
   { path: 'aoty/recap/all', component: AllAlbumsRecapComponent, resolve: [AotyAggregateResolverService, SotwResolverService, AotyResolverService] },

@@ -35,7 +35,6 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
         linearGradients: string[],
         maxAlbums: number
     }|null>;
-    @Input() activeYear: number = 0;
     @Input() title! : string;
     @Input() link! : string[];
     @Input() routeParams!: Params;
@@ -104,18 +103,18 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
         if (!reverse) {
             return style({
                 backgroundSize : '800% 100%',
-                background: `linear-gradient(90deg, 
+                background: `linear-gradient(90deg,
                 ${this.activeAlbumNumber >= this.maxAlbums ? this.defaultGradient :this.linearGradients[this.activeAlbumNumber]},
                 ${this.activeAlbumNumber >= this.maxAlbums ? this.defaultGradient :this.linearGradients[this.activeAlbumNumber]},
-                ${this.linearGradients[this.activeAlbumNumber-1]}, 
+                ${this.linearGradients[this.activeAlbumNumber-1]},
                 ${this.linearGradients[this.activeAlbumNumber-1]})`
             });
         }
 
         return style({
             backgroundSize : '800% 100%',
-            background: `linear-gradient(90deg, 
-                ${this.linearGradients[this.activeAlbumNumber-2]}, 
+            background: `linear-gradient(90deg,
+                ${this.linearGradients[this.activeAlbumNumber-2]},
                 ${this.linearGradients[this.activeAlbumNumber-2]},
                 ${this.linearGradients[this.activeAlbumNumber-1]},
                 ${this.linearGradients[this.activeAlbumNumber-1]})`

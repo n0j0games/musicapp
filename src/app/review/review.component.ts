@@ -8,6 +8,8 @@ import {RemoveFeatPipe} from "../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../common/components/vinyl/vinyl.component";
 import {ActivatedRoute, ActivatedRouteSnapshot} from "@angular/router";
 import {ReviewService} from "../common/services/review.service";
+import {AotyService} from "../common/services/aoty.service";
+import {NormalizeHelper} from "../common/normalize-helper";
 
 @Component({
   selector: 'app-review',
@@ -32,7 +34,7 @@ export class ReviewComponent implements OnInit, AfterViewInit {
     reviewHtml!: string;
     title: string | undefined;
 
-    constructor(private route : ActivatedRoute, private reviewService: ReviewService) {
+    constructor(private route : ActivatedRoute, private reviewService: ReviewService, private aotyService: AotyService) {
     }
 
     ngOnInit(): void {
@@ -40,11 +42,15 @@ export class ReviewComponent implements OnInit, AfterViewInit {
         if (path === undefined || path === null) {
             throw new Error("Invalid path");
         }
-        this.name = this.route.snapshot.queryParams["name"];
-        this.coverImg = this.route.snapshot.queryParams["coverImg"].replaceAll("\\", "/");
 
-        if (this.name === undefined) {
-            this.name = path.split("--")[0].replaceAll("-", " ") + " - " + path.split("--")[1].replaceAll("-", " ");
+        const artist = path.split("--")[0].replaceAll("-", " ")
+        const albumName = path.split("--")[1].replaceAll("-", " ");
+        this.name = artist + " - " + albumName;
+        const album = this.aotyService.getAlbumByName(NormalizeHelper.normalize(artist), NormalizeHelper.normalize(albumName));
+        if (album != null) {
+          this.coverImg = album.imgUrl;
+        } else {
+          console.error("Could not load cover image");
         }
 
         const rawReview = this.reviewService.getReview(path);

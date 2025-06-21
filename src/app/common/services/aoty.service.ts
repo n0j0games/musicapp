@@ -7,6 +7,7 @@ import {AotyList} from "../models/aoty-list";
 import {Album} from "../models/album";
 import {HttpErrorResponse} from "@angular/common/http";
 import {AliasList} from "../models/alias-list";
+import {NormalizeHelper} from "../normalize-helper";
 
 @Injectable({
   providedIn: 'root'
@@ -37,6 +38,17 @@ export class AotyService {
 
   getAotyList(): AotyList | null {
     return {...this.aotyList};
+  }
+
+  getAlbumByName(artist: string, name: string): Album | null {
+    for (const item of this.aotyItems) {
+      for (const album of item.albums) {
+        if (NormalizeHelper.normalize(album.artist) === artist && NormalizeHelper.normalize(album.title) === name) {
+          return album;
+        }
+      }
+    }
+    return null;
   }
 
   getAggregatedAlbums(queryYears : number[]) : AotyItem[] | null {

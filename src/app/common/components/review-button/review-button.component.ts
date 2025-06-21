@@ -20,10 +20,7 @@ export class ReviewButtonComponent {
 
   routeToReview() {
     this.router.navigate(
-        ['/review/' + this.album.review],
-        {
-          queryParams: {name: this.album.artist + " - " + this.album.title, coverImg: this.album.imgUrl.replaceAll("/", "\\")}
-        }
+        ['/review/' + this.album.review], {}
     ).then(res => this.logger.debug("Navigated to ", res))
   }
 
