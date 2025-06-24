@@ -3,12 +3,12 @@
   "week": 24,
   "songs": [
     {
-      "previewUrl": "https://p.scdn.co/mp3-preview/058664ebc6f81b5cd579412a62143c6df04e0183?cid=bba9a824e2c249d1a89e21c0e2a2e845",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273795ad4e42b5e5f4082d7ec1f",
-      "title": "FORGONE",
-      "artist": "Quadeca",
-      "rating": 10.0,
-      "url": "https://open.spotify.com/track/6LfLoYQHYaj6E7jlNj0SlN"
+      "previewUrl": "https://p.scdn.co/mp3-preview/88128313d455eb04666943cbcd6d6d8ecf2b9c76?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27369190954571682910b8a80ca",
+      "title": "WASSUP (feat. JPEGMAFIA)",
+      "artist": "Joey Valence & Brae, JPEGMAFIA",
+      "rating": 7.5,
+      "url": "https://open.spotify.com/track/695BJdWZwhvuws1HSrvU4e"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/cb04d4f289668b45bb465780d32a60e9ece473b2?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -18,6 +18,42 @@
       "rating": 8.0,
       "album": "traence",
       "url": "https://open.spotify.com/track/3o4DCIy3KGlRLjqbNwJhD3"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/d7fcf2bc02422e3351abd9a99b1e41bf1ca2f170?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27366a697900e0821dba469eef2",
+      "title": "Kann nicht warten",
+      "artist": "Souly",
+      "rating": 8.5,
+      "album": "traence",
+      "url": "https://open.spotify.com/track/1QBEj0mG8w2Dg0yxGlWdF8"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/1cb1cfd71640883aa57f964792148cb2cb198ef9?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27366a697900e0821dba469eef2",
+      "title": "Du",
+      "artist": "Souly",
+      "rating": 7,
+      "album": "traence",
+      "url": "https://open.spotify.com/track/26ofPvyl0PjSGiU6FiP4fs"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/8b54d6a4f0ad0b4e8a95185192b557a78ba1b8fd?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27366a697900e0821dba469eef2",
+      "title": "Manie",
+      "artist": "Souly",
+      "rating": 7.5,
+      "album": "traence",
+      "url": "https://open.spotify.com/track/3iTZSWuyt8q63NYYef57TH"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/ba74b54fecd75f96115505dfd6d914080b968251?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27366a697900e0821dba469eef2",
+      "title": "triff mich halben Weg",
+      "artist": "Souly",
+      "rating": 8.0,
+      "album": "traence",
+      "url": "https://open.spotify.com/track/2BJkO8RkAzyFTVAwB1tjXE"
     }
   ]
 }
