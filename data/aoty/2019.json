@@ -63,7 +63,7 @@
       ],
       "rating": 10.1,
       "playTime": 154,
-      "playTime30Days": 9,
+      "playTime30Days": 8,
       "color": "#001e28"
     },
     {
@@ -100,8 +100,8 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 828,
-      "playTime30Days": 0,
+      "playTime": 839,
+      "playTime30Days": 13,
       "color": "#73535b"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 356,
+      "playTime": 357,
       "playTime30Days": 0,
       "color": "#0e3258"
     },
@@ -757,9 +757,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 178,
+      "playTime": 219,
       "genre": "Live",
-      "playTime30Days": 0
+      "playTime30Days": 41
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",

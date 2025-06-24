@@ -1,0 +1,30 @@
+{
+  "year": 2025,
+  "week": 25,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/cbc438aab468f533933ca1c3270f14ce186929ea?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27326635c77bed7eb81e29fe1fa",
+      "title": "HOW DOES IT FEEL?",
+      "artist": "The Kid LAROI",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/de957d648aebb3b9fe96349e34c17b6a1a146201?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b18bc4ae967963386185b437",
+      "title": "S.M.O.",
+      "artist": "Amaarae",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/10fa9d75fc954d6618f8569323d602629bbbd5c9?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736c6519d78212014126753fa0",
+      "title": "Hammer",
+      "artist": "Lorde",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW"
+    }
+  ]
+}

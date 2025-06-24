@@ -30,8 +30,8 @@
       ],
       "rating": 9.7,
       "genre": "Alternative Rock",
-      "playTime": 440,
-      "playTime30Days": 0,
+      "playTime": 443,
+      "playTime30Days": 7,
       "year": 1997,
       "color": "#194d64"
     },
@@ -166,7 +166,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 95,
+      "playTime": 96,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#43495f"
@@ -748,10 +748,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 36,
+      "playTime": 37,
       "genre": "Art Pop",
       "year": 1995,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI",
@@ -781,10 +781,10 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 85,
+      "playTime": 100,
       "genre": "Art Pop",
       "year": 1998,
-      "playTime30Days": 70,
+      "playTime30Days": 67,
       "color": "#458d97"
     },
     {

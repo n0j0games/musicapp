@@ -107,7 +107,7 @@
       "rating": 10,
       "genre": "Synthpop",
       "playTime": 856,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#443152"
     },
     {
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 265,
+      "playTime": 266,
       "playTime30Days": 0,
       "color": "#52050d"
     },
@@ -327,8 +327,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 177,
-      "playTime30Days": 0,
+      "playTime": 189,
+      "playTime30Days": 16,
       "color": "#526b6e"
     },
     {

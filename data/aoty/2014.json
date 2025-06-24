@@ -173,7 +173,7 @@
       ],
       "rating": 7.9,
       "playTime": 291,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd",
@@ -241,7 +241,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 31,
+      "playTime": 32,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },

@@ -95,7 +95,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 155,
+      "playTime": 157,
       "playTime30Days": 0
     },
     {
@@ -376,7 +376,7 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 605,
+      "playTime": 606,
       "playTime30Days": 0
     },
     {
@@ -896,7 +896,7 @@
       "rating": 8.3,
       "playTime": 71,
       "genre": "Synthpop",
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
@@ -1026,7 +1026,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 195,
+      "playTime": 199,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },

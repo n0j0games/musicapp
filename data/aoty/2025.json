@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 486,
+      "playTime": 534,
       "genre": "Latin",
-      "playTime30Days": 16,
+      "playTime30Days": 62,
       "color": "#729238"
     },
     {
@@ -74,7 +74,7 @@
       "rating": 9.1,
       "playTime": 312,
       "genre": "Rap",
-      "playTime30Days": 30,
+      "playTime30Days": 14,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -144,7 +144,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 672,
+      "playTime": 673,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -568,7 +568,7 @@
       "rating": 8,
       "playTime": 70,
       "genre": "Deutschrap",
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -687,10 +687,10 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 133,
+      "playTime": 143,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 18
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -723,7 +723,7 @@
       "playTime": 146,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 31
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 428,
+      "playTime": 443,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 224,
+      "playTime30Days": 84,
       "onVinyl": true
     },
     {
@@ -897,7 +897,7 @@
       "playTime": 18,
       "genre": "Hip Hop",
       "year": 2025,
-      "playTime30Days": 18
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/78Wcqh7ygPyANYSd8kn5PG",
@@ -923,10 +923,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 41,
+      "playTime": 44,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 41
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -952,10 +952,10 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 83,
+      "playTime": 86,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 36,
+      "playTime30Days": 38,
       "onVinyl": "true"
     },
     {
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 148,
+      "playTime": 189,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 148
+      "playTime30Days": 189
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1052,10 +1052,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 86,
+      "playTime": 127,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 86
+      "playTime30Days": 127
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1150,10 +1150,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 32,
+      "playTime": 99,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 32
+      "playTime30Days": 99
     }
   ]
 }

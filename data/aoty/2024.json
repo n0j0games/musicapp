@@ -64,7 +64,7 @@
       "rating": 9.8,
       "genre": "Electropop",
       "playTime": 619,
-      "playTime30Days": 24,
+      "playTime30Days": 17,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
     },
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 792,
-      "playTime30Days": 0,
+      "playTime": 797,
+      "playTime30Days": 8,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -231,8 +231,8 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 340,
-      "playTime30Days": 12,
+      "playTime": 341,
+      "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -265,7 +265,7 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 331,
+      "playTime": 333,
       "playTime30Days": 0,
       "color": "#a065b1"
     },
@@ -460,8 +460,8 @@
       ],
       "rating": 8.7,
       "genre": "Indie Pop",
-      "playTime": 109,
-      "playTime30Days": 18,
+      "playTime": 110,
+      "playTime30Days": 0,
       "color": "#2c3863"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 72,
+      "playTime": 73,
       "playTime30Days": 0,
       "color": "#012c63"
     },
@@ -1983,7 +1983,7 @@
       "rating": 6,
       "genre": "Synthpop",
       "playTime": 127,
-      "playTime30Days": 25
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2336,7 +2336,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 639,
+      "playTime": 642,
       "genre": "Wiener Pop",
       "playTime30Days": 0,
       "color": "#c51919"

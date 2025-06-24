@@ -131,8 +131,8 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 20,
-      "playTime30Days": 5,
+      "playTime": 22,
+      "playTime30Days": 7,
       "year": 1965
     },
     {
@@ -224,7 +224,7 @@
       "playTime": 17,
       "genre": "Southern Soul",
       "year": 1963,
-      "playTime30Days": 17
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY",
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 65,
+      "playTime": 88,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 64,
+      "playTime30Days": 87,
       "color": "#b20a57"
     },
     {
