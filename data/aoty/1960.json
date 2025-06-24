@@ -474,6 +474,114 @@
       "genre": "Funk",
       "year": 1967,
       "playTime30Days": 14
+    },
+    {
+      "url": "https://open.spotify.com/album/5HAlqva0TN45uJGNhEjuwL",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27314c297b4bf32c83dcffbf0c6",
+      "title": "The Champ",
+      "artist": "The Mohawks",
+      "songs": [
+        {
+          "title": "The Champ - Original Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/daf7ef4b12b14dabe772f87eecd427ed43f2bbfd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hip Jigger",
+          "preview_url": "https://p.scdn.co/mp3-preview/bbaea00207b44df91f86613549e2b65a936e669b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Beat Me Till I'm Blue",
+          "preview_url": "https://p.scdn.co/mp3-preview/b23d5d25a2c66c9b77639ef47685b1ec032f3db0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Early Funk",
+      "year": 1968
+    },
+    {
+      "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02",
+      "title": "United",
+      "artist": "Marvin Gaye,\nTammi Terrell",
+      "songs": [
+        {
+          "title": "Ain't No Mountain High Enough",
+          "preview_url": "https://p.scdn.co/mp3-preview/7301aee11d8646c25071e0825b0794aa609092db?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Somethin’ Stupid",
+          "preview_url": "https://p.scdn.co/mp3-preview/bed8d66982f4344d7412808bb7a5e148b2b277cb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Your Precious Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/e54743d392dc2ec023d7a00a8c7c3efe1afeaded?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "If This World Were Mine",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d512ef65862ab9daf4a9743b34d8a05098df8b6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Motown Sound",
+      "year": 1967
+    },
+    {
+      "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273aedbd6f63007024a40d2d783",
+      "title": "'Live' At The Apollo (Vol. II)",
+      "artist": "James Brown & The Famous Flames",
+      "songs": [
+        {
+          "title": "I Want To Be Around",
+          "preview_url": "https://p.scdn.co/mp3-preview/480a4755af2cead1089c5cf66f13a52e0571bba7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "That's Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b79f4133e4bffd19bd18efa91761fe7851a7b57?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "There Was A Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/aab10322cb35eeed714738c5be6ff24fa640b13f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Feel All Right",
+          "preview_url": "https://p.scdn.co/mp3-preview/701c39dd827c7641675aebd6549b4463dcfaff9a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Live",
+      "year": 1968
+    },
+    {
+      "url": "https://open.spotify.com/album/71rxIr6MJYUzDG9ge6Jq3J",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736c3db7e63a6f392a678635ba",
+      "title": "Hot Buttered Soul",
+      "artist": "Isaac Hayes",
+      "songs": [
+        {
+          "title": "Walk On By",
+          "preview_url": "https://p.scdn.co/mp3-preview/aecfceb21c647b1eb40a6f5602fffbef5b595bb6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "By The Time I Get To Phoenix",
+          "preview_url": "https://p.scdn.co/mp3-preview/7daa8ded65d00fe102da1172ec7cacd510dfe777?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hyperbolicsyllabicsesquedalymistic",
+          "preview_url": "https://p.scdn.co/mp3-preview/4d1891ffe1b90e6b37cf493db341dcf989ad516b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "One Woman",
+          "preview_url": "https://p.scdn.co/mp3-preview/8a12f867a1d6afcf3770e2a80b01b0f93c63b17b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.0,
+      "playTime": 0,
+      "genre": "Progressive Soul",
+      "year": 1969
     }
   ]
 }

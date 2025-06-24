@@ -1154,6 +1154,34 @@
       "genre": "Trap",
       "year": 2025,
       "playTime30Days": 99
+    },
+    {
+      "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e",
+      "title": "Fancy That",
+      "artist": "PinkPantheress",
+      "songs": [
+        {
+          "title": "Illegal",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5260bddce5feb4a4bb80157625470da76fb58a1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Girl Like Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8fcfba81e67be9bead6d7597a5686c48abd4231?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stateside",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fe6cfafe6d0facd5786df426013f1908c4fb710?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Romeo",
+          "preview_url": "https://p.scdn.co/mp3-preview/076b5c1b98596b021d91aebc8a27671438e0f26d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 0,
+      "genre": "",
+      "year": 2025
     }
   ]
 }
