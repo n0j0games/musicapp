@@ -1182,6 +1182,59 @@
       "playTime": 0,
       "genre": "",
       "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bf903e685a87c31a2180ed33",
+      "title": "Virgin",
+      "artist": "Lorde",
+      "songs": [
+        {
+          "title": "What Was That",
+          "preview_url": "https://p.scdn.co/mp3-preview/7968c072da851a6d05d385fd8d92fb043f0f956f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Man Of The Year",
+          "preview_url": "https://p.scdn.co/mp3-preview/54e0275e0b54359988438cb07d562596754f93e6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Favourite Daughter",
+          "preview_url": "https://p.scdn.co/mp3-preview/9341413166e3ecd3a38e7f2d4a89c59335e60274?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Current Affairs",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ab07c75c9f3a720e9e14bbc5e50f981f43de949?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Broken Glass",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9ddd7146b3c28f57309e4aff999c8c60d44d47c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 0,
+      "genre": "Synthpop",
+      "year": 2025,
+      "color" : "#044057"
+    },
+    {
+      "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27374747781817adab33d1ae77e",
+      "title": "Drama Cowboy",
+      "artist": "Mavi Phoenix",
+      "songs": [
+        {
+          "title": "Drama",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa1440b2b0788f56e53ed03f9973816e63ca9d1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "you're killing me",
+          "preview_url": "https://p.scdn.co/mp3-preview/46965e6291e1192e00be3294bfbc310caade73f0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.0,
+      "playTime": 0,
+      "genre": "Pop Rap",
+      "year": 2025
     }
   ]
 }

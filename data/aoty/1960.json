@@ -578,10 +578,35 @@
           "preview_url": "https://p.scdn.co/mp3-preview/8a12f867a1d6afcf3770e2a80b01b0f93c63b17b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.0,
+      "rating": 9.2,
       "playTime": 0,
       "genre": "Progressive Soul",
-      "year": 1969
+      "year": 1969,
+      "color" : "#2e1e11"
+    },
+    {
+      "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27356f178d032c89d3b18fde52d",
+      "title": "Gris Gris",
+      "artist": "Dr. John",
+      "songs": [
+        {
+          "title": "Gris-Gris Gumbo Ya Ya",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8987693e6d4d7affe0c16014bfe5acd7b8ce459?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Danse Kalinda Ba Doom",
+          "preview_url": "https://p.scdn.co/mp3-preview/871b4adc1c561355bdb789b0c5b9ffa97a4a245f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mama Roux",
+          "preview_url": "https://p.scdn.co/mp3-preview/e8a104e55e4eb2e78251ba6eddcf6dc20092e5f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Psychadelic Soul",
+      "year": 1968
     }
   ]
 }
