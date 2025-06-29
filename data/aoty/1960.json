@@ -131,8 +131,8 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 22,
-      "playTime30Days": 7,
+      "playTime": 31,
+      "playTime30Days": 16,
       "year": 1965
     },
     {
@@ -221,10 +221,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 17,
+      "playTime": 19,
       "genre": "Southern Soul",
       "year": 1963,
-      "playTime30Days": 15
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY",
@@ -254,10 +254,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 33,
+      "playTime": 42,
       "genre": "Southern Soul",
       "year": 1964,
-      "playTime30Days": 33
+      "playTime30Days": 42
     },
     {
       "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
@@ -283,10 +283,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 21,
+      "playTime": 24,
       "genre": "Motown Sound",
       "year": 1964,
-      "playTime30Days": 21
+      "playTime30Days": 24
     },
     {
       "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm",
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 88,
+      "playTime": 105,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 87,
+      "playTime30Days": 104,
       "color": "#b20a57"
     },
     {
@@ -495,9 +495,10 @@
         }
       ],
       "rating": 6,
-      "playTime": 0,
+      "playTime": 14,
       "genre": "Early Funk",
-      "year": 1968
+      "year": 1968,
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE",
@@ -523,9 +524,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 35,
       "genre": "Motown Sound",
-      "year": 1967
+      "year": 1967,
+      "playTime30Days": 35
     },
     {
       "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD",
@@ -551,9 +553,10 @@
         }
       ],
       "rating": 0,
-      "playTime": 0,
+      "playTime": 12,
       "genre": "Live",
-      "year": 1968
+      "year": 1968,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/71rxIr6MJYUzDG9ge6Jq3J",
@@ -579,10 +582,11 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 0,
+      "playTime": 17,
       "genre": "Progressive Soul",
       "year": 1969,
-      "color" : "#2e1e11"
+      "color": "#2e1e11",
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
@@ -606,7 +610,37 @@
       "rating": 0,
       "playTime": 0,
       "genre": "Psychadelic Soul",
-      "year": 1968
+      "year": 1968,
+      "playTime30Days": 7
+    },
+    {
+      "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9",
+      "title": "Tell Mama",
+      "artist": "Etta James",
+      "songs": [
+        {
+          "title": "Tell Mama",
+          "preview_url": "https://p.scdn.co/mp3-preview/b66523760303774c30c0420a456932f4c293a123?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'd Rather Go Blind",
+          "preview_url": "https://p.scdn.co/mp3-preview/02ef920ee472f08762760435e47264a014636a1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Watch Dog",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6041823e374ad9f74a52d464d764498ac81b721?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Love Of My Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/d9f5bb45883a03482c2cfd1e9d32069cf995c8eb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 12,
+      "genre": "Southern Soul",
+      "year": 1968,
+      "playTime30Days": 12
     }
   ]
 }

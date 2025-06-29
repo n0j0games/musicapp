@@ -222,7 +222,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 298,
+      "playTime": 300,
       "playTime30Days": 0,
       "color": "#857e5b"
     },
@@ -317,6 +317,39 @@
       "playTime": 47,
       "genre": "Alternative R&B",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd",
+      "title": "4",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "I Care",
+          "preview_url": "https://p.scdn.co/mp3-preview/910eede27a3545f8912d023111d7ede060fe9415?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "1+1",
+          "preview_url": "https://p.scdn.co/mp3-preview/972169ac03351fcc02e360485df9440cda1fd58e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "End of Time",
+          "preview_url": "https://p.scdn.co/mp3-preview/295d91d1c0d64e662c2af4ba7a69e7554e55b1ff?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Run the World (Girls)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0bc39c5717f270c4545710f17c7e9ee16062e5eb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Best Thing I Never Had",
+          "preview_url": "https://p.scdn.co/mp3-preview/53e77e774e00bf01be5be21d629fb06d00740766?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 18,
+      "genre": "Pop",
+      "year": 2011,
+      "playTime30Days": 10
     }
   ]
 }

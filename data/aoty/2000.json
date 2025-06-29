@@ -333,7 +333,7 @@
       ],
       "rating": 9.4,
       "playTime": 87,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 69,
+      "playTime": 71,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -1221,7 +1221,7 @@
       "playTime": 72,
       "genre": "Dance Pop",
       "year": 2005,
-      "playTime30Days": 53
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y",
@@ -1239,10 +1239,10 @@
         }
       ],
       "rating": 5.9,
-      "playTime": 51,
+      "playTime": 52,
       "genre": "Pop",
       "year": 2003,
-      "playTime30Days": 17
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO",
@@ -1267,11 +1267,32 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2efe975326a5d47eeb37b9b3ced30f5f117c1f21?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 20,
+      "rating": 8,
+      "playTime": 40,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 20
+      "playTime30Days": 40
+    },
+    {
+      "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef",
+      "title": "I AM...SASHA FIERCE",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "Sweet Dreams",
+          "preview_url": "https://p.scdn.co/mp3-preview/93a878c7c2df43fe7f60c626df6d0c0eb7e4c15d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "If I Were a Boy",
+          "preview_url": "https://p.scdn.co/mp3-preview/e209eee4a8548b5a2b7d80dc82b9407ae438f886?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5.9,
+      "playTime": 14,
+      "genre": "Pop",
+      "year": 2008,
+      "playTime30Days": 10
     }
   ]
 }

@@ -95,8 +95,8 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 187,
-      "playTime30Days": 10,
+      "playTime": 193,
+      "playTime30Days": 14,
       "color": "#437b76"
     },
     {
@@ -742,9 +742,9 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 244,
+      "playTime": 249,
       "genre": "Soundtrack",
-      "playTime30Days": 81
+      "playTime30Days": 86
     },
     {
       "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi",

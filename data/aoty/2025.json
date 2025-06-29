@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 312,
+      "playTime": 316,
       "genre": "Rap",
-      "playTime30Days": 14,
+      "playTime30Days": 0,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -566,7 +566,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 70,
+      "playTime": 71,
       "genre": "Deutschrap",
       "playTime30Days": 0
     },
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 443,
+      "playTime": 444,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 84,
+      "playTime30Days": 64,
       "onVinyl": true
     },
     {
@@ -923,10 +923,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 11
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -955,7 +955,7 @@
       "playTime": 86,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 38,
+      "playTime30Days": 28,
       "onVinyl": "true"
     },
     {
@@ -986,7 +986,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 189,
+      "playTime": 190,
       "genre": "Art Pop",
       "year": 2025,
       "playTime30Days": 189
@@ -1052,10 +1052,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 127,
+      "playTime": 134,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 127
+      "playTime30Days": 134
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1150,10 +1150,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 99,
+      "playTime": 100,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 99
+      "playTime30Days": 100
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1179,9 +1179,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 0,
+      "playTime": 11,
       "genre": "",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1211,10 +1212,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 0,
+      "playTime": 42,
       "genre": "Synthpop",
       "year": 2025,
-      "color" : "#044057"
+      "color": "#044057",
+      "playTime30Days": 42
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1231,10 +1233,36 @@
           "preview_url": "https://p.scdn.co/mp3-preview/46965e6291e1192e00be3294bfbc310caade73f0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "playTime": 0,
       "genre": "Pop Rap",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ecfb82c059a6e6543a1f3ce6",
+      "title": "Blush",
+      "artist": "Kevin Abstract",
+      "songs": [
+        {
+          "title": "NOLA",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9fcc62484e1088da795b04ac774c5bd48e17feb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Abandon Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0cb2bb42be9e4bdd4c49920f5035bc5411a91b4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Red Light",
+          "preview_url": "https://p.scdn.co/mp3-preview/c5fd5c625364fef903df0a80a7d949f42af2d1ab?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 21,
+      "genre": "Pop Rap",
+      "year": 2025,
+      "playTime30Days": 21
     }
   ]
 }

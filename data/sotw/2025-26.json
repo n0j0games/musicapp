@@ -1,0 +1,33 @@
+{
+  "year": 2025,
+  "week": 26,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/2e6119094710c8c8b8f9fb828b50bbed42aeaaad?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bf903e685a87c31a2180ed33",
+      "title": "Favourite Daughter",
+      "artist": "Lorde",
+      "rating": 9.3,
+      "album": "Virgin",
+      "url": "https://open.spotify.com/track/6FRKxwDHTDGr1lqQ0SEprH"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/70b64cb2ad7fdff5f4c555cb527bb140fc4798c6?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bf903e685a87c31a2180ed33",
+      "title": "Current Affairs",
+      "artist": "Lorde",
+      "rating": 7.0,
+      "album": "Virgin",
+      "url": "https://open.spotify.com/track/1cQQB9z7fNQQ2VzSkslt7Y"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/55ea38bbb978d35154a8d50de8bfe256aef65f1c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bf903e685a87c31a2180ed33",
+      "title": "Broken Glass",
+      "artist": "Lorde",
+      "rating": 9.1,
+      "album": "Virgin",
+      "url": "https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe"
+    }
+  ]
+}
