@@ -6,7 +6,7 @@
     <p class="mobile p-i fs-recap-xl">{{ title }}</p>
     <div class="content flex-column align-center justify-center recap-gap">
         <p class="p-b-i fs-recap-number">#{{ activeAlbumNumber }}</p>
-        <img class="recap-cover" src="{{activeRecapItem?.imgUrl}}" alt="">
+        <img class="recap-cover" src="{{activeRecapItem?.imgUrl}}" alt="" onerror="this.src='assets/placeholder.png'">
         <div>
             <p class="p-b-i fs-recap-artist">{{ typedArtist$ | async }}</p>
             <p class="p-b-i fs-recap-title">{{ typedText$ | async }}</p>

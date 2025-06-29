@@ -1,6 +1,6 @@
 <div [ngClass]="{ 'halfTransparent' : false }" class="flex-row align-center gap-l">
     <p class="p-b-i fs-xl counter">{{ index }}</p>
-    <img class="movie-poster" src="{{movie.imgSrc}}" alt="">
+    <img class="movie-poster" src="{{movie.imgSrc}}" alt="" onerror="this.src='assets/placeholder-movie.png'">
     <div class="flex-column align-start gap-s">
         <a
                 *ngIf="movie.creator" class="p-b-i fs-l left-text movies-less-important-link"

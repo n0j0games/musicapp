@@ -1,6 +1,6 @@
 <div class="flex-row align-center gap-l">
     <p *ngIf="index !== null" class="p-b-i fs-xl counter">{{ index }}</p>
-    <img class="cover" src="{{song.imgUrl}}" alt="">
+    <img class="cover" src="{{song.imgUrl}}" alt="" onerror="this.src='assets/placeholder.png'">
     <div class="flex-column align-start gap-s">
         <p class="p-b-i fs-l left-text"><span *ngIf="index !== null" class="m-counter">{{ index }}. </span>{{ song.artist }}</p>
         <div class="flex-row align-center gap-s fake-gap-b m-flex-wrap">

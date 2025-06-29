@@ -19,20 +19,20 @@ import {Logger} from "../../common/logger";
 @Component({
   selector: 'app-album-detail',
   standalone: true,
-    imports: [
-        NgIf,
-        PlayButtonComponent,
-        RatingComponent,
-        RemoveDeluxePipe,
-        RemoveFeatPipe,
-        NgStyle,
-        NgClass,
-        VinylComponent,
-        RouterLink,
-        ContentBadgeComponent,
-        LastfmBadge,
-        ReviewButtonComponent
-    ],
+  imports: [
+    NgIf,
+    PlayButtonComponent,
+    RatingComponent,
+    RemoveDeluxePipe,
+    RemoveFeatPipe,
+    NgStyle,
+    NgClass,
+    VinylComponent,
+    RouterLink,
+    ContentBadgeComponent,
+    LastfmBadge,
+    ReviewButtonComponent
+  ],
   templateUrl: './album-detail.component.html'
 })
 export class AlbumDetailComponent implements OnInit {
