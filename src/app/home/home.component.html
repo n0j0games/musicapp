@@ -50,100 +50,58 @@
             </a>
         </div>
         <div class="flex-column gap-xl flex-wrap justify-center">
-            <div class="new-highlight-card" style="background: rgb(139, 200, 0)">
-                <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://qnews.com.au/wp-content/uploads/2024/10/24-10-12-charli-xcx-brat-composite-photo.jpg">
-                <div
-                        class="new-highlight-card-above flex-column justify-center align-start"
-                        style="background: linear-gradient(90deg, #d077ad 0%, rgb(139, 200, 0) 50%, rgba(255, 255, 255, 0) 100%);"
-                >
-                    <a
-                            class="flex-column gap-s align-start"
-                            [routerLink]="['/aoty/recap/2024']"
-                    >
-                        <span class="fs-xl p-b">RECAP: AOTY 2024</span>
-                        <span class="fs-l">my fav albums of 2024</span>
-                    </a>
-                </div>
-            </div>
-            <div class="new-highlight-card" style="background: #0c355f">
-                <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://www.sueddeutsche.de/2024/05/17/c815ae20-c984-4520-a3d9-b7433b2b4580.jpeg?q=60&fm=jpeg&width=1000&rect=0%2C0%2C1349%2C759">
-                <div
-                        class="new-highlight-card-above flex-column justify-center align-start"
-                        style="background: linear-gradient(90deg, #7d706e 0%, #0c355f 70%, rgba(255, 255, 255, 0) 80%);"
-                >
-                    <a
-                            class="flex-column gap-s align-start"
-                            [routerLink]="['/soty/recap/2024']"
-                    >
-                        <span class="fs-xl p-b">RECAP: SOTY 2024</span>
-                        <span class="fs-l">my fav songs of 2024</span>
-                    </a>
-                </div>
-            </div>
+            <app-highlight-card
+              [outerStyle]="'background: rgb(139, 200, 0)'"
+              [innerStyle]="'background: linear-gradient(90deg, #d077ad 0%, rgb(139, 200, 0) 50%, rgba(255, 255, 255, 0) 100%);'"
+              [href]="'/aoty/recap/2024'"
+              [title]="'RECAP: AOTY 2024'"
+              [subtitle]="'my fav albums of 2024'"
+              [thumbnailSrc]="'https://qnews.com.au/wp-content/uploads/2024/10/24-10-12-charli-xcx-brat-composite-photo.jpg'"
+            />
+            <app-highlight-card
+              [outerStyle]="'background: #0c355f'"
+              [innerStyle]="'background: linear-gradient(90deg, #7d706e 0%, #0c355f 70%, rgba(255, 255, 255, 0) 80%);'"
+              [href]="'/soty/recap/2024'"
+              [title]="'RECAP: SOTY 2024'"
+              [subtitle]="'my fav songs of 2024'"
+              [thumbnailSrc]="'https://www.sueddeutsche.de/2024/05/17/c815ae20-c984-4520-a3d9-b7433b2b4580.jpeg?q=60&fm=jpeg&width=1000&rect=0%2C0%2C1349%2C759'"
+            />
         </div>
         <div class="flex-column gap-xl flex-wrap justify-center">
-            <div class="new-highlight-card" style="background: #333738">
-                <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://i.redd.it/rgkjdhd6msjz.jpg">
-                <div
-                        class="new-highlight-card-above flex-column justify-center align-start"
-                        style="background: linear-gradient(90deg, #6e5343 0%, #333738 70%, rgba(255, 255, 255, 0) 80%);"
-                >
-                    <a
-                            class="flex-column gap-s align-start"
-                            [routerLink]="['/aoty/recap/all']"
-                    >
-                        <span class="fs-xl p-b">TOP 100 ALBUMS</span>
-                        <span class="fs-l">my fav albums of all time</span>
-                    </a>
-                </div>
-            </div>
-            <div class="new-highlight-card" style="background: #e4e3de">
-                <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://64.media.tumblr.com/3fafc7bae1615ff3deb07ebfeaebaf5c/46a3494adefc7da7-b4/s1280x1920/920d0c081a6a02b8af673cb866c56d43ace69245.jpg">
-                <div
-                        class="new-highlight-card-above flex-column justify-center align-start"
-                        style="background: linear-gradient(90deg, #b7f8fc 0%, #e4e3de 70%, rgba(255, 255, 255, 0) 80%);"
-                >
-                    <a
-                            class="flex-column gap-s align-start"
-                            [routerLink]="['/soty/recap/0']"
-                    >
-                        <span class="fs-xl p-b" style="color: black">TOP 100 SONGS</span>
-                        <span class="fs-l" style="color: black">some of my fav songs of all time</span>
-                    </a>
-                </div>
-            </div>
+            <app-highlight-card
+              [outerStyle]="'background: #333738'"
+              [innerStyle]="'background: linear-gradient(90deg, #6e5343 0%, #333738 70%, rgba(255, 255, 255, 0) 80%);'"
+              [href]="'/aoty/recap/all'"
+              [title]="'TOP 100 ALBUMS'"
+              [subtitle]="'my fav albums of all time'"
+              [thumbnailSrc]="'https://i.redd.it/rgkjdhd6msjz.jpg'"
+            />
+            <app-highlight-card
+              [outerStyle]="'background: #e4e3de'"
+              [innerStyle]="'background: linear-gradient(90deg, #5a7779 0%, #e4e3de 70%, rgba(255, 255, 255, 0) 80%);'"
+              [href]="'/soty/recap/0'"
+              [title]="'TOP 100 SONGS'"
+              [subtitle]="'some of my fav songs of all time'"
+              [thumbnailSrc]="'https://64.media.tumblr.com/3fafc7bae1615ff3deb07ebfeaebaf5c/46a3494adefc7da7-b4/s1280x1920/920d0c081a6a02b8af673cb866c56d43ace69245.jpg'"
+            />
         </div>
         <div class="flex-column gap-xl flex-wrap justify-center">
-            <div class="new-highlight-card" style="background: #435d81">
-                <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://www.byte.fm/blog/wp-content/uploads/2023/08/SufjanStevens_Javelin_885.jpg">
-                <div
-                        class="new-highlight-card-above flex-column justify-center align-start"
-                        style="background: linear-gradient(90deg, #a0896a 0%, #435d81 60%, rgba(255, 255, 255, 0) 80%);"
-                >
-                    <a
-                            class="flex-column gap-s align-start"
-                            [routerLink]="['/aoty/recap/2023']"
-                    >
-                        <span class="fs-xl p-b">RECAP: AOTY 2023</span>
-                        <span class="fs-l">my fav albums of 2023</span>
-                    </a>
-                </div>
-            </div>
-            <div class="new-highlight-card" style="background: #000000">
-                <img alt="fullsize-thumbnail" class="new-highlight-card-img" src="https://cvhsnews.org/wp-content/uploads/2024/01/bfc96cc7-7a7e-4fe2-976f-d7b29c6bc6a8-Screenshot-2023-02-03-105026-1024x563-1.webp">
-                <div
-                        class="new-highlight-card-above flex-column justify-center align-start"
-                        style="background: linear-gradient(90deg, #a5bcda 0%, #000000 70%, rgba(255, 255, 255, 0) 80%);"
-                >
-                    <a
-                            class="flex-column gap-s align-start"
-                            [routerLink]="['/aoty/recap/2022']"
-                    >
-                        <span class="fs-xl p-b">RECAP: AOTY 2022</span>
-                        <span class="fs-l">my fav albums of 2022</span>
-                    </a>
-                </div>
-            </div>
+            <app-highlight-card
+              [outerStyle]="'background: #435d81'"
+              [innerStyle]="'background: linear-gradient(90deg, #a0896a 0%, #435d81 60%, rgba(255, 255, 255, 0) 80%);'"
+              [href]="'/aoty/recap/2023'"
+              [title]="'RECAP: AOTY 2023'"
+              [subtitle]="'my fav albums of 2023'"
+              [thumbnailSrc]="'https://www.byte.fm/blog/wp-content/uploads/2023/08/SufjanStevens_Javelin_885.jpg'"
+            />
+            <app-highlight-card
+              [outerStyle]="'background: #000000'"
+              [innerStyle]="'background: linear-gradient(90deg, #a5bcda 0%, #000000 70%, rgba(255, 255, 255, 0) 80%);'"
+              [href]="'/aoty/recap/2022'"
+              [title]="'RECAP: AOTY 2022'"
+              [subtitle]="'my fav albums of 2022'"
+              [thumbnailSrc]="'https://cvhsnews.org/wp-content/uploads/2024/01/bfc96cc7-7a7e-4fe2-976f-d7b29c6bc6a8-Screenshot-2023-02-03-105026-1024x563-1.webp'"
+            />
         </div>
     </div>
     <div class="flex-column gap-xxl flex-wrap justify-center">

@@ -7,6 +7,7 @@ import {SotwList} from "../common/models/sotw-list";
 import {Album} from "../common/models/album";
 import {Logger} from "../common/logger";
 import {ItemComponent} from "./item/item.component";
+import {HighlightCardComponent} from "../common/components/highlight-card/highlight-card.component";
 
 @Component({
   selector: 'app-home-new',
@@ -15,7 +16,8 @@ import {ItemComponent} from "./item/item.component";
     ItemComponent,
     NgForOf,
     RouterLink,
-    ItemComponent
+    ItemComponent,
+    HighlightCardComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'

@@ -23,11 +23,9 @@ const MAX_CAP_DEFAULT = 200;
   imports: [
     NgForOf,
     NgIf,
-    SongDetailComponent,
     AlbumDetailComponent,
     FormsModule,
     ReactiveFormsModule,
-    UpperCasePipe,
     ListHeaderComponent
   ],
   templateUrl: './albums-of-the-year.component.html'

@@ -1,0 +1,15 @@
+<div class="new-highlight-card" [style]="outerStyle">
+  <img alt="fullsize-thumbnail" class="new-highlight-card-img" [src]="thumbnailSrc">
+  <div
+    class="new-highlight-card-above flex-column justify-center align-start"
+    [style]="innerStyle"
+  >
+    <a
+      class="flex-column gap-s align-start"
+      [routerLink]="[href]"
+    >
+      <span class="fs-xl p-b">{{ title }}</span>
+      <span class="fs-l">{{ subtitle }}</span>
+    </a>
+  </div>
+</div>

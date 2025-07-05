@@ -1,4 +1,16 @@
 {
+  "artists" : [
+    {
+      "name" : "beyoncé",
+      "albums" : 10,
+      "icon" : "https://i1.sndcdn.com/artworks-000148622753-c6qezd-t500x500.jpg"
+    },
+    {
+      "name" : "the weeknd",
+      "albums" : 12,
+      "icon" : "https://playtusu.com/wp-content/uploads/2022/01/The-Weeknd-2022-1310x873.webp"
+    }
+  ],
   "groups" : [
     {
       "group" : "daimajin",
