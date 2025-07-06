@@ -1,5 +1,3 @@
-import {Artist} from "./artist";
-
 export class Song {
 
   constructor(public artist : string,

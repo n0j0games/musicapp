@@ -333,6 +333,12 @@ img {
   object-fit: cover;
 }
 
+.artist-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
 .preview-img-div-outer {
   border: 3px solid $text-color-light;
 }
@@ -478,6 +484,11 @@ option:disabled {
   img {
     width: 80px;
     height: 80px;
+  }
+
+  .artist-img {
+      width: 80px;
+      height: 80px;
   }
 
   .movie-poster {

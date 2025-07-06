@@ -1,4 +1,4 @@
-const ACTIVE_SEVERITY = 0;
+const ACTIVE_SEVERITY = 2;
 // 0 = debug, info, warn, error
 // 1 = info, warn, error
 // 2 = warn, error

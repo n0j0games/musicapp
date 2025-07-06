@@ -1,8 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Params, Router} from "@angular/router";
 import {AotyService} from "../common/services/aoty.service";
-import {NgForOf, NgIf, UpperCasePipe} from "@angular/common";
-import {SongDetailComponent} from "../songs-of-the-week/song-detail/song-detail.component";
+import {NgForOf, NgIf} from "@angular/common";
 import {AlbumDetailComponent} from "./album-detail/album-detail.component";
 import {Album} from "../common/models/album";
 import {Sorting} from "../common/models/sorting.enum";
@@ -14,6 +13,7 @@ import {DEFAULT_PARAMS, QueryParamHelper, QueryParams} from "../common/query-par
 import {QueryFilterHelper} from "../common/query-filter-helper";
 import {Logger} from "../common/logger";
 import {AggregateTitleHelper} from "../common/aggregate-title-helper";
+import {GroupAliasHelper} from "../common/group-alias-helper";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -223,18 +223,8 @@ export class AlbumsOfTheYearComponent implements OnInit {
     if (this.queryParams.isStrict) {
       return artist === qArtist;
     } else {
-      return qArtist.includes(artist) || artist.includes(qArtist) || this.includedInAliases(album.artist, qArtist);
+      return qArtist === artist || GroupAliasHelper.includedInAliases(album.artist, qArtist, this.aliasList!);
     }
-  }
-
-  private includedInAliases(artist : string, qArtist: string) : boolean {
-    const aliases = this.getGroupAliases(artist.toLowerCase(), this.aliasList!);
-    for (const alias of aliases) {
-      if (qArtist.includes(alias)) {
-        return true;
-      }
-    }
-    return false;
   }
 
   private getAggregatedAlbums() : Album[] {
@@ -256,19 +246,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
       albums = albums.concat(albums_);
     }
     return albums;
-  }
-
-  private getGroupAliases(artist : string, aliasList : AliasList) {
-    const results : string[] = [];
-    for (let item of aliasList.groups) {
-      if (item.group === artist) {
-        return item.members.map(x => NormalizeHelper.fromNormalToQueryString(x));
-      }
-      if (item.members.includes(artist)) {
-        results.push(NormalizeHelper.fromNormalToQueryString(item.group));
-      }
-    }
-    return results;
   }
 
   protected readonly Object = Object;

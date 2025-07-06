@@ -19,8 +19,4 @@ export class HighlightCardComponent {
 
   @Input() href!: string;
 
-  @Input() title!: string;
-
-  @Input() subtitle!: string;
-
 }
