@@ -53,9 +53,8 @@ export class DiscographiesComponent implements OnInit {
             for (const item of aotyItems) {
                 const albums_ = item.albums.slice();
                 for (const album of albums_) {
-                    const normArtistName = NormalizeHelper.normalize(artist.name);
-                    const normAlbumArtistName = NormalizeHelper.normalize(album.artist);
-                    if (normArtistName === normAlbumArtistName || GroupAliasHelper.includedInAliases(normAlbumArtistName, normArtistName, this.aliasList!)) {
+                    const normArtistName = NormalizeHelper.fromNormalToQueryString(artist.name);
+                    if (GroupAliasHelper.artistFilter(normArtistName, false, album, this.aliasList!)) {
                         count += 1;
                         this.logger.debug("Added 1 to " + artist.name);
                     }

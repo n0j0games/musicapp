@@ -14,6 +14,46 @@
       "name" : "sufjan stevens",
       "albums" : 12,
       "icon" : "https://media.npr.org/assets/img/2025/05/23/sufjan02-b054aa572fc714dee8fb1cb8745b6cf649b25f3c.jpg?s=1100&c=50&f=jpeg"
+    },
+    {
+      "name" : "$not",
+      "albums" : 4,
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eba404df8d0bcfe7afd3aab17d"
+    },
+    {
+      "name" : "070 shake",
+      "albums" : 3,
+      "icon" : "https://thecircle.de/cdn/shop/articles/070-shake_header.jpg?v=1729067348"
+    },
+    {
+      "name" : "21 savage",
+      "albums" : 11,
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2"
+    },
+    {
+      "name" : "24kgoldn",
+      "albums" : 3,
+      "icon" : "https://www.miss.at/wp-content/uploads/2021/03/TikTok-Hit-verschafft-Rapper-Karriere.jpg"
+    },
+    {
+      "name" : "A$AP Rocky",
+      "albums" : 5,
+      "icon" : "https://hips.hearstapps.com/hmg-prod/images/rocky-attends-the-fashion-awards-2024-presented-by-pandora-news-photo-1739995496.pjpeg"
+    },
+    {
+      "name": "aminé",
+      "albums" : 7,
+      "icon" : "https://i.ebayimg.com/images/g/wZsAAOSwa7Zko1nE/s-l1200.jpg"
+    },
+    {
+      "name" : "andré 3000",
+      "albums" : 2,
+      "icon" : "https://laut.de/Andre-3000/andre-3000-231293.jpg"
+    },
+    {
+      "name" : "outkast",
+      "albums" : 6,
+      "icon" : "https://i.ytimg.com/vi/PWgvGjAhvIw/maxresdefault.jpg"
     }
   ],
   "groups" : [
@@ -76,6 +116,10 @@
     {
       "group" : "the carters",
       "members" : ["beyoncé", "jay-z"]
+    },
+    {
+      "group": "outkast",
+      "members" : ["andré 3000", "big boi"]
     }
   ]
 }

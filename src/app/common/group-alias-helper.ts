@@ -1,9 +1,19 @@
 import {AliasList} from "./models/alias-list";
 import {NormalizeHelper} from "./normalize-helper";
+import {Album} from "./models/album";
 
 export class GroupAliasHelper {
 
-    public static includedInAliases(artist : string, qArtist: string, aliasList: AliasList) : boolean {
+    public static artistFilter(qArtist: string, isStrict: boolean, album: Album, aliasList: AliasList) {
+      if (isStrict) {
+        return qArtist === NormalizeHelper.fromNormalToQueryString(album.artist);
+      } else {
+        const artistList = album.artist.split(',\n').map(x => NormalizeHelper.fromNormalToQueryString(x));
+        return artistList.includes(qArtist) || GroupAliasHelper.includedInAliases(album.artist, qArtist, aliasList);
+      }
+    }
+
+    private static includedInAliases(artist : string, qArtist: string, aliasList: AliasList) : boolean {
         const aliases = this.getGroupAliases(artist.toLowerCase(), aliasList);
         for (const alias of aliases) {
             if (qArtist.includes(alias)) {

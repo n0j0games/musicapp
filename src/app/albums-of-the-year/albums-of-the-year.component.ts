@@ -218,13 +218,8 @@ export class AlbumsOfTheYearComponent implements OnInit {
     if (title.startsWith(this.queryParams.search)) {
       return true;
     }
-    const artist = NormalizeHelper.fromNormalToQueryString(album.artist);
     const qArtist = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
-    if (this.queryParams.isStrict) {
-      return artist === qArtist;
-    } else {
-      return qArtist === artist || GroupAliasHelper.includedInAliases(album.artist, qArtist, this.aliasList!);
-    }
+    return GroupAliasHelper.artistFilter(qArtist, this.queryParams.isStrict, album, this.aliasList!);
   }
 
   private getAggregatedAlbums() : Album[] {
