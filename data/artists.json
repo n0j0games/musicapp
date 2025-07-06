@@ -9,6 +9,11 @@
       "name" : "the weeknd",
       "albums" : 12,
       "icon" : "https://playtusu.com/wp-content/uploads/2022/01/The-Weeknd-2022-1310x873.webp"
+    },
+    {
+      "name" : "sufjan stevens",
+      "albums" : 12,
+      "icon" : "https://media.npr.org/assets/img/2025/05/23/sufjan02-b054aa572fc714dee8fb1cb8745b6cf649b25f3c.jpg?s=1100&c=50&f=jpeg"
     }
   ],
   "groups" : [
