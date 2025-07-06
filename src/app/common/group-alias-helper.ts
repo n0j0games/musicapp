@@ -5,9 +5,13 @@ import {Album} from "./models/album";
 export class GroupAliasHelper {
 
     public static artistFilter(qArtist: string, isStrict: boolean, album: Album, aliasList: AliasList) {
+      const normAlbumArtist = NormalizeHelper.fromNormalToQueryString(album.artist);
       if (isStrict) {
-        return qArtist === NormalizeHelper.fromNormalToQueryString(album.artist);
+        return qArtist === normAlbumArtist;
       } else {
+        if (qArtist === normAlbumArtist) {
+          return true;
+        }
         const artistList = album.artist.split(',\n').map(x => NormalizeHelper.fromNormalToQueryString(x));
         return artistList.includes(qArtist) || GroupAliasHelper.includedInAliases(album.artist, qArtist, aliasList);
       }

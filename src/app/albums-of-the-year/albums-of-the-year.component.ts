@@ -46,6 +46,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   yearOptions_ : number[] = Array.from({ length: (new Date().getFullYear() - this.startYear + 1) }, (_, i) => this.startYear + i);
   decadeOptions = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
   sortingOptions = [ Sorting.RATING, Sorting.ALPHABETICAL, Sorting.ARTIST, Sorting.RELEASE_DATE, Sorting.PlAY_TIME, Sorting.RECENT ];
+  artistIcon: string | undefined;
 
   formGroup = new FormGroup({
     search : new FormControl<string>(''),
@@ -179,6 +180,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private filterAlbums(albums: Album[]): Album[] {
     this.title = "all albums i've listened to";
+    this.artistIcon = undefined;
     if (this.queryParams.year === null &&
         this.queryParams.decade === null &&
         this.queryParams.search === null &&
@@ -187,6 +189,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
       return albums;
     }
     this.updateTitle();
+    this.updateArtistImage();
     const filteredAlbums: Album[] = [];
     for (const album of albums) {
       const isAlbumValid = QueryFilterHelper.passYearFilter(this.queryParams, album.year!) &&
@@ -203,7 +206,20 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private updateTitle() {
     if (this.queryParams.search !== null) {
-      this.title = " albums by " + this.queryParams.search.replace("-", " ") + "";
+      this.title = " albums by " + NormalizeHelper.fromQueryStringToNormal(this.queryParams.search) + "";
+    }
+  }
+
+  private updateArtistImage() {
+    if (this.queryParams.search === null) {
+      this.artistIcon = undefined;
+      return;
+    }
+    for (const artist of this.aliasList!.artists) {
+      if (NormalizeHelper.normalize(artist.name) === NormalizeHelper.normalize(this.queryParams.search)) {
+        this.artistIcon = artist.icon
+        return;
+      }
     }
   }
 

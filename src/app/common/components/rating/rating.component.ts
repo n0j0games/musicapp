@@ -2,6 +2,7 @@ import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core'
 import {NgForOf, NgIf, NgStyle} from "@angular/common";
 import {RatingPipe} from "../../pipes/rating.pipe";
 import {Logger} from "../../logger";
+import {ProgressBarComponent} from "../progress-bar/progress-bar.component";
 
 @Component({
   selector: 'app-rating',
@@ -10,7 +11,8 @@ import {Logger} from "../../logger";
     NgStyle,
     RatingPipe,
     NgIf,
-    NgForOf
+    NgForOf,
+    ProgressBarComponent
   ],
   templateUrl: './rating.component.html',
   styleUrl: './rating.component.scss'

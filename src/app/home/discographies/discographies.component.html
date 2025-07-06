@@ -1,11 +1,19 @@
 <div class="flex-column gap-xxl flex-wrap align-start mobile-align-center">
     <p class="p-b-i fs-xl text-title">discographies i've listened to</p>
-    <div class="flex-column flex-wrap align-center justify-center gap-l">
+    <div class="flex-column flex-wrap align-start justify-center gap-l">
         <div class="flex-row align-center justify-center gap-l" *ngFor="let artist of aliasList?.artists">
-            <img *ngIf="artist.icon" [src]="artist.icon" alt="artist icon" class="artist-img">
-            <div class="flex-column align-start justify-center">
-                <a (click)="navigate(artist.name)" class="fs-xl p-b">{{ artist.name | uppercase }}</a>
-                <p class="fs-l">listened to {{ artist.listenedToAlbums }}/{{ artist.albums }} albums</p>
+            <img [src]="artist.icon" alt="artist icon" class="artist-img" onerror="this.src='assets/placeholder.png'">
+            <div class="flex-column align-start justify-center gap-s">
+                <a (click)="navigate(artist.name)" class="fs-xl p-b">{{ artist.name }}</a>
+                <app-progress-bar
+                  *ngIf="artist.listenedToAlbums && artist.albums"
+                  [text]="artist.listenedToAlbums + '/' + artist.albums"
+                  [backgroundColor]="artist.listenedToAlbums === artist.albums ? '#d077ad' : '#52556e'"
+                  [width]="artist.listenedToAlbums / artist.albums * 100"
+                />
+                <p class="fs-m" *ngIf="artist.listenedToGroupAlbums && artist.listenedToGroupAlbums > 0">
+                  <span class="fs-m p-b">+{{ artist.listenedToGroupAlbums }}</span> from collaborations
+                </p>
             </div>
         </div>
     </div>

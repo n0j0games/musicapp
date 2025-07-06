@@ -1,5 +1,6 @@
-<div class="title-gap-b"> <!-- class="list-banner"-->
+<div class="flex-column align-center justify-center title-gap-b"> <!-- class="list-banner"-->
     <!-- <div class="list-banner-bottom"></div> -->
+    <img *ngIf="artistIcon" [src]="artistIcon" alt="artist icon" class="artist-img">
     <p class="p-b-i fs-xl text-title">{{ title }}</p>
     <p class="p-i fs-m">{{ subtitle }}</p>
 </div>

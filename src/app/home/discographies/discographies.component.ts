@@ -5,18 +5,19 @@ import {Logger} from "../../common/logger";
 import {NormalizeHelper} from "../../common/normalize-helper";
 import {GroupAliasHelper} from "../../common/group-alias-helper";
 import {AliasList} from "../../common/models/alias-list";
-import {HighlightCardComponent} from "../../common/components/highlight-card/highlight-card.component";
-import {NgForOf, NgIf, UpperCasePipe} from "@angular/common";
+import {NgForOf, NgIf} from "@angular/common";
 import {Router} from "@angular/router";
+import {Sorting} from "../../common/models/sorting.enum";
+import {ProgressBarComponent} from "../../common/components/progress-bar/progress-bar.component";
 
 @Component({
   selector: 'app-discographies',
   standalone: true,
-    imports: [
-        NgForOf,
-        NgIf,
-        UpperCasePipe
-    ],
+  imports: [
+    NgForOf,
+    NgIf,
+    ProgressBarComponent
+  ],
   templateUrl: './discographies.component.html'
 })
 export class DiscographiesComponent implements OnInit {
@@ -50,18 +51,23 @@ export class DiscographiesComponent implements OnInit {
         const artists: Artist[] = [];
         for (const artist of this.aliasList!.artists) {
             let count = 0;
+            let countFromOther = 0;
             for (const item of aotyItems) {
                 const albums_ = item.albums.slice();
                 for (const album of albums_) {
                     const normArtistName = NormalizeHelper.fromNormalToQueryString(artist.name);
-                    if (GroupAliasHelper.artistFilter(normArtistName, false, album, this.aliasList!)) {
+                    if (GroupAliasHelper.artistFilter(normArtistName, true, album, this.aliasList!)) {
                         count += 1;
-                        this.logger.debug("Added 1 to " + artist.name);
+                        this.logger.debug("Added 1 to " + artist.name, album.title);
+                    } else if (GroupAliasHelper.artistFilter(normArtistName, false, album, this.aliasList!)) {
+                        countFromOther += 1;
+                      this.logger.debug("Lazy Added 1 to " + artist.name, album.title);
                     }
                 }
             }
             artists.push({
                 listenedToAlbums: count,
+                listenedToGroupAlbums: countFromOther,
                 ...artist
             })
         }
@@ -74,7 +80,8 @@ export class DiscographiesComponent implements OnInit {
       ['/aoty'],
       {
         queryParams: {
-          q: NormalizeHelper.fromNormalToQueryString(artist)
+          q: NormalizeHelper.fromNormalToQueryString(artist),
+          s: Sorting.RELEASE_DATE
         },
         queryParamsHandling: 'merge'
       }

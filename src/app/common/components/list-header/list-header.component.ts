@@ -46,6 +46,9 @@ export class ListHeaderComponent {
     @Input()
     enableMovieCategories!: boolean;
 
+    @Input()
+    artistIcon: string | undefined;
+
     submitForm(event: any) {
         this.onFormChanges.emit(event);
     }

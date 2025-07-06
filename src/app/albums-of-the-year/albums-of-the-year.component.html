@@ -8,6 +8,7 @@
         (onFormChanges)="submitForm()"
         (onFormReset)="resetForm()"
         (onItemReset)="resetItem($event)"
+        [artistIcon]="artistIcon"
 ></app-list-header>
 <div *ngIf="albumsOfTheYear !== null" class="list gap-xl">
         <app-album-detail

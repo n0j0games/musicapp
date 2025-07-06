@@ -2,12 +2,11 @@
     <div *ngIf="singleRating" class="flex-row align-start gap-s">
         <p class="fs-m" *ngIf="arrayRating && activeSeason">This year's season:</p>
         <p class="fs-m" *ngIf="arrayRating && !activeSeason">Peak:</p>
-        <div class="outer flex-column align-center justify-center">
-            <p class="text p-b-i fs-s">{{ singleRating | ratingPipe }}</p>
-            <div class="back">
-                <div [ngStyle]="{'background' : colors[Math.floor(singleRating)], 'width' : width+'%'}" class="color"></div>
-            </div>
-        </div>
+        <app-progress-bar
+          [text]="singleRating | ratingPipe"
+          [backgroundColor]="colors[Math.floor(singleRating)]"
+          [width]="width"
+        />
     </div>
     <div *ngIf="arrayRating" class="flex-row align-center gap-s">
         <p class="fs-m">Ratings per season</p>
