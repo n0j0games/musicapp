@@ -143,182 +143,227 @@
     {
       "name" : "J. Cole",
       "albums" : 10,
-      "icon" : ""
+      "icon" : "https://iscale.iheart.com/catalog/artist/750791"
     },
     {
       "name" : "James Blake",
       "albums" : 8,
-      "icon" : ""
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb93fe5fc8fdb5a98248911a07"
     },
     {
       "name" : "JID",
       "albums" : 4,
-      "icon" : ""
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb02e4e47e711e07e363ecc6e0"
     },
     {
       "name" : "Kali Uchis",
       "albums" : 6,
-      "icon" : ""
+      "icon" : "https://www.billboard.com/wp-content/uploads/2023/10/Kali-Uchis-cr-COUGHS-press-2023-billboard-1548.jpg?w=942&h=623&crop=1"
     },
     {
       "name" : "Kanye West",
       "albums" : 14,
-      "icon" : ""
+      "icon" : "https://www.newstream.cz/uploads/article/660x464_fit/05bajvhgF202202170616901.jpeg"
     },
     {
       "name" : "Kendrick Lamar",
       "albums" : 11,
-      "icon" : ""
+      "icon" : "https://hips.hearstapps.com/hmg-prod/images/kendrick-lamar-at-the-67th-grammy-awards-held-at-the-crypto-news-photo-1738959019.pjpeg?crop=1.00xw:0.667xh;0,0.0715xh&resize=640:*"
     },
     {
       "name" : "Kid Cudi",
       "albums" : 12,
-      "icon" : ""
+      "icon" : "https://qc.rollingstone.com/media-library/image.jpg?id=52347297&width=1200&height=800&quality=90&coordinates=0%2C0%2C0%2C0"
     },
     {
       "name" : "Lana Del Rey",
       "albums" : 9,
-      "icon" : ""
+      "icon" : "https://www.tagesspiegel.de/images/9580061/alternates/BASE_4_3_W1000/1680084381000/lana-del-rey.jpeg"
     },
     {
       "name" : "Little Simz",
       "albums" : 7,
-      "icon" : ""
+      "icon" : "https://fastforward-magazine.de/wp-content/uploads/2025/02/Little-Simz-Lead-By-Thibaut-Grevet.jpg"
     },
     {
       "name" : "Lorde",
       "albums" : 5,
-      "icon" : ""
+      "icon" : "https://media.vogue.de/photos/68526ab6ecbd358180974ecb/16:9/w_3296,h_1854,c_limit/Lorde.Lead%20General%20Use%20Credit%20-%20Thistle%20Brown.jpg"
     },
     {
       "name" : "Luciano",
       "albums" : 9,
-      "icon" : ""
+      "icon" : "https://images.bravo.de/luciano-singt-kinderliederjpg,id=c6e473e7,b=bravo,w=1200,rm=sk.jpeg"
     },
     {
       "name" : "Mac Miller",
       "albums" : 19,
-      "icon" : ""
+      "icon" : "https://diffus.de/wp-content/uploads/Mac-Miller_64bccb7e099b1.jpg"
     },
     {
       "name" : "Madonna",
       "albums" : 14,
-      "icon" : ""
+      "icon" : "https://images.90s90s.de/files/2024-01/madonna_classic_cover_pic_2.jpg"
     },
     {
       "name" : "Metro Boomin",
       "albums" : 3,
-      "icon" : ""
+      "icon" : "https://cdn-images.dzcdn.net/images/artist/dcd7104a3bd4139895cc0077cc5f21fb/1900x1900-000000-80-0-0.jpg"
     },
     {
       "name" : "NF",
       "albums" : 7,
-      "icon" : ""
+      "icon" : "https://i.guim.co.uk/img/media/8752ced487fc0ac9e5856a172f2d9c72a2ef776d/0_2065_5792_3475/master/5792.jpg"
     },
     {
       "name" : "Nina Simone",
       "albums" : 20,
-      "icon" : ""
+      "icon" : "https://cdn.artphotolimited.com/images/673cebc7fc8fcf3adafb096e/1000x1000/nina-simone-en-1969.jpg"
     },
     {
       "name" : "OG Keemo",
       "albums" : 7,
-      "icon" : ""
+      "icon" : "https://www.fr.de/assets/images/28/254/28254345-og-keemo-foto-maxivisuals-26ihkSbxiXe9.jpg"
     },
     {
       "name" : "Pink Floyd",
       "albums" : 13,
-      "icon" : ""
+      "icon" : "https://cdn-images.dzcdn.net/images/artist/ba192692dc5ca32603b3763547b8975e/1900x1900-000000-80-0-0.jpg"
     },
     {
       "name" : "Pop Smoke",
       "albums" : 4,
-      "icon" : ""
+      "icon" : "https://media.newyorker.com/photos/5e4ef70761934700086187b8/1:1/w_1698,h_1698,c_limit/Younger-PopSmoke.jpg"
     },
     {
       "name" : "Post Malone",
       "albums" : 6,
-      "icon" : ""
+      "icon" : "https://m.media-amazon.com/images/M/MV5BN2VmNDI3OWUtMGEyYS00Njg5LTlkNDUtOTI1MDk5MjdmYmExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name" : "Radiohead",
       "albums" : 9,
-      "icon" : ""
+      "icon" : "https://cdn-images.dzcdn.net/images/artist/9508c1217e880b52703a525d1bd5250c/1900x1900-000000-80-0-0.jpg"
     },
     {
       "name" : "RIN",
       "albums" : 5,
-      "icon" : ""
+      "icon" : "https://www.stuttgarter-zeitung.de/media.media.ff3bd354-aebe-42b0-ab9b-334b0aee02f0.16x9_1024.jpg"
     },
     {
       "name" : "ROSALÍA",
       "albums" : 3,
-      "icon" : ""
+      "icon" : "https://taz.de/picture/5468501/1200/Wide-Use-3-1.jpeg"
     },
     {
       "name" : "Sade",
       "albums" : 6,
-      "icon" : ""
+      "icon" : "https://m.media-amazon.com/images/I/81VQ2Qr3MgL.jpg"
     },
     {
       "name" : "Shindy",
       "albums" : 6,
-      "icon" : ""
+      "icon" : "https://image.atsw.de/atsw/production/2024-10/_shindy_spotify.jpeg"
     },
     {
       "name" : "SZA",
       "albums" : 4,
-      "icon" : ""
+      "icon" : "https://www.muenchenticket.de/cdn-cgi/imagedelivery/G-nI_gKZu0ITxcZoDAx8pA/BNu4hbu9hJV2nTAo/public"
     },
     {
       "name" : "Tame Impala",
       "albums" : 4,
-      "icon" : ""
+      "icon" : "https://www.br.de/puls/musik/bands/tame-impala-116~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg?version=9ddbf"
     },
     {
       "name" : "The Beatles",
       "albums" : 13,
-      "icon" : ""
+      "icon" : "https://images.universal-music.de/img/assets/292/292629/992/1200/edp3901-004-mf.jpg"
     },
     {
       "name" : "The Strokes",
       "albums" : 6,
-      "icon" : ""
+      "icon" : "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/1900x1900-000000-80-0-0.jpg"
     },
     {
       "name" : "TJ_beastboy",
       "albums" : 8,
-      "icon" : ""
+      "icon" : "https://hiphop.de/sites/default/files/styles/teaser_compact_large/public/2023-10/tjbeastboy-wahnsinn2-screen-1600-2023.jpg?h=8abcec71&itok=85SmmR7K"
     },
     {
       "name" : "Travis Scott",
       "albums" : 6,
-      "icon" : ""
+      "icon" : "https://media.npr.org/assets/img/2021/11/16/gettyimages-1235223332_sq-e88ad790d447bd7dfcb0c1571047db26d39a8ee0.jpg"
     },
     {
       "name" : "Don Toliver",
       "albums" : 4,
-      "icon" : ""
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb62d52993e245cb161f89b01c"
     },
     {
       "name" : "Tyler, The Creator",
       "albums" : 10,
-      "icon" : ""
+      "icon" : "https://www.rollingstone.de/wp-content/uploads/2025/05/gettyimages-2181592385.jpeg"
     },
     {
       "name" : "Ufo361",
       "albums" : 12,
-      "icon" : ""
+      "icon" : "https://juice.de/wp-content/uploads/Ufo361-Titelstory.jpg"
     },
     {
       "name" : "yeule",
       "albums" : 4,
-      "icon" : ""
+      "icon" : "https://www.hhv-mag.com/wp-content/uploads/2025/03/yeule_SKULLCRUSHER_CREDIT_VassoVu_landscape-800x533.jpg"
     },
     {
       "name" : "Young Thug",
       "albums" : 22,
-      "icon" : ""
+      "icon" : "https://www.rollingstone.com/wp-content/uploads/2019/08/youngthug-1.jpg?w=1581&h=1054&crop=1"
+    },
+    {
+      "name" : "Childish Gambino",
+      "albums" : 5,
+      "icon": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77"
+    },
+    {
+      "name" : "CRO",
+      "albums" : 6,
+      "icon" : "https://arena-ticket.com/wp-content/uploads/2024/03/2024-11-29-Cro-683x1024.jpg"
+    },
+    {
+      "name" : "Dua Lipa",
+      "albums" : 3,
+      "icon" : "https://www.energy.de/files/styles/header_image_mobile/public/uploads/national/header-image/2024/04/dualipa-grammys-11948.jpg.webp"
+    },
+    {
+      "name" : "Edo Saiya",
+      "albums" : 10,
+      "icon" : "https://images.bravo.de/edosaiya-portraitjpg,id=813efca7,b=bravo,w=1200,rm=sk.jpeg"
+    },
+    {
+      "name" : "Faber",
+      "albums" : 4,
+      "icon" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnf00_mirdhOarAxl2iDrvE9qTp6l7Db9aWg&s"
+    },
+    {
+      "name" : "Juice WRLD",
+      "albums" : 5,
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef"
+    },
+    {
+      "name" : "Lil Uzi Vert",
+      "albums" : 10,
+      "icon" : "https://laut.de/Lil-Uzi-Vert/lil-uzi-vert-171694.jpg"
+    },
+    {
+      "name" : "Playboi Carti",
+      "albums" : 4,
+      "icon" : "https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "name" : "Westside Gunn",
+      "albums" : 21,
+      "icon" : "https://www.hotnewhiphop.com/i/v1/390x273-cover-81-auto/2023/06/GettyImages-1404995227.jpg"
     }
   ],
   "groups" : [
@@ -385,6 +430,10 @@
     {
       "group": "outkast",
       "members" : ["andré 3000", "big boi"]
+    },
+    {
+      "group": "parliament / funkadelic",
+      "members" : ["funkadelic", "parliament"]
     }
   ]
 }
