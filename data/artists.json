@@ -1,37 +1,37 @@
 {
   "artists" : [
     {
-      "name" : "beyoncé",
-      "albums" : 10,
+      "name" : "Beyoncé",
+      "albums" : 9,
       "icon" : "https://i1.sndcdn.com/artworks-000148622753-c6qezd-t500x500.jpg"
     },
     {
-      "name" : "the weeknd",
+      "name" : "The Weeknd",
       "albums" : 12,
       "icon" : "https://playtusu.com/wp-content/uploads/2022/01/The-Weeknd-2022-1310x873.webp"
     },
     {
-      "name" : "sufjan stevens",
+      "name" : "Sufjan Stevens",
       "albums" : 12,
       "icon" : "https://media.npr.org/assets/img/2025/05/23/sufjan02-b054aa572fc714dee8fb1cb8745b6cf649b25f3c.jpg?s=1100&c=50&f=jpeg"
     },
     {
-      "name" : "$not",
+      "name" : "$NOT",
       "albums" : 4,
       "icon" : "https://i.scdn.co/image/ab6761610000e5eba404df8d0bcfe7afd3aab17d"
     },
     {
-      "name" : "070 shake",
+      "name" : "070 Shake",
       "albums" : 3,
       "icon" : "https://thecircle.de/cdn/shop/articles/070-shake_header.jpg?v=1729067348"
     },
     {
-      "name" : "21 savage",
-      "albums" : 11,
+      "name" : "21 Savage",
+      "albums" : 6,
       "icon" : "https://i.scdn.co/image/ab6761610000e5eb4f8f76117470957c0e81e5b2"
     },
     {
-      "name" : "24kgoldn",
+      "name" : "24kGoldn",
       "albums" : 3,
       "icon" : "https://www.miss.at/wp-content/uploads/2021/03/TikTok-Hit-verschafft-Rapper-Karriere.jpg"
     },
@@ -41,19 +41,284 @@
       "icon" : "https://hips.hearstapps.com/hmg-prod/images/rocky-attends-the-fashion-awards-2024-presented-by-pandora-news-photo-1739995496.pjpeg"
     },
     {
-      "name": "aminé",
+      "name": "Aminé",
       "albums" : 7,
       "icon" : "https://i.ebayimg.com/images/g/wZsAAOSwa7Zko1nE/s-l1200.jpg"
     },
     {
-      "name" : "andré 3000",
+      "name" : "André 3000",
       "albums" : 2,
       "icon" : "https://laut.de/Andre-3000/andre-3000-231293.jpg"
     },
     {
-      "name" : "outkast",
+      "name" : "Outkast",
       "albums" : 6,
       "icon" : "https://i.ytimg.com/vi/PWgvGjAhvIw/maxresdefault.jpg"
+    },
+    {
+      "name" : "Aretha Franklin",
+      "albums" : 37,
+      "icon" : "https://img.zeit.de/kultur/musik/2018-08/aretha-franklin-saengerin-leben-werk-bilder/aretha-franklin-saengerin-leben-werk-1967-ea-gettyimages-73992184.jpg/imagegroup/original__400x455__mobile__scale_2"
+    },
+    {
+      "name" : "Ariana Grande",
+      "albums" : 7,
+      "icon" : "https://images.universal-music.de/img/assets/447/447511/992/1200/ariana-grande-neu-2016.jpg"
+    },
+    {
+      "name" : "Baby Keem",
+      "albums" : 4,
+      "icon" : "https://diffus.de/wp-content/uploads/Baby-Keem_64b6365604ba5.jpg"
+    },
+    {
+      "name" : "Bad Bunny",
+      "albums" : 7,
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13"
+    },
+    {
+      "name" : "Beach House",
+      "albums" : 8,
+      "icon" : "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09"
+    },
+    {
+      "name" : "BIBIZA",
+      "albums" : 6,
+      "icon" : "https://mostdope.tv/wp-content/uploads/bibiza-soundcheck-wiener-schickeria-01-scaled.jpg"
+    },
+    {
+      "name" : "Billie Eilish",
+      "albums" : 4,
+      "icon" : "https://image.stern.de/9280508/t/xl/v2/w1440/r1.7778/-/billie-eilish.jpg"
+    },
+    {
+      "name" : "Björk",
+      "albums" : 12,
+      "icon" : "https://cdn-images.dzcdn.net/images/cover/ecc49678971301c36387b34ed9473c65/0x1900-000000-80-0-0.jpg"
+    },
+    {
+      "name" : "Black Country, New Road",
+      "albums" : 4,
+      "icon" : "https://kulturnews.de/wp-content/uploads/2022/04/afut-pressshot-credit-rosiefoster.jpeg"
+    },
+    {
+      "name" : "Bon Iver",
+      "albums" : 6,
+      "icon" : "https://img.zeit.de/kultur/musik/2025-04/bon-iver/wide__1280x720"
+    },
+    {
+      "name" : "Brent Faiyaz",
+      "albums" : 4,
+      "icon" : "https://www.benoizzy.com/storage/artists/ab6761610000e5eb2749cce858c97642feda7a92.jpg"
+    },
+    {
+      "name" : "Charli XCX",
+      "albums" : 10,
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cf/Charli_XCX-4059.jpg"
+    },
+    {
+      "name" : "Daft Punk",
+      "albums" : 6,
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Daft_Punk_in_2013_2-_centered.jpg/330px-Daft_Punk_in_2013_2-_centered.jpg"
+    },
+    {
+      "name" : "Drake",
+      "albums" : 15,
+      "icon" : "https://musiknerd.org/wp-content/uploads/2023/08/drake.jpg"
+    },
+    {
+      "name" : "Eminem",
+      "albums" : 12,
+      "icon" : "https://www.atipicishop.com/cdn/shop/articles/eminem-slim-shady-marshall-mathers-8-road-rap-god.jpg?v=1698938264"
+    },
+    {
+      "name" : "Frank Ocean",
+      "albums" : 4,
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frank_Ocean_2022_Blonded.jpg"
+    },
+    {
+      "name" : "Future",
+      "albums" : 34,
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Future_%28rapper%29_2014.JPG/1200px-Future_%28rapper%29_2014.JPG"
+    },
+    {
+      "name" : "J. Cole",
+      "albums" : 10,
+      "icon" : ""
+    },
+    {
+      "name" : "James Blake",
+      "albums" : 8,
+      "icon" : ""
+    },
+    {
+      "name" : "JID",
+      "albums" : 4,
+      "icon" : ""
+    },
+    {
+      "name" : "Kali Uchis",
+      "albums" : 6,
+      "icon" : ""
+    },
+    {
+      "name" : "Kanye West",
+      "albums" : 15,
+      "icon" : ""
+    },
+    {
+      "name" : "Kendrick Lamar",
+      "albums" : 11,
+      "icon" : ""
+    },
+    {
+      "name" : "Kid Cudi",
+      "albums" : 12,
+      "icon" : ""
+    },
+    {
+      "name" : "Lana Del Rey",
+      "albums" : 9,
+      "icon" : ""
+    },
+    {
+      "name" : "Little Simz",
+      "albums" : 7,
+      "icon" : ""
+    },
+    {
+      "name" : "Lorde",
+      "albums" : 5,
+      "icon" : ""
+    },
+    {
+      "name" : "Lucinao",
+      "albums" : 9,
+      "icon" : ""
+    },
+    {
+      "name" : "Mac Miller",
+      "albums" : 19,
+      "icon" : ""
+    },
+    {
+      "name" : "Madonna",
+      "albums" : 14,
+      "icon" : ""
+    },
+    {
+      "name" : "Metro Boomin",
+      "albums" : 3,
+      "icon" : ""
+    },
+    {
+      "name" : "NF",
+      "albums" : 7,
+      "icon" : ""
+    },
+    {
+      "name" : "Nina Simone",
+      "albums" : 20,
+      "icon" : ""
+    },
+    {
+      "name" : "OG Keemo",
+      "albums" : 7,
+      "icon" : ""
+    },
+    {
+      "name" : "Pink Floyd",
+      "albums" : 13,
+      "icon" : ""
+    },
+    {
+      "name" : "Pop Smoke",
+      "albums" : 4,
+      "icon" : ""
+    },
+    {
+      "name" : "Post Malone",
+      "albums" : 6,
+      "icon" : ""
+    },
+    {
+      "name" : "Radiohead",
+      "albums" : 9,
+      "icon" : ""
+    },
+    {
+      "name" : "RIN",
+      "albums" : 5,
+      "icon" : ""
+    },
+    {
+      "name" : "ROSALÍA",
+      "albums" : 3,
+      "icon" : ""
+    },
+    {
+      "name" : "Sade",
+      "albums" : 6,
+      "icon" : ""
+    },
+    {
+      "name" : "Shindy",
+      "albums" : 6,
+      "icon" : ""
+    },
+    {
+      "name" : "SZA",
+      "albums" : 4,
+      "icon" : ""
+    },
+    {
+      "name" : "Tame Impala",
+      "albums" : 4,
+      "icon" : ""
+    },
+    {
+      "name" : "The Beatles",
+      "albums" : 13,
+      "icon" : ""
+    },
+    {
+      "name" : "The Strokes",
+      "albums" : 6,
+      "icon" : ""
+    },
+    {
+      "name" : "TJ_beastboy",
+      "albums" : 8,
+      "icon" : ""
+    },
+    {
+      "name" : "Travis Scott",
+      "albums" : 6,
+      "icon" : ""
+    },
+    {
+      "name" : "Don Toliver",
+      "albums" : 4,
+      "icon" : ""
+    },
+    {
+      "name" : "Tyler, The Creator",
+      "albums" : 10,
+      "icon" : ""
+    },
+    {
+      "name" : "Ufo361",
+      "albums" : 12,
+      "icon" : ""
+    },
+    {
+      "name" : "yeule",
+      "albums" : 4,
+      "icon" : ""
+    },
+    {
+      "name" : "Young Thug",
+      "albums" : 22,
+      "icon" : ""
     }
   ],
   "groups" : [
