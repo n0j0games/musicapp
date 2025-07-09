@@ -30,7 +30,7 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 566,
+      "playTime": 567,
       "playTime30Days": 0,
       "color": "#0c3f83",
       "onVinyl": true
@@ -130,7 +130,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 666,
+      "playTime": 667,
       "playTime30Days": 0,
       "color": "#b06725"
     },
@@ -163,7 +163,7 @@
       ],
       "rating": 9.2,
       "onVinyl": true,
-      "playTime": 446,
+      "playTime": 448,
       "playTime30Days": 0,
       "color": "#608588"
     },
@@ -606,7 +606,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 72,
+      "playTime": 73,
       "playTime30Days": 0
     },
     {

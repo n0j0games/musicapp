@@ -30,8 +30,8 @@
       ],
       "rating": 9.3,
       "genre": "Deutschrap",
-      "playTime": 268,
-      "playTime30Days": 0,
+      "playTime": 277,
+      "playTime30Days": 9,
       "color": "#878787"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 619,
+      "playTime": 621,
       "playTime30Days": 0,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 798,
-      "playTime30Days": 9,
+      "playTime": 803,
+      "playTime30Days": 14,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -265,7 +265,7 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 333,
+      "playTime": 334,
       "playTime30Days": 0,
       "color": "#a065b1"
     },
@@ -1090,7 +1090,7 @@
       ],
       "rating": 7.5,
       "genre": "Darkwave",
-      "playTime": 58,
+      "playTime": 61,
       "playTime30Days": 0,
       "color": "#2f341a"
     },
@@ -2428,7 +2428,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 74,
+      "playTime": 76,
       "genre": "R&B",
       "color": "#002e36",
       "playTime30Days": 0
@@ -2534,7 +2534,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 65,
+      "playTime": 66,
       "genre": "Funk",
       "playTime30Days": 0
     },

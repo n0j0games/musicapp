@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 830,
+      "playTime": 831,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 87,
-      "playTime30Days": 0,
+      "playTime": 90,
+      "playTime30Days": 6,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 192,
+      "playTime": 193,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 71,
+      "playTime": 72,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -943,7 +943,7 @@
       "playTime": 70,
       "genre": "French House",
       "year": 2007,
-      "playTime30Days": 19,
+      "playTime30Days": 16,
       "color": "#20190a"
     },
     {
@@ -1002,7 +1002,7 @@
       "playTime": 54,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1159,7 +1159,7 @@
       "playTime": 92,
       "genre": "Rock",
       "year": 2001,
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",
@@ -1185,7 +1185,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 57,
+      "playTime": 58,
       "genre": "Art Pop",
       "year": 2008,
       "playTime30Days": 0
@@ -1221,7 +1221,7 @@
       "playTime": 72,
       "genre": "Dance Pop",
       "year": 2005,
-      "playTime30Days": 21
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y",
@@ -1242,7 +1242,7 @@
       "playTime": 52,
       "genre": "Pop",
       "year": 2003,
-      "playTime30Days": 18
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO",
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 40,
+      "playTime": 44,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 40
+      "playTime30Days": 44
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
@@ -1289,10 +1289,10 @@
         }
       ],
       "rating": 5.9,
-      "playTime": 14,
+      "playTime": 22,
       "genre": "Pop",
       "year": 2008,
-      "playTime30Days": 10
+      "playTime30Days": 18
     }
   ]
 }

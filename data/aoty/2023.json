@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 116,
+      "playTime": 117,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -325,7 +325,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 242,
+      "playTime": 245,
       "playTime30Days": 0,
       "color": "#872550"
     },
@@ -358,8 +358,8 @@
       ],
       "rating": 8.99999,
       "genre": "Rap",
-      "playTime": 1194,
-      "playTime30Days": 0,
+      "playTime": 1206,
+      "playTime30Days": 12,
       "color": "#513a39",
       "review": "travis-scott--utopia"
     },
@@ -939,7 +939,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 66,
+      "playTime": 67,
       "playTime30Days": 0,
       "color": "#967354"
     },
@@ -2109,7 +2109,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 139,
+      "playTime": 140,
       "genre": "Latin Rap",
       "playTime30Days": 0
     },
@@ -2221,7 +2221,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 19,
+      "playTime": 20,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },

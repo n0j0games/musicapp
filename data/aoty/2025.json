@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 534,
+      "playTime": 537,
       "genre": "Latin",
-      "playTime30Days": 62,
+      "playTime30Days": 56,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 316,
+      "playTime": 321,
       "genre": "Rap",
-      "playTime30Days": 0,
+      "playTime30Days": 9,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -482,7 +482,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 61,
+      "playTime": 62,
       "genre": "Deutschrap",
       "playTime30Days": 0
     },
@@ -566,9 +566,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 71,
+      "playTime": 78,
       "genre": "Deutschrap",
-      "playTime30Days": 0
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -850,7 +850,7 @@
       "playTime": 444,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 64,
+      "playTime30Days": 26,
       "onVinyl": true
     },
     {
@@ -926,7 +926,7 @@
       "playTime": 45,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 7
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -955,7 +955,7 @@
       "playTime": 86,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 28,
+      "playTime30Days": 5,
       "onVinyl": "true"
     },
     {
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 190,
+      "playTime": 192,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 189
+      "playTime30Days": 59
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1022,7 +1022,7 @@
       "playTime": 11,
       "genre": "Experimental Rap",
       "year": 2025,
-      "playTime30Days": 11
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X",
@@ -1052,10 +1052,10 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 134,
+      "playTime": 141,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 134
+      "playTime30Days": 74
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1084,7 +1084,7 @@
       "playTime": 30,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 30
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4",
@@ -1113,7 +1113,7 @@
       "playTime": 71,
       "genre": "Synthpop",
       "year": 2025,
-      "playTime30Days": 71
+      "playTime30Days": 30
     },
     {
       "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ",
@@ -1150,10 +1150,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 100,
+      "playTime": 127,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 100
+      "playTime30Days": 127
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1212,11 +1212,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 42,
+      "playTime": 55,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 42
+      "playTime30Days": 55
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1259,10 +1259,81 @@
         }
       ],
       "rating": 6,
-      "playTime": 21,
+      "playTime": 23,
       "genre": "Pop Rap",
       "year": 2025,
-      "playTime30Days": 21
+      "playTime30Days": 23
+    },
+    {
+      "url": "https://open.spotify.com/album/20vUlVo1pWLuhaoMUPQYur",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735589419259a816ae1b7459b7",
+      "title": ".",
+      "artist": "Kesha",
+      "songs": [
+        {
+          "title": "FREEDOM.",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c6a58693808eea144d41688ada94862e3330d3c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "JOYRIDE.",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d3228fc437cf81f057d75c7d50092326101014c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Dancepop",
+      "year": 2025,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/24qzFKV9XyAWk211JJ1UtG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273deae9079b28d18defab8fa8b",
+      "title": "Jiggos weinen nicht",
+      "artist": "Ramzey",
+      "songs": [
+        {
+          "title": "Holyfield",
+          "preview_url": "https://p.scdn.co/mp3-preview/523253fc849c5ac9dbb54e0329e6017c351fe967?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Supermane",
+          "preview_url": "https://p.scdn.co/mp3-preview/52db2d36b75a3685de592b18a1fa7d634a7812eb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Warum",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4c30f5d7cf94f0071f06e916605dbb965987117?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tor",
+          "preview_url": "https://p.scdn.co/mp3-preview/e8ee05cdb299c295403951df51d6a2c4c2786a98?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 32,
+      "genre": "Deutschrap",
+      "year": 2025,
+      "playTime30Days": 32
+    },
+    {
+      "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739645a4081905b741899fa362",
+      "title": "GDLU (Preluxe)",
+      "artist": "JID",
+      "songs": [
+        {
+          "title": "Behold",
+          "preview_url": "https://p.scdn.co/mp3-preview/17d2409b8da57142b76b0d6656846f5b3b5d7c9a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Knew Better (with Lil Yachty)",
+          "preview_url": "https://p.scdn.co/mp3-preview/45642b49a5e0a8d1a4354af473f3b6f80594d20a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Hip-Hop",
+      "year": 2025,
+      "playTime30Days": 0
     }
   ]
 }

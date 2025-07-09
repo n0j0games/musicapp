@@ -62,8 +62,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 154,
-      "playTime30Days": 8,
+      "playTime": 155,
+      "playTime30Days": 0,
       "color": "#001e28"
     },
     {
@@ -354,7 +354,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 111,
+      "playTime": 113,
       "playTime30Days": 0
     },
     {
@@ -757,9 +757,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 220,
+      "playTime": 221,
       "genre": "Live",
-      "playTime30Days": 42
+      "playTime30Days": 43
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",
@@ -785,7 +785,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 149,
+      "playTime": 150,
       "genre": "R&B",
       "playTime30Days": 0
     },

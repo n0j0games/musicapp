@@ -30,7 +30,7 @@
       ],
       "rating": 10,
       "genre": "Pop Rap",
-      "playTime": 757,
+      "playTime": 758,
       "playTime30Days": 0,
       "color": "#965f0f"
     },
@@ -63,7 +63,7 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 426,
+      "playTime": 428,
       "playTime30Days": 0,
       "color": "#213f28"
     },
@@ -95,7 +95,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 162,
+      "playTime": 163,
       "playTime30Days": 0,
       "color": "#8884ba"
     },
@@ -155,7 +155,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 192,
+      "playTime": 193,
       "playTime30Days": 0
     },
     {
@@ -217,8 +217,8 @@
         }
       ],
       "rating": 10,
-      "playTime": 356,
-      "playTime30Days": 48,
+      "playTime": 359,
+      "playTime30Days": 50,
       "color": "#064cb7"
     },
     {
@@ -339,7 +339,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 147,
+      "playTime": 148,
       "playTime30Days": 0
     },
     {
@@ -729,7 +729,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 27,
+      "playTime": 28,
       "genre": "Spanish Folk",
       "playTime30Days": 0
     },
@@ -753,7 +753,7 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 146,
+      "playTime": 147,
       "genre": "R&B",
       "playTime30Days": 0
     },

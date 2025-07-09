@@ -131,8 +131,8 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 31,
-      "playTime30Days": 16,
+      "playTime": 40,
+      "playTime30Days": 25,
       "year": 1965
     },
     {
@@ -195,7 +195,7 @@
       "playTime": 18,
       "genre": "Chicago Soul",
       "year": 1964,
-      "playTime30Days": 18
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk",
@@ -221,10 +221,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 19,
+      "playTime": 21,
       "genre": "Southern Soul",
       "year": 1963,
-      "playTime30Days": 17
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY",
@@ -254,10 +254,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 42,
+      "playTime": 51,
       "genre": "Southern Soul",
       "year": 1964,
-      "playTime30Days": 42
+      "playTime30Days": 39
     },
     {
       "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
@@ -283,10 +283,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 24,
+      "playTime": 26,
       "genre": "Motown Sound",
       "year": 1964,
-      "playTime30Days": 24
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm",
@@ -348,7 +348,7 @@
       "playTime": 36,
       "genre": "Southern Soul",
       "year": 1965,
-      "playTime30Days": 36
+      "playTime30Days": 34
     },
     {
       "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr",
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 105,
+      "playTime": 120,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 104,
+      "playTime30Days": 119,
       "color": "#b20a57"
     },
     {
@@ -469,7 +469,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/0f3fafe9f220c07d8c698d9fbff38bcef886bb40?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 14,
       "genre": "Funk",
       "year": 1967,
@@ -524,10 +524,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 35,
+      "playTime": 36,
       "genre": "Motown Sound",
       "year": 1967,
-      "playTime30Days": 35
+      "playTime30Days": 36
     },
     {
       "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD",
@@ -552,7 +552,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/701c39dd827c7641675aebd6549b4463dcfaff9a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 12,
       "genre": "Live",
       "year": 1968,
@@ -582,11 +582,11 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 17,
+      "playTime": 25,
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",
-      "playTime30Days": 17
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
@@ -607,7 +607,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e8a104e55e4eb2e78251ba6eddcf6dc20092e5f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
+      "rating": 6,
       "playTime": 0,
       "genre": "Psychadelic Soul",
       "year": 1968,
@@ -641,6 +641,39 @@
       "genre": "Southern Soul",
       "year": 1968,
       "playTime30Days": 12
+    },
+    {
+      "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273147e35fd67f22f92cb587c3b",
+      "title": "Stand",
+      "artist": "Sly & The Family Stone",
+      "songs": [
+        {
+          "title": "Sing a Simple Song - Single Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/17bc33c3435b8b17f9b5670641445fdea319bbfb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stand!",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c03ab4a7f32c8ff98c81f7c14849e9c318f4c87?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Don't Call Me Nigger, Whitey",
+          "preview_url": "https://p.scdn.co/mp3-preview/2d21be7b763575efd37bb288aff3389d98f37086?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Somebody's Watching You",
+          "preview_url": "https://p.scdn.co/mp3-preview/df965146a9feddd721b855bb0f8ec2a015008c8d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Everyday People",
+          "preview_url": "https://p.scdn.co/mp3-preview/99614fb587d12a17a3a054a53048064af25d4066?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 31,
+      "genre": "Early Funk",
+      "year": 1969,
+      "playTime30Days": 31
     }
   ]
 }

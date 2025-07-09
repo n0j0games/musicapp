@@ -35,7 +35,7 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 327,
+      "playTime": 328,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -205,7 +205,7 @@
       ],
       "rating": 8.2,
       "genre": "Jazz",
-      "playTime": 80,
+      "playTime": 81,
       "playTime30Days": 0,
       "year": 1979
     },
@@ -271,7 +271,7 @@
       ],
       "rating": 8.8,
       "genre": "Country",
-      "playTime": 24,
+      "playTime": 25,
       "playTime30Days": 0,
       "year": 1970,
       "color": "#a4935f"
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 37,
+      "playTime": 38,
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0
