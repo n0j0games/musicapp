@@ -364,6 +364,36 @@
       "name" : "Westside Gunn",
       "albums" : 21,
       "icon" : "https://www.hotnewhiphop.com/i/v1/390x273-cover-81-auto/2023/06/GettyImages-1404995227.jpg"
+    },
+    {
+      "name" : "Kate Bush",
+      "albums" : 9,
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kate_Bush_at_1986_Comic_Relief_%28cropped%29.png"
+    },
+    {
+      "name" : "Sampha",
+      "albums" : 2,
+      "icon" : "https://i.scdn.co/image/ab6761610000e5eb36d5be1a79a8a98c4d02f012"
+    },
+    {
+      "name" : "Quadeca",
+      "albums" : 3,
+      "icon" : "https://trinitymusic.de/wp-content/uploads/2025/06/quadeca-berlin.webp"
+    },
+    {
+      "name" : "Mariah Carey",
+      "albums" : 12,
+      "icon" : "https://cdn-images.dzcdn.net/images/artist/818c27b3e5a6179d4cd2f053df9abaf1/1900x1900-000000-80-0-0.jpg"
+    },
+    {
+      "name" : "Prince",
+      "albums" : 41,
+      "icon" : "https://cdn.britannica.com/68/244068-050-A2A955CF/singer-Prince-publicity-still-Purple-Rain-1984.jpg"
+    },
+    {
+      "name" : "Stevie Wonder",
+      "albums" : 22,
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Stevie_Wonder_1994.jpg/250px-Stevie_Wonder_1994.jpg"
     }
   ],
   "groups" : [
