@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 537,
+      "playTime": 549,
       "genre": "Latin",
-      "playTime30Days": 56,
+      "playTime30Days": 67,
       "color": "#729238"
     },
     {
@@ -144,7 +144,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 673,
+      "playTime": 675,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -850,7 +850,7 @@
       "playTime": 444,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 26,
+      "playTime30Days": 18,
       "onVinyl": true
     },
     {
@@ -926,7 +926,7 @@
       "playTime": 45,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -952,10 +952,10 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 86,
+      "playTime": 87,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "onVinyl": "true"
     },
     {
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 192,
+      "playTime": 194,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 59
+      "playTime30Days": 50
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1051,11 +1051,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c04094d2de049f9c206b65626e31ab1873725b60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.3,
+      "rating": 8.8,
       "playTime": 141,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 74
+      "playTime30Days": 56
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1113,7 +1113,7 @@
       "playTime": 71,
       "genre": "Synthpop",
       "year": 2025,
-      "playTime30Days": 30
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ",
@@ -1150,10 +1150,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 127,
+      "playTime": 130,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 127
+      "playTime30Days": 104
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1212,11 +1212,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 55,
+      "playTime": 56,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 55
+      "playTime30Days": 56
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1309,10 +1309,10 @@
         }
       ],
       "rating": 6,
-      "playTime": 32,
+      "playTime": 36,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 32
+      "playTime30Days": 36
     },
     {
       "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ",
@@ -1334,6 +1334,67 @@
       "genre": "Hip-Hop",
       "year": 2025,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b2d278666b1150e827de324d",
+      "title": "SWAG",
+      "artist": "Justin Bieber",
+      "rating": 4,
+      "playTime": 0,
+      "genre": "Modern R&B",
+      "year": 2025,
+      "playTime30Days": 8
+    },
+    {
+      "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273647ab39e82252574c2e3f4f1",
+      "title": "Let God Sort Em Out",
+      "artist": "Clipse,\nPusha T,\nMalice",
+      "songs": [
+        {
+          "title": "Chains & Whips",
+          "preview_url": "https://p.scdn.co/mp3-preview/acec8d91e5999439112ab65d87b42e842eb34722?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "P.O.V.",
+          "preview_url": "https://p.scdn.co/mp3-preview/e59e0e86526b1eb1540f6a67caf12a273d61428e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "So Be It",
+          "preview_url": "https://p.scdn.co/mp3-preview/943afcfdad8f81ef139f71b3be5c463a3fa7fb8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ace Trumpets",
+          "preview_url": "https://p.scdn.co/mp3-preview/14e13a94e10175ecc695b5c66cd067ec50b90877?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 50,
+      "genre": "Hip-Hop",
+      "year": 2025,
+      "playTime30Days": 50
+    },
+    {
+      "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e09151c0d2d842a626215133",
+      "title": "JACKBOYS 2",
+      "artist": "JACKBOYS,\nTravis Scott",
+      "songs": [
+        {
+          "title": "CHAMPAIN & VACAY",
+          "preview_url": "https://p.scdn.co/mp3-preview/227eea494b4b8b8a51108240e2001ab9866384b8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "VELOUR",
+          "preview_url": "https://p.scdn.co/mp3-preview/d049184f35a069e44111342ea7800f18db8cec3b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 13,
+      "genre": "Trap",
+      "year": 2025,
+      "playTime30Days": 13
     }
   ]
 }

@@ -265,8 +265,8 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 334,
-      "playTime30Days": 0,
+      "playTime": 336,
+      "playTime30Days": 5,
       "color": "#a065b1"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 73,
+      "playTime": 74,
       "playTime30Days": 0,
       "color": "#012c63"
     },

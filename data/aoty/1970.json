@@ -520,11 +520,11 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 42,
+      "playTime": 51,
       "genre": "Soul",
       "year": 1971,
       "color": "#4b796b",
-      "playTime30Days": 0
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/2vtMi0d0613jhp85klO9eb",
@@ -579,7 +579,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 40,
+      "playTime": 41,
       "genre": "Funk",
       "year": 1971,
       "playTime30Days": 0
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 38,
+      "playTime": 39,
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0

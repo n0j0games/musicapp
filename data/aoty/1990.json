@@ -31,7 +31,7 @@
       "rating": 9.7,
       "genre": "Alternative Rock",
       "playTime": 444,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
     },
@@ -781,10 +781,10 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 109,
+      "playTime": 118,
       "genre": "Art Pop",
       "year": 1998,
-      "playTime30Days": 40,
+      "playTime30Days": 43,
       "color": "#458d97"
     },
     {
@@ -797,6 +797,35 @@
       "genre": "Soundtrack",
       "year": 1998,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e14a9fa0dd781bff247116b3",
+      "title": "Buena Vista Social Club",
+      "artist": "Buena Vista Social Club",
+      "songs": [
+        {
+          "title": "Chan Chan",
+          "preview_url": "https://p.scdn.co/mp3-preview/74dc6eb8f978e16ef80b0c17df14d13c353a733d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "De Camino a la Vereda",
+          "preview_url": "https://p.scdn.co/mp3-preview/1fbfc7bfdd6003159dfb2147f88a6907ae7e25af?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "El Cuarto de Tula",
+          "preview_url": "https://p.scdn.co/mp3-preview/382718402b1031237f46d03eb84b4550d9c11c30?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Pueblo Nuevo",
+          "preview_url": "https://p.scdn.co/mp3-preview/6eca8c8a8353765a4ed3f4b4724ef30b0b28ee0a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.4,
+      "playTime": 0,
+      "genre": "Jazz",
+      "year": 1997,
+      "playTime30Days": 7
     }
   ]
 }

@@ -132,7 +132,7 @@
       "rating": 8.2,
       "genre": "Soul",
       "playTime": 40,
-      "playTime30Days": 25,
+      "playTime30Days": 20,
       "year": 1965
     },
     {
@@ -224,7 +224,7 @@
       "playTime": 21,
       "genre": "Southern Soul",
       "year": 1963,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY",
@@ -257,7 +257,7 @@
       "playTime": 51,
       "genre": "Southern Soul",
       "year": 1964,
-      "playTime30Days": 39
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
@@ -286,7 +286,7 @@
       "playTime": 26,
       "genre": "Motown Sound",
       "year": 1964,
-      "playTime30Days": 7
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm",
@@ -348,7 +348,7 @@
       "playTime": 36,
       "genre": "Southern Soul",
       "year": 1965,
-      "playTime30Days": 34
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr",
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 120,
+      "playTime": 122,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 119,
+      "playTime30Days": 64,
       "color": "#b20a57"
     },
     {
@@ -415,7 +415,7 @@
       "playTime": 38,
       "genre": "Southern Soul",
       "year": 1967,
-      "playTime30Days": 34
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750",
@@ -444,7 +444,7 @@
       "playTime": 15,
       "genre": "Southern Soul",
       "year": 1966,
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/55E0BKK84Zv6x5y7j8BGTk",
@@ -473,7 +473,7 @@
       "playTime": 14,
       "genre": "Funk",
       "year": 1967,
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5HAlqva0TN45uJGNhEjuwL",
@@ -582,11 +582,11 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 25,
+      "playTime": 26,
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",
-      "playTime30Days": 25
+      "playTime30Days": 26
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",

@@ -1,0 +1,49 @@
+{
+  "year": 2025,
+  "week": 28,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/acec8d91e5999439112ab65d87b42e842eb34722?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273647ab39e82252574c2e3f4f1",
+      "title": "Chains & Whips",
+      "artist": "Clipse, Kendrick Lamar, Pusha T, Malice",
+      "rating": 8.2,
+      "album": "Let God Sort Em Out",
+      "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e59e0e86526b1eb1540f6a67caf12a273d61428e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273647ab39e82252574c2e3f4f1",
+      "title": "P.O.V.",
+      "artist": "Clipse, Tyler, The Creator, Pusha T, Malice",
+      "rating": 8.1,
+      "album": "Let God Sort Em Out",
+      "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/943afcfdad8f81ef139f71b3be5c463a3fa7fb8b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273647ab39e82252574c2e3f4f1",
+      "title": "So Be It",
+      "artist": "Clipse, Pusha T, Malice",
+      "rating": 7.5,
+      "album": "Let God Sort Em Out",
+      "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3991ef9ac6c6f10e91c69b43112bf93729f3e526?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dab42d1547226a7c822fa900",
+      "title": "HYPERYOUTH",
+      "artist": "Joey Valence & Brae",
+      "rating": 8.8,
+      "url": "https://open.spotify.com/track/01hvp6Vmy2aQ6CAAibCmEe"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/6a2c0c53fab81061689c56a79826c6c7d3da1eb0?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dab42d1547226a7c822fa900",
+      "title": "LIVE RIGHT",
+      "artist": "Joey Valence & Brae",
+      "rating": 7.8,
+      "url": "https://open.spotify.com/track/6zt0h7qdpcVr2OOTRUJTqg"
+    }
+  ]
+}

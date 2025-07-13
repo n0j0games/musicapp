@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 117,
+      "playTime": 118,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -325,7 +325,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 245,
+      "playTime": 246,
       "playTime30Days": 0,
       "color": "#872550"
     },
@@ -2109,9 +2109,9 @@
         }
       ],
       "rating": 5,
-      "playTime": 140,
+      "playTime": 142,
       "genre": "Latin Rap",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV",
