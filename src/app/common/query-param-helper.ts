@@ -2,6 +2,7 @@ import {FormGroup} from "@angular/forms";
 import {Params} from "@angular/router";
 import {NormalizeHelper} from "./normalize-helper";
 import {Sorting} from "./models/sorting.enum";
+import {SearchCategory} from "./models/search-category";
 
 export class QueryParams {
 
@@ -12,34 +13,36 @@ export class QueryParams {
                 public rating: number | null,
                 public isStrict: boolean,
                 public isReviewsOnly: boolean,
-                public category: string | null) {
+                public category: string | null,
+                public searchCategory: SearchCategory) {
     }
 
 }
 
-const VALID_CATEGORIES = ["movies", "shows", "all"];
-export const DEFAULT_PARAMS = new QueryParams(Sorting.RATING, null, null, null, null, false, false, null);
-export const DEFAULT_PARAMS_WITH_CATEGORY = new QueryParams(Sorting.RATING, null, null, null, null, false, false, "all");
-
 /**
  * Helper for query parameter formatting
  */
-export module QueryParamHelper {
+export class QueryParamHelper {
+
+    public static DEFAULT_PARAMS = new QueryParams(Sorting.RATING, null, null, null, null, false, false, null, SearchCategory.ALL);
+    public static DEFAULT_PARAMS_WITH_CATEGORY = new QueryParams(Sorting.RATING, null, null, null, null, false, false, "all", SearchCategory.ALL);
+    private static VALID_CATEGORIES = ["movies", "shows", "all"];
 
     /**
      * Coverts raw params to {@link QueryParams}
      * @param params input params
      */
-    export function aggregateParams(params: Params): QueryParams {
+    public static aggregateParams(params: Params): QueryParams {
         return new QueryParams(
-            getSortingFromParams(params),
-            getYearFromParams(params),
-            getDecadeFromParams(params),
-            getSearchFromParams(params),
-            getRatingFromParams(params),
-            getBooleanValueFromParams(params, 'type', 'strict'),
-            getBooleanValueFromParams(params, 'reviews', 'only'),
-            getCategoryFromParams(params)
+            this.getSortingFromParams(params),
+            this.getYearFromParams(params),
+            this.getDecadeFromParams(params),
+            this.getSearchFromParams(params),
+            this.getRatingFromParams(params),
+            this.getBooleanValueFromParams(params, 'type', 'strict'),
+            this.getBooleanValueFromParams(params, 'reviews', 'only'),
+            this.getCategoryFromParams(params),
+            this.getSearchCategoryFromParams(params)
         );
     }
 
@@ -48,14 +51,15 @@ export module QueryParamHelper {
      * @param formGroup input form
      * @param resetComponent defines which components is marked for reset, can be null for no reset
      */
-    export function getQueryParamsFromForm(formGroup: FormGroup, resetComponent: string | null): Params {
+    public static getQueryParamsFromForm(formGroup: FormGroup, resetComponent: string | null): Params {
         const queryParams : Params = {};
-        updateSearch(formGroup, queryParams);
-        updateSorting(formGroup, queryParams);
-        updateYearAndDecade(formGroup, queryParams);
-        updateRating(formGroup, queryParams);
-        updateRating(formGroup, queryParams);
-        updateCategory(formGroup, queryParams)
+        this.updateSearch(formGroup, queryParams);
+        this.updateSorting(formGroup, queryParams);
+        this.updateYearAndDecade(formGroup, queryParams);
+        this.updateRating(formGroup, queryParams);
+        this.updateRating(formGroup, queryParams);
+        this.updateCategory(formGroup, queryParams)
+        this.updateSearchCategory(formGroup, queryParams);
         if (resetComponent !== null) {
             queryParams[resetComponent] = undefined;
         }
@@ -63,47 +67,52 @@ export module QueryParamHelper {
     }
 
 
-    function getRatingFromParams(params: Params): number | null {
+    private static getRatingFromParams(params: Params): number | null {
         const rating = params['r'];
         return !!rating && rating >= 0 && rating <= 10 ? parseInt(rating) : null;
     }
 
-    function getBooleanValueFromParams(params: Params, queryKey: string, expectedValue: string): boolean {
+    private static getBooleanValueFromParams(params: Params, queryKey: string, expectedValue: string): boolean {
         return params[queryKey] !== undefined && params[queryKey] !== null ?
             params[queryKey] === expectedValue :
             false;
     }
 
-    function getSearchFromParams(params: Params): string | null {
+    private static getSearchFromParams(params: Params): string | null {
         const search = params['q'];
         return !!search ? NormalizeHelper.fromQueryStringToNormal(search) : null;
     }
 
-    function getCategoryFromParams(params: Params): string | null {
+    private static getCategoryFromParams(params: Params): string | null {
         const category = params['c'];
         if (!category) {
             return null;
         }
-        return VALID_CATEGORIES.includes(category.toLowerCase()) ? category : null;
+        return this.VALID_CATEGORIES.includes(category.toLowerCase()) ? category : null;
     }
 
-    function getDecadeFromParams(params: Params): number | null {
+    private static getDecadeFromParams(params: Params): number | null {
         const decade = params['d'];
         return !!decade && decade % 10 === 0 ? parseInt(decade) : null;
     }
 
-    function getYearFromParams(params: Params): number | null {
+    private static getYearFromParams(params: Params): number | null {
         const decade = params['d'];
         const year = params['y'];
         return !!year && !!decade ? parseInt(year) : null;
     }
 
-    function getSortingFromParams(params: Params): Sorting {
+    private static getSortingFromParams(params: Params): Sorting {
         const sorting = params['s'];
         return !!sorting && Object.values(Sorting).includes(sorting) ? <Sorting>sorting : Sorting.RATING;
     }
 
-    function updateYearAndDecade(formGroup: FormGroup, queryParams: Params) {
+    private static getSearchCategoryFromParams(params: Params): SearchCategory {
+        const searchCategory = params['sc'];
+        return !!searchCategory && Object.values(SearchCategory).includes(searchCategory) ? <SearchCategory>searchCategory : SearchCategory.ALL;
+    }
+
+    private static updateYearAndDecade(formGroup: FormGroup, queryParams: Params) {
         const qDecadeStr = <number><unknown>formGroup.get('decade')?.value;
         const qYear = formGroup.get('year')?.value;
         if (qYear !== null && qYear !== undefined && qDecadeStr !== undefined && qDecadeStr !== null) {
@@ -123,7 +132,7 @@ export module QueryParamHelper {
         }
     }
 
-    function updateSorting(formGroup: FormGroup, queryParams: Params) {
+    private static updateSorting(formGroup: FormGroup, queryParams: Params) {
         const qSorting = formGroup.get('sorting')?.value;
         if (qSorting !== undefined && qSorting !== null) {
             queryParams['s'] = qSorting.toLowerCase();
@@ -132,7 +141,16 @@ export module QueryParamHelper {
         }
     }
 
-    function updateSearch(formGroup: FormGroup, queryParams: Params) {
+    private static updateSearchCategory(formGroup: FormGroup, queryParams: Params) {
+        const qSearchCategory = formGroup.get('searchCategory')?.value;
+        if (qSearchCategory !== null && qSearchCategory !== undefined) {
+            queryParams['sc'] = qSearchCategory.toLowerCase();
+        } else {
+            queryParams['sc'] = undefined;
+        }
+    }
+
+    private static updateSearch(formGroup: FormGroup, queryParams: Params) {
         let qSearch: string | null | undefined = formGroup.get("search")?.value;
         if (qSearch !== undefined && qSearch !== null && qSearch !== "") {
             queryParams['q'] = NormalizeHelper.fromNormalToQueryString(qSearch);
@@ -141,7 +159,7 @@ export module QueryParamHelper {
         }
     }
 
-    function updateRating(formGroup: FormGroup, queryParams: Params) {
+    private static updateRating(formGroup: FormGroup, queryParams: Params) {
         const qRating = formGroup.get('rating')?.value;
         if (qRating !== null) {
             queryParams['r'] = qRating;
@@ -150,7 +168,7 @@ export module QueryParamHelper {
         }
     }
 
-    function updateCategory(formGroup: FormGroup, queryParams: Params) {
+    private static updateCategory(formGroup: FormGroup, queryParams: Params) {
         const qCategory = formGroup.get('category')?.value;
         if (qCategory !== null) {
             queryParams['c'] = qCategory;

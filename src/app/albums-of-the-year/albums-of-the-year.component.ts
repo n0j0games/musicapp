@@ -8,12 +8,13 @@ import {Sorting} from "../common/models/sorting.enum";
 import {AliasList} from "../common/models/alias-list";
 import {FormControl, FormGroup, FormsModule, ReactiveFormsModule, Validators} from "@angular/forms";
 import {ListHeaderComponent} from "../common/components/list-header/list-header.component";
-import { NormalizeHelper } from "../common/normalize-helper";
-import {DEFAULT_PARAMS, QueryParamHelper, QueryParams} from "../common/query-param-helper";
+import {NormalizeHelper} from "../common/normalize-helper";
+import {QueryParamHelper, QueryParams} from "../common/query-param-helper";
 import {QueryFilterHelper} from "../common/query-filter-helper";
 import {Logger} from "../common/logger";
 import {AggregateTitleHelper} from "../common/aggregate-title-helper";
 import {GroupAliasHelper} from "../common/group-alias-helper";
+import {SearchCategory} from "../common/models/search-category";
 
 const MAX_CAP_DEFAULT = 200;
 
@@ -37,7 +38,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   rawAlbumsOfTheYear! : Album[] | null;
   aliasList!: AliasList | null;
 
-  queryParams: QueryParams = DEFAULT_PARAMS;
+  queryParams: QueryParams = QueryParamHelper.DEFAULT_PARAMS;
   maxCap = MAX_CAP_DEFAULT;
 
   title = "albums of the year";
@@ -206,12 +207,16 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private updateTitle() {
     if (this.queryParams.search !== null) {
-      this.title = " albums by " + NormalizeHelper.fromQueryStringToNormal(this.queryParams.search) + "";
+      if (this.queryParams.searchCategory === SearchCategory.ARTISTS) {
+        this.title = " albums by " + NormalizeHelper.fromQueryStringToNormal(this.queryParams.search);
+      } else {
+        this.title = " albums matching '" + NormalizeHelper.fromQueryStringToNormal(this.queryParams.search) + "'";
+      }
     }
   }
 
   private updateArtistImage() {
-    if (this.queryParams.search === null) {
+    if (this.queryParams.search === null || this.queryParams.searchCategory != SearchCategory.ARTISTS) {
       this.artistIcon = undefined;
       return;
     }
@@ -227,15 +232,20 @@ export class AlbumsOfTheYearComponent implements OnInit {
     if (this.queryParams.search === null) {
       return true;
     }
-    const title = NormalizeHelper.fromNormalToQueryString(album.title);
-    if (this.queryParams.isStrict && title === this.queryParams.search) {
-      return true;
+    if (this.queryParams.searchCategory === SearchCategory.ALL || this.queryParams.searchCategory === SearchCategory.ALBUMS) {
+      const title = NormalizeHelper.fromNormalToQueryString(album.title);
+      if (this.queryParams.isStrict && title === this.queryParams.search) {
+        return true;
+      }
+      if (title.startsWith(this.queryParams.search)) {
+        return true;
+      }
     }
-    if (title.startsWith(this.queryParams.search)) {
-      return true;
+    if (this.queryParams.searchCategory === SearchCategory.ALL || this.queryParams.searchCategory === SearchCategory.ARTISTS) {
+      const qArtist = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
+      return GroupAliasHelper.artistFilter(qArtist, this.queryParams.isStrict, this.queryParams.searchCategory != SearchCategory.ARTISTS, album, this.aliasList!);
     }
-    const qArtist = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
-    return GroupAliasHelper.artistFilter(qArtist, this.queryParams.isStrict, album, this.aliasList!);
+    return false;
   }
 
   private getAggregatedAlbums() : Album[] {

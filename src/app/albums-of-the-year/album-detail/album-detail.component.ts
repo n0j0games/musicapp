@@ -15,6 +15,7 @@ import {NormalizeHelper} from "../../common/normalize-helper";
 import {ReviewService} from "../../common/services/review.service";
 import {ReviewButtonComponent} from "../../common/components/review-button/review-button.component";
 import {Logger} from "../../common/logger";
+import {SearchCategory} from "../../common/models/search-category";
 
 @Component({
   selector: 'app-album-detail',
@@ -85,7 +86,7 @@ export class AlbumDetailComponent implements OnInit {
           [],
           {
               relativeTo: this.route,
-              queryParams: { q: NormalizeHelper.fromNormalToQueryString(this.album.artist) },
+              queryParams: { q: NormalizeHelper.fromNormalToQueryString(this.album.artist), sc: 'artists' },
               queryParamsHandling: 'merge'
           }
       ).then(_ => {this.logger.log("Refreshed params")});

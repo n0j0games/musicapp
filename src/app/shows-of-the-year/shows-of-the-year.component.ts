@@ -4,7 +4,6 @@ import {ListHeaderComponent} from "../common/components/list-header/list-header.
 import {NgForOf, NgIf} from "@angular/common";
 import {Movie} from "../common/models/movie";
 import {
-  DEFAULT_PARAMS_WITH_CATEGORY,
   QueryParamHelper,
   QueryParams
 } from "../common/query-param-helper";
@@ -38,7 +37,7 @@ export class ShowsOfTheYearComponent implements OnInit {
   showsOfTheYearWithoutMaxCap!: Movie[] | null;
   rawShowsOfTheYear! : Movie[] | null;
 
-  queryParams: QueryParams = DEFAULT_PARAMS_WITH_CATEGORY;
+  queryParams: QueryParams = QueryParamHelper.DEFAULT_PARAMS_WITH_CATEGORY;
   maxCap = MAX_CAP_DEFAULT;
 
   title = "movies & shows of the year";
