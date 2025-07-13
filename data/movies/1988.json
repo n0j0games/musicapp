@@ -8,6 +8,22 @@
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-230-0-345-crop.jpg?v=749abe71ad",
       "creator": "Hayao Miyazaki",
       "year": 1988
+    },
+    {
+      "title": "Akira",
+      "url": "https://letterboxd.com/film/akira/",
+      "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
+      "creator": "Katsuhiro Otomo",
+      "year": 1988
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "url": "https://letterboxd.com/film/grave-of-the-fireflies/",
+      "rating": 10.6,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/4/4/5/5/8/44558-grave-of-the-fireflies-0-230-0-345-crop.jpg?v=0c61fd55f0",
+      "creator": "Isao Takahata",
+      "year": 1988
     }
   ]
 }
