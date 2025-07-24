@@ -710,7 +710,8 @@
       "playTime": 51,
       "genre": "Smooth Soul",
       "year": 1970,
-      "playTime30Days": 49
+      "playTime30Days": 49,
+      "color" : "#3e4529"
     }
   ]
 }
