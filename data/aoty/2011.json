@@ -222,7 +222,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 300,
+      "playTime": 301,
       "playTime30Days": 0,
       "color": "#857e5b"
     },
@@ -251,7 +251,7 @@
       "title": "Goblin",
       "artist": "Tyler, The Creator",
       "rating": 5,
-      "playTime": 59,
+      "playTime": 60,
       "playTime30Days": 0
     },
     {
@@ -305,7 +305,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 40,
+      "playTime": 41,
       "playTime30Days": 0
     },
     {
@@ -346,10 +346,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 18,
+      "playTime": 19,
       "genre": "Pop",
       "year": 2011,
-      "playTime30Days": 10
+      "playTime30Days": 9
     }
   ]
 }

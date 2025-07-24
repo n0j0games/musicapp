@@ -30,8 +30,8 @@
       ],
       "rating": 9.3,
       "genre": "Deutschrap",
-      "playTime": 277,
-      "playTime30Days": 9,
+      "playTime": 289,
+      "playTime30Days": 21,
       "color": "#878787"
     },
     {
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 803,
-      "playTime30Days": 14,
+      "playTime": 808,
+      "playTime30Days": 11,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -164,8 +164,8 @@
       ],
       "rating": 8.9,
       "genre": "Deutscher Indie",
-      "playTime": 474,
-      "playTime30Days": 0,
+      "playTime": 483,
+      "playTime30Days": 9,
       "color": "#8a5e57",
       "review": "paula-hartmann--kleine-feuer"
     },
@@ -198,8 +198,8 @@
       ],
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
-      "playTime": 209,
-      "playTime30Days": 0,
+      "playTime": 214,
+      "playTime30Days": 5,
       "color": "#9a6c1f"
     },
     {
@@ -266,7 +266,7 @@
       "rating": 8.6,
       "genre": "Latin",
       "playTime": 336,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#a065b1"
     },
     {
@@ -331,7 +331,7 @@
       ],
       "rating": 8.7,
       "genre": "Deutscher Indie",
-      "playTime": 98,
+      "playTime": 100,
       "playTime30Days": 0,
       "color": "#958929"
     },
@@ -460,7 +460,7 @@
       ],
       "rating": 8.7,
       "genre": "Indie Pop",
-      "playTime": 110,
+      "playTime": 111,
       "playTime30Days": 0,
       "color": "#2c3863"
     },
@@ -654,7 +654,7 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 219,
+      "playTime": 221,
       "playTime30Days": 0,
       "color": "#376893"
     },
@@ -799,7 +799,7 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 97,
+      "playTime": 98,
       "playTime30Days": 0,
       "color": "#872d11"
     },
@@ -1090,7 +1090,7 @@
       ],
       "rating": 7.5,
       "genre": "Darkwave",
-      "playTime": 61,
+      "playTime": 62,
       "playTime30Days": 0,
       "color": "#2f341a"
     },
@@ -1468,7 +1468,7 @@
       ],
       "rating": 5,
       "genre": "Deutschrap",
-      "playTime": 11,
+      "playTime": 12,
       "playTime30Days": 0
     },
     {
@@ -2147,7 +2147,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 381,
+      "playTime": 383,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"

@@ -30,7 +30,7 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 568,
+      "playTime": 569,
       "playTime30Days": 0,
       "color": "#0c3f83",
       "onVinyl": true
@@ -130,7 +130,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 667,
+      "playTime": 668,
       "playTime30Days": 0,
       "color": "#b06725"
     },
@@ -227,7 +227,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 183,
+      "playTime": 184,
       "playTime30Days": 0
     },
     {
@@ -293,8 +293,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 206,
-      "playTime30Days": 0
+      "playTime": 209,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -413,7 +413,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 169,
+      "playTime": 170,
       "playTime30Days": 0
     },
     {
@@ -471,7 +471,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 176,
+      "playTime": 177,
       "playTime30Days": 0
     },
     {
@@ -526,7 +526,7 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 310,
+      "playTime": 311,
       "playTime30Days": 0
     },
     {
@@ -784,7 +784,7 @@
       "artist": "Drake",
       "rating": 4,
       "genre": "Rap",
-      "playTime": 273,
+      "playTime": 274,
       "playTime30Days": 0
     },
     {

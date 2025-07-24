@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 549,
+      "playTime": 570,
       "genre": "Latin",
-      "playTime30Days": 67,
+      "playTime30Days": 36,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 321,
+      "playTime": 324,
       "genre": "Rap",
-      "playTime30Days": 9,
+      "playTime30Days": 12,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -144,7 +144,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 675,
+      "playTime": 677,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -566,9 +566,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 78,
+      "playTime": 79,
       "genre": "Deutschrap",
-      "playTime30Days": 8
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -690,7 +690,7 @@
       "playTime": 143,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 444,
+      "playTime": 460,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 18,
+      "playTime30Days": 17,
       "onVinyl": true
     },
     {
@@ -952,7 +952,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 87,
+      "playTime": 88,
       "genre": "Trip Hop",
       "year": 2025,
       "playTime30Days": 0,
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 194,
+      "playTime": 195,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 50
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1052,10 +1052,10 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 141,
+      "playTime": 144,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 56
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1150,10 +1150,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 130,
+      "playTime": 141,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 104
+      "playTime30Days": 42
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1212,11 +1212,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 56,
+      "playTime": 61,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 56
+      "playTime30Days": 61
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1309,10 +1309,10 @@
         }
       ],
       "rating": 6,
-      "playTime": 36,
+      "playTime": 39,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 36
+      "playTime30Days": 39
     },
     {
       "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ",
@@ -1369,11 +1369,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/14e13a94e10175ecc695b5c66cd067ec50b90877?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.8,
-      "playTime": 50,
+      "rating": 8.2,
+      "playTime": 97,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 50
+      "playTime30Days": 97
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1395,6 +1395,68 @@
       "genre": "Trap",
       "year": 2025,
       "playTime30Days": 13
+    },
+    {
+      "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27311e55e4aa68150f5a0bfa22f",
+      "title": "DON'T TAP THE GLASS",
+      "artist": "Tyler, The Creator",
+      "songs": [
+        {
+          "title": "Sugar On My Tongue",
+          "preview_url": "https://p.scdn.co/mp3-preview/b61ac372423db8a34fa25928a3f2c867c19305ba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Don't Tap That Glass / Tweakin'",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e31b031a58fc13752b1de2a675b722e5d2f0655?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Don't You Worry Baby (feat. Madison McFerrin)",
+          "preview_url": "https://p.scdn.co/mp3-preview/24e3bd9c9c5320a43d5207fe6c84449d79ce4930?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'll Take Care of You (feat. Yebba)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e67a479de1f61be38efba7feef23aac41adcf7a0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 71,
+      "genre": "Hip-Hop",
+      "year": 2025,
+      "playTime30Days": 71
+    },
+    {
+      "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738cdb609c00c371f6a7edc5ef",
+      "title": "black british music (2025)",
+      "artist": "Jim Legxacy",
+      "songs": [
+        {
+          "title": "sos",
+          "preview_url": "https://p.scdn.co/mp3-preview/c50866693617574676d0bef986da0247194c84d5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "stick",
+          "preview_url": "https://p.scdn.co/mp3-preview/ed20032197d07d00f08468f85d020bab5f4f11a3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "'06 wayne rooney",
+          "preview_url": "https://p.scdn.co/mp3-preview/65a0306fca03f88454f64b2dcb40e0646d454f84?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "issues of trust",
+          "preview_url": "https://p.scdn.co/mp3-preview/f2dee61e9bdc1c47df27675e08f035cf54ce5ea0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "dexters phone call",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ee2de53a7ded7c99236209de823bbf46642c789?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 16,
+      "genre": "UK Rap",
+      "year": 2025,
+      "playTime30Days": 16
     }
   ]
 }

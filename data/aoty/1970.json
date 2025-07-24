@@ -35,7 +35,7 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 328,
+      "playTime": 330,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -458,7 +458,7 @@
       ],
       "rating": 9.3,
       "genre": "Disco",
-      "playTime": 42,
+      "playTime": 45,
       "playTime30Days": 0,
       "year": 1978,
       "color": "#aa546d"
@@ -579,7 +579,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 41,
+      "playTime": 43,
       "genre": "Funk",
       "year": 1971,
       "playTime30Days": 0
@@ -678,6 +678,39 @@
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d85c957794c2a5b8b11de5f9",
+      "title": "Come To My Garden",
+      "artist": "Minnie Riperton",
+      "songs": [
+        {
+          "title": "Les Fleurs",
+          "preview_url": "https://p.scdn.co/mp3-preview/27af211879556d6d50bf586e850a3f110ce475e0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Completeness",
+          "preview_url": "https://p.scdn.co/mp3-preview/b92cb247a53c805b284b2c0ae97bfff635765e9c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Come To My Garden",
+          "preview_url": "https://p.scdn.co/mp3-preview/e5e2f396be4cbcae5556d1fa157f1057ff637877?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Memory Band",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f604e637ac23a3fd811aae21fd59a4132c643c8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Whenever, Wherever",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3d6876c76a34de0c2e95102efd70735db004be7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9,
+      "playTime": 51,
+      "genre": "Smooth Soul",
+      "year": 1970,
+      "playTime30Days": 49
     }
   ]
 }

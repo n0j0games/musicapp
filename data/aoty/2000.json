@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 831,
+      "playTime": 832,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -136,8 +136,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 171,
-      "playTime30Days": 0,
+      "playTime": 179,
+      "playTime30Days": 8,
       "year": 2007,
       "color": "#006082"
     },
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 349,
+      "playTime": 350,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,7 +332,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 90,
+      "playTime": 92,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#4c4c4c"
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 72,
+      "playTime": 73,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -940,10 +940,10 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 70,
+      "playTime": 73,
       "genre": "French House",
       "year": 2007,
-      "playTime30Days": 16,
+      "playTime30Days": 0,
       "color": "#20190a"
     },
     {
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 54,
+      "playTime": 55,
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 0
@@ -1218,7 +1218,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 72,
+      "playTime": 74,
       "genre": "Dance Pop",
       "year": 2005,
       "playTime30Days": 0
@@ -1239,7 +1239,7 @@
         }
       ],
       "rating": 5.9,
-      "playTime": 52,
+      "playTime": 54,
       "genre": "Pop",
       "year": 2003,
       "playTime30Days": 0
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 44,
+      "playTime": 47,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 44
+      "playTime30Days": 27
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
@@ -1289,10 +1289,10 @@
         }
       ],
       "rating": 5.9,
-      "playTime": 25,
+      "playTime": 29,
       "genre": "Pop",
       "year": 2008,
-      "playTime30Days": 21
+      "playTime30Days": 22
     }
   ]
 }

@@ -29,7 +29,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 195,
+      "playTime": 196,
       "playTime30Days": 0,
       "color": "#ad1247"
     },
@@ -61,7 +61,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 493,
+      "playTime": 494,
       "playTime30Days": 0,
       "color": "#687d84"
     },
@@ -289,7 +289,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 256,
+      "playTime": 257,
       "playTime30Days": 0,
       "color": "#434754"
     },
@@ -886,7 +886,7 @@
       "rating": 7.6,
       "playTime30Days": 0,
       "color": "#87827a",
-      "playTime": 127
+      "playTime": 128
     },
     {
       "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y",
@@ -1160,7 +1160,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 142,
+      "playTime": 144,
       "playTime30Days": 0,
       "color": "#251c2d"
     },
@@ -1491,7 +1491,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 65,
+      "playTime": 66,
       "playTime30Days": 0
     },
     {
@@ -1953,7 +1953,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 85,
+      "playTime": 86,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -1983,7 +1983,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 80,
+      "playTime": 81,
       "genre": "Dance Pop",
       "playTime30Days": 0
     },
@@ -2111,7 +2111,7 @@
       "rating": 5,
       "playTime": 142,
       "genre": "Latin Rap",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV",

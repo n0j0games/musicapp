@@ -30,8 +30,8 @@
       ],
       "rating": 11.6,
       "genre": "Dance Pop",
-      "playTime": 1062,
-      "playTime30Days": 34,
+      "playTime": 1069,
+      "playTime30Days": 33,
       "color": "#465b6b"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 476,
+      "playTime": 478,
       "playTime30Days": 0,
       "color": "#61615f"
     },
@@ -161,7 +161,7 @@
       "rating": 9.4,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 950,
+      "playTime": 951,
       "playTime30Days": 0,
       "color": "#123b49"
     },
@@ -194,8 +194,8 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 372,
-      "playTime30Days": 0,
+      "playTime": 381,
+      "playTime30Days": 9,
       "color": "#456338"
     },
     {
@@ -259,7 +259,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 386,
+      "playTime": 387,
       "playTime30Days": 6,
       "color": "#ea3840"
     },
@@ -392,7 +392,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 109,
+      "playTime": 110,
       "playTime30Days": 0,
       "color": "#076435"
     },
@@ -424,7 +424,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 276,
+      "playTime": 277,
       "playTime30Days": 0,
       "color": "#28251b"
     },
@@ -488,8 +488,8 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 202,
-      "playTime30Days": 0,
+      "playTime": 220,
+      "playTime30Days": 19,
       "color": "#8d410d"
     },
     {
@@ -520,7 +520,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 255,
+      "playTime": 256,
       "playTime30Days": 0,
       "color": "#141c36"
     },
@@ -1016,7 +1016,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 77,
+      "playTime": 78,
       "playTime30Days": 5,
       "color": "#272727"
     },
@@ -1141,7 +1141,7 @@
       "title": "Palmen aus Plastik",
       "artist": "Bonez MC,\nRAF Camora",
       "rating": 3,
-      "playTime": 20,
+      "playTime": 21,
       "playTime30Days": 0
     },
     {
@@ -1410,7 +1410,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 138,
+      "playTime": 139,
       "playTime30Days": 0
     },
     {
@@ -1705,7 +1705,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 17,
+      "playTime": 18,
       "playTime30Days": 0
     },
     {

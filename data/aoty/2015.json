@@ -73,7 +73,7 @@
       "rating": 11.8,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 1089,
+      "playTime": 1090,
       "playTime30Days": 0,
       "color": "#7c7a79"
     },
@@ -106,7 +106,7 @@
       ],
       "rating": 10,
       "genre": "Synthpop",
-      "playTime": 856,
+      "playTime": 857,
       "playTime30Days": 0,
       "color": "#443152"
     },
@@ -265,7 +265,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 173,
+      "playTime": 174,
       "playTime30Days": 0
     },
     {
@@ -328,7 +328,7 @@
       ],
       "rating": 9.9,
       "playTime": 190,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "color": "#526b6e"
     },
     {
