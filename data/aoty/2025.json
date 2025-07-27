@@ -1457,6 +1457,38 @@
       "genre": "UK Rap",
       "year": 2025,
       "playTime30Days": 16
+    },
+    {
+      "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27300dbb62467fe1097ad7161e3",
+      "title": "Vanisher, Horizon Scraper",
+      "artist": "Quadeca",
+      "songs": [
+        {
+          "title": "FORGONE",
+          "preview_url": "https://p.scdn.co/mp3-preview/6e2c8e7773aaa838e8620b9e7a5be8e921f332a6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "GODSTAINED",
+          "preview_url": "https://p.scdn.co/mp3-preview/8bc6fdc1be58426323cf30b2f3f000085f52f469?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "MONDAY",
+          "preview_url": "https://p.scdn.co/mp3-preview/97b83bf3e86dfa26bf7fd45d58ff6f27b761aa13?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "THE GREAT BAKUNAWA",
+          "preview_url": "https://p.scdn.co/mp3-preview/281b49b4f9a5de2a3d04b253f8ab4101c1a56690?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CASPER",
+          "preview_url": "https://p.scdn.co/mp3-preview/120c3a4ac5754b8e526980d583c7ea395294e61c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.0,
+      "playTime": 0,
+      "genre": "Folktronica",
+      "year": 2025
     }
   ]
 }
