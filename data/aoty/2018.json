@@ -130,7 +130,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 668,
+      "playTime": 669,
       "playTime30Days": 0,
       "color": "#b06725"
     },
@@ -294,7 +294,7 @@
       ],
       "rating": 8.8,
       "playTime": 209,
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -526,7 +526,7 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 311,
+      "playTime": 314,
       "playTime30Days": 0
     },
     {

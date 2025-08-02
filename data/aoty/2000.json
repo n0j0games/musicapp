@@ -136,8 +136,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 179,
-      "playTime30Days": 8,
+      "playTime": 180,
+      "playTime30Days": 9,
       "year": 2007,
       "color": "#006082"
     },
@@ -237,7 +237,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 356,
+      "playTime": 358,
       "playTime30Days": 0,
       "year": 2004,
       "color": "#ba5d2c"
@@ -332,7 +332,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 92,
+      "playTime": 93,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#4c4c4c"
@@ -620,7 +620,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 51,
+      "playTime": 52,
       "playTime30Days": 0,
       "year": 2005
     },
@@ -939,7 +939,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/86272117780f9c45af3a90ef4de522131375a064?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "playTime": 73,
       "genre": "French House",
       "year": 2007,
@@ -1185,7 +1185,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 58,
+      "playTime": 59,
       "genre": "Art Pop",
       "year": 2008,
       "playTime30Days": 0
@@ -1271,7 +1271,7 @@
       "playTime": 47,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 27
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
@@ -1292,7 +1292,7 @@
       "playTime": 29,
       "genre": "Pop",
       "year": 2008,
-      "playTime30Days": 22
+      "playTime30Days": 11
     }
   ]
 }

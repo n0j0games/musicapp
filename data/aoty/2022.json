@@ -31,7 +31,7 @@
       "rating": 11.6,
       "genre": "Dance Pop",
       "playTime": 1069,
-      "playTime30Days": 33,
+      "playTime30Days": 10,
       "color": "#465b6b"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 478,
+      "playTime": 479,
       "playTime30Days": 0,
       "color": "#61615f"
     },
@@ -260,7 +260,7 @@
       ],
       "rating": 9.8,
       "playTime": 387,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#ea3840"
     },
     {
@@ -489,7 +489,7 @@
       ],
       "rating": 8.6,
       "playTime": 220,
-      "playTime30Days": 19,
+      "playTime30Days": 18,
       "color": "#8d410d"
     },
     {
@@ -1017,7 +1017,7 @@
       ],
       "rating": 8.5,
       "playTime": 78,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#272727"
     },
     {

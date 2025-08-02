@@ -425,7 +425,7 @@
       ],
       "rating": 8.8,
       "genre": "Metal",
-      "playTime": 20,
+      "playTime": 21,
       "playTime30Days": 0,
       "year": 1970
     },
@@ -711,7 +711,67 @@
       "genre": "Smooth Soul",
       "year": 1970,
       "playTime30Days": 49,
-      "color" : "#3e4529"
+      "color": "#3e4529"
+    },
+    {
+      "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c930e4ed835b0fd546c7324f",
+      "title": "Pieces of a Man",
+      "artist": "Gil Scott-Heron",
+      "songs": [
+        {
+          "title": "The Prisoner",
+          "preview_url": "https://p.scdn.co/mp3-preview/625d77d47940a8f27a9dd4daba3c30c3b9e1620d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Home Is Where the Hatred Is",
+          "preview_url": "https://p.scdn.co/mp3-preview/6dc08e14acd3a1884234e3509e9fb4db7e859f8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "When You Are Who You Are",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ed8bef1b5c39217e9defc50c7f4fa94f8b742de?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Think I'll Call It Morning",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d845825dc715314dbbacb318cffc8b5d4306c95?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Or Down You Fall",
+          "preview_url": "https://p.scdn.co/mp3-preview/d881a51b29122ad164e69cccf5d41f5b9bf70f02?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Progressive Soul",
+      "year": 1971
+    },
+    {
+      "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce",
+      "title": "Just As I Am",
+      "artist": "Bill Withers",
+      "songs": [
+        {
+          "title": "Grandma's Hands",
+          "preview_url": "https://p.scdn.co/mp3-preview/fd7c0303201f40ef65723e619a6291abe5dec159?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Harlem",
+          "preview_url": "https://p.scdn.co/mp3-preview/51aa727b95bbfe4e11ecbe752a9d1216a6b0960b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ain't No Sunshine",
+          "preview_url": "https://p.scdn.co/mp3-preview/4894057a7cdc4be59cd335cfc369ba2d3a3b2ad8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sweet Wanomi",
+          "preview_url": "https://p.scdn.co/mp3-preview/08e524b64026ba88f178cccbbfd20b65dd86ff03?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Progressive Soul",
+      "year": 1971
     }
   ]
 }

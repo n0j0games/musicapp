@@ -31,7 +31,7 @@
       "rating": 9.3,
       "genre": "Deutschrap",
       "playTime": 289,
-      "playTime30Days": 21,
+      "playTime30Days": 12,
       "color": "#878787"
     },
     {
@@ -98,7 +98,7 @@
       "rating": 8.4,
       "genre": "Country Pop",
       "playTime": 808,
-      "playTime30Days": 11,
+      "playTime30Days": 6,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 127,
+      "playTime": 128,
       "playTime30Days": 0
     },
     {

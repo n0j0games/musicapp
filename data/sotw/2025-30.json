@@ -1,0 +1,59 @@
+{
+  "year": 2025,
+  "week": 30,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/a5a8dd34375fdb193ede3e626d66dc5e041422ec?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273820a2bc04f5da37d6250996a",
+      "title": "End Of Summer",
+      "artist": "Tame Impala",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/dbe3dfeb277dfcb7615d901326d75977fff04ce8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273428bec3d665ac543abc1905b",
+      "title": "THE GREAT BAKUNAWA (with Danny Brown)",
+      "artist": "Quadeca, Danny Brown",
+      "rating": 8,
+      "album": "Vanisher, Horizon Scraper",
+      "url": "https://open.spotify.com/track/6h9dDQDCFspMTxHREwn2pu"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/4c8f8a15ca4d28e125618a066751afbbd8f376e5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273428bec3d665ac543abc1905b",
+      "title": "RUIN MY LIFE",
+      "artist": "Quadeca",
+      "rating": 8,
+      "album": "Vanisher, Horizon Scraper",
+      "url": "https://open.spotify.com/track/7JzTTmvNedMzaYwijsJhxA"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/9ca39da3dce0326e5e6f02acf4fc94c8a57ea883?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273428bec3d665ac543abc1905b",
+      "title": "THAT'S WHY",
+      "artist": "Quadeca",
+      "rating": 7,
+      "album": "Vanisher, Horizon Scraper",
+      "url": "https://open.spotify.com/track/35CL23NpSaz8lM9CVvg8Oq"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3d2ccbba80fd6b4b620c9c6d9d84b5bb9592599c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273428bec3d665ac543abc1905b",
+      "title": "NATURAL CAUSES",
+      "artist": "Quadeca",
+      "rating": 8,
+      "album": "Vanisher, Horizon Scraper",
+      "url": "https://open.spotify.com/track/223cxDEAew5PyufKXOX8Hg"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/84346f7e23865c1a7b3005a1277214af376e9dcb?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273428bec3d665ac543abc1905b",
+      "title": "CASPER (with Maruja)",
+      "artist": "Quadeca, Maruja",
+      "rating": 8.5,
+      "album": "Vanisher, Horizon Scraper",
+      "url": "https://open.spotify.com/track/40bqzt6BEkLetWWRWPl8kU"
+    }
+  ]
+}

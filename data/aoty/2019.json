@@ -29,8 +29,8 @@
         }
       ],
       "rating": 11.3,
-      "playTime": 505,
-      "playTime30Days": 13,
+      "playTime": 510,
+      "playTime30Days": 8,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -729,7 +729,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 94,
+      "playTime": 95,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -757,9 +757,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 229,
+      "playTime": 232,
       "genre": "Live",
-      "playTime30Days": 10
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",

@@ -132,7 +132,7 @@
       "rating": 8.2,
       "genre": "Soul",
       "playTime": 42,
-      "playTime30Days": 20,
+      "playTime30Days": 7,
       "year": 1965
     },
     {
@@ -224,7 +224,7 @@
       "playTime": 22,
       "genre": "Southern Soul",
       "year": 1963,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY",
@@ -257,7 +257,7 @@
       "playTime": 55,
       "genre": "Southern Soul",
       "year": 1964,
-      "playTime30Days": 22
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
@@ -286,7 +286,7 @@
       "playTime": 27,
       "genre": "Motown Sound",
       "year": 1964,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm",
@@ -377,11 +377,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ab7f832c9dc1a719669ca917836445cf4d0ad943?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 10.0,
-      "playTime": 139,
+      "rating": 10,
+      "playTime": 141,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 51,
+      "playTime30Days": 26,
       "color": "#b20a57"
     },
     {
@@ -527,7 +527,7 @@
       "playTime": 40,
       "genre": "Motown Sound",
       "year": 1967,
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD",
@@ -586,7 +586,7 @@
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",
-      "playTime30Days": 13
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
@@ -611,7 +611,7 @@
       "playTime": 0,
       "genre": "Psychadelic Soul",
       "year": 1968,
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr",
@@ -640,7 +640,7 @@
       "playTime": 12,
       "genre": "Southern Soul",
       "year": 1968,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD",
@@ -673,7 +673,7 @@
       "playTime": 32,
       "genre": "Early Funk",
       "year": 1969,
-      "playTime30Days": 32
+      "playTime30Days": 19
     }
   ]
 }

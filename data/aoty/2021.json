@@ -287,7 +287,7 @@
       ],
       "rating": 8.8,
       "playTime": 541,
-      "playTime30Days": 13
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/6v2yLFO3w9DsosPugJsbF6",
@@ -720,7 +720,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 277,
+      "playTime": 278,
       "playTime30Days": 0
     },
     {
@@ -1147,7 +1147,7 @@
       "playTime": 28,
       "genre": "Pop",
       "year": 2021,
-      "playTime30Days": 7
+      "playTime30Days": 6
     }
   ]
 }
