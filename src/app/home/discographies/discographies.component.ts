@@ -67,9 +67,10 @@ export class DiscographiesComponent implements OnInit {
                 }
             }
             artists.push({
+                ...artist,
                 listenedToAlbums: count,
                 listenedToGroupAlbums: countFromOther,
-                ...artist
+                albums: !artist.albums || count > artist.albums ? count : artist.albums
             })
         }
         artists.sort((a, b) => (b.listenedToAlbums ? b.listenedToAlbums : 0) - (a.listenedToAlbums ? a.listenedToAlbums : 0))

@@ -219,7 +219,8 @@
       "rating": 10,
       "playTime": 405,
       "playTime30Days": 49,
-      "color": "#064cb7"
+      "color": "#064cb7",
+      "onVinyl" : true
     },
     {
       "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",

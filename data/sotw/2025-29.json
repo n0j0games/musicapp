@@ -9,7 +9,8 @@
       "artist": "Tyler, The Creator",
       "rating": 7.0,
       "album": "DON'T TAP THE GLASS",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
+      "onVinyl" : true
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/c50866693617574676d0bef986da0247194c84d5?cid=bba9a824e2c249d1a89e21c0e2a2e845",
