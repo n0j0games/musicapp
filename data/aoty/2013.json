@@ -40,7 +40,7 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 555,
+      "playTime": 556,
       "playTime30Days": 0,
       "color": "#25714c",
       "review": "the-weeknd--kiss-land"
@@ -423,10 +423,10 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 56,
+      "playTime": 57,
       "genre": "Alternative R&B",
       "year": 2013,
-      "playTime30Days": 54
+      "playTime30Days": 10
     }
   ]
 }

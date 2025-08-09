@@ -98,7 +98,7 @@
       "rating": 8.4,
       "genre": "Country Pop",
       "playTime": 808,
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -231,7 +231,7 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 342,
+      "playTime": 343,
       "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"

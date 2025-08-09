@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 574,
+      "playTime": 576,
       "genre": "Latin",
-      "playTime30Days": 40,
+      "playTime30Days": 36,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 324,
+      "playTime": 327,
       "genre": "Rap",
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -847,10 +847,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 468,
+      "playTime": 470,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 24,
+      "playTime30Days": 26,
       "onVinyl": true
     },
     {
@@ -952,10 +952,10 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 92,
+      "playTime": 93,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 6,
+      "playTime30Days": 7,
       "onVinyl": "true"
     },
     {
@@ -986,10 +986,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 209,
+      "playTime": 213,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 19
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1055,7 +1055,7 @@
       "playTime": 151,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 17
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1150,7 +1150,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 151,
+      "playTime": 154,
       "genre": "Trap",
       "year": 2025,
       "playTime30Days": 27
@@ -1179,10 +1179,10 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 11,
+      "playTime": 19,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1212,11 +1212,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 80,
+      "playTime": 85,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 29
+      "playTime30Days": 30
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1312,7 +1312,7 @@
       "playTime": 52,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 52
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ",
@@ -1370,10 +1370,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 153,
+      "playTime": 159,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 153
+      "playTime30Days": 159
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1453,10 +1453,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 31,
+      "playTime": 35,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 31
+      "playTime30Days": 35
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1486,11 +1486,102 @@
         }
       ],
       "rating": 9,
-      "playTime": 103,
+      "playTime": 106,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 103,
-      "color" : "#1b2435"
+      "playTime30Days": 106,
+      "color": "#1b2435"
+    },
+    {
+      "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e",
+      "title": "God Does Like Ugly",
+      "artist": "JID",
+      "songs": [
+        {
+          "title": "Glory",
+          "preview_url": "https://p.scdn.co/mp3-preview/96f3817dd8ce745228526d2dbaced3721ad6b780?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Community (with Clipse, Pusha T & Malice)",
+          "preview_url": "https://p.scdn.co/mp3-preview/e87cc09eaf0ff02d500b204e88d6b62366febc41?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "YouUgly (with Westside Gunn)",
+          "preview_url": "https://p.scdn.co/mp3-preview/69d4c587348cb7d759e01a2706637ab7ec5a011a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WRK",
+          "preview_url": "https://p.scdn.co/mp3-preview/ade925080e7080454b24068ed4db9c407f9d7045?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "For Keeps",
+          "preview_url": "https://p.scdn.co/mp3-preview/c3b4e547bbc4b3fd8940f82c1017d2945c1d0e38?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 50,
+      "genre": "Southern Hip-Hop",
+      "year": 2025,
+      "playTime30Days": 50
+    },
+    {
+      "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735eab785289c88cb80e5a2997",
+      "title": "BLACK STAR",
+      "artist": "Amaarae",
+      "songs": [
+        {
+          "title": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
+          "preview_url": "https://p.scdn.co/mp3-preview/865cd7c0e496e84deeaad8d134708bd2b3248c7b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "S.M.O.",
+          "preview_url": "https://p.scdn.co/mp3-preview/35163fd5184094e88a9a4fed77630b0042776211?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stuck Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/6f792ac43ff7c34a373e144be3d954c7a349221c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "FREE THE YOUTH",
+          "preview_url": "https://p.scdn.co/mp3-preview/6e67340554830ee8f4523fc913b8c898a21a82b7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 11,
+      "genre": "Dance-Pop",
+      "year": 2025,
+      "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e04b8c0b83df4247f25ac979",
+      "title": "I Love My Computer",
+      "artist": "Ninajirachi",
+      "songs": [
+        {
+          "title": "London Song",
+          "preview_url": "https://p.scdn.co/mp3-preview/e621d7e73ac88f1f0e3ea89fda025039b9323487?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "iPod Touch",
+          "preview_url": "https://p.scdn.co/mp3-preview/649024e94c0e0cd685b9eb5fa706a4e5e9397924?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fuck My Computer",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad0e13d6a6abe250e3e070677107e90998fb87e0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CSIRAC",
+          "preview_url": "https://p.scdn.co/mp3-preview/ec34c61478a48fd13f56de3e22ddc4f56c23478b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 15,
+      "genre": "EDM",
+      "year": 2025,
+      "playTime30Days": 15
     }
   ]
 }

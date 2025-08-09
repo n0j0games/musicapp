@@ -132,7 +132,7 @@
       "rating": 8.2,
       "genre": "Soul",
       "playTime": 42,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "year": 1965
     },
     {
@@ -257,7 +257,7 @@
       "playTime": 55,
       "genre": "Southern Soul",
       "year": 1964,
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 10,
-      "playTime": 141,
+      "playTime": 143,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 26,
+      "playTime30Days": 23,
       "color": "#b20a57"
     },
     {
@@ -586,7 +586,7 @@
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
@@ -673,7 +673,7 @@
       "playTime": 32,
       "genre": "Early Funk",
       "year": 1969,
-      "playTime30Days": 19
+      "playTime30Days": 0
     }
   ]
 }

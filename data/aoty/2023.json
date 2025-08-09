@@ -257,7 +257,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 249,
+      "playTime": 250,
       "playTime30Days": 0,
       "color": "#a28c6a"
     },
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 636,
+      "playTime": 638,
       "playTime30Days": 0,
       "color": "#4c4559"
     },
@@ -516,7 +516,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 107,
+      "playTime": 108,
       "playTime30Days": 0,
       "color": "#3c5b80"
     },
@@ -800,7 +800,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 29,
+      "playTime": 30,
       "playTime30Days": 0,
       "color": "#32169e"
     },
@@ -1160,8 +1160,8 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 144,
-      "playTime30Days": 0,
+      "playTime": 155,
+      "playTime30Days": 13,
       "color": "#251c2d"
     },
     {
@@ -2161,7 +2161,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 57,
+      "playTime": 59,
       "genre": "Rap",
       "playTime30Days": 0
     },

@@ -524,7 +524,7 @@
       "genre": "Soul",
       "year": 1971,
       "color": "#4b796b",
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2vtMi0d0613jhp85klO9eb",
@@ -710,7 +710,7 @@
       "playTime": 51,
       "genre": "Smooth Soul",
       "year": 1970,
-      "playTime30Days": 49,
+      "playTime30Days": 40,
       "color": "#3e4529"
     },
     {
@@ -741,9 +741,10 @@
         }
       ],
       "rating": 0,
-      "playTime": 0,
+      "playTime": 18,
       "genre": "Progressive Soul",
-      "year": 1971
+      "year": 1971,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo",
@@ -769,9 +770,39 @@
         }
       ],
       "rating": 0,
-      "playTime": 0,
+      "playTime": 16,
       "genre": "Progressive Soul",
-      "year": 1971
+      "year": 1971,
+      "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e0ebc1dc512103af0b79055a",
+      "title": "Donny Hathaway",
+      "artist": "Donny Hathaway",
+      "songs": [
+        {
+          "title": "Giving Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/659bd273956abb0438697158c956cf70ae399b48?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A Song for You",
+          "preview_url": "https://p.scdn.co/mp3-preview/45a3ad16f2a4ba0fd7a5b5bdb832752e0615c996?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Little Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/d0e838d019d4c12a5959e95dad96e887e555d2bd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "He Ain't Heavy, He's My Brother",
+          "preview_url": "https://p.scdn.co/mp3-preview/19cb90e495b2f35fa1356fd515fd3f591a22a1c9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 23,
+      "genre": "Chicago Soul",
+      "year": 1971,
+      "playTime30Days": 23
     }
   ]
 }

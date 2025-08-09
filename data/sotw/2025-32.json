@@ -1,0 +1,33 @@
+{
+  "year": 2025,
+  "week": 32,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/96f3817dd8ce745228526d2dbaced3721ad6b780?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e",
+      "title": "Glory",
+      "artist": "JID",
+      "rating": 8.3,
+      "album": "God Does Like Ugly",
+      "url": "https://open.spotify.com/track/2hplcKUnz9EuePPNiz2FRH"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/865cd7c0e496e84deeaad8d134708bd2b3248c7b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735eab785289c88cb80e5a2997",
+      "title": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
+      "artist": "Amaarae, PinkPantheress",
+      "rating": 7,
+      "album": "BLACK STAR",
+      "url": "https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/e87cc09eaf0ff02d500b204e88d6b62366febc41?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273023f060f2e91b7b2e62c021e",
+      "title": "Community (with Clipse, Pusha T & Malice)",
+      "artist": "JID, Clipse, Pusha T, Malice",
+      "rating": 7,
+      "album": "God Does Like Ugly",
+      "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
+    }
+  ]
+}
