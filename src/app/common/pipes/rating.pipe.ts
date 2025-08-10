@@ -27,9 +27,8 @@ export class RatingPipe implements PipeTransform {
       case 3:
         return shortForm ? "3" : "BAD";
       case 2:
-        return shortForm ? "2" : "VERY BAD";
       case 1:
-        return shortForm ? "1" : "TRASH";
+        return shortForm ? "2" : "TRASH";
       case 0:
         return shortForm ? "?" : "UNRATED";
       default:
