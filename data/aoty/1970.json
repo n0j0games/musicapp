@@ -710,7 +710,7 @@
       "playTime": 51,
       "genre": "Smooth Soul",
       "year": 1970,
-      "playTime30Days": 40,
+      "playTime30Days": 16,
       "color": "#3e4529"
     },
     {
@@ -803,6 +803,64 @@
       "genre": "Chicago Soul",
       "year": 1971,
       "playTime30Days": 23
+    },
+    {
+      "url": "https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27326ab78f539904f9acb3ee397",
+      "title": "Pleasure",
+      "artist": "Ohio Players",
+      "songs": [
+        {
+          "title": "Pleasure",
+          "preview_url": "https://p.scdn.co/mp3-preview/a57746fd2c83a11ce923f2c91e991a2c95582785?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Laid It",
+          "preview_url": "https://p.scdn.co/mp3-preview/5cde7603afd7bfc1cab452b2697b705a8d613a4e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Pride And Vanity",
+          "preview_url": "https://p.scdn.co/mp3-preview/6991618b33312593736a57dc8e91206b8f9cba95?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Walt's First Trip",
+          "preview_url": "https://p.scdn.co/mp3-preview/099fb8727c385e7f877c3c826d0082f6cb0eca1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 10,
+      "genre": "Early Funk",
+      "year": 1972,
+      "playTime30Days": 10
+    },
+    {
+      "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273532e0956a0f5ae7418c63ceb",
+      "title": "Superfly (Original Soundtrack)",
+      "artist": "Curtis Mayfield",
+      "songs": [
+        {
+          "title": "Little Child Runnin' Wild",
+          "preview_url": "https://p.scdn.co/mp3-preview/886e77fa7d75bbebeddb03bdf2bc257217a8f39c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Freddie's Dead",
+          "preview_url": "https://p.scdn.co/mp3-preview/2194474069a8a886a680c500f0a3f54ba79c2ee7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "No Thing on Me (Cocaine Song)",
+          "preview_url": "https://p.scdn.co/mp3-preview/68430f18eaf7679322d46fe63d6fd0c081e5c90a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Superfly",
+          "preview_url": "https://p.scdn.co/mp3-preview/698a2ef447e77ea336da50775e2c9e2ea83435f4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 19,
+      "genre": "Progressive Soul",
+      "year": 1972,
+      "playTime30Days": 10
     }
   ]
 }

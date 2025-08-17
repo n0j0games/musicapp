@@ -90,7 +90,9 @@
       "url": "https://www.serializd.com/review/25935129",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/9qJT1qBBZK87Bc3S1Rd2xTYNDcX.jpg",
       "rating": 7,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "year": 2015,
@@ -111,6 +113,16 @@
       "url": "https://www.serializd.com/review/24868060",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/jICv5UxLDvUqCp1D2jAb0PSJWAw.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/68804/7",
+      "title": "Modern Family",
+      "subtitle": "Season 7",
+      "reviewHref": "https://www.serializd.com/review/38965749",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/825aF6sf43gIyPsX0oeNNhqMzuH.jpg",
+      "rating": 7,
+      "year": 2015
     }
   ]
 }

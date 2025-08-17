@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 576,
+      "playTime": 585,
       "genre": "Latin",
-      "playTime30Days": 36,
+      "playTime30Days": 16,
       "color": "#729238"
     },
     {
@@ -74,7 +74,7 @@
       "rating": 9,
       "playTime": 327,
       "genre": "Rap",
-      "playTime30Days": 6,
+      "playTime30Days": 5,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -710,10 +710,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 146,
+      "playTime": 161,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -837,10 +837,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 470,
+      "playTime": 475,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 26,
+      "playTime30Days": 17,
       "onVinyl": true
     },
     {
@@ -942,10 +942,10 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 93,
+      "playTime": 95,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 7,
+      "playTime30Days": 8,
       "onVinyl": "true"
     },
     {
@@ -976,10 +976,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 213,
+      "playTime": 220,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 21
+      "playTime30Days": 26
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1140,7 +1140,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 154,
+      "playTime": 157,
       "genre": "Trap",
       "year": 2025,
       "playTime30Days": 27
@@ -1202,11 +1202,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 85,
+      "playTime": 91,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 30
+      "playTime30Days": 35
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1302,7 +1302,7 @@
       "playTime": 52,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 20
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ",
@@ -1334,7 +1334,7 @@
       "playTime": 0,
       "genre": "Modern R&B",
       "year": 2025,
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ",
@@ -1360,10 +1360,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 159,
+      "playTime": 172,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 159
+      "playTime30Days": 113
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1384,7 +1384,7 @@
       "playTime": 13,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 13
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R",
@@ -1443,10 +1443,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 35,
+      "playTime": 41,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 35
+      "playTime30Days": 41
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1476,10 +1476,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 106,
+      "playTime": 116,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 106,
+      "playTime30Days": 116,
       "color": "#1b2435"
     },
     {
@@ -1510,10 +1510,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 50,
+      "playTime": 86,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 50
+      "playTime30Days": 86
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1539,10 +1539,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 11,
+      "playTime": 17,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 11
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1567,11 +1567,88 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ec34c61478a48fd13f56de3e22ddc4f56c23478b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
-      "playTime": 15,
+      "rating": 7.5,
+      "playTime": 16,
       "genre": "EDM",
       "year": 2025,
-      "playTime30Days": 15
+      "playTime30Days": 16
+    },
+    {
+      "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737da9ae8f4a4d633772c9513b",
+      "title": "Willoughby Tucker, I'll Always Love You",
+      "artist": "Ethel Cain",
+      "songs": [
+        {
+          "title": "Janie",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b7b4d473ea4dc42b2cd4ac3a3595968ccb85b5c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fuck Me Eyes",
+          "preview_url": "https://p.scdn.co/mp3-preview/0838e953c0a34c8a304168231c614e922950e1bf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nettles",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e56014066445dceef742579ea877e7d347b7760?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dust Bowl",
+          "preview_url": "https://p.scdn.co/mp3-preview/f265069abc06bdc1d6e80cd7d42b26178bdee3da?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Waco, Texas",
+          "preview_url": "https://p.scdn.co/mp3-preview/cb40e96d910b822bac8f74631963f8e5da81777a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.2,
+      "playTime": 39,
+      "genre": "Singer-Songwriter",
+      "year": 2025,
+      "playTime30Days": 39
+    },
+    {
+      "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735d8ba5ddecf45c42ab5844bc",
+      "title": "BORN SPINNER",
+      "artist": "reezy",
+      "rating": 4,
+      "playTime": 14,
+      "genre": "Deutschrap",
+      "year": 2025,
+      "playTime30Days": 14
+    },
+    {
+      "url": "https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273696c76bdea1be8a1ece9f573",
+      "title": "HYPERYOUTH",
+      "artist": "Joey Valence & Brae",
+      "songs": [
+        {
+          "title": "HYPERYOUTH",
+          "preview_url": "https://p.scdn.co/mp3-preview/f0cbff172d3b4f4300537c369768a9872c187e13?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "SEE U DANCE (feat. Rebecca Black)",
+          "preview_url": "https://p.scdn.co/mp3-preview/69909d182fe9caba3760f77fac261b42bf464c25?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "PARTY'S OVER",
+          "preview_url": "https://p.scdn.co/mp3-preview/fcf3907f71ad3a39a91a60bbe8c267fc1f34a539?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WASSUP (feat. JPEGMAFIA)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1fbdb3d051c324912a7a2011db5d7de9719489ca?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "DISCO TOMORROW",
+          "preview_url": "https://p.scdn.co/mp3-preview/a81d9510946836e96cf06524c1d45a6689935548?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 103,
+      "genre": "Hardcore Hip-Hop",
+      "year": 2025,
+      "playTime30Days": 97
     }
   ]
 }

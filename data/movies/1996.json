@@ -8,6 +8,22 @@
       "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/1/51781-fargo-0-230-0-345-crop.jpg?v=44835e3b35",
       "creator": "Joel Coen",
       "year": 1996
+    },
+    {
+      "title": "Mission: Impossible",
+      "url": "https://letterboxd.com/film/mission-impossible/",
+      "rating": 7,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/6/51206-mission-impossible-0-1000-0-1500-crop.jpg?v=7b7690e145",
+      "creator": "Brian De Palma",
+      "year": 1996
+    },
+    {
+      "title": "Romeo + Juliet",
+      "url": "https://letterboxd.com/film/romeo-juliet-1996/",
+      "rating": 6,
+      "imgSrc": "https://a.ltrbxd.com/resized/film-poster/5/1/6/4/7/51647-romeo-juliet-0-1000-0-1500-crop.jpg?v=bbd8155493",
+      "creator": "Baz Luhrmann",
+      "year": 1996
     }
   ]
 }

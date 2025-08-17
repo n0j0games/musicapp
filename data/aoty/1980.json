@@ -315,7 +315,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 40,
+      "playTime": 41,
       "genre": "New Wave",
       "playTime30Days": 0
     },
@@ -384,6 +384,35 @@
       "genre": "Synthpop",
       "year": 1984,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4rjhHrJA0OIVKNwXHKKKix",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27305b37836a754d791ccda1833",
+      "title": "Warm Leatherette",
+      "artist": "Grace Jones",
+      "songs": [
+        {
+          "title": "Warm Leatherette",
+          "preview_url": "https://p.scdn.co/mp3-preview/27cdeac691cb220e474b4f021bcff6284d348210?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Private Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/2126230e0c6061c0af430640a268c3dd01cb6648?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A Rolling Stone",
+          "preview_url": "https://p.scdn.co/mp3-preview/72200a1ca1275cd4107845ca88c18930a9a1d6bd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love Is The Drug",
+          "preview_url": "https://p.scdn.co/mp3-preview/45ae34145777aeee7109d8f4369448add48e1a92?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Dance Pop",
+      "year": 1980,
+      "playTime30Days": 8
     }
   ]
 }

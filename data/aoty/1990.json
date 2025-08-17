@@ -781,10 +781,10 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 124,
+      "playTime": 125,
       "genre": "Art Pop",
       "year": 1998,
-      "playTime30Days": 15,
+      "playTime30Days": 7,
       "color": "#458d97"
     },
     {
@@ -825,7 +825,7 @@
       "playTime": 0,
       "genre": "Jazz",
       "year": 1997,
-      "playTime30Days": 5
+      "playTime30Days": 0
     }
   ]
 }

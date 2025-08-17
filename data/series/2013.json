@@ -70,6 +70,16 @@
       "url": "https://www.serializd.com/review/24868072",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/uYaskJzmBhBdvkitDTjlH6gj9Pt.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/3756/5",
+      "title": "Modern Family",
+      "subtitle": "Season 5",
+      "reviewHref": "https://www.serializd.com/review/35886165",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/sJ9PqGDvGIOwJfSle62yGGieZC1.jpg",
+      "rating": 8,
+      "year": 2013
     }
   ]
 }

@@ -90,7 +90,9 @@
       "url": "https://www.serializd.com/review/25935126",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/p1iWlMnwheRFcvVHccR61RmesAo.jpg",
       "rating": 7,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "year": 2014,
@@ -101,7 +103,9 @@
       "url": "https://www.serializd.com/review/25935108",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/3bGdVZQbgoyp9xr61V0u8lnQ4D4.jpg",
       "rating": 8,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "year": 2014,
@@ -112,6 +116,16 @@
       "url": "https://www.serializd.com/review/24868066",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/g2Pgu5Dae9P99yJs0xZQtEagA76.jpg",
       "rating": 8
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/62023/6",
+      "title": "Modern Family",
+      "subtitle": "Season 6",
+      "reviewHref": "https://www.serializd.com/review/36524512",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/5cUUBx6iUrWFvJ8BmP2d4SATy1G.jpg",
+      "rating": 7,
+      "year": 2014
     }
   ]
 }

@@ -31,7 +31,7 @@
       "rating": 9.3,
       "genre": "Deutschrap",
       "playTime": 289,
-      "playTime30Days": 12,
+      "playTime30Days": 0,
       "color": "#878787"
     },
     {
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 808,
-      "playTime30Days": 5,
+      "playTime": 810,
+      "playTime30Days": 6,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -165,7 +165,7 @@
       "rating": 8.9,
       "genre": "Deutscher Indie",
       "playTime": 483,
-      "playTime30Days": 9,
+      "playTime30Days": 7,
       "color": "#8a5e57",
       "review": "paula-hartmann--kleine-feuer"
     },
@@ -364,7 +364,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 175,
+      "playTime": 177,
       "playTime30Days": 0,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
@@ -1003,7 +1003,7 @@
       ],
       "rating": 6.9,
       "genre": "Pop Rap",
-      "playTime": 31,
+      "playTime": 32,
       "playTime30Days": 0,
       "color": "#646464"
     },
@@ -2147,7 +2147,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 383,
+      "playTime": 384,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"

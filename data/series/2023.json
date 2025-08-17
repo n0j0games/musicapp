@@ -10,7 +10,9 @@
       "url": "https://www.serializd.com/show/Ahsoka-114461",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/laCJxobHoPVaLQTKxc14Y2zV64J.jpg",
       "rating": 8,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "year": 2023,
@@ -71,7 +73,9 @@
       "url": "https://www.serializd.com/review/25935054",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/mYmFUlheJrXCLoZdS94kezG8Nuw.jpg",
       "rating": 6,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "seasonHref": "https://www.serializd.com/show/153642/season/363261/3",

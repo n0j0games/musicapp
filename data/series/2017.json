@@ -110,7 +110,9 @@
       "url": "https://www.serializd.com/review/25935137",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/4iMmQdiPUCWTOt2T4MYk1oHsy4U.jpg",
       "rating": 9.6,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "year": 2017,
@@ -151,6 +153,16 @@
       "url": "https://www.serializd.com/review/24868082",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/iOVC9GVEEVTGN3eYcDVkmDkOa11.jpg",
       "rating": 6
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/91749/9",
+      "title": "Modern Family",
+      "subtitle": "Season 9",
+      "reviewHref": "https://www.serializd.com/review/39627590",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/innrJlIzs0mktUCcQaGvMYMu4pk.jpg",
+      "rating": 7,
+      "year": 2017
     }
   ]
 }

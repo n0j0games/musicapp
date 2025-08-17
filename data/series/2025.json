@@ -20,7 +20,9 @@
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/emgToRT99Vn1A2BLYtXJweHTSFp.jpg",
       "rating": 9.7,
       "year": 2025,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "seasonHref": "https://www.serializd.com/show/247619/season/381275/1",
@@ -30,6 +32,16 @@
       "url": "https://www.serializd.com/show/Overcompensating-247619",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg",
       "rating": 7,
+      "year": 2025
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/284445/season/442702/1",
+      "title": "Takopi's Original Sin",
+      "subtitle": "Season 1",
+      "reviewHref": "https://www.serializd.com/review/39468768",
+      "url": "https://www.serializd.com/show/Takopi's-Original-Sin-284445",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+      "rating": 9,
       "year": 2025
     }
   ]

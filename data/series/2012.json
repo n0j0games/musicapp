@@ -60,7 +60,19 @@
       "url": "https://www.serializd.com/review/25935103",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/euYkZXmsZw3g1HkSyl9KxM2BrCW.jpg",
       "rating": 9,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
+    },
+    {
+      "seasonHref": "https://www.serializd.com/show/1421/season/3755/4",
+      "title": "Modern Family",
+      "subtitle": "Season 4",
+      "reviewHref": "https://www.serializd.com/review/35293677",
+      "url": "https://www.serializd.com/show/Modern-Family-1421",
+      "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w300/pGXlhxw31fPJ6PwvzZdIRgaSHc2.jpg",
+      "rating": 8,
+      "year": 2012
     }
   ]
 }

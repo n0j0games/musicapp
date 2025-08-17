@@ -40,7 +40,9 @@
       "url": "https://www.serializd.com/review/25935085",
       "imgSrc": "https://serializd-tmdb-images.b-cdn.net/t/p/w500/hRuvYvhZgmMriibE8wsEscs7FMq.jpg",
       "rating": 6,
-      "franchises" : ["Star Wars"]
+      "franchises": [
+        "Star Wars"
+      ]
     },
     {
       "year": 2009,

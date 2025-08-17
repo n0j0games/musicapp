@@ -30,8 +30,8 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 569,
-      "playTime30Days": 0,
+      "playTime": 576,
+      "playTime30Days": 8,
       "color": "#0c3f83",
       "onVinyl": true
     },
@@ -195,7 +195,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 217,
+      "playTime": 220,
       "playTime30Days": 0,
       "color": "#8a7877"
     },
@@ -324,7 +324,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 201,
+      "playTime": 202,
       "playTime30Days": 0
     },
     {
@@ -660,7 +660,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 114,
+      "playTime": 115,
       "playTime30Days": 0
     },
     {
@@ -784,7 +784,7 @@
       "artist": "Drake",
       "rating": 5,
       "genre": "Rap",
-      "playTime": 274,
+      "playTime": 275,
       "playTime30Days": 0
     },
     {
@@ -822,7 +822,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 17,
+      "playTime": 18,
       "playTime30Days": 0
     },
     {

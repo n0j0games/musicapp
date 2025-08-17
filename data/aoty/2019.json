@@ -30,7 +30,7 @@
       ],
       "rating": 11.3,
       "playTime": 517,
-      "playTime30Days": 15,
+      "playTime30Days": 12,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -354,7 +354,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 113,
+      "playTime": 114,
       "playTime30Days": 0
     },
     {
@@ -757,9 +757,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 255,
+      "playTime": 311,
       "genre": "Live",
-      "playTime30Days": 34
+      "playTime30Days": 84
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",
