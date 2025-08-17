@@ -1,4 +1,16 @@
-<p class="p-i fs-xl title-gap-b text-title"><span class="p-b-i"> my fav songs from {{ fridayOfTheWeek }}</span> (week #{{songsOfTheWeek?.week}})</p>
+<div class="flex-row gap-l align-center justify-center title-gap-b">
+    <div class="sotw-prev-button flex-row align-center justify-center">
+        <button class="p-i fs-m left-text" *ngIf="previousWeekLink" [routerLink]="['/sotw', previousWeekLink]">
+            <i class="fa-solid fa-arrow-left"></i> {{ previousWeekLink.slice(0, 4) }} {{ previousWeekLink.slice(4, 6) }}
+        </button>
+    </div>
+    <p class="p-i fs-xl text-title"><span class="p-b-i"> my fav songs from {{ fridayOfTheWeek }}</span> (week #{{songsOfTheWeek?.week}})</p>
+    <div class="sotw-next-button flex-row align-center justify-center">
+        <button class="p-i fs-m left-text" *ngIf="nextWeekLink" [routerLink]="['/sotw', nextWeekLink]">
+            {{ nextWeekLink.slice(0, 4) }} {{ nextWeekLink.slice(4, 6) }} <i class="fa-solid fa-arrow-right"></i>
+        </button>
+    </div>
+</div>
 <div *ngIf="songsOfTheWeek !== null" class="list gap-xl">
     <app-song-detail
             *ngFor="let song of songsOfTheWeek.songs"

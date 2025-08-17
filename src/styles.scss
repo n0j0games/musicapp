@@ -454,6 +454,22 @@ option:disabled {
   margin-left: 30px;
 }
 
+.sotw-next-button, .sotw-prev-button {
+  width: 100px;
+}
+
+.sotw-next-button button, .sotw-prev-button button {
+  text-decoration: none;
+  background: transparent;
+  color: $text-color;
+  border: none;
+  outline: none;
+}
+
+.sotw-next-button button:hover, .sotw-prev-button button:hover {
+  color: $accent-color;
+}
+
 @media (width < 600px) or (height < 700px) {
 
   .list-banner {
