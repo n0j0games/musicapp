@@ -61,7 +61,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/eba8105c02fdb0ead805858e36b4dda9494ac7e1?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.1,
+      "rating": 9.9,
       "playTime": 155,
       "playTime30Days": 0,
       "color": "#001e28"
@@ -231,7 +231,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e77da41e58ec64b5081e0212b69f92be05a02ab7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 8.3,
+      "rating": 9.0,
+      "color" : "#7d3b21",
       "playTime": 173,
       "playTime30Days": 0
     },
