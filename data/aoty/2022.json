@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1101,
-      "playTime30Days": 37,
+      "playTime": 1122,
+      "playTime30Days": 53,
       "color": "#465b6b"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 480,
+      "playTime": 481,
       "playTime30Days": 0,
       "color": "#61615f"
     },
@@ -195,7 +195,7 @@
       "rating": 10.3,
       "onVinyl": true,
       "playTime": 382,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "color": "#456338"
     },
     {
@@ -490,7 +490,7 @@
       ],
       "rating": 8.6,
       "playTime": 258,
-      "playTime30Days": 56,
+      "playTime30Days": 38,
       "color": "#8d410d"
     },
     {
@@ -650,8 +650,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 288,
-      "playTime30Days": 6,
+      "playTime": 290,
+      "playTime30Days": 8,
       "color": "#c33d15"
     },
     {
@@ -2057,7 +2057,7 @@
       "playTime": 40,
       "genre": "Singer-Songwriter",
       "year": 2022,
-      "playTime30Days": 17
+      "playTime30Days": 0
     }
   ]
 }

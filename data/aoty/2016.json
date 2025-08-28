@@ -30,7 +30,7 @@
       ],
       "rating": 9.7,
       "onVinyl": true,
-      "playTime": 731,
+      "playTime": 732,
       "genre": "Alternative R&B",
       "playTime30Days": 0,
       "color": "#2f3f28"
@@ -95,8 +95,8 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 202,
-      "playTime30Days": 6,
+      "playTime": 210,
+      "playTime30Days": 12,
       "color": "#437b76"
     },
     {
@@ -569,7 +569,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 33,
+      "playTime": 34,
       "playTime30Days": 0
     },
     {
@@ -711,7 +711,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 131,
+      "playTime": 132,
       "playTime30Days": 0
     },
     {

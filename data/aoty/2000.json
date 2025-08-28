@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 832,
+      "playTime": 833,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -137,7 +137,7 @@
       ],
       "rating": 9.5,
       "playTime": 180,
-      "playTime30Days": 9,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#006082"
     },
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 350,
+      "playTime": 352,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 96,
-      "playTime30Days": 0,
+      "playTime": 100,
+      "playTime30Days": 7,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 193,
+      "playTime": 194,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -1239,7 +1239,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 55,
+      "playTime": 56,
       "genre": "Pop",
       "year": 2003,
       "playTime30Days": 0
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 56,
+      "playTime": 60,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 10
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",

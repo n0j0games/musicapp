@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 155,
+      "playTime": 156,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -137,8 +137,8 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 357,
-      "playTime30Days": 0,
+      "playTime": 364,
+      "playTime30Days": 7,
       "color": "#0e3258"
     },
     {
@@ -231,10 +231,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e77da41e58ec64b5081e0212b69f92be05a02ab7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
-      "color" : "#7d3b21",
-      "playTime": 173,
-      "playTime30Days": 0
+      "rating": 9,
+      "color": "#7d3b21",
+      "playTime": 188,
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/6QfaZ05cdm3h2mOp8D7GD4",
@@ -264,8 +264,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 199,
-      "playTime30Days": 0,
+      "playTime": 253,
+      "playTime30Days": 54,
       "color": "#933010"
     },
     {
@@ -757,10 +757,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d18d0b25041cd7171ed2da18e3653e00c994a300?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
-      "playTime": 311,
+      "rating": 9.2,
+      "playTime": 452,
       "genre": "Live",
-      "playTime30Days": 84
+      "playTime30Days": 223,
+      "color": "#88888a"
     },
     {
       "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L",
@@ -786,7 +787,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 151,
+      "playTime": 153,
       "genre": "R&B",
       "playTime30Days": 0
     },

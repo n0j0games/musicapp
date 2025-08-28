@@ -161,7 +161,7 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 100,
+      "playTime": 102,
       "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
@@ -226,8 +226,8 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 146,
-      "playTime30Days": 0,
+      "playTime": 151,
+      "playTime30Days": 5,
       "year": 1983,
       "color": "#5d5340"
     },

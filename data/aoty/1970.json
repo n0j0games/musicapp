@@ -608,7 +608,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 36,
+      "playTime": 37,
       "genre": "Funk",
       "year": 1975,
       "playTime30Days": 0
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 39,
+      "playTime": 40,
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0
@@ -710,7 +710,7 @@
       "playTime": 51,
       "genre": "Smooth Soul",
       "year": 1970,
-      "playTime30Days": 16,
+      "playTime30Days": 0,
       "color": "#3e4529"
     },
     {
@@ -770,10 +770,10 @@
         }
       ],
       "rating": 0,
-      "playTime": 16,
+      "playTime": 17,
       "genre": "Progressive Soul",
       "year": 1971,
-      "playTime30Days": 11
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i",
@@ -799,10 +799,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 23,
+      "playTime": 28,
       "genre": "Chicago Soul",
       "year": 1971,
-      "playTime30Days": 23
+      "playTime30Days": 28
     },
     {
       "url": "https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8",
@@ -857,10 +857,208 @@
         }
       ],
       "rating": 7,
-      "playTime": 19,
+      "playTime": 20,
       "genre": "Progressive Soul",
       "year": 1972,
       "playTime30Days": 10
+    },
+    {
+      "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a1fc113a6858d0824d9aaf38",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "songs": [
+        {
+          "title": "Let's Stay Together",
+          "preview_url": "https://p.scdn.co/mp3-preview/027817c11eaff28a45d96046a1c5da43d8a1e155?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "La-La for You",
+          "preview_url": "https://p.scdn.co/mp3-preview/96f067645c46d535bf7ab3af7b42129331750783?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "How Can You Mend a Broken Heart",
+          "preview_url": "https://p.scdn.co/mp3-preview/6605b8579509316dfbeb75fd5eb9734f75bee241?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Judy",
+          "preview_url": "https://p.scdn.co/mp3-preview/9afe98c49cc0ae5814aed554c4fe4d2821847ab7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 16,
+      "genre": "Southern Soul",
+      "year": 1972,
+      "playTime30Days": 15
+    },
+    {
+      "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737bc09ea8d6c7db1993dfb77d",
+      "title": "Back Stabbers",
+      "artist": "The O'Jays",
+      "songs": [
+        {
+          "title": "Back Stabbers",
+          "preview_url": "https://p.scdn.co/mp3-preview/3719ee781c107359937e236d5ee368bbe40009e0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Listen to the Clock on the Wall",
+          "preview_url": "https://p.scdn.co/mp3-preview/b910eef16978d0f69d6901fc9dd8e1000b4f8f2b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love Train",
+          "preview_url": "https://p.scdn.co/mp3-preview/ce505b0ea58a9441419356e3789ee1fca7010c97?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Time to Get Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa1772df92cb6fef29d7e472dbca550b04cc4e26?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sunshine",
+          "preview_url": "https://p.scdn.co/mp3-preview/42b1c6f2aab93eafe62d7cf81e8d4707dec221e8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 20,
+      "genre": "Philly Soul",
+      "year": 1972,
+      "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cd82a45b652fb7ea2e9e6e21",
+      "title": "Love Is The Message",
+      "artist": "MFSB",
+      "songs": [
+        {
+          "title": "Love Is the Message (feat. The Three Degrees)",
+          "preview_url": "https://p.scdn.co/mp3-preview/538c706658c98b7f6e1dcc1c6d095dcaafb5cffa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Cheaper to Keep Her",
+          "preview_url": "https://p.scdn.co/mp3-preview/fe8428d50046584543d494b1222c1248c07c4d1a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
+          "preview_url": "https://p.scdn.co/mp3-preview/be89235c6609de57ea325338f0875d32c2e77b51?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bitter Sweet",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ebef6bd65d8ed522d78da53d721fae5aeae5f1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Philly Soul",
+      "year": 1973,
+      "playTime30Days": 7
+    },
+    {
+      "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739d1d0e64081ea5c0927d6051",
+      "title": "3+3",
+      "artist": "The Isley Brothers",
+      "songs": [
+        {
+          "title": "That Lady, Pts. 1 & 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/70f01aad20477fdbd9df22e3de8ae1c7d5a75430?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "You Walk Your Way",
+          "preview_url": "https://p.scdn.co/mp3-preview/9d1199a34d2f81571c27a8235058600edfedb463?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Listen to the Music",
+          "preview_url": "https://p.scdn.co/mp3-preview/ace2e6041bfe13bc120378ffdebcf41a36d4543d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "What It Comes Down To",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e27800313056086770ac89273e7cfc17f1cbcb7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Summer Breeze, Pts. 1 & 2",
+          "preview_url": "https://p.scdn.co/mp3-preview/aaaa41e8770c08f78c8802bd9d58eec59d4076d2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 21,
+      "genre": "Early Funk",
+      "year": 1973,
+      "playTime30Days": 15
+    },
+    {
+      "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ba7e1a0f706985f9747904fa",
+      "title": "The Payback",
+      "artist": "James Brown",
+      "songs": [
+        {
+          "title": "The Payback",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ded0d9a9868547299aa066165a44af02a851488?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Take Some - Leave Some",
+          "preview_url": "https://p.scdn.co/mp3-preview/373a72d0bbe4fe74cdf35def915f985e2549ad75?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Stone To The Bone",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d5cd7db8e465a6667cf90dcdc72370f7885bcf1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mind Power",
+          "preview_url": "https://p.scdn.co/mp3-preview/8ba0cb9a370c1f85e51619f1c4ade348dc44a26b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Early Funk",
+      "year": 1973,
+      "playTime30Days": 9
+    },
+    {
+      "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54",
+      "title": "Black & Blue",
+      "artist": "Harold Melvin & The Blue Notes",
+      "songs": [
+        {
+          "title": "Cabaret (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7757a085acc22a7648c72a77e5676217ebccc593?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Love I Lost (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f686e5daf8ca33a9827dc2e285e8526ae56640b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "It All Depends On You (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7f1428eb2918c1563655a5e28f83f15fa10bd8e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Concentrate On Me (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/3173856a93df6c1ec3f92ba63664975aa6c5f842?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c437f118e4ab2f978fac295367bd99aa7ed4a7f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Is There a Place for Me (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/89418575522b1e65c3be17c2e788754bbbc04b3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'm Weak for You (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b8ebf835049fe30976a13d25dcab55ad2a24e2f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'm Comin' Home Tomorrow (feat. Teddy Pendergrass)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7c81071b837dd2183b9ae1d5431da5d1a2c5b20?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 12,
+      "genre": "Philly Soul",
+      "year": 1973,
+      "playTime30Days": 12
     }
   ]
 }

@@ -30,7 +30,7 @@
       ],
       "rating": 10,
       "genre": "Pop Rap",
-      "playTime": 759,
+      "playTime": 760,
       "playTime30Days": 0,
       "color": "#965f0f"
     },
@@ -218,7 +218,7 @@
       ],
       "rating": 10.7,
       "playTime": 458,
-      "playTime30Days": 96,
+      "playTime30Days": 63,
       "color": "#064cb7",
       "onVinyl": true
     },

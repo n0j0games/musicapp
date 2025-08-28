@@ -63,7 +63,7 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 621,
+      "playTime": 622,
       "playTime30Days": 0,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 810,
-      "playTime30Days": 6,
+      "playTime": 900,
+      "playTime30Days": 92,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -165,7 +165,7 @@
       "rating": 8.9,
       "genre": "Deutscher Indie",
       "playTime": 483,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#8a5e57",
       "review": "paula-hartmann--kleine-feuer"
     },
@@ -199,7 +199,7 @@
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
       "playTime": 214,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#9a6c1f"
     },
     {
@@ -231,7 +231,7 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 343,
+      "playTime": 344,
       "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
@@ -770,8 +770,8 @@
       ],
       "rating": 7.6,
       "genre": "Schweizer Indie",
-      "playTime": 116,
-      "playTime30Days": 0,
+      "playTime": 121,
+      "playTime30Days": 5,
       "color": "#832114"
     },
     {
@@ -2085,7 +2085,7 @@
       ],
       "rating": 6.1,
       "genre": "Deutschrap",
-      "playTime": 79,
+      "playTime": 80,
       "playTime30Days": 0
     },
     {
@@ -2271,7 +2271,7 @@
       ],
       "rating": 8.4,
       "genre": "Art Pop",
-      "playTime": 275,
+      "playTime": 276,
       "playTime30Days": 0,
       "color": "#332737"
     },
@@ -2303,9 +2303,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 354,
+      "playTime": 359,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#6c6c6c"
     },
     {
@@ -2428,7 +2428,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 76,
+      "playTime": 78,
       "genre": "R&B",
       "color": "#002e36",
       "playTime30Days": 0

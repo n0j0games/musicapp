@@ -39,7 +39,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 585,
+      "playTime": 587,
       "genre": "Latin",
       "playTime30Days": 16,
       "color": "#729238"
@@ -74,7 +74,7 @@
       "rating": 9,
       "playTime": 327,
       "genre": "Rap",
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -837,10 +837,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 475,
+      "playTime": 481,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 17,
+      "playTime30Days": 19,
       "onVinyl": true
     },
     {
@@ -942,7 +942,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 95,
+      "playTime": 97,
       "genre": "Trip Hop",
       "year": 2025,
       "playTime30Days": 8,
@@ -976,10 +976,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 220,
+      "playTime": 229,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 26
+      "playTime30Days": 29
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1045,7 +1045,7 @@
       "playTime": 151,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1140,10 +1140,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 157,
+      "playTime": 159,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 27
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1169,10 +1169,10 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 19,
+      "playTime": 26,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 8
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1202,11 +1202,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 91,
+      "playTime": 94,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 35
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1302,7 +1302,7 @@
       "playTime": 52,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 16
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ",
@@ -1360,10 +1360,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 172,
+      "playTime": 181,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 113
+      "playTime30Days": 42
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1413,7 +1413,7 @@
       "playTime": 105,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 105
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f",
@@ -1443,10 +1443,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 41,
+      "playTime": 42,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 41
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1476,10 +1476,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 116,
+      "playTime": 121,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 116,
+      "playTime30Days": 54,
       "color": "#1b2435"
     },
     {
@@ -1510,10 +1510,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 86,
+      "playTime": 97,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 86
+      "playTime30Days": 97
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1539,10 +1539,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 17,
+      "playTime": 20,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 17
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1601,10 +1601,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 39,
+      "playTime": 70,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 39
+      "playTime30Days": 70
     },
     {
       "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
@@ -1612,10 +1612,10 @@
       "title": "BORN SPINNER",
       "artist": "reezy",
       "rating": 4,
-      "playTime": 14,
+      "playTime": 17,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 14
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW",
@@ -1645,10 +1645,31 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 103,
+      "playTime": 171,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 97
+      "playTime30Days": 146
+    },
+    {
+      "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273722bdc5a6faf3af8cb7618ee",
+      "title": "KIARI",
+      "artist": "Offset",
+      "songs": [
+        {
+          "title": "Bodies (feat. JID)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b7aefa8683f2b4ce577bc369d1e25755fd00111?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Checkmate (Smooth)",
+          "preview_url": "https://p.scdn.co/mp3-preview/ada2873145e187dfb143f6e20c48dec0271d8b8a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 20,
+      "genre": "Trap",
+      "year": 2025,
+      "playTime30Days": 20
     }
   ]
 }

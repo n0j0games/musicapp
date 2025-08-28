@@ -35,8 +35,8 @@
       "rating": 11.9,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1090,
-      "playTime30Days": 0,
+      "playTime": 1099,
+      "playTime30Days": 8,
       "color": "#291c13"
     },
     {
@@ -73,7 +73,7 @@
       "rating": 11.6,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 1090,
+      "playTime": 1091,
       "playTime30Days": 0,
       "color": "#7c7a79"
     },
@@ -234,7 +234,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 233,
+      "playTime": 234,
       "playTime30Days": 0
     },
     {
@@ -326,7 +326,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/56f9d71f39833834a3220dab324e3abf1d5a6a92?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 10.0,
+      "rating": 10,
       "playTime": 190,
       "playTime30Days": 0,
       "color": "#526b6e"

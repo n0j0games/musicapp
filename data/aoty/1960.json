@@ -131,7 +131,7 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 42,
+      "playTime": 43,
       "playTime30Days": 0,
       "year": 1965
     },
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 10,
-      "playTime": 144,
+      "playTime": 186,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 5,
+      "playTime30Days": 46,
       "color": "#b20a57"
     },
     {
