@@ -30,7 +30,7 @@
       ],
       "rating": 11.3,
       "playTime": 517,
-      "playTime30Days": 12,
+      "playTime30Days": 7,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -264,8 +264,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 253,
-      "playTime30Days": 54,
+      "playTime": 255,
+      "playTime30Days": 56,
       "color": "#933010"
     },
     {
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 452,
+      "playTime": 633,
       "genre": "Live",
-      "playTime30Days": 223,
+      "playTime30Days": 404,
       "color": "#88888a"
     },
     {

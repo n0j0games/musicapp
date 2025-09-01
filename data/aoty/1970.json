@@ -35,7 +35,7 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 330,
+      "playTime": 331,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -740,11 +740,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d881a51b29122ad164e69cccf5d41f5b9bf70f02?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
+      "rating": 8,
       "playTime": 18,
       "genre": "Progressive Soul",
       "year": 1971,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo",
@@ -769,7 +769,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/08e524b64026ba88f178cccbbfd20b65dd86ff03?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 17,
       "genre": "Progressive Soul",
       "year": 1971,
@@ -981,10 +981,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 21,
+      "playTime": 22,
       "genre": "Early Funk",
       "year": 1973,
-      "playTime30Days": 15
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl",
@@ -1042,11 +1042,43 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c437f118e4ab2f978fac295367bd99aa7ed4a7f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 12,
+      "rating": 8,
+      "playTime": 17,
       "genre": "Philly Soul",
       "year": 1973,
-      "playTime30Days": 12
+      "playTime30Days": 17
+    },
+    {
+      "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
+      "title": "Innervisions",
+      "artist": "Stevie Wonder",
+      "songs": [
+        {
+          "title": "Higher Ground",
+          "preview_url": "https://p.scdn.co/mp3-preview/5b9df6d4e699b7b6f20d58eb796fe22965cd563e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Living For The City",
+          "preview_url": "https://p.scdn.co/mp3-preview/be66f0e49fdbbd57cd0a1138d703f5d80a16a4ed?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "All In Love Is Fair",
+          "preview_url": "https://p.scdn.co/mp3-preview/a38dda0013a3ddf0eb5d25ba93a14b2e1331302d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Too High",
+          "preview_url": "https://p.scdn.co/mp3-preview/9814d07a25514beda5ded0a26ae80d3896521eb3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "He's Misstra Know-It-All",
+          "preview_url": "https://p.scdn.co/mp3-preview/9cc4d6cfe4ba6df16d0820ba17d2a656ba936968?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.4,
+      "playTime": 0,
+      "genre": "Progressive Soul",
+      "year": 1973
     }
   ]
 }

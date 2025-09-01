@@ -189,7 +189,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 311,
+      "playTime": 312,
       "playTime30Days": 0,
       "color": "#601f30"
     },
@@ -316,7 +316,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 132,
+      "playTime": 133,
       "playTime30Days": 0
     },
     {
@@ -347,7 +347,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 78,
+      "playTime": 79,
       "playTime30Days": 0
     },
     {
@@ -409,7 +409,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 76,
+      "playTime": 77,
       "playTime30Days": 0
     },
     {
@@ -533,7 +533,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 167,
+      "playTime": 168,
       "playTime30Days": 0,
       "color": "#9d9d9d"
     },
@@ -562,7 +562,7 @@
       ],
       "rating": 7.5,
       "genre": "Rap",
-      "playTime": 217,
+      "playTime": 219,
       "playTime30Days": 0
     },
     {
@@ -975,7 +975,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 53,
+      "playTime": 54,
       "genre": "Jazz Fusion",
       "playTime30Days": 0
     },

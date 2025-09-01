@@ -41,7 +41,7 @@
       "rating": 9.1,
       "playTime": 587,
       "genre": "Latin",
-      "playTime30Days": 16,
+      "playTime30Days": 14,
       "color": "#729238"
     },
     {
@@ -840,7 +840,7 @@
       "playTime": 481,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 19,
+      "playTime30Days": 15,
       "onVinyl": true
     },
     {
@@ -941,11 +941,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72008ea4560bec3a3e3b02637eb37b25d08a3648?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.9,
+      "rating": 7,
       "playTime": 97,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 8,
+      "playTime30Days": 6,
       "onVinyl": "true"
     },
     {
@@ -976,10 +976,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 229,
+      "playTime": 230,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 29
+      "playTime30Days": 24
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1143,7 +1143,7 @@
       "playTime": 159,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 11
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1169,10 +1169,10 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 26,
+      "playTime": 28,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 15
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1193,20 +1193,16 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9341413166e3ecd3a38e7f2d4a89c59335e60274?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Current Affairs",
-          "preview_url": "https://p.scdn.co/mp3-preview/2ab07c75c9f3a720e9e14bbc5e50f981f43de949?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "Broken Glass",
           "preview_url": "https://p.scdn.co/mp3-preview/b9ddd7146b3c28f57309e4aff999c8c60d44d47c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
-      "playTime": 94,
+      "rating": 7.9,
+      "playTime": 97,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 25
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1249,7 +1245,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 23,
+      "playTime": 25,
       "genre": "Pop Rap",
       "year": 2025,
       "playTime30Days": 0
@@ -1360,10 +1356,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 181,
+      "playTime": 183,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 42
+      "playTime30Days": 32
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1446,7 +1442,7 @@
       "playTime": 42,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 17
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1476,10 +1472,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 121,
+      "playTime": 122,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 54,
+      "playTime30Days": 22,
       "color": "#1b2435"
     },
     {
@@ -1503,17 +1499,13 @@
         {
           "title": "WRK",
           "preview_url": "https://p.scdn.co/mp3-preview/ade925080e7080454b24068ed4db9c407f9d7045?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "For Keeps",
-          "preview_url": "https://p.scdn.co/mp3-preview/c3b4e547bbc4b3fd8940f82c1017d2945c1d0e38?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
-      "playTime": 97,
+      "rating": 7,
+      "playTime": 99,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 97
+      "playTime30Days": 99
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1539,10 +1531,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 20,
+      "playTime": 22,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 20
+      "playTime30Days": 22
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1601,10 +1593,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 70,
+      "playTime": 72,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 70
+      "playTime30Days": 72
     },
     {
       "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
@@ -1612,10 +1604,10 @@
       "title": "BORN SPINNER",
       "artist": "reezy",
       "rating": 4,
-      "playTime": 17,
+      "playTime": 18,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 17
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW",
@@ -1645,10 +1637,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 171,
+      "playTime": 181,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 146
+      "playTime30Days": 152
     },
     {
       "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr",
@@ -1670,6 +1662,67 @@
       "genre": "Trap",
       "year": 2025,
       "playTime30Days": 20
+    },
+    {
+      "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d72de2aeb4023bae6a8ffa74",
+      "title": "wHIMSY",
+      "artist": "DESTIN CONRAD",
+      "songs": [
+        {
+          "title": "A Lonely Detective",
+          "preview_url": "https://p.scdn.co/mp3-preview/13ee94c88af537f829b9668f0f8755e73d7ba9f9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "drifting",
+          "preview_url": "https://p.scdn.co/mp3-preview/7eda3ef6417ee90b39a136f51ee553262b374500?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "wHIP",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf1e96e4a2167a7dfeae2b5d1ab9eab99f56666a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "wASH U AWAY",
+          "preview_url": "https://p.scdn.co/mp3-preview/1c6f630884b441a47d02271e33856c8f2f2bd85b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+
+        {
+          "title": "BOREDOM",
+          "preview_url": "https://p.scdn.co/mp3-preview/e68bde0dbc77d60dafe456a258a32ee77eb75cd1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.6,
+      "playTime": 0,
+      "genre": "Jazz Fusion",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e6b4921ff23d490f9a6cfd7d",
+      "title": "Free",
+      "artist": "Kid Cudi",
+      "songs": [
+        {
+          "title": "Neverland",
+          "preview_url": "https://p.scdn.co/mp3-preview/1d2fd441b98ce719840951c5de5f18208df7cf9e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mr. Miracle",
+          "preview_url": "https://p.scdn.co/mp3-preview/2b530120ddef920361428e6c2359c1b031673d67?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Grave",
+          "preview_url": "https://p.scdn.co/mp3-preview/d4fb9b38f4e4defce0aa2b961b7a6cda4c9323c9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Salt Water",
+          "preview_url": "https://p.scdn.co/mp3-preview/e560cf3574aa3ca176cfc4d48f6dfc7f282268d5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Pop Rock",
+      "year": 2025
     }
   ]
 }

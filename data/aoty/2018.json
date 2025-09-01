@@ -30,8 +30,8 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 578,
-      "playTime30Days": 9,
+      "playTime": 579,
+      "playTime30Days": 10,
       "color": "#0c3f83",
       "onVinyl": true
     },
@@ -293,7 +293,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 209,
+      "playTime": 210,
       "playTime30Days": 0
     },
     {
@@ -471,7 +471,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 178,
+      "playTime": 179,
       "playTime30Days": 0
     },
     {
@@ -1068,7 +1068,7 @@
       "title": "Hoodie SZN",
       "artist": "A Boogie Wit da Hoodie",
       "rating": 4,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "R&B",
       "playTime30Days": 0
     },

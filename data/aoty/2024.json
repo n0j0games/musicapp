@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 900,
-      "playTime30Days": 92,
+      "playTime": 901,
+      "playTime30Days": 93,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -231,7 +231,7 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 344,
+      "playTime": 345,
       "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
@@ -331,7 +331,7 @@
       ],
       "rating": 8.7,
       "genre": "Deutscher Indie",
-      "playTime": 100,
+      "playTime": 101,
       "playTime30Days": 0,
       "color": "#958929"
     },
@@ -592,7 +592,7 @@
       ],
       "rating": 8.2,
       "genre": "Indie Rock",
-      "playTime": 70,
+      "playTime": 71,
       "playTime30Days": 0,
       "color": "#57574a"
     },
@@ -1003,7 +1003,7 @@
       ],
       "rating": 6.9,
       "genre": "Pop Rap",
-      "playTime": 32,
+      "playTime": 33,
       "playTime30Days": 0,
       "color": "#646464"
     },
@@ -1886,7 +1886,7 @@
       ],
       "rating": 6.1,
       "genre": "Electronic",
-      "playTime": 60,
+      "playTime": 61,
       "playTime30Days": 0
     },
     {
@@ -2147,7 +2147,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 384,
+      "playTime": 385,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"

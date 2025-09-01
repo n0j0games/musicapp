@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 352,
+      "playTime": 353,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -592,7 +592,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 92,
+      "playTime": 93,
       "playTime30Days": 0,
       "year": 2001
     },
@@ -620,7 +620,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 52,
+      "playTime": 53,
       "playTime30Days": 0,
       "year": 2005
     },
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 73,
+      "playTime": 74,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -940,7 +940,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 73,
+      "playTime": 74,
       "genre": "French House",
       "year": 2007,
       "playTime30Days": 0,
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 55,
+      "playTime": 56,
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 0
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 60,
+      "playTime": 61,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 13
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
