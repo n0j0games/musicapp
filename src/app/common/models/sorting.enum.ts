@@ -4,6 +4,7 @@ export enum Sorting {
     ARTIST = 'artist',
     RELEASE_DATE = 'release-date',
     PlAY_TIME = 'play-time',
-    RECENT = 'recent',
-    DIRECTOR = 'director'
+    RECENT = 'play-time-recent',
+    DIRECTOR = 'director',
+    RECENTLY_LOGGED = 'recently-logged',
 }

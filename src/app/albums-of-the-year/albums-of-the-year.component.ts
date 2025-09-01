@@ -16,7 +16,7 @@ import {AggregateTitleHelper} from "../common/aggregate-title-helper";
 import {GroupAliasHelper} from "../common/group-alias-helper";
 import {SearchCategory} from "../common/models/search-category";
 
-const MAX_CAP_DEFAULT = 200;
+const MAX_CAP_DEFAULT = 70;
 
 @Component({
   selector: 'app-albums-of-the-year',
@@ -46,7 +46,7 @@ export class AlbumsOfTheYearComponent implements OnInit {
   private startYear: number = 1965;
   yearOptions_ : number[] = Array.from({ length: (new Date().getFullYear() - this.startYear + 1) }, (_, i) => this.startYear + i);
   decadeOptions = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
-  sortingOptions = [ Sorting.RATING, Sorting.ALPHABETICAL, Sorting.ARTIST, Sorting.RELEASE_DATE, Sorting.PlAY_TIME, Sorting.RECENT ];
+  sortingOptions = [ Sorting.RATING, Sorting.ALPHABETICAL, Sorting.ARTIST, Sorting.RELEASE_DATE, Sorting.PlAY_TIME, Sorting.RECENT, Sorting.RECENTLY_LOGGED ];
   artistIcon: string | undefined;
 
   formGroup = new FormGroup({
@@ -174,6 +174,8 @@ export class AlbumsOfTheYearComponent implements OnInit {
         return albums.sort((a, b) => b.rating - a.rating);
       case Sorting.RELEASE_DATE:
         return albums.sort((a, b) => (a.year ? a.year : 9999) - (b.year ? b.year : 9999));
+      case Sorting.RECENTLY_LOGGED:
+        return albums.filter(a => a.logged !== undefined && a.logged).slice(0, 10).sort((a, b) => b.logged!.localeCompare(a.logged!));
       default:
         return albums;
     }

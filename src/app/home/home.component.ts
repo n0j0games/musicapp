@@ -8,6 +8,8 @@ import {Album} from "../common/models/album";
 import {Logger} from "../common/logger";
 import {ItemComponent} from "./item/item.component";
 import {HighlightCardComponent} from "../common/components/highlight-card/highlight-card.component";
+import {Sorting} from "../common/models/sorting.enum";
+import {WeekHelper} from "../common/week-helper";
 
 @Component({
   selector: 'app-home-new',
@@ -26,6 +28,7 @@ export class HomeComponent implements OnInit {
 
   rotationList : string[] = [];
   currentYearList : string[] = [];
+  recentlyAddedList: string[] = [];
   currentWeek = 0;
   currentYear = 2025;
   currentWeekItems : string[] = [];
@@ -40,10 +43,15 @@ export class HomeComponent implements OnInit {
     this.sotwListChangedListener();
     const aotyList = this.aotyService.getAotyList();
     const queryYears = aotyList!.items!.map(value => value.year);
-    const rotation = this.getAggregatedAlbums(queryYears);
-    this.rotationList = rotation
+    const aggAlbums = this.getAggregatedAlbums(queryYears);
+    this.rotationList = [...aggAlbums]
         .sort((a, b) => (b.playTime30Days ? b.playTime30Days : 0) - (a.playTime30Days ? a.playTime30Days : 0))
         .map(value => value.imgUrl).slice(0, 4);
+    this.recentlyAddedList = [...aggAlbums]
+        .filter(a => a.logged !== undefined && a.logged)
+        .sort((a, b) => b.logged!.localeCompare(a.logged!))
+        .map(value => value.imgUrl)
+        .slice(0, 4);
 
     this.currentYearList = this.aotyService.getAlbumsOfTheYear(2025)!.albums.sort((a, b) => b.rating - a.rating).map(value => value.imgUrl).slice(0, 4);
   }
@@ -82,4 +90,6 @@ export class HomeComponent implements OnInit {
     }
   }
 
+  protected readonly Sorting = Sorting;
+  protected readonly WeekHelper = WeekHelper;
 }

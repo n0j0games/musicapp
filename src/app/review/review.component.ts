@@ -1,12 +1,11 @@
-import {AfterViewInit, Component, ElementRef, Input, OnInit, ViewChild} from '@angular/core';
-import {LastfmBadge} from "../common/components/lastfm-badge/lastfm-badge";
+import {AfterViewInit, Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import {NgIf} from "@angular/common";
 import {PlayButtonComponent} from "../common/components/play-button/play-button.component";
 import {RatingComponent} from "../common/components/rating/rating.component";
 import {RemoveDeluxePipe} from "../common/pipes/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../common/components/vinyl/vinyl.component";
-import {ActivatedRoute, ActivatedRouteSnapshot} from "@angular/router";
+import {ActivatedRoute} from "@angular/router";
 import {ReviewService} from "../common/services/review.service";
 import {AotyService} from "../common/services/aoty.service";
 import {NormalizeHelper} from "../common/normalize-helper";
@@ -15,7 +14,6 @@ import {NormalizeHelper} from "../common/normalize-helper";
   selector: 'app-review',
   standalone: true,
     imports: [
-        LastfmBadge,
         NgIf,
         PlayButtonComponent,
         RatingComponent,

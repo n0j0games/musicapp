@@ -14,7 +14,8 @@ export class Album {
                 public color? : string,
                 public year? : number,
                 public review? : string,
-                public type?: string) {
+                public type?: string,
+                public logged?: string) {
     }
 
 }

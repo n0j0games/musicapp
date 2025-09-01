@@ -10,12 +10,12 @@ import {SongInfo} from "../../common/models/songinfo";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
-import {LastfmBadge} from "../../common/components/lastfm-badge/lastfm-badge";
 import {NormalizeHelper} from "../../common/normalize-helper";
 import {ReviewService} from "../../common/services/review.service";
 import {ReviewButtonComponent} from "../../common/components/review-button/review-button.component";
 import {Logger} from "../../common/logger";
-import {SearchCategory} from "../../common/models/search-category";
+import {LastfmBadgeComponent} from "../../common/components/lastfm-badge/lastfm-badge.component";
+import {LoggedBadgeComponent} from "../../common/components/logged-badge/logged-badge.component";
 
 @Component({
   selector: 'app-album-detail',
@@ -31,8 +31,9 @@ import {SearchCategory} from "../../common/models/search-category";
     VinylComponent,
     RouterLink,
     ContentBadgeComponent,
-    LastfmBadge,
-    ReviewButtonComponent
+    ReviewButtonComponent,
+    LastfmBadgeComponent,
+    LoggedBadgeComponent
   ],
   templateUrl: './album-detail.component.html'
 })
@@ -47,11 +48,10 @@ export class AlbumDetailComponent implements OnInit {
 
   songinfo! : SongInfo[];
   albumNames! : string;
-  midOrWorst : boolean = false;
 
   private logger: Logger = new Logger(this);
 
-  constructor(private audioService : AudioService, private router: Router, private route: ActivatedRoute, private reviewService: ReviewService) {
+  constructor(private audioService : AudioService, private router: Router, private route: ActivatedRoute) {
   }
 
   ngOnInit() {
@@ -60,7 +60,6 @@ export class AlbumDetailComponent implements OnInit {
     this.previewUrls = this.album.songs?
         this.album.songs.map(song => song.preview_url) :
         []
-    this.midOrWorst = this.album.rating <= 4;
     this.audioService.playStatusChanged$.subscribe(status => {
       this.isPlaying = status !== null && this.previewUrls.includes(status);
     })

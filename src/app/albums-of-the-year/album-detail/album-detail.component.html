@@ -4,14 +4,7 @@
     <div class="flex-column align-start gap-s">
         <a class="p-b-i fs-l left-text less-important-link" (click)="routeToArtist()"><span class="m-counter">{{ index }}. </span>{{ album.artist }}</a>
         <div class="flex-row align-center fake-gap-b-s gap-s m-flex-wrap">
-            <p
-                    *ngIf="midOrWorst"
-                    class="p-b-i fs-xl left-text max-width-800"
-            >
-                {{ album.title | removeDeluxe }}
-            </p>
             <a
-                    *ngIf="!midOrWorst"
                     class="p-b-i fs-xl left-text max-width-800"
                     href="{{album.url}}"
                     target="_blank"
@@ -24,7 +17,7 @@
                     [isPlaying]="isPlaying"
             ></app-play-button>
         </div>
-        <div>
+        <div class="flex-column gap-s">
             <p class="left-text fs-m max-width-800" *ngIf="album.songs !== undefined && album.songs.length > 0 ">Fav songs: <span class="p-b-i">{{ albumNames | removeFeat }}</span></p>
             <p class="left-text fs-m">
                 <span class="p-b-i">{{ album.year }}</span>
@@ -32,9 +25,10 @@
                 <span *ngIf="album.genre"> - <span class="p-b-i">{{ album.genre }}</span></span>
             </p>
         </div>
-        <div class="flex-row align-center gap-s">
+        <div class="flex-row align-center gap-s flex-wrap">
             <app-rating [rating]="album.rating"></app-rating>
             <app-review-button *ngIf="album.review"  [album]="album"></app-review-button>
+            <app-logged-badge *ngIf="album.logged" [rawDate]="album.logged"/>
             <app-lastfm *ngIf="(album.playTime && album.playTime > 0) || (album.playTime30Days && album.playTime30Days > 0)" [scrobbles]="album.playTime ? album.playTime : album.playTime30Days!" [scrobbles30Days]="album.playTime30Days!"></app-lastfm>
             <app-vinyl *ngIf="album.onVinyl !== undefined"
                        [wishlisted] = "!album.onVinyl"

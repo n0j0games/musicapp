@@ -9,25 +9,23 @@
                 <app-item
                         [item]="{year: 0, week: 0, preview : rotationList}"
                         [isAoty]="'LIST'"
-                        [queryParams]="{ s: 'recent' }"
+                        [queryParams]="{ s: Sorting.RECENT }"
                         [queryParam]="'recent'"
                         [text]="'my rotation'"
                 ></app-item>
                 <app-item
                         [item]="{year: 0, week: 0, preview : currentYearList}"
                         [isAoty]="'LIST'"
-                        [queryParams]="{ s: 'rating', y: 2025, d: 2020 }"
+                        [queryParams]="{ s: Sorting.RATING, y: 2025, d: 2020 }"
                         [text]="'fav albums of 2025'"
                 ></app-item>
             </div>
             <div class="flex-column gap-xl align-center justify-center">
                 <app-item
-                        [item]="{year: currentYear, week: currentWeek, preview : ['https://i.scdn.co/image/ab67616d0000b2736cfd9a7353f98f5165ea6160',
-                'https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5',
-                'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9',
-                'https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511']}"
-                        [isAoty]="'SOTW'"
-                        [text]="'fav songs of this week'"
+                        [item]="{year: 0, week: 0, preview : recentlyAddedList}"
+                        [isAoty]="'LIST'"
+                        [queryParams]="{ s: Sorting.RECENTLY_LOGGED }"
+                        [text]="'recently logged'"
                 ></app-item>
                 <app-item
                         [item]="{year: currentYear, week: 0, preview : [
@@ -42,6 +40,14 @@
             </div>
         </div>
         <div class="flex-column gap-xl flex-wrap justify-center">
+            <div class="outer-highlight-card">
+                <a
+                        class="flex-column gap-s align-center"
+                        [routerLink]="['/sotw',currentYear + currentWeek]"
+                >
+                    <span class="fs-xl p-b">fav song of week #{{currentWeek}} ({{WeekHelper.getFridayOfWeek(currentWeek, currentYear)}})</span>
+                </a>
+            </div>
             <div class="outer-highlight-card">
                 <a
                   class="flex-column gap-s align-center"

@@ -470,7 +470,32 @@ option:disabled {
   color: $accent-color;
 }
 
+.badge {
+  border-radius: 5px;
+  padding: 2px 10px;
+  background: #101019;
+  height: 16px;
+}
+
+.badge p {
+  color: $text-color-light;
+}
+
+.badge i {
+  color: $text-color;
+  font-size: 14px;
+}
+
 @media (width < 600px) or (height < 700px) {
+
+  .badge {
+    padding: 1px 5px;
+    height: 14px;
+  }
+
+  .badge i {
+    font-size: 8px;
+  }
 
   .list-banner {
     padding: 40px 0;

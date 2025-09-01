@@ -1,12 +1,6 @@
 $primary-color-darker: #101019;
 $accent-color: #a0ff5c;
 
-.outer {
-  border-radius: 5px;
-  padding: 2px 10px;
-  background: $primary-color-darker;
-}
-
 .outer p {
   color: $accent-color;
 }

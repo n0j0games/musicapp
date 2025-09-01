@@ -12,10 +12,10 @@ import {RouterLink} from "@angular/router";
     NgStyle,
     RouterLink
   ],
-  templateUrl: './lastfm-badge.html',
-  styleUrl: './lastfm-badge.scss'
+  templateUrl: './lastfm-badge.component.html',
+  styleUrl: './lastfm-badge.component.scss'
 })
-export class LastfmBadge {
+export class LastfmBadgeComponent {
 
     @Input() scrobbles!: number;
     @Input() scrobbles30Days!: number | null;
