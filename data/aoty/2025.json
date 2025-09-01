@@ -1661,7 +1661,8 @@
       "playTime": 20,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 20
+      "playTime30Days": 20,
+      "logged": "2025-08-24"
     },
     {
       "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E",
@@ -1685,7 +1686,6 @@
           "title": "wASH U AWAY",
           "preview_url": "https://p.scdn.co/mp3-preview/1c6f630884b441a47d02271e33856c8f2f2bd85b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
-
         {
           "title": "BOREDOM",
           "preview_url": "https://p.scdn.co/mp3-preview/e68bde0dbc77d60dafe456a258a32ee77eb75cd1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
@@ -1694,7 +1694,8 @@
       "rating": 8.6,
       "playTime": 0,
       "genre": "Jazz Fusion",
-      "year": 2025
+      "year": 2025,
+      "logged": "2025-08-28"
     },
     {
       "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d",
@@ -1719,8 +1720,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e560cf3574aa3ca176cfc4d48f6dfc7f282268d5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 0,
+      "logged": "2025-08-28",
       "genre": "Pop Rock",
       "year": 2025
     }

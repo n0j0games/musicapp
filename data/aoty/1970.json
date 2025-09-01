@@ -922,7 +922,8 @@
       "playTime": 20,
       "genre": "Philly Soul",
       "year": 1972,
-      "playTime30Days": 11
+      "playTime30Days": 11,
+      "logged" : "2025-08-25"
     },
     {
       "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ",
@@ -984,7 +985,8 @@
       "playTime": 22,
       "genre": "Early Funk",
       "year": 1973,
-      "playTime30Days": 16
+      "playTime30Days": 16,
+      "logged" : "2025-08-21"
     },
     {
       "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl",
@@ -1013,7 +1015,8 @@
       "playTime": 0,
       "genre": "Early Funk",
       "year": 1973,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "logged" : "2025-08-25"
     },
     {
       "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N",
@@ -1045,6 +1048,7 @@
       "rating": 8,
       "playTime": 17,
       "genre": "Philly Soul",
+      "logged" : "2025-08-28",
       "year": 1973,
       "playTime30Days": 17
     },
@@ -1078,7 +1082,8 @@
       "rating": 8.4,
       "playTime": 0,
       "genre": "Progressive Soul",
-      "year": 1973
+      "year": 1973,
+      "logged" : "2025-09-01"
     }
   ]
 }
