@@ -30,7 +30,7 @@
       ],
       "rating": 9.7,
       "genre": "Rap",
-      "playTime": 474,
+      "playTime": 475,
       "playTime30Days": 0,
       "color": "#4d6559"
     },
@@ -62,8 +62,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 495,
-      "playTime30Days": 0,
+      "playTime": 509,
+      "playTime30Days": 14,
       "color": "#51aab9"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rating": 9.8,
       "genre": "Alternative R&B",
-      "playTime": 605,
+      "playTime": 606,
       "playTime30Days": 0,
       "color": "#8d4313"
     },
@@ -128,7 +128,7 @@
       ],
       "rating": 9.2,
       "playTime30Days": 0,
-      "playTime": 184,
+      "playTime": 187,
       "color": "#74000e"
     },
     {
@@ -217,7 +217,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 40,
+      "playTime": 41,
       "playTime30Days": 0
     },
     {

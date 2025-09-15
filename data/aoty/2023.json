@@ -129,7 +129,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 253,
+      "playTime": 254,
       "playTime30Days": 0,
       "color": "#8c8f95"
     },
@@ -161,7 +161,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 173,
+      "playTime": 174,
       "playTime30Days": 0,
       "color": "#4f717b"
     },
@@ -193,7 +193,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 420,
+      "playTime": 421,
       "playTime30Days": 0,
       "color": "#a30a02"
     },
@@ -257,7 +257,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 252,
+      "playTime": 253,
       "playTime30Days": 0,
       "color": "#a28c6a"
     },
@@ -544,7 +544,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 101,
+      "playTime": 102,
       "playTime30Days": 0,
       "color": "#105300"
     },
@@ -745,8 +745,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 50,
-      "playTime30Days": 0,
+      "playTime": 54,
+      "playTime30Days": 5,
       "color": "#6a9294"
     },
     {
@@ -1078,7 +1078,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 57,
+      "playTime": 58,
       "playTime30Days": 0,
       "color": "#66639e"
     },
@@ -1160,8 +1160,8 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 156,
-      "playTime30Days": 12,
+      "playTime": 163,
+      "playTime30Days": 8,
       "color": "#251c2d"
     },
     {
@@ -1314,7 +1314,7 @@
       "title": "BUSINESS IS BUSINESS",
       "artist": "Young Thug",
       "rating": 4,
-      "playTime": 52,
+      "playTime": 53,
       "playTime30Days": 0
     },
     {
@@ -2101,7 +2101,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 143,
+      "playTime": 144,
       "genre": "Latin Rap",
       "playTime30Days": 0
     },
@@ -2181,7 +2181,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 77,
+      "playTime": 78,
       "genre": "Hyperpop",
       "playTime30Days": 0
     },

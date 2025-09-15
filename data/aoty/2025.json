@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 587,
+      "playTime": 588,
       "genre": "Latin",
-      "playTime30Days": 14,
+      "playTime30Days": 0,
       "color": "#729238"
     },
     {
@@ -72,7 +72,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 327,
+      "playTime": 329,
       "genre": "Rap",
       "playTime30Days": 0,
       "color": "#1f4072",
@@ -112,7 +112,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 89,
+      "playTime": 90,
       "genre": "Electronic",
       "playTime30Days": 0
     },
@@ -144,7 +144,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 677,
+      "playTime": 680,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -228,7 +228,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 39,
+      "playTime": 40,
       "genre": "Deutschpop",
       "playTime30Days": 0
     },
@@ -594,7 +594,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 47,
+      "playTime": 49,
       "genre": "Hyperpop",
       "year": 2025,
       "playTime30Days": 0
@@ -710,10 +710,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 161,
+      "playTime": 162,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -837,10 +837,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 481,
+      "playTime": 487,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 15,
+      "playTime30Days": 12,
       "onVinyl": true
     },
     {
@@ -913,7 +913,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 45,
+      "playTime": 46,
       "genre": "Deutschpop",
       "year": 2025,
       "playTime30Days": 0
@@ -945,7 +945,7 @@
       "playTime": 97,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "onVinyl": "true"
     },
     {
@@ -976,10 +976,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 230,
+      "playTime": 233,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 24
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1140,10 +1140,10 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 159,
+      "playTime": 160,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1169,10 +1169,10 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 28,
+      "playTime": 76,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 17
+      "playTime30Days": 57
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1198,11 +1198,11 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 97,
+      "playTime": 100,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 19
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1356,10 +1356,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 183,
+      "playTime": 197,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 32
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1439,10 +1439,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 42,
+      "playTime": 54,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 12
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1472,10 +1472,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 122,
+      "playTime": 132,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 22,
+      "playTime30Days": 16,
       "color": "#1b2435"
     },
     {
@@ -1502,10 +1502,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 99,
+      "playTime": 101,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 99
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1531,10 +1531,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 22,
+      "playTime": 23,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 22
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1563,7 +1563,7 @@
       "playTime": 16,
       "genre": "EDM",
       "year": 2025,
-      "playTime30Days": 16
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm",
@@ -1593,10 +1593,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 72,
+      "playTime": 88,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 72
+      "playTime30Days": 49
     },
     {
       "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
@@ -1607,7 +1607,7 @@
       "playTime": 18,
       "genre": "Deutschrap",
       "year": 2025,
-      "playTime30Days": 18
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW",
@@ -1637,10 +1637,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 181,
+      "playTime": 214,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 152
+      "playTime30Days": 112
     },
     {
       "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr",
@@ -1692,10 +1692,11 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 0,
+      "playTime": 118,
       "genre": "Jazz Fusion",
       "year": 2025,
-      "logged": "2025-08-28"
+      "logged": "2025-08-28",
+      "playTime30Days": 118
     },
     {
       "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d",
@@ -1721,10 +1722,139 @@
         }
       ],
       "rating": 7,
-      "playTime": 0,
+      "playTime": 43,
       "logged": "2025-08-28",
       "genre": "Pop Rock",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 43
+    },
+    {
+      "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c27a8248d2d5cf8674d1043d",
+      "title": "Essex Honey",
+      "artist": "Blood Orange",
+      "songs": [
+        {
+          "title": "Thinking Clean",
+          "preview_url": "https://p.scdn.co/mp3-preview/091c95b23080b68863536ae8363e9727476bb7bc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Field",
+          "preview_url": "https://p.scdn.co/mp3-preview/79a25c4015fe79469602a6db959034fe998b9b84?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mind Loaded",
+          "preview_url": "https://p.scdn.co/mp3-preview/36182f6c4a0bebe1d3b147b7f2acfe3312db1a8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Countryside",
+          "preview_url": "https://p.scdn.co/mp3-preview/f90913eb9579ef838b46af3e3e2600552b71d7bc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 31,
+      "genre": "Alternative R&B",
+      "logged": "2025-09-15",
+      "year": 2025,
+      "playTime30Days": 31
+    },
+    {
+      "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739a69abd3e40bdbdee15574e7",
+      "title": "Pain to Power",
+      "artist": "Maruja",
+      "songs": [
+        {
+          "title": "Look Down On Us",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d80618815a8c63a739cc04f6e47b61a98fbc543?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bloodsport",
+          "preview_url": "https://p.scdn.co/mp3-preview/cdb1bb955cecf3d5c4586b9c6a5601d20a9ae7f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Saoirse",
+          "preview_url": "https://p.scdn.co/mp3-preview/1b82e6b88e9fbe56a2c46136cb757bfdd6fec5d4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Born to Die",
+          "preview_url": "https://p.scdn.co/mp3-preview/287efc084da791c164474165625f0d6b0df26eac?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Reconcile",
+          "preview_url": "https://p.scdn.co/mp3-preview/85073d2a7dbc884eb52839af7e33d8111ac2064d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 48,
+      "genre": "Post-Rock",
+      "logged": "2025-09-15",
+      "year": 2025,
+      "playTime30Days": 48
+    },
+    {
+      "url": "https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27333a447ce0d556d4c2ebfa58b",
+      "title": "arizona 2012",
+      "artist": "verifiziert",
+      "songs": [
+        {
+          "title": "blonded radio",
+          "preview_url": "https://p.scdn.co/mp3-preview/188f3e8bea904860731412bc12b132f52b7db3ba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "mkgee",
+          "preview_url": "https://p.scdn.co/mp3-preview/73494371ffb1f15c2b5d0effec2ed961bf5d7d82?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "ride or die",
+          "preview_url": "https://p.scdn.co/mp3-preview/73951750895de7a0c5f667a5feaa048f042795ee?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "arizona 2012",
+          "preview_url": "https://p.scdn.co/mp3-preview/bc96f1348baf9c5ea42b11059c69ccc625ece79c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "ed hardy walzer",
+          "preview_url": "https://p.scdn.co/mp3-preview/d91bc04e402fc8585e9d5142791f3da615708777?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.1,
+      "playTime": 11,
+      "genre": "Deutschpop",
+      "logged": "2025-09-15",
+      "year": 2025,
+      "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736d311c934960d499a5b4c2c5",
+      "title": "Portal",
+      "artist": "Balu Brigada",
+      "songs": [
+        {
+          "title": "Backseat",
+          "preview_url": "https://p.scdn.co/mp3-preview/f9cbbd3b4b933d71563bd940ac6d4e460affc9fd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sideways",
+          "preview_url": "https://p.scdn.co/mp3-preview/fbcaec64dc07f4ba27e03f2da74a28facdf9dc23?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "So Cold",
+          "preview_url": "https://p.scdn.co/mp3-preview/63a6f29f8454660fa4a23e390824cb0a7c4bd4e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Butterfly Boy",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc7b0b11afd3b4279399c9d740e39788580c62ef?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 20,
+      "genre": "Indie Rock",
+      "logged": "2025-09-15",
+      "year": 2025,
+      "playTime30Days": 20
     }
   ]
 }

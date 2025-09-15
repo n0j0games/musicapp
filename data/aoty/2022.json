@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1123,
-      "playTime30Days": 54,
+      "playTime": 1149,
+      "playTime30Days": 48,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 687,
+      "playTime": 688,
       "playTime30Days": 0,
       "color": "#1c1613"
     },
@@ -194,7 +194,7 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 382,
+      "playTime": 383,
       "playTime30Days": 0,
       "color": "#456338"
     },
@@ -292,7 +292,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 730,
+      "playTime": 732,
       "playTime30Days": 0,
       "color": "#183399"
     },
@@ -393,7 +393,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 110,
+      "playTime": 111,
       "playTime30Days": 0,
       "color": "#076435"
     },
@@ -425,7 +425,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 277,
+      "playTime": 278,
       "playTime30Days": 0,
       "color": "#28251b"
     },
@@ -489,8 +489,8 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 258,
-      "playTime30Days": 38,
+      "playTime": 259,
+      "playTime30Days": 0,
       "color": "#8d410d"
     },
     {
@@ -521,7 +521,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 256,
+      "playTime": 258,
       "playTime30Days": 0,
       "color": "#141c36"
     },
@@ -651,7 +651,7 @@
       ],
       "rating": 8,
       "playTime": 290,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "color": "#c33d15"
     },
     {
@@ -710,7 +710,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 45,
+      "playTime": 46,
       "playTime30Days": 0
     },
     {
@@ -933,7 +933,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 84,
+      "playTime": 85,
       "playTime30Days": 0,
       "color": "#ad911b"
     },
@@ -1411,7 +1411,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 139,
+      "playTime": 140,
       "playTime30Days": 0
     },
     {
@@ -1430,7 +1430,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 110,
+      "playTime": 112,
       "playTime30Days": 0
     },
     {
@@ -1950,7 +1950,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 59,
+      "playTime": 60,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -2022,7 +2022,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 54,
+      "playTime": 55,
       "genre": "Trap",
       "playTime30Days": 0
     },

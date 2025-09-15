@@ -63,8 +63,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 379,
-      "playTime30Days": 0,
+      "playTime": 386,
+      "playTime30Days": 7,
       "color": "#99999d"
     },
     {
@@ -96,7 +96,7 @@
       ],
       "rating": 9.3,
       "playTime": 210,
-      "playTime30Days": 11,
+      "playTime30Days": 8,
       "color": "#437b76"
     },
     {
@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 130,
+      "playTime": 131,
       "playTime30Days": 0
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 168,
+      "playTime": 169,
       "playTime30Days": 0,
       "color": "#9194cb"
     },
@@ -515,7 +515,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 117,
+      "playTime": 118,
       "playTime30Days": 0
     },
     {
@@ -742,9 +742,9 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 269,
+      "playTime": 276,
       "genre": "Soundtrack",
-      "playTime30Days": 0
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi",
@@ -774,7 +774,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 28,
+      "playTime": 29,
       "genre": "Alt Rock",
       "year": 2016,
       "playTime30Days": 0

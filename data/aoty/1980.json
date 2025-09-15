@@ -161,7 +161,7 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 102,
+      "playTime": 103,
       "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
@@ -412,7 +412,7 @@
       "playTime": 0,
       "genre": "Dance Pop",
       "year": 1980,
-      "playTime30Days": 8
+      "playTime30Days": 0
     }
   ]
 }

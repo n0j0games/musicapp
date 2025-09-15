@@ -30,7 +30,7 @@
       ],
       "rating": 9.3,
       "genre": "Rock",
-      "playTime": 28,
+      "playTime": 29,
       "playTime30Days": 0,
       "year": 1969,
       "color": "#df6a62"
@@ -64,7 +64,7 @@
       ],
       "rating": 9.2,
       "genre": "Rock",
-      "playTime": 76,
+      "playTime": 79,
       "playTime30Days": 0,
       "year": 1966,
       "color": "#838383"
@@ -131,7 +131,7 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 43,
+      "playTime": 44,
       "playTime30Days": 0,
       "year": 1965
     },
@@ -254,7 +254,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 55,
+      "playTime": 58,
       "genre": "Southern Soul",
       "year": 1964,
       "playTime30Days": 0
@@ -283,7 +283,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 27,
+      "playTime": 28,
       "genre": "Motown Sound",
       "year": 1964,
       "playTime30Days": 0
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 10,
-      "playTime": 186,
+      "playTime": 188,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 45,
+      "playTime30Days": 44,
       "color": "#b20a57"
     },
     {
@@ -524,7 +524,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 40,
+      "playTime": 43,
       "genre": "Motown Sound",
       "year": 1967,
       "playTime30Days": 0

@@ -35,8 +35,8 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 331,
-      "playTime30Days": 0,
+      "playTime": 337,
+      "playTime30Days": 7,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -271,7 +271,7 @@
       ],
       "rating": 8.8,
       "genre": "Country",
-      "playTime": 25,
+      "playTime": 26,
       "playTime30Days": 0,
       "year": 1970,
       "color": "#a4935f"
@@ -363,7 +363,7 @@
       ],
       "rating": 7.3,
       "genre": "Disco",
-      "playTime": 19,
+      "playTime": 20,
       "playTime30Days": 0,
       "year": 1976
     },
@@ -551,7 +551,7 @@
       ],
       "year": 1977,
       "rating": 7.7,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "Art Rock",
       "playTime30Days": 0
     },
@@ -579,7 +579,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 43,
+      "playTime": 44,
       "genre": "Funk",
       "year": 1971,
       "playTime30Days": 0
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 40,
+      "playTime": 42,
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0
@@ -802,7 +802,7 @@
       "playTime": 28,
       "genre": "Chicago Soul",
       "year": 1971,
-      "playTime30Days": 28
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8",
@@ -831,7 +831,7 @@
       "playTime": 10,
       "genre": "Early Funk",
       "year": 1972,
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2",
@@ -860,7 +860,7 @@
       "playTime": 20,
       "genre": "Progressive Soul",
       "year": 1972,
-      "playTime30Days": 10
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0",
@@ -889,7 +889,7 @@
       "playTime": 16,
       "genre": "Southern Soul",
       "year": 1972,
-      "playTime30Days": 15
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX",
@@ -923,7 +923,7 @@
       "genre": "Philly Soul",
       "year": 1972,
       "playTime30Days": 11,
-      "logged" : "2025-08-25"
+      "logged": "2025-08-25"
     },
     {
       "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ",
@@ -985,8 +985,8 @@
       "playTime": 22,
       "genre": "Early Funk",
       "year": 1973,
-      "playTime30Days": 16,
-      "logged" : "2025-08-21"
+      "playTime30Days": 13,
+      "logged": "2025-08-21"
     },
     {
       "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl",
@@ -1016,7 +1016,7 @@
       "genre": "Early Funk",
       "year": 1973,
       "playTime30Days": 9,
-      "logged" : "2025-08-25"
+      "logged": "2025-08-25"
     },
     {
       "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N",
@@ -1048,7 +1048,7 @@
       "rating": 8,
       "playTime": 17,
       "genre": "Philly Soul",
-      "logged" : "2025-08-28",
+      "logged": "2025-08-28",
       "year": 1973,
       "playTime30Days": 17
     },
@@ -1080,10 +1080,45 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 0,
+      "playTime": 26,
       "genre": "Progressive Soul",
       "year": 1973,
-      "logged" : "2025-09-01"
+      "logged": "2025-09-01",
+      "playTime30Days": 20
+    },
+    {
+      "url": "https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27381e659891374fac834ef9011",
+      "title": "Standing On The Verge Of Getting It On",
+      "artist": "Funkadelic",
+      "songs": [
+        {
+          "title": "Alice In My Fantasies",
+          "preview_url": "https://p.scdn.co/mp3-preview/640bf9648a09a0c7eee9bbd996db9c171605dfbb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Red Hot Mama",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f505f89d52d6b1ba279d7e4d80b48d107e82c34?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'll Stay",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee729ef73df69a2fc88467fc435ca9c62c957a35?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sexy Ways",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba57edc073ae48a808b75830295d3ad2a5277e52?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Standing On The Verge Of Getting It On",
+          "preview_url": "https://p.scdn.co/mp3-preview/30bb732c5287d00af8991582bf4f2e225c829198?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 0,
+      "genre": "P-Funk",
+      "logged": "2025-09-15",
+      "year": 1974,
+      "playTime30Days": 8
     }
   ]
 }
