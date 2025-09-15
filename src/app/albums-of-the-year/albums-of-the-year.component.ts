@@ -169,13 +169,13 @@ export class AlbumsOfTheYearComponent implements OnInit {
         return albums.filter(a => a.playTime !== undefined && a.playTime !== 0).sort((a, b) => b.playTime! - a.playTime!);
       case Sorting.RECENT:
         this.sortingTitle = "sorted by recent playtime";
-        return albums.filter(a => a.playTime30Days !== undefined && a.playTime30Days !== 0).sort((a, b) => b.playTime30Days! - a.playTime30Days!)
+        return albums.filter(a => a.playTime30Days !== undefined && a.playTime30Days !== 0).sort((a, b) => b.playTime30Days! - a.playTime30Days!).slice(0, 20);
       case Sorting.RATING:
         return albums.sort((a, b) => b.rating - a.rating);
       case Sorting.RELEASE_DATE:
         return albums.sort((a, b) => (a.year ? a.year : 9999) - (b.year ? b.year : 9999));
       case Sorting.RECENTLY_LOGGED:
-        return albums.filter(a => a.logged !== undefined && a.logged).slice(0, 10).sort((a, b) => b.logged!.localeCompare(a.logged!));
+        return albums.filter(a => a.logged !== undefined && a.logged).sort((a, b) => b.logged!.localeCompare(a.logged!)).slice(0, 20);
       default:
         return albums;
     }
