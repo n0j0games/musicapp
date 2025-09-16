@@ -101,38 +101,6 @@
       "year": 1987
     },
     {
-      "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ad08f4b38efbff0c0da0f252",
-      "title": "Hounds Of Love",
-      "artist": "Kate Bush",
-      "songs": [
-        {
-          "title": "Running Up That Hill (A Deal With God)",
-          "preview_url": "https://p.scdn.co/mp3-preview/861d26b52ece3e3ad72a7dc3463daece3478801a?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Hounds Of Love",
-          "preview_url": "https://p.scdn.co/mp3-preview/e60f133ecc13d1606d064e38edc7ad035c00a2a8?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "The Big Sky - Special Single Mix",
-          "preview_url": "https://p.scdn.co/mp3-preview/6c09d04c1fd60bf97956dd617756ec43c27a36bf?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Mother Stands For Comfort",
-          "preview_url": "https://p.scdn.co/mp3-preview/5d792412ec17fa866cd298982375c50f1a88d033?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "Cloudbusting",
-          "preview_url": "https://p.scdn.co/mp3-preview/0156aec767cfcbe6bfc80bb9c8ad931169a3d910?cid=941103e4872f4d3fad60066c677df34f"
-        }
-      ],
-      "rating": 8.5,
-      "playTime": 27,
-      "playTime30Days": 0,
-      "year": 1985
-    },
-    {
       "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739565c4df27be4aee5edc8009",
       "title": "Songs From The Big Chair",
@@ -413,6 +381,39 @@
       "genre": "Dance Pop",
       "year": 1980,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ad08f4b38efbff0c0da0f252",
+      "title": "Hounds Of Love",
+      "artist": "Kate Bush",
+      "songs": [
+        {
+          "title": "Hello Earth",
+          "preview_url": "https://p.scdn.co/mp3-preview/569e2a3d082d6de83e2ef82959e5e1307f63d7d4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Running Up That Hill (A Deal With God)",
+          "preview_url": "https://p.scdn.co/mp3-preview/861d26b52ece3e3ad72a7dc3463daece3478801a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Big Sky - Special Single Mix",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c09d04c1fd60bf97956dd617756ec43c27a36bf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "And Dream Of Sheep",
+          "preview_url": "https://p.scdn.co/mp3-preview/70e385c33c470a1780223162fbc6324efe69e635?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Jig Of Life",
+          "preview_url": "https://p.scdn.co/mp3-preview/2dd50005409756fd6bad3e7075bb17c5a001decd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 0,
+      "genre": "Art Pop",
+      "logged": "2025-09-16",
+      "year": 1985
     }
   ]
 }
