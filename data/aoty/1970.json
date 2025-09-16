@@ -677,7 +677,8 @@
       "playTime": 42,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color" : "#b23837"
     },
     {
       "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV",
