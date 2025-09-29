@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 183,
+      "playTime": 185,
       "playTime30Days": 0,
       "color": "#3b5a22"
     },
@@ -129,7 +129,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 254,
+      "playTime": 256,
       "playTime30Days": 0,
       "color": "#8c8f95"
     },
@@ -257,7 +257,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 253,
+      "playTime": 256,
       "playTime30Days": 0,
       "color": "#a28c6a"
     },
@@ -289,7 +289,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 259,
+      "playTime": 261,
       "playTime30Days": 0,
       "color": "#434754"
     },
@@ -325,7 +325,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 246,
+      "playTime": 247,
       "playTime30Days": 0,
       "color": "#872550"
     },
@@ -358,7 +358,7 @@
       ],
       "rating": 8.99999,
       "genre": "Rap",
-      "playTime": 1206,
+      "playTime": 1207,
       "playTime30Days": 0,
       "color": "#513a39",
       "review": "travis-scott--utopia"
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 639,
+      "playTime": 640,
       "playTime30Days": 0,
       "color": "#4c4559"
     },
@@ -634,7 +634,7 @@
       ],
       "rating": 7.1,
       "genre": "Live Performance",
-      "playTime": 686,
+      "playTime": 688,
       "playTime30Days": 0
     },
     {
@@ -746,7 +746,7 @@
       ],
       "rating": 7.9,
       "playTime": 54,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#6a9294"
     },
     {
@@ -1161,7 +1161,7 @@
       ],
       "rating": 7.6,
       "playTime": 163,
-      "playTime30Days": 8,
+      "playTime30Days": 7,
       "color": "#251c2d"
     },
     {
@@ -1483,7 +1483,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 66,
+      "playTime": 67,
       "playTime30Days": 0
     },
     {
@@ -1558,7 +1558,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 133,
+      "playTime": 134,
       "playTime30Days": 0
     },
     {
@@ -1669,7 +1669,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 111,
+      "playTime": 112,
       "playTime30Days": 0
     },
     {
@@ -1975,7 +1975,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 81,
+      "playTime": 82,
       "genre": "Dance Pop",
       "playTime30Days": 0
     },

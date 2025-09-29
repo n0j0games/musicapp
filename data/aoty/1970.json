@@ -35,8 +35,8 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 337,
-      "playTime30Days": 7,
+      "playTime": 339,
+      "playTime30Days": 8,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 129,
+      "playTime": 130,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -205,7 +205,7 @@
       ],
       "rating": 8.2,
       "genre": "Jazz",
-      "playTime": 81,
+      "playTime": 82,
       "playTime30Days": 0,
       "year": 1979
     },
@@ -678,7 +678,7 @@
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0,
-      "color" : "#b23837"
+      "color": "#b23837"
     },
     {
       "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV",
@@ -803,7 +803,7 @@
       "playTime": 28,
       "genre": "Chicago Soul",
       "year": 1971,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8",
@@ -890,7 +890,7 @@
       "playTime": 16,
       "genre": "Southern Soul",
       "year": 1972,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX",
@@ -923,7 +923,7 @@
       "playTime": 20,
       "genre": "Philly Soul",
       "year": 1972,
-      "playTime30Days": 11,
+      "playTime30Days": 0,
       "logged": "2025-08-25"
     },
     {
@@ -953,7 +953,7 @@
       "playTime": 0,
       "genre": "Philly Soul",
       "year": 1973,
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam",
@@ -986,7 +986,7 @@
       "playTime": 22,
       "genre": "Early Funk",
       "year": 1973,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "logged": "2025-08-21"
     },
     {
@@ -1016,7 +1016,7 @@
       "playTime": 0,
       "genre": "Early Funk",
       "year": 1973,
-      "playTime30Days": 9,
+      "playTime30Days": 0,
       "logged": "2025-08-25"
     },
     {
@@ -1051,7 +1051,7 @@
       "genre": "Philly Soul",
       "logged": "2025-08-28",
       "year": 1973,
-      "playTime30Days": 17
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8",
@@ -1115,11 +1115,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 0,
+      "playTime": 10,
       "genre": "P-Funk",
       "logged": "2025-09-15",
       "year": 1974,
-      "playTime30Days": 8
+      "playTime30Days": 10
     }
   ]
 }

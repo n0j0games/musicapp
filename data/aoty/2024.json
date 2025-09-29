@@ -98,7 +98,7 @@
       "rating": 8.4,
       "genre": "Country Pop",
       "playTime": 902,
-      "playTime30Days": 92,
+      "playTime30Days": 0,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -164,8 +164,8 @@
       ],
       "rating": 8.9,
       "genre": "Deutscher Indie",
-      "playTime": 484,
-      "playTime30Days": 0,
+      "playTime": 497,
+      "playTime30Days": 14,
       "color": "#8a5e57",
       "review": "paula-hartmann--kleine-feuer"
     },
@@ -198,7 +198,7 @@
       ],
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
-      "playTime": 214,
+      "playTime": 215,
       "playTime30Days": 0,
       "color": "#9a6c1f"
     },
@@ -231,7 +231,7 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 345,
+      "playTime": 347,
       "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
@@ -298,8 +298,8 @@
       ],
       "rating": 8,
       "genre": "Neo Psychadelia",
-      "playTime": 128,
-      "playTime30Days": 0,
+      "playTime": 135,
+      "playTime30Days": 7,
       "color": "#aa6c27"
     },
     {
@@ -364,8 +364,8 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 180,
-      "playTime30Days": 0,
+      "playTime": 182,
+      "playTime30Days": 5,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
     },
@@ -526,7 +526,7 @@
       ],
       "rating": 8.7,
       "genre": "Rock",
-      "playTime": 175,
+      "playTime": 176,
       "playTime30Days": 0,
       "color": "#357a31"
     },
@@ -771,7 +771,7 @@
       "rating": 7.6,
       "genre": "Schweizer Indie",
       "playTime": 121,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#832114"
     },
     {
@@ -828,8 +828,8 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 453,
-      "playTime30Days": 0,
+      "playTime": 471,
+      "playTime30Days": 18,
       "color": "#7d716f",
       "review": "og-keemo--fieber"
     },
@@ -974,8 +974,8 @@
       ],
       "rating": 7.7,
       "genre": "Jazz",
-      "playTime": 30,
-      "playTime30Days": 9,
+      "playTime": 31,
+      "playTime30Days": 10,
       "color": "#828282"
     },
     {
@@ -1119,7 +1119,7 @@
       ],
       "rating": 7.8,
       "genre": "Latin",
-      "playTime": 74,
+      "playTime": 75,
       "playTime30Days": 0,
       "color": "#012c63"
     },
@@ -1235,7 +1235,7 @@
       ],
       "rating": 7,
       "genre": "Synthpop",
-      "playTime": 90,
+      "playTime": 91,
       "playTime30Days": 0,
       "color": "#2f676a"
     },
@@ -1573,7 +1573,7 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 109,
+      "playTime": 111,
       "playTime30Days": 0,
       "color": "#092508"
     },
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 129,
+      "playTime": 130,
       "playTime30Days": 0
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "rating": 7.5,
       "genre": "Deutschrap",
-      "playTime": 115,
+      "playTime": 116,
       "playTime30Days": 0,
       "color": "#000000"
     },
@@ -2305,7 +2305,7 @@
       "rating": 8.3,
       "playTime": 359,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#6c6c6c"
     },
     {

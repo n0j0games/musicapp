@@ -131,7 +131,7 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 44,
+      "playTime": 45,
       "playTime30Days": 0,
       "year": 1965
     },
@@ -381,7 +381,7 @@
       "playTime": 188,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 44,
+      "playTime30Days": 0,
       "color": "#b20a57"
     },
     {
@@ -524,7 +524,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 43,
+      "playTime": 44,
       "genre": "Motown Sound",
       "year": 1967,
       "playTime30Days": 0

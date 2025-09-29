@@ -40,7 +40,7 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 557,
+      "playTime": 558,
       "playTime30Days": 0,
       "color": "#25714c",
       "review": "the-weeknd--kiss-land"
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 312,
+      "playTime": 313,
       "playTime30Days": 0
     },
     {
@@ -169,8 +169,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 104,
-      "playTime30Days": 0
+      "playTime": 174,
+      "playTime30Days": 72
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -196,7 +196,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 87,
+      "playTime": 89,
       "playTime30Days": 0
     },
     {
@@ -294,8 +294,8 @@
         }
       ],
       "rating": 8,
-      "playTime30Days": 34,
-      "playTime": 155
+      "playTime30Days": 10,
+      "playTime": 158
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
@@ -423,7 +423,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 59,
+      "playTime": 63,
       "genre": "Alternative R&B",
       "year": 2013,
       "playTime30Days": 0

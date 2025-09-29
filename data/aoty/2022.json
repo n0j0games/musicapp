@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1149,
-      "playTime30Days": 48,
+      "playTime": 1164,
+      "playTime30Days": 41,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 688,
+      "playTime": 691,
       "playTime30Days": 0,
       "color": "#1c1613"
     },
@@ -127,8 +127,8 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 481,
-      "playTime30Days": 0,
+      "playTime": 488,
+      "playTime30Days": 7,
       "color": "#61615f"
     },
     {
@@ -194,8 +194,8 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 383,
-      "playTime30Days": 0,
+      "playTime": 400,
+      "playTime30Days": 18,
       "color": "#456338"
     },
     {
@@ -227,7 +227,7 @@
       ],
       "rating": 9.6,
       "genre": "Rap",
-      "playTime": 1020,
+      "playTime": 1021,
       "playTime30Days": 0,
       "color": "#4e270c"
     },
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 387,
-      "playTime30Days": 0,
+      "playTime": 408,
+      "playTime30Days": 21,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -489,7 +489,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 259,
+      "playTime": 262,
       "playTime30Days": 0,
       "color": "#8d410d"
     },
@@ -521,7 +521,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 258,
+      "playTime": 259,
       "playTime30Days": 0,
       "color": "#141c36"
     },
@@ -618,7 +618,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 423,
+      "playTime": 424,
       "playTime30Days": 0,
       "color": "#001732"
     },
@@ -961,7 +961,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 211,
+      "playTime": 212,
       "playTime30Days": 0,
       "color": "#921515"
     },
@@ -1017,7 +1017,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 78,
+      "playTime": 79,
       "playTime30Days": 0,
       "color": "#272727"
     },
@@ -1159,7 +1159,7 @@
       "title": "Come Home The Kids Miss You",
       "artist": "Jack Harlow",
       "rating": 3,
-      "playTime": 44,
+      "playTime": 45,
       "playTime30Days": 0
     },
     {
@@ -1894,7 +1894,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 56,
+      "playTime": 60,
       "playTime30Days": 0,
       "color": "#755353"
     },

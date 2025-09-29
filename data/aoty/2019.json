@@ -29,8 +29,8 @@
         }
       ],
       "rating": 11.3,
-      "playTime": 517,
-      "playTime30Days": 0,
+      "playTime": 534,
+      "playTime30Days": 17,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 156,
+      "playTime": 157,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -100,8 +100,8 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 841,
-      "playTime30Days": 0,
+      "playTime": 867,
+      "playTime30Days": 26,
       "color": "#73535b"
     },
     {
@@ -137,8 +137,8 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 364,
-      "playTime30Days": 7,
+      "playTime": 368,
+      "playTime30Days": 0,
       "color": "#0e3258"
     },
     {
@@ -169,7 +169,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 100,
+      "playTime": 101,
       "playTime30Days": 0,
       "color": "#6a9bac"
     },
@@ -234,7 +234,7 @@
       "rating": 8.9,
       "color": "#7d3b21",
       "playTime": 188,
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6QfaZ05cdm3h2mOp8D7GD4",
@@ -264,8 +264,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 256,
-      "playTime30Days": 57,
+      "playTime": 257,
+      "playTime30Days": 0,
       "color": "#933010"
     },
     {
@@ -331,7 +331,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 109,
+      "playTime": 110,
       "playTime30Days": 0,
       "color": "#251c16"
     },
@@ -463,7 +463,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 68,
+      "playTime": 69,
       "playTime30Days": 0
     },
     {
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 784,
+      "playTime": 789,
       "genre": "Live",
-      "playTime30Days": 473,
+      "playTime30Days": 266,
       "color": "#88888a"
     },
     {
@@ -787,7 +787,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 153,
+      "playTime": 156,
       "genre": "R&B",
       "playTime30Days": 0
     },

@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Rap",
       "playTime": 1099,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "color": "#291c13"
     },
     {
@@ -73,7 +73,7 @@
       "rating": 11.6,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 1091,
+      "playTime": 1092,
       "playTime30Days": 0,
       "color": "#7c7a79"
     },
@@ -106,7 +106,7 @@
       ],
       "rating": 10,
       "genre": "Synthpop",
-      "playTime": 860,
+      "playTime": 861,
       "playTime30Days": 0,
       "color": "#443152"
     },
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 270,
+      "playTime": 271,
       "playTime30Days": 0,
       "color": "#52050d"
     },
@@ -234,7 +234,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 234,
+      "playTime": 235,
       "playTime30Days": 0
     },
     {
@@ -327,8 +327,8 @@
         }
       ],
       "rating": 10,
-      "playTime": 190,
-      "playTime30Days": 0,
+      "playTime": 199,
+      "playTime30Days": 9,
       "color": "#526b6e"
     },
     {
@@ -538,10 +538,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 0,
+      "playTime": 25,
       "genre": "Hip-Hop",
       "logged": "2025-09-18",
-      "year": 2015
+      "year": 2015,
+      "playTime30Days": 24
     }
   ]
 }

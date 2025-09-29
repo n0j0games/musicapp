@@ -39,7 +39,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 588,
+      "playTime": 590,
       "genre": "Latin",
       "playTime30Days": 0,
       "color": "#729238"
@@ -144,7 +144,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 680,
+      "playTime": 681,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -837,10 +837,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 487,
+      "playTime": 489,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 12,
+      "playTime30Days": 8,
       "onVinyl": true
     },
     {
@@ -976,10 +976,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 233,
+      "playTime": 239,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 13
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1041,7 +1041,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c04094d2de049f9c206b65626e31ab1873725b60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.6,
       "playTime": 151,
       "genre": "Hip-Hop",
       "year": 2025,
@@ -1169,10 +1169,10 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 76,
+      "playTime": 129,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 57
+      "playTime30Days": 102
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1198,11 +1198,11 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 100,
+      "playTime": 113,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 9
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1356,10 +1356,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 197,
+      "playTime": 200,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 25
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1439,10 +1439,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 54,
+      "playTime": 61,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 13
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1472,10 +1472,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 132,
+      "playTime": 149,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 16,
+      "playTime30Days": 27,
       "color": "#1b2435"
     },
     {
@@ -1502,10 +1502,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 101,
+      "playTime": 111,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 15
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1531,10 +1531,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 23,
+      "playTime": 34,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1593,10 +1593,10 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 88,
+      "playTime": 104,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 49
+      "playTime30Days": 33
     },
     {
       "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
@@ -1637,10 +1637,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 214,
+      "playTime": 273,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 112
+      "playTime30Days": 95
     },
     {
       "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr",
@@ -1661,7 +1661,7 @@
       "playTime": 20,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 20,
+      "playTime30Days": 0,
       "logged": "2025-08-24"
     },
     {
@@ -1692,11 +1692,11 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 118,
+      "playTime": 178,
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
-      "playTime30Days": 118
+      "playTime30Days": 134
     },
     {
       "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d",
@@ -1722,11 +1722,11 @@
         }
       ],
       "rating": 7,
-      "playTime": 43,
+      "playTime": 45,
       "logged": "2025-08-28",
       "genre": "Pop Rock",
       "year": 2025,
-      "playTime30Days": 43
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel",
@@ -1752,11 +1752,11 @@
         }
       ],
       "rating": 7,
-      "playTime": 31,
+      "playTime": 34,
       "genre": "Alternative R&B",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 31
+      "playTime30Days": 34
     },
     {
       "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj",
@@ -1786,11 +1786,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 48,
+      "playTime": 107,
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 48
+      "playTime30Days": 107
     },
     {
       "url": "https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt",
@@ -1854,7 +1854,105 @@
       "genre": "Indie Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 20
+      "playTime30Days": 6
+    },
+    {
+      "url": "https://open.spotify.com/album/0HkhtRJ9b1DfrYCGn3ra7R",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273799b059ad8eaf5f628e0be7b",
+      "title": "5407",
+      "artist": "Genetikk",
+      "rating": 4,
+      "playTime": 0,
+      "genre": "",
+      "logged": "2025-09-29",
+      "year": 2025,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e1fcea1c0e2025e966ef43a2",
+      "title": "Ich lieb mich, ich lieb mich nicht",
+      "artist": "Nina Chuba",
+      "songs": [
+        {
+          "title": "Wenn das Liebe ist",
+          "preview_url": "https://p.scdn.co/mp3-preview/c775dd5d3c5eda65eeb226773d935c31b6e18fa4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "RAGE GIRL",
+          "preview_url": "https://p.scdn.co/mp3-preview/dc54b7ed5e354fbc34f5f266845fd55c95119d09?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Unsicher",
+          "preview_url": "https://p.scdn.co/mp3-preview/3326d7b73072e4fc94a888ccee547be8980988dc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 19,
+      "genre": "Deutschpop",
+      "logged": "2025-09-29",
+      "year": 2025,
+      "playTime30Days": 19
+    },
+    {
+      "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f99c9248388dd77f24276a7c",
+      "title": "Vie",
+      "artist": "Doja Cat",
+      "songs": [
+        {
+          "title": "AAAHH MEN!",
+          "preview_url": "https://p.scdn.co/mp3-preview/4c0aad5b016cfbabe4054d34976f153526112eaf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Jealous Type",
+          "preview_url": "https://p.scdn.co/mp3-preview/121586b558d8b84f905ba8c8d5d7b9d4284527be?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Gorgeous",
+          "preview_url": "https://p.scdn.co/mp3-preview/65e293ef06526528edf6f095f9b069c4118db936?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 18,
+      "genre": "Dancepop",
+      "logged": "2025-09-29",
+      "year": 2025,
+      "playTime30Days": 18
+    },
+    {
+      "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273310883e8d6f3257442caa956",
+      "title": "Through The Wall",
+      "artist": "Rochelle Jordan",
+      "songs": [
+        {
+          "title": "Ladida",
+          "preview_url": "https://p.scdn.co/mp3-preview/c941f67298808223d8f8722fae913c14e5a7eba3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Boy",
+          "preview_url": "https://p.scdn.co/mp3-preview/68bdad5746489627357b40f1ca096b4cc3edea31?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Doing It Too",
+          "preview_url": "https://p.scdn.co/mp3-preview/6366cedba4dce385d6272ebd83a3a4f0a71e3367?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Close 2 Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/7bb71136690a43288f23615b3b1e2298a3819584?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Around",
+          "preview_url": "https://p.scdn.co/mp3-preview/5929cdcce2582ae6eb9b3761ed19c164b9683950?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.2,
+      "playTime": 81,
+      "genre": "House",
+      "logged": "2025-09-29",
+      "year": 2025,
+      "playTime30Days": 81
     }
   ]
 }

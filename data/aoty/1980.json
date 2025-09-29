@@ -195,7 +195,7 @@
       ],
       "rating": 8.9,
       "playTime": 151,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 1983,
       "color": "#5d5340"
     },
@@ -348,7 +348,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 14,
+      "playTime": 15,
       "genre": "Synthpop",
       "year": 1984,
       "playTime30Days": 0
@@ -410,10 +410,11 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 0,
+      "playTime": 48,
       "genre": "Art Pop",
       "logged": "2025-09-16",
-      "year": 1985
+      "year": 1985,
+      "playTime30Days": 21
     }
   ]
 }
