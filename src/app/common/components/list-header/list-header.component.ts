@@ -51,15 +51,12 @@ export class ListHeaderComponent {
     @Input()
     artistIcon: string | undefined;
 
-    isModalOpen = false;
-
     submitForm(event: any) {
         this.onFormChanges.emit(event);
     }
 
     resetForm(event: any) {
         this.onFormReset.emit(event);
-        this.isModalOpen = false;
     }
 
     resetItem(name: string) {
