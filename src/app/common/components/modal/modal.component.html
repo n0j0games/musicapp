@@ -1,0 +1,15 @@
+<button
+        style="height: 100%"
+        type="button"
+        class="select"
+        [ngClass]="{ 'select-selected' : isOpen }"
+        (click)="isOpen = !isOpen"
+>
+    <i class="fa-solid fa-filter"></i>
+</button>
+<div class="modal flex-row-inline align-center justify-center"
+     *ngIf="isOpen">
+    <div class="modal-inner">
+        <ng-content></ng-content>
+    </div>
+</div>

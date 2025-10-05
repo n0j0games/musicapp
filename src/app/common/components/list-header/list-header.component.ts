@@ -2,6 +2,7 @@ import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {FormGroup, FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {NgForOf, NgIf} from "@angular/common";
 import {Sorting} from "../../models/sorting.enum";
+import {ModalComponent} from "../modal/modal.component";
 
 @Component({
   selector: 'app-list-header',
@@ -10,7 +11,8 @@ import {Sorting} from "../../models/sorting.enum";
         FormsModule,
         NgForOf,
         ReactiveFormsModule,
-        NgIf
+        NgIf,
+        ModalComponent
     ],
   templateUrl: './list-header.component.html'
 })
@@ -49,12 +51,15 @@ export class ListHeaderComponent {
     @Input()
     artistIcon: string | undefined;
 
+    isModalOpen = false;
+
     submitForm(event: any) {
         this.onFormChanges.emit(event);
     }
 
     resetForm(event: any) {
         this.onFormReset.emit(event);
+        this.isModalOpen = false;
     }
 
     resetItem(name: string) {

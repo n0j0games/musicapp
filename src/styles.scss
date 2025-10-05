@@ -108,13 +108,24 @@ a {
 }
 
 a:hover, .less-important-link:hover {
-  color: $accent-color;
   cursor: pointer;
 }
 
-i:hover {
+i:hover,
+a:hover,
+.less-important-link:hover,
+.play-button-header,
+.mute-button,
+.outer-highlight-card a:hover,
+.reset-button:hover,
+.highlight-card a:hover,
+.sotw-next-button button:hover,
+.sotw-prev-button button:hover,
+.select-selected i,
+.select:hover i {
   color: $accent-color;
 }
+
 
 .p-b {
   font-family: "Plus Jakarta Sans Bold", "Noto Sans JP", serif;
@@ -191,6 +202,11 @@ body {
   flex-direction: row;
 }
 
+.flex-row-inline {
+  display: inline-flex;
+  flex-direction: row;
+}
+
 .flex-column {
   display: flex;
   flex-direction: column;
@@ -236,7 +252,6 @@ body {
 }
 
 .play-button-header, .mute-button {
-  color: $accent-color;
   padding: 0 0 9px 0;
 }
 
@@ -265,10 +280,6 @@ body {
 
 .outer-highlight-card a {
   color: $text-color-light;
-}
-
-.outer-highlight-card a:hover {
-  color: $accent-color;
 }
 
 .highlight-card {
@@ -305,9 +316,7 @@ select {
   background: none;
 }
 
-.reset-button:hover {
-  color: $accent-color;
-}
+
 
 input:focus, .select:focus-within, .select:focus-within select {
   background: $primary-color-hover;
@@ -321,10 +330,6 @@ input::placeholder {
   color: $text-color-light;
 }
 
-.highlight-card a:hover {
-  color: $accent-color;
-}
-
 
 img {
   width: 120px;
@@ -334,9 +339,9 @@ img {
 }
 
 .artist-img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
 }
 
 .preview-img-div-outer {
@@ -466,10 +471,6 @@ option:disabled {
   outline: none;
 }
 
-.sotw-next-button button:hover, .sotw-prev-button button:hover {
-  color: $accent-color;
-}
-
 .badge {
   border-radius: 5px;
   padding: 2px 10px;
@@ -486,7 +487,34 @@ option:disabled {
   font-size: 14px;
 }
 
+.modal {
+  position: absolute;
+  z-index: 3;
+  width: 100%;
+  top: 250px;
+  left: 0;
+  right: 0;
+}
+
+.modal-inner {
+  margin: 10px;
+  box-shadow: 0 0 10px $primary-color-darker;
+  background: $primary-color;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.select-selected {
+  background: $primary-color-hover;
+}
+
 @media (width < 600px) or (height < 700px) {
+
+
+  .modal-inner {
+    margin: 5px;
+    padding: 10px;
+  }
 
   .badge {
     padding: 1px 5px;
@@ -528,8 +556,8 @@ option:disabled {
   }
 
   .artist-img {
-      width: 80px;
-      height: 80px;
+    width: 80px;
+    height: 80px;
   }
 
   .movie-poster {
@@ -568,6 +596,10 @@ option:disabled {
 
   .gap-s {
     gap: 2px;
+  }
+
+  .gap-l {
+    gap: 5px;
   }
 
   .fake-gap-b {
