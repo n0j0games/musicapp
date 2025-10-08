@@ -272,6 +272,32 @@
       "genre": "Pop Rap",
       "year": 2010,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273176e82d09ac75d62810f0056",
+      "title": "InnerSpeaker",
+      "artist": "Tame Impala",
+      "songs": [
+        {
+          "title": "It Is Not Meant To Be",
+          "preview_url": "https://p.scdn.co/mp3-preview/884d2d181f05ba2ecb801cf69974caf3b2580fe7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Alter Ego",
+          "preview_url": "https://p.scdn.co/mp3-preview/15733d5dbb0ad35cbda06b6c7016317ec4d53061?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Why Won't You Make Up Your Mind?",
+          "preview_url": "https://p.scdn.co/mp3-preview/71fe1751d8d580728816f4242ffea600ff7ea0df?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 12,
+      "genre": "Psychadelic Rock",
+      "logged": "2025-10-08",
+      "year": 2010,
+      "playTime30Days": 11
     }
   ]
 }

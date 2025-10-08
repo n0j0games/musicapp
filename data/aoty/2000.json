@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 838,
-      "playTime30Days": 5,
+      "playTime": 839,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
     },
@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 389,
+      "playTime": 390,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -136,7 +136,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 181,
+      "playTime": 183,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#006082"
@@ -204,7 +204,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 548,
+      "playTime": 552,
       "playTime30Days": 31,
       "year": 2005,
       "color": "#001621"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 106,
-      "playTime30Days": 6,
+      "playTime": 108,
+      "playTime30Days": 5,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 196,
+      "playTime": 199,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -464,8 +464,8 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 24,
-      "playTime30Days": 5,
+      "playTime": 25,
+      "playTime30Days": 6,
       "year": 2007
     },
     {
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 74,
+      "playTime": 75,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -850,8 +850,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 85,
-      "playTime30Days": 8,
+      "playTime": 98,
+      "playTime30Days": 21,
       "year": 2004
     },
     {
@@ -878,8 +878,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 34,
-      "playTime30Days": 0,
+      "playTime": 38,
+      "playTime30Days": 5,
       "year": 2003
     },
     {
@@ -906,7 +906,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 50,
+      "playTime": 52,
       "genre": "Folk",
       "playTime30Days": 0,
       "year": 2007,
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 57,
+      "playTime": 58,
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 0
@@ -1218,7 +1218,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 74,
+      "playTime": 75,
       "genre": "Dance Pop",
       "year": 2005,
       "playTime30Days": 0
@@ -1268,7 +1268,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 64,
+      "playTime": 66,
       "genre": "Dance-Pop",
       "year": 2006,
       "playTime30Days": 0

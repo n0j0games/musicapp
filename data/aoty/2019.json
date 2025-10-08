@@ -29,8 +29,8 @@
         }
       ],
       "rating": 11.3,
-      "playTime": 534,
-      "playTime30Days": 17,
+      "playTime": 560,
+      "playTime30Days": 43,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 157,
+      "playTime": 158,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -137,8 +137,8 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 368,
-      "playTime30Days": 0,
+      "playTime": 370,
+      "playTime30Days": 6,
       "color": "#0e3258"
     },
     {
@@ -169,7 +169,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 101,
+      "playTime": 102,
       "playTime30Days": 0,
       "color": "#6a9bac"
     },
@@ -463,8 +463,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 69,
-      "playTime30Days": 0
+      "playTime": 77,
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj",
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 789,
+      "playTime": 809,
       "genre": "Live",
-      "playTime30Days": 266,
+      "playTime30Days": 51,
       "color": "#88888a"
     },
     {

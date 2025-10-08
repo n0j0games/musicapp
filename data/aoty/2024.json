@@ -63,7 +63,7 @@
       ],
       "rating": 9.8,
       "genre": "Electropop",
-      "playTime": 622,
+      "playTime": 625,
       "playTime30Days": 0,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 902,
-      "playTime30Days": 0,
+      "playTime": 908,
+      "playTime30Days": 6,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -231,7 +231,7 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 347,
+      "playTime": 348,
       "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
@@ -265,7 +265,7 @@
       ],
       "rating": 8.6,
       "genre": "Latin",
-      "playTime": 336,
+      "playTime": 337,
       "playTime30Days": 0,
       "color": "#a065b1"
     },
@@ -365,7 +365,7 @@
       "rating": 8.4,
       "genre": "Neo Psychadelia",
       "playTime": 182,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
     },
@@ -625,7 +625,7 @@
       ],
       "rating": 8,
       "genre": "Experimental Rap",
-      "playTime": 83,
+      "playTime": 84,
       "playTime30Days": 0,
       "color": "#4b534a"
     },
@@ -828,8 +828,8 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 471,
-      "playTime30Days": 18,
+      "playTime": 479,
+      "playTime30Days": 26,
       "color": "#7d716f",
       "review": "og-keemo--fieber"
     },
@@ -1468,7 +1468,7 @@
       ],
       "rating": 5,
       "genre": "Deutschrap",
-      "playTime": 12,
+      "playTime": 13,
       "playTime30Days": 0
     },
     {
@@ -1598,7 +1598,7 @@
       ],
       "rating": 6,
       "genre": "Pop Rap",
-      "playTime": 47,
+      "playTime": 48,
       "playTime30Days": 0,
       "color": "#2f564f"
     },
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 130,
+      "playTime": 132,
       "playTime30Days": 0
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "rating": 7.5,
       "genre": "Deutschrap",
-      "playTime": 116,
+      "playTime": 118,
       "playTime30Days": 0,
       "color": "#000000"
     },
@@ -2457,7 +2457,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 34,
+      "playTime": 35,
       "genre": "Alt Rock",
       "color": "#7e6403",
       "playTime30Days": 0

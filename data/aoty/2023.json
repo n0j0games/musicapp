@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 495,
-      "playTime30Days": 0,
+      "playTime": 501,
+      "playTime30Days": 6,
       "color": "#687d84"
     },
     {
@@ -161,7 +161,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 174,
+      "playTime": 176,
       "playTime30Days": 0,
       "color": "#4f717b"
     },
@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 118,
+      "playTime": 119,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 256,
-      "playTime30Days": 0,
+      "playTime": 265,
+      "playTime30Days": 13,
       "color": "#a28c6a"
     },
     {
@@ -289,7 +289,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 261,
+      "playTime": 262,
       "playTime30Days": 0,
       "color": "#434754"
     },
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 640,
+      "playTime": 641,
       "playTime30Days": 0,
       "color": "#4c4559"
     },
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 83,
+      "playTime": 84,
       "playTime30Days": 0,
       "color": "#a96f63"
     },
@@ -1161,7 +1161,7 @@
       ],
       "rating": 7.6,
       "playTime": 163,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#251c2d"
     },
     {
@@ -1483,7 +1483,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 67,
+      "playTime": 69,
       "playTime30Days": 0
     },
     {
@@ -1945,7 +1945,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 86,
+      "playTime": 87,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -2237,7 +2237,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 48,
+      "playTime": 49,
       "genre": "Electronic",
       "year": 2023,
       "playTime30Days": 0

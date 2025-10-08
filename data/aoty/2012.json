@@ -62,8 +62,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 510,
-      "playTime30Days": 15,
+      "playTime": 526,
+      "playTime30Days": 31,
       "color": "#51aab9"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rating": 9.8,
       "genre": "Alternative R&B",
-      "playTime": 608,
+      "playTime": 609,
       "playTime30Days": 0,
       "color": "#8d4313"
     },
@@ -159,7 +159,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 62,
+      "playTime": 63,
       "playTime30Days": 0
     },
     {

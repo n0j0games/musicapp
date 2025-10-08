@@ -378,10 +378,10 @@
         }
       ],
       "rating": 10,
-      "playTime": 188,
+      "playTime": 192,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#b20a57"
     },
     {
@@ -582,7 +582,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 28,
+      "playTime": 29,
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",

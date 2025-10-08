@@ -35,8 +35,8 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 339,
-      "playTime30Days": 8,
+      "playTime": 342,
+      "playTime30Days": 5,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 130,
+      "playTime": 131,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -1085,7 +1085,7 @@
       "genre": "Progressive Soul",
       "year": 1973,
       "logged": "2025-09-01",
-      "playTime30Days": 20
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf",
@@ -1115,11 +1115,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 10,
+      "playTime": 11,
       "genre": "P-Funk",
       "logged": "2025-09-15",
       "year": 1974,
-      "playTime30Days": 10
+      "playTime30Days": 0
     }
   ]
 }
