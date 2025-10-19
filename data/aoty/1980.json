@@ -30,7 +30,7 @@
       ],
       "rating": 9.5,
       "playTime30Days": 0,
-      "playTime": 113,
+      "playTime": 114,
       "year": 1983,
       "color": "#00598e"
     },
@@ -129,7 +129,7 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 105,
+      "playTime": 106,
       "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
@@ -414,7 +414,7 @@
       "genre": "Art Pop",
       "logged": "2025-09-16",
       "year": 1985,
-      "playTime30Days": 23
+      "playTime30Days": 6
     }
   ]
 }

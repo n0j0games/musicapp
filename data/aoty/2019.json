@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 158,
+      "playTime": 159,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -100,8 +100,8 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 867,
-      "playTime30Days": 26,
+      "playTime": 868,
+      "playTime30Days": 27,
       "color": "#73535b"
     },
     {
@@ -137,8 +137,8 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 370,
-      "playTime30Days": 6,
+      "playTime": 372,
+      "playTime30Days": 5,
       "color": "#0e3258"
     },
     {
@@ -169,7 +169,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 102,
+      "playTime": 104,
       "playTime30Days": 0,
       "color": "#6a9bac"
     },
@@ -264,7 +264,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 257,
+      "playTime": 258,
       "playTime30Days": 0,
       "color": "#933010"
     },
@@ -494,7 +494,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 38,
+      "playTime": 40,
       "playTime30Days": 0
     },
     {
@@ -591,7 +591,7 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 116,
+      "playTime": 120,
       "playTime30Days": 0
     },
     {
@@ -637,7 +637,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 75,
+      "playTime": 76,
       "playTime30Days": 0
     },
     {
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 809,
+      "playTime": 828,
       "genre": "Live",
-      "playTime30Days": 51,
+      "playTime30Days": 41,
       "color": "#88888a"
     },
     {

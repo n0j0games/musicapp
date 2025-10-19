@@ -30,8 +30,8 @@
       ],
       "rating": 9.7,
       "genre": "Alternative Rock",
-      "playTime": 448,
-      "playTime30Days": 0,
+      "playTime": 452,
+      "playTime30Days": 6,
       "year": 1997,
       "color": "#194d64"
     },
@@ -100,8 +100,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 173,
-      "playTime30Days": 6,
+      "playTime": 175,
+      "playTime30Days": 8,
       "year": 1999,
       "color": "#001743"
     },
@@ -166,8 +166,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 105,
-      "playTime30Days": 0,
+      "playTime": 107,
+      "playTime30Days": 5,
       "year": 1997,
       "color": "#43495f"
     },
@@ -215,7 +215,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 149,
+      "playTime": 150,
       "playTime30Days": 0,
       "year": 1990,
       "color": "#3c456e"

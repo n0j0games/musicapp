@@ -29,7 +29,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 197,
+      "playTime": 199,
       "playTime30Days": 0,
       "color": "#ad1247"
     },
@@ -61,8 +61,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 501,
-      "playTime30Days": 6,
+      "playTime": 502,
+      "playTime30Days": 7,
       "color": "#687d84"
     },
     {
@@ -258,7 +258,7 @@
       ],
       "rating": 9.7,
       "playTime": 265,
-      "playTime30Days": 13,
+      "playTime30Days": 11,
       "color": "#a28c6a"
     },
     {
@@ -289,8 +289,8 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 262,
-      "playTime30Days": 0,
+      "playTime": 265,
+      "playTime30Days": 6,
       "color": "#434754"
     },
     {
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 641,
+      "playTime": 642,
       "playTime30Days": 0,
       "color": "#4c4559"
     },
@@ -634,7 +634,7 @@
       ],
       "rating": 7.1,
       "genre": "Live Performance",
-      "playTime": 688,
+      "playTime": 690,
       "playTime30Days": 0
     },
     {
@@ -773,7 +773,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 78,
+      "playTime": 79,
       "playTime30Days": 0
     },
     {
@@ -912,7 +912,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 206,
+      "playTime": 207,
       "playTime30Days": 0
     },
     {
@@ -1160,7 +1160,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 163,
+      "playTime": 165,
       "playTime30Days": 0,
       "color": "#251c2d"
     },
@@ -1646,7 +1646,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 200,
+      "playTime": 201,
       "playTime30Days": 0
     },
     {
@@ -1738,7 +1738,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0
     },
     {
@@ -2101,7 +2101,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 144,
+      "playTime": 145,
       "genre": "Latin Rap",
       "playTime30Days": 0
     },

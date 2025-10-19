@@ -204,8 +204,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 552,
-      "playTime30Days": 31,
+      "playTime": 553,
+      "playTime30Days": 7,
       "year": 2005,
       "color": "#001621"
     },
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 353,
+      "playTime": 354,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,7 +332,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 108,
+      "playTime": 109,
       "playTime30Days": 5,
       "year": 2009,
       "color": "#4c4c4c"
@@ -365,8 +365,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 199,
-      "playTime30Days": 0,
+      "playTime": 200,
+      "playTime30Days": 5,
       "year": 2009,
       "color": "#ad4362"
     },
@@ -465,7 +465,7 @@
       ],
       "rating": 8.3,
       "playTime": 25,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "year": 2007
     },
     {
@@ -560,7 +560,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 38,
+      "playTime": 39,
       "playTime30Days": 0,
       "year": 2002
     },
@@ -850,7 +850,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 98,
+      "playTime": 99,
       "playTime30Days": 21,
       "year": 2004
     },
@@ -999,10 +999,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 58,
+      "playTime": 69,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 0
+      "playTime30Days": 13
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1185,10 +1185,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 63,
+      "playTime": 66,
       "genre": "Art Pop",
       "year": 2008,
-      "playTime30Days": 0
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr",
@@ -1268,7 +1268,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 66,
+      "playTime": 67,
       "genre": "Dance-Pop",
       "year": 2006,
       "playTime30Days": 0

@@ -1,0 +1,41 @@
+{
+  "year": 2025,
+  "week": 42,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/3430da6903806712976b8a39ba7abd2c9d9369ca?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273afdde58ba36624d8f71498e9",
+      "title": "See You On Monday (You're Lost)",
+      "artist": "Tame Impala",
+      "rating": 6,
+      "album": "Deadbeat",
+      "url": "https://open.spotify.com/track/4dReLsqSqYhrC83Qgg7Lyx"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/34c59cc1049cea752319dc6e7356ad63ac2d4c82?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273afdde58ba36624d8f71498e9",
+      "title": "My Old Ways",
+      "artist": "Tame Impala",
+      "rating": 8,
+      "album": "Deadbeat",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/68f5aee9ffb16bc899583b04cb2960147141d97c?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273afdde58ba36624d8f71498e9",
+      "title": "Afterthought",
+      "artist": "Tame Impala",
+      "rating": 6,
+      "album": "Deadbeat",
+      "url": "https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/5446cf6be4dfb09c16652792d3253b632956b55e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273347388ed5d2552be91a29e49",
+      "title": "White Lighter",
+      "artist": "Jean Dawson",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
+    }
+  ]
+}

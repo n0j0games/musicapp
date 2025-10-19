@@ -35,8 +35,8 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 342,
-      "playTime30Days": 5,
+      "playTime": 344,
+      "playTime30Days": 7,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 131,
+      "playTime": 133,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -135,7 +135,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3a9634ea1f076f29dd1e4def7d7607e7a495cdd7?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "genre": "Rock",
       "playTime": 79,
       "playTime30Days": 0,
@@ -608,10 +608,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 37,
+      "playTime": 44,
       "genre": "Funk",
       "year": 1975,
-      "playTime30Days": 0
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/2cPAfymbuKYHt5ejX9LIxL",
@@ -1119,6 +1119,86 @@
       "genre": "P-Funk",
       "logged": "2025-09-15",
       "year": 1974,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768",
+      "title": "Bad Girls",
+      "artist": "Donna Summer",
+      "songs": [
+        {
+          "title": "Hot Stuff",
+          "preview_url": "https://p.scdn.co/mp3-preview/bcb33c1bbe78b06af56d12bc44d97a5e1a5226b4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bad Girls",
+          "preview_url": "https://p.scdn.co/mp3-preview/71867b7bf61f565e1455bb25a109cb086cf62788?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Walk Away",
+          "preview_url": "https://p.scdn.co/mp3-preview/8932188e006963bf0411d1880b20cd64ea5d60f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "On My Honor",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3e49e3fcf492185b3567ecde9211de5248227e6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Feel Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/40a3f8d9261c4f06228ce7f2dd4e303fdbf5b01d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 55,
+      "genre": "",
+      "logged": "2025-10-19",
+      "year": 1979,
+      "playTime30Days": 40
+    },
+    {
+      "url": "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273076df76a34dfb290c4893850",
+      "title": "I Want You",
+      "artist": "Marvin Gaye",
+      "songs": [
+        {
+          "title": "I Want You",
+          "preview_url": "https://p.scdn.co/mp3-preview/7caad71c7072bd3bd00eb35cf67842757da09cc1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Come Live With Me Angel",
+          "preview_url": "https://p.scdn.co/mp3-preview/e07b8b80fbbe24f7feed09d7e24b5971ee286354?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Since I Had You",
+          "preview_url": "https://p.scdn.co/mp3-preview/fd8bb64558ed59e30b65458aa55de7522b2c60c0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Soon I'll Be Loving You Again",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d97dd97683272f27be233e5db09622c07c3b4d9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "After The Dance",
+          "preview_url": "https://p.scdn.co/mp3-preview/e694f9bca450ccf5648ed3d574fa017b7beaa0cd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 18,
+      "genre": "Smooth Soul",
+      "logged": "2025-10-19",
+      "year": 1976,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://www.albumoftheyear.org/album/549905-shirley-brown-shirley-brown.php",
+      "imgUrl": "https://m.media-amazon.com/images/I/51w9u3wOidL._UF894,1000_QL80_.jpg",
+      "title": "Shirley Brown",
+      "artist": "Shirley Brown",
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Soul",
+      "logged": "2025-10-19",
+      "year": 1977,
       "playTime30Days": 0
     }
   ]

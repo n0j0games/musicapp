@@ -30,7 +30,7 @@
       ],
       "rating": 9.5,
       "onVinyl": true,
-      "playTime": 735,
+      "playTime": 736,
       "genre": "Alternative R&B",
       "playTime30Days": 0,
       "color": "#2f3f28"
@@ -64,7 +64,7 @@
       ],
       "rating": 9.5,
       "playTime": 387,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "color": "#99999d"
     },
     {
@@ -95,8 +95,8 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 236,
-      "playTime30Days": 26,
+      "playTime": 237,
+      "playTime30Days": 27,
       "color": "#437b76"
     },
     {
@@ -340,7 +340,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0
     },
     {
@@ -742,7 +742,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 276,
+      "playTime": 279,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },

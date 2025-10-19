@@ -30,7 +30,7 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 580,
+      "playTime": 581,
       "playTime30Days": 0,
       "color": "#0c3f83",
       "onVinyl": true
@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 298,
+      "playTime": 299,
       "playTime30Days": 0,
       "color": "#926d70"
     },
@@ -293,8 +293,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 218,
-      "playTime30Days": 8
+      "playTime": 221,
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",

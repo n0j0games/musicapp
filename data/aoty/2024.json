@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 908,
-      "playTime30Days": 6,
+      "playTime": 910,
+      "playTime30Days": 8,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -165,7 +165,7 @@
       "rating": 8.9,
       "genre": "Deutscher Indie",
       "playTime": 497,
-      "playTime30Days": 14,
+      "playTime30Days": 0,
       "color": "#8a5e57",
       "review": "paula-hartmann--kleine-feuer"
     },
@@ -299,7 +299,7 @@
       "rating": 8,
       "genre": "Neo Psychadelia",
       "playTime": 135,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#aa6c27"
     },
     {
@@ -975,7 +975,7 @@
       "rating": 7.7,
       "genre": "Jazz",
       "playTime": 31,
-      "playTime30Days": 10,
+      "playTime30Days": 0,
       "color": "#828282"
     },
     {

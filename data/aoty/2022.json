@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1245,
-      "playTime30Days": 121,
+      "playTime": 1286,
+      "playTime30Days": 136,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 691,
+      "playTime": 693,
       "playTime30Days": 0,
       "color": "#1c1613"
     },
@@ -127,8 +127,8 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 520,
-      "playTime30Days": 39,
+      "playTime": 524,
+      "playTime30Days": 40,
       "color": "#61615f"
     },
     {
@@ -195,7 +195,7 @@
       "rating": 10.3,
       "onVinyl": true,
       "playTime": 400,
-      "playTime30Days": 18,
+      "playTime30Days": 0,
       "color": "#456338"
     },
     {
@@ -227,7 +227,7 @@
       ],
       "rating": 9.6,
       "genre": "Rap",
-      "playTime": 1021,
+      "playTime": 1022,
       "playTime30Days": 0,
       "color": "#4e270c"
     },
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 410,
-      "playTime30Days": 23,
+      "playTime": 411,
+      "playTime30Days": 24,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -292,8 +292,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 732,
-      "playTime30Days": 0,
+      "playTime": 743,
+      "playTime30Days": 11,
       "color": "#183399"
     },
     {
@@ -618,7 +618,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 425,
+      "playTime": 426,
       "playTime30Days": 0,
       "color": "#001732"
     },
@@ -650,7 +650,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 290,
+      "playTime": 291,
       "playTime30Days": 0,
       "color": "#c33d15"
     },
@@ -821,7 +821,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 208,
+      "playTime": 210,
       "playTime30Days": 0,
       "color": "#1d2226"
     },
@@ -905,7 +905,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 38,
+      "playTime": 39,
       "playTime30Days": 0,
       "color": "#916b2f"
     },
@@ -1017,7 +1017,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 80,
+      "playTime": 81,
       "playTime30Days": 0,
       "color": "#272727"
     },
@@ -1430,7 +1430,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 112,
+      "playTime": 114,
       "playTime30Days": 0
     },
     {
@@ -1821,7 +1821,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0
     },
     {
@@ -1950,7 +1950,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 60,
+      "playTime": 61,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -2054,7 +2054,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 40,
+      "playTime": 41,
       "genre": "Singer-Songwriter",
       "year": 2022,
       "playTime30Days": 0
