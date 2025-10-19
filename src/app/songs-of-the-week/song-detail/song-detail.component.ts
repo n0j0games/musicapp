@@ -1,4 +1,4 @@
-import {Component, Input, OnDestroy, OnInit} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {Song} from "../models/song";
 import {NgIf, NgOptimizedImage} from "@angular/common";
 import {RatingComponent} from "../../common/components/rating/rating.component";

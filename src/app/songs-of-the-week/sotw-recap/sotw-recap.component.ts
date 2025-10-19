@@ -1,12 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
-import {AotyService} from "../../albums-of-the-year/services/aoty.service";
-import {AudioService} from "../../common/services/audio.service";
-import {AnimationBuilder} from "@angular/animations";
-import {TypewriterService} from "../../common/services/typewriter.service";
-import {AotyItem} from "../../albums-of-the-year/models/aoty-item";
 import {SotwItem} from "../models/sotw-item";
-import {Album} from "../../albums-of-the-year/models/album";
 import {SongInfo} from "../../common/utils/songinfo";
 import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";

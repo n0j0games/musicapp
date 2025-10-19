@@ -1,7 +1,5 @@
 import {Injectable} from "@angular/core";
-import {SotwList} from "../../songs-of-the-week/models/sotw-list";
 import {Subject} from "rxjs";
-import {SotwItem} from "../../songs-of-the-week/models/sotw-item";
 import {AotyItem} from "../models/aoty-item";
 import {AotyList} from "../models/aoty-list";
 import {Album} from "../models/album";

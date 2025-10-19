@@ -11,7 +11,6 @@ import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
 import {NormalizeHelper} from "../../common/utils/normalize-helper";
-import {ReviewService} from "../../common/services/review.service";
 import {ReviewButtonComponent} from "../../common/components/review-button/review-button.component";
 import {Logger} from "../../common/utils/logger";
 import {LastfmBadgeComponent} from "../../common/components/lastfm-badge/lastfm-badge.component";

@@ -26,7 +26,6 @@ export class RatingComponent implements OnInit, OnChanges {
 
   width : number = 0;
 
-  private classic = "#b54c55"
   private perfect = "#b54c91"
   private amazing = "#0080ae";
   private verygood = "#00ae9f";
