@@ -1,7 +1,7 @@
 import {Injectable} from "@angular/core";
 import {Subject} from "rxjs";
-import {SongInfo} from "../models/songinfo";
-import {Logger} from "../logger";
+import {SongInfo} from "../utils/songinfo";
+import {Logger} from "../utils/logger";
 
 @Injectable({
     providedIn: 'root'

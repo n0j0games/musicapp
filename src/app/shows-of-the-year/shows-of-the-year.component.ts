@@ -2,20 +2,20 @@ import {Component, OnInit} from '@angular/core';
 import {AlbumDetailComponent} from "../albums-of-the-year/album-detail/album-detail.component";
 import {ListHeaderComponent} from "../common/components/list-header/list-header.component";
 import {NgForOf, NgIf} from "@angular/common";
-import {Movie} from "../common/models/movie";
+import {Movie} from "./models/movie";
 import {
   QueryParamHelper,
   QueryParams
-} from "../common/query-param-helper";
-import {Sorting} from "../common/models/sorting.enum";
+} from "../common/utils/query-param-helper";
+import {Sorting} from "../common/utils/sorting.enum";
 import {FormControl, FormGroup, Validators} from "@angular/forms";
-import {Logger} from "../common/logger";
+import {Logger} from "../common/utils/logger";
 import {ActivatedRoute, Params, Router} from "@angular/router";
-import {MotyService} from "../common/services/moty.service";
-import {QueryFilterHelper} from "../common/query-filter-helper";
-import {NormalizeHelper} from "../common/normalize-helper";
+import {MotyService} from "./services/moty.service";
+import {QueryFilterHelper} from "../common/utils/query-filter-helper";
+import {NormalizeHelper} from "../common/utils/normalize-helper";
 import {ShowDetailComponent} from "./show-detail/show-detail.component";
-import {AggregateTitleHelper} from "../common/aggregate-title-helper";
+import {AggregateTitleHelper} from "../common/utils/aggregate-title-helper";
 
 const MAX_CAP_DEFAULT = 200;
 

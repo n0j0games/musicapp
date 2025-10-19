@@ -1,20 +1,20 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Params, Router} from "@angular/router";
-import {AotyService} from "../common/services/aoty.service";
+import {AotyService} from "./services/aoty.service";
 import {NgForOf, NgIf} from "@angular/common";
 import {AlbumDetailComponent} from "./album-detail/album-detail.component";
-import {Album} from "../common/models/album";
-import {Sorting} from "../common/models/sorting.enum";
-import {AliasList} from "../common/models/alias-list";
+import {Album} from "./models/album";
+import {Sorting} from "../common/utils/sorting.enum";
+import {AliasList} from "./models/alias-list";
 import {FormControl, FormGroup, FormsModule, ReactiveFormsModule, Validators} from "@angular/forms";
 import {ListHeaderComponent} from "../common/components/list-header/list-header.component";
-import {NormalizeHelper} from "../common/normalize-helper";
-import {QueryParamHelper, QueryParams} from "../common/query-param-helper";
-import {QueryFilterHelper} from "../common/query-filter-helper";
-import {Logger} from "../common/logger";
-import {AggregateTitleHelper} from "../common/aggregate-title-helper";
-import {GroupAliasHelper} from "../common/group-alias-helper";
-import {SearchCategory} from "../common/models/search-category";
+import {NormalizeHelper} from "../common/utils/normalize-helper";
+import {QueryParamHelper, QueryParams} from "../common/utils/query-param-helper";
+import {QueryFilterHelper} from "../common/utils/query-filter-helper";
+import {Logger} from "../common/utils/logger";
+import {AggregateTitleHelper} from "../common/utils/aggregate-title-helper";
+import {GroupAliasHelper} from "../common/utils/group-alias-helper";
+import {SearchCategory} from "../common/utils/search-category.enum";
 
 const MAX_CAP_DEFAULT = 70;
 

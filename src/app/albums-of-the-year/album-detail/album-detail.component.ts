@@ -1,19 +1,19 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {AudioService} from "../../common/services/audio.service";
-import {Album} from "../../common/models/album";
+import {Album} from "../models/album";
 import {NgClass, NgIf, NgStyle} from "@angular/common";
 import {PlayButtonComponent} from "../../common/components/play-button/play-button.component";
 import {RatingComponent} from "../../common/components/rating/rating.component";
 import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
-import {SongInfo} from "../../common/models/songinfo";
+import {SongInfo} from "../../common/utils/songinfo";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {ContentBadgeComponent} from "../../common/components/content-badge/content-badge.component";
-import {NormalizeHelper} from "../../common/normalize-helper";
+import {NormalizeHelper} from "../../common/utils/normalize-helper";
 import {ReviewService} from "../../common/services/review.service";
 import {ReviewButtonComponent} from "../../common/components/review-button/review-button.component";
-import {Logger} from "../../common/logger";
+import {Logger} from "../../common/utils/logger";
 import {LastfmBadgeComponent} from "../../common/components/lastfm-badge/lastfm-badge.component";
 import {LoggedBadgeComponent} from "../../common/components/logged-badge/logged-badge.component";
 

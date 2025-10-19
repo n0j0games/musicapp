@@ -1,6 +1,6 @@
 import {Injectable} from "@angular/core";
 import {concat, concatMap, delay, from, ignoreElements, interval, map, of, take} from "rxjs";
-import {TypeParams} from "../models/type-params";
+import {TypeParams} from "../utils/type-params";
 
 @Injectable({
     providedIn: 'root'

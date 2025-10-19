@@ -1,15 +1,15 @@
 import {Component, OnInit} from '@angular/core';
 import {NgForOf} from "@angular/common";
 import {RouterLink} from "@angular/router";
-import {SotwService} from "../common/services/sotw.service";
-import {AotyService} from "../common/services/aoty.service";
-import {SotwList} from "../common/models/sotw-list";
-import {Album} from "../common/models/album";
-import {Logger} from "../common/logger";
+import {SotwService} from "../songs-of-the-week/services/sotw.service";
+import {AotyService} from "../albums-of-the-year/services/aoty.service";
+import {SotwList} from "../songs-of-the-week/models/sotw-list";
+import {Album} from "../albums-of-the-year/models/album";
+import {Logger} from "../common/utils/logger";
 import {ItemComponent} from "./item/item.component";
 import {HighlightCardComponent} from "../common/components/highlight-card/highlight-card.component";
-import {Sorting} from "../common/models/sorting.enum";
-import {WeekHelper} from "../common/week-helper";
+import {Sorting} from "../common/utils/sorting.enum";
+import {WeekHelper} from "../common/utils/week-helper";
 
 @Component({
   selector: 'app-home-new',

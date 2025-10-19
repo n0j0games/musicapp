@@ -1,7 +1,7 @@
 import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {NgForOf, NgIf, NgStyle} from "@angular/common";
 import {RatingPipe} from "../../pipes/rating.pipe";
-import {Logger} from "../../logger";
+import {Logger} from "../../utils/logger";
 import {ProgressBarComponent} from "../progress-bar/progress-bar.component";
 
 @Component({

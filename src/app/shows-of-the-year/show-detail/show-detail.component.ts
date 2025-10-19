@@ -5,10 +5,10 @@ import {RatingComponent} from "../../common/components/rating/rating.component";
 import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../../common/components/vinyl/vinyl.component";
-import {Movie} from "../../common/models/movie";
+import {Movie} from "../models/movie";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
-import {NormalizeHelper} from "../../common/normalize-helper";
-import {Logger} from "../../common/logger";
+import {NormalizeHelper} from "../../common/utils/normalize-helper";
+import {Logger} from "../../common/utils/logger";
 
 @Component({
   selector: 'app-show-detail',

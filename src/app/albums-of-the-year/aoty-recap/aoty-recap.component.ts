@@ -1,12 +1,12 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
-import {AotyService} from "../../common/services/aoty.service";
-import {AotyItem} from "../../common/models/aoty-item";
-import {Album} from "../../common/models/album";
-import {SongInfo} from "../../common/models/songinfo";
+import {AotyService} from "../services/aoty.service";
+import {AotyItem} from "../models/aoty-item";
+import {Album} from "../models/album";
+import {SongInfo} from "../../common/utils/songinfo";
 import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";
-import {Logger} from "../../common/logger";
+import {Logger} from "../../common/utils/logger";
 
 @Component({
     selector: 'app-aoty-recap',

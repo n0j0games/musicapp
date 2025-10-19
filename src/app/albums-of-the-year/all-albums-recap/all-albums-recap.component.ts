@@ -1,16 +1,16 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
-import {AotyService} from "../../common/services/aoty.service";
+import {AotyService} from "../services/aoty.service";
 import {AudioService} from "../../common/services/audio.service";
 import {AnimationBuilder} from "@angular/animations";
 import {TypewriterService} from "../../common/services/typewriter.service";
-import {AotyItem} from "../../common/models/aoty-item";
-import {SotwItem} from "../../common/models/sotw-item";
-import {Album} from "../../common/models/album";
-import {SongInfo} from "../../common/models/songinfo";
+import {AotyItem} from "../models/aoty-item";
+import {SotwItem} from "../../songs-of-the-week/models/sotw-item";
+import {Album} from "../models/album";
+import {SongInfo} from "../../common/utils/songinfo";
 import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";
-import {Logger} from "../../common/logger";
+import {Logger} from "../../common/utils/logger";
 
 @Component({
     selector: 'app-all-albums-recap',

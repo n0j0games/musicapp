@@ -1,14 +1,14 @@
 import {AfterViewInit, Component, ElementRef, Input, OnDestroy, OnInit, ViewChild} from '@angular/core';
 import {Params, Router, RouterLink} from "@angular/router";
-import {Album} from "../../models/album";
+import {Album} from "../../../albums-of-the-year/models/album";
 import {AsyncPipe, LowerCasePipe, NgClass, NgForOf, NgIf, NgStyle, UpperCasePipe} from "@angular/common";
-import {SongInfo} from "../../models/songinfo";
+import {SongInfo} from "../../utils/songinfo";
 import {AudioService} from "../../services/audio.service";
 import {animate, AnimationBuilder, keyframes, style} from "@angular/animations";
 import {TypewriterService} from "../../services/typewriter.service";
 import {map, Observable} from "rxjs";
-import {Song} from "../../models/song";
-import {Logger} from "../../logger";
+import {Song} from "../../../songs-of-the-week/models/song";
+import {Logger} from "../../utils/logger";
 
 @Component({
     selector: 'app-recap',

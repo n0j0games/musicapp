@@ -1,7 +1,7 @@
 import {Component, Input, OnDestroy, OnInit} from '@angular/core';
 import {NgClass, NgIf} from "@angular/common";
 import {AudioService} from "../../services/audio.service";
-import {SongInfo} from "../../models/songinfo";
+import {SongInfo} from "../../utils/songinfo";
 
 @Component({
   selector: 'app-mute-button',

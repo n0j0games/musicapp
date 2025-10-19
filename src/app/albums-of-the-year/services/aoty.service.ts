@@ -1,13 +1,13 @@
 import {Injectable} from "@angular/core";
-import {SotwList} from "../models/sotw-list";
+import {SotwList} from "../../songs-of-the-week/models/sotw-list";
 import {Subject} from "rxjs";
-import {SotwItem} from "../models/sotw-item";
+import {SotwItem} from "../../songs-of-the-week/models/sotw-item";
 import {AotyItem} from "../models/aoty-item";
 import {AotyList} from "../models/aoty-list";
 import {Album} from "../models/album";
 import {HttpErrorResponse} from "@angular/common/http";
 import {AliasList} from "../models/alias-list";
-import {NormalizeHelper} from "../normalize-helper";
+import {NormalizeHelper} from "../../common/utils/normalize-helper";
 
 @Injectable({
   providedIn: 'root'

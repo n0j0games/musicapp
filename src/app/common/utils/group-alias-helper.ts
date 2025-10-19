@@ -1,6 +1,6 @@
-import {AliasList} from "./models/alias-list";
+import {AliasList} from "../../albums-of-the-year/models/alias-list";
 import {NormalizeHelper} from "./normalize-helper";
-import {Album} from "./models/album";
+import {Album} from "../../albums-of-the-year/models/album";
 
 export class GroupAliasHelper {
 
@@ -19,7 +19,6 @@ export class GroupAliasHelper {
             if (allowIncompleteAnswers) {
                 for (const artist_ of artistList) {
                     if (artist_.startsWith(qArtist) || qArtist.startsWith(artist_)) {
-                        console.log(artist_, "matches", qArtist)
                         return true;
                     }
                 }

@@ -1,18 +1,18 @@
 import {Injectable} from '@angular/core';
 import {HttpClient, HttpErrorResponse} from "@angular/common/http";
 import {catchError, forkJoin, map, Observable, of, tap} from "rxjs";
-import {SotwList} from "../models/sotw-list";
-import {SotwItem} from "../models/sotw-item";
-import {SotwService} from "./sotw.service";
-import {AotyService} from "./aoty.service";
-import {AotyItem} from "../models/aoty-item";
-import {AotyList} from "../models/aoty-list";
+import {SotwList} from "../../songs-of-the-week/models/sotw-list";
+import {SotwItem} from "../../songs-of-the-week/models/sotw-item";
+import {SotwService} from "../../songs-of-the-week/services/sotw.service";
+import {AotyService} from "../../albums-of-the-year/services/aoty.service";
+import {AotyItem} from "../../albums-of-the-year/models/aoty-item";
+import {AotyList} from "../../albums-of-the-year/models/aoty-list";
 import {Router} from "@angular/router";
-import {AliasList} from "../models/alias-list";
-import {MotyItem} from "../models/moty-item";
-import {MotyService} from "./moty.service";
+import {AliasList} from "../../albums-of-the-year/models/alias-list";
+import {MotyItem} from "../../shows-of-the-year/models/moty-item";
+import {MotyService} from "../../shows-of-the-year/services/moty.service";
 import {ReviewService} from "./review.service";
-import {Logger} from "../logger";
+import {Logger} from "../utils/logger";
 
 @Injectable({
     providedIn: 'root'

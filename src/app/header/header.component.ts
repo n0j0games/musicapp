@@ -1,15 +1,15 @@
 import {Component, OnInit} from '@angular/core';
-import {WeekHelper} from "../common/week-helper";
+import {WeekHelper} from "../common/utils/week-helper";
 import {NavigationEnd, Router, RouterLink} from "@angular/router";
-import {SotwService} from "../common/services/sotw.service";
-import {SotwList} from "../common/models/sotw-list";
+import {SotwService} from "../songs-of-the-week/services/sotw.service";
+import {SotwList} from "../songs-of-the-week/models/sotw-list";
 import {PlayButtonComponent} from "../common/components/play-button/play-button.component";
 import {AudioService} from "../common/services/audio.service";
 import {PlayTrackComponent} from "../common/components/play-track/play-track.component";
-import {SongInfo} from "../common/models/songinfo";
+import {SongInfo} from "../common/utils/songinfo";
 import {NgClass, NgIf} from "@angular/common";
 import {MuteButtonComponent} from "../common/components/mute-button/mute-button.component";
-import {Logger} from "../common/logger";
+import {Logger} from "../common/utils/logger";
 
 @Component({
   selector: 'app-header',

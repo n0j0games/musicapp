@@ -1,7 +1,7 @@
 import {Component, EventEmitter, Input, Output} from '@angular/core';
 import {FormGroup, FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {NgForOf, NgIf} from "@angular/common";
-import {Sorting} from "../../models/sorting.enum";
+import {Sorting} from "../../utils/sorting.enum";
 import {ModalComponent} from "../modal/modal.component";
 
 @Component({

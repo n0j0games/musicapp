@@ -1,7 +1,7 @@
 import {Component, Input} from '@angular/core';
-import {Album} from "../../models/album";
+import {Album} from "../../../albums-of-the-year/models/album";
 import {Router} from "@angular/router";
-import {Logger} from "../../logger";
+import {Logger} from "../../utils/logger";
 
 @Component({
   selector: 'app-review-button',

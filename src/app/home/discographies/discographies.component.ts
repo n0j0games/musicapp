@@ -1,15 +1,15 @@
 import {Component, OnInit} from '@angular/core';
-import {AotyService} from "../../common/services/aoty.service";
-import {Artist} from "../../common/models/artist";
-import {Logger} from "../../common/logger";
-import {NormalizeHelper} from "../../common/normalize-helper";
-import {GroupAliasHelper} from "../../common/group-alias-helper";
-import {AliasList} from "../../common/models/alias-list";
+import {AotyService} from "../../albums-of-the-year/services/aoty.service";
+import {Artist} from "../../albums-of-the-year/models/artist";
+import {Logger} from "../../common/utils/logger";
+import {NormalizeHelper} from "../../common/utils/normalize-helper";
+import {GroupAliasHelper} from "../../common/utils/group-alias-helper";
+import {AliasList} from "../../albums-of-the-year/models/alias-list";
 import {NgForOf, NgIf} from "@angular/common";
 import {Router} from "@angular/router";
-import {Sorting} from "../../common/models/sorting.enum";
+import {Sorting} from "../../common/utils/sorting.enum";
 import {ProgressBarComponent} from "../../common/components/progress-bar/progress-bar.component";
-import {SearchCategory} from "../../common/models/search-category";
+import {SearchCategory} from "../../common/utils/search-category.enum";
 
 @Component({
     selector: 'app-discographies',

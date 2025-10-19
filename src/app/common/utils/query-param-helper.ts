@@ -1,8 +1,8 @@
 import {FormGroup} from "@angular/forms";
 import {Params} from "@angular/router";
 import {NormalizeHelper} from "./normalize-helper";
-import {Sorting} from "./models/sorting.enum";
-import {SearchCategory} from "./models/search-category";
+import {Sorting} from "./sorting.enum";
+import {SearchCategory} from "./search-category.enum";
 
 export class QueryParams {
 

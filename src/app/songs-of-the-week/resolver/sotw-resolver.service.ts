@@ -1,7 +1,7 @@
 import {Injectable} from "@angular/core";
 import {SotwList} from "../models/sotw-list";
 import {ActivatedRouteSnapshot, MaybeAsync, Resolve, RouterStateSnapshot} from "@angular/router";
-import {DataStorageService} from "../services/data-storage.service";
+import {DataStorageService} from "../../common/services/data-storage.service";
 import {SotwService} from "../services/sotw.service";
 
 @Injectable({

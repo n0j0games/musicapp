@@ -7,8 +7,8 @@ import {RemoveFeatPipe} from "../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../common/components/vinyl/vinyl.component";
 import {ActivatedRoute} from "@angular/router";
 import {ReviewService} from "../common/services/review.service";
-import {AotyService} from "../common/services/aoty.service";
-import {NormalizeHelper} from "../common/normalize-helper";
+import {AotyService} from "../albums-of-the-year/services/aoty.service";
+import {NormalizeHelper} from "../common/utils/normalize-helper";
 
 @Component({
   selector: 'app-review',

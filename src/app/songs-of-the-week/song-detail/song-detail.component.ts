@@ -1,10 +1,10 @@
 import {Component, Input, OnDestroy, OnInit} from '@angular/core';
-import {Song} from "../../common/models/song";
+import {Song} from "../models/song";
 import {NgIf, NgOptimizedImage} from "@angular/common";
 import {RatingComponent} from "../../common/components/rating/rating.component";
 import {AudioService} from "../../common/services/audio.service";
 import {PlayButtonComponent} from "../../common/components/play-button/play-button.component";
-import {SongInfo} from "../../common/models/songinfo";
+import {SongInfo} from "../../common/utils/songinfo";
 import {RemoveFeatPipe} from "../../common/pipes/remove-feat.pipe";
 import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
 

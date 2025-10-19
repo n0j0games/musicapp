@@ -1,11 +1,11 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
-import {SotwService} from "../common/services/sotw.service";
+import {SotwService} from "./services/sotw.service";
 import {SongDetailComponent} from "./song-detail/song-detail.component";
 import {NgForOf, NgIf} from "@angular/common";
-import {SotwItem} from "../common/models/sotw-item";
-import {WeekHelper} from "../common/week-helper";
-import {Logger} from "../common/logger";
+import {SotwItem} from "./models/sotw-item";
+import {WeekHelper} from "../common/utils/week-helper";
+import {Logger} from "../common/utils/logger";
 
 @Component({
   selector: 'app-songs-of-the-week',
@@ -72,25 +72,25 @@ export class SongsOfTheWeekComponent implements OnInit {
 
   private getNextWeek() {
     const currentItem = this.getCurrentWeeksIndex();
-    console.log('cur', this.sotwList, currentItem);
+    this.logger.debug('cur', this.sotwList, currentItem);
     if (currentItem === - 1 || currentItem >= this.sotwList.length - 1) {
       this.nextWeekLink = undefined;
       return;
     }
     const nextItem = this.sotwList[currentItem+1];
-    console.log('ni', nextItem);
+    this.logger.log('ni', nextItem);
     this.nextWeekLink = nextItem.year.toString() + nextItem.week.toString();
   }
 
   private getPreviousWeek() {
     const currentItem = this.getCurrentWeeksIndex();
-    console.log('cur', currentItem);
+    this.logger.log('cur', currentItem);
     if (currentItem <= 0) {
       this.previousWeekLink = undefined;
       return;
     }
     const prevItem = this.sotwList[currentItem-1];
-    console.log('pi', prevItem);
+    this.logger.log('pi', prevItem);
     this.previousWeekLink = prevItem.year.toString() + prevItem.week.toString();
   }
 

@@ -2,9 +2,9 @@ import {Injectable} from "@angular/core";
 import {SotwList} from "../models/sotw-list";
 import {Subject} from "rxjs";
 import {SotwItem} from "../models/sotw-item";
-import {AotyItem} from "../models/aoty-item";
+import {AotyItem} from "../../albums-of-the-year/models/aoty-item";
 import {HttpErrorResponse} from "@angular/common/http";
-import {Logger} from "../logger";
+import {Logger} from "../../common/utils/logger";
 
 @Injectable({
   providedIn: 'root'
