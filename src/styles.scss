@@ -1,3 +1,5 @@
+@use "variables";
+
 @font-face {
   font-family: Plus Jakarta Sans Bold;
   src: url(assets/font/PlusJakartaSans-ExtraBold.ttf) format("truetype");
@@ -44,37 +46,24 @@
   src: url(assets/font/NotoSansJP-VariableFont_wght.ttf) format("truetype");
 }
 
-$primary-color: #171d29;
-$primary-color-lighter: #2b2e43;
-$primary-color-hover: #52556e;
-$outer-track: #1e1f2c;
-$primary-color-darker: #101019;
-$accent-color: #a0ff5c;
-$secondary-color: #e33050;
-$secondary-color-light: #d077ad;
-$text-color: #747b9f;
-$text-color-light: #fff;
-$light-accent-color: #67ca91;
-$tertiary-color: #30a7c3;
-
 html {
-  background: $primary-color;
+  background: variables.$primary-color;
 }
 
 body {
-  background: $primary-color;
-  background: linear-gradient(180deg, $primary-color-lighter 10vh, $primary-color 30vh);
+  background: variables.$primary-color;
+  background: linear-gradient(180deg, variables.$primary-color-lighter 10vh, variables.$primary-color 30vh);
   overflow-x: hidden;
   background-repeat: no-repeat;
 }
 
 p {
-  color: $text-color;
+  color: variables.$text-color;
 }
 
 p, a, input, review-text {
   font-family: "Plus Jakarta Sans Medium", "Noto Sans JP", serif;
-  font-size: 14px;
+  font-size: variables.$medium;
   margin: 0;
   text-align: center;
 }
@@ -84,27 +73,27 @@ p, a, input, review-text {
 }
 
 .text-margin {
-  margin: 0 7px;
+  margin: 0 variables.$small-gap;
 }
 
 .review-text, .text-color {
-  color: $text-color;
+  color: variables.$text-color;
 }
 
 a {
-  color: $text-color-light;
+  color: variables.$text-color-light;
   outline: none;
   text-decoration: none;
 }
 
 .text-title {
-  color: $secondary-color-light;
+  color: variables.$secondary-color-light;
   /* font-family: "Morris Roman Black", "Plus Jakarta Sans Bold", "Noto Sans JP", serif !important;
   font-size: 26px !important; */
 }
 
 .less-important-link, .movies-less-important-link {
-  color: $text-color;
+  color: variables.$text-color;
 }
 
 a:hover, .less-important-link:hover {
@@ -123,7 +112,7 @@ a:hover,
 .sotw-prev-button button:hover,
 .select-selected i,
 .select:hover i {
-  color: $accent-color;
+  color: variables.$accent-color;
 }
 
 
@@ -152,49 +141,49 @@ body {
 }
 
 .fs-s {
-  font-size: 12px;
+  font-size: variables.$small;
 }
 
 .fs-m {
-  font-size: 14px;
+  font-size: variables.$medium;
 }
 
 .fs-l {
-  font-size: 16px;
+  font-size: variables.$large;
 }
 
 .fs-xl {
-  font-size: 20px;
+  font-size: variables.$xl;
 }
 
 .list {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: variables.$small-gap;
 }
 
 .gap-s {
-  gap: 7px;
+  gap: variables.$small-gap;
 }
 
 .gap-l {
-  gap: 15px;
+  gap: variables.$medium-gap;
 }
 
 .gap-xl {
-  gap: 25px;
+  gap: variables.$large-gap;
 }
 
 .gap-xxl {
-  gap: 50px;
+  gap: variables.$xl-gap;
 }
 
 .fake-gap-b {
-  margin-bottom: 15px;
+  margin-bottom: variables.$medium-gap;
 }
 
 .fake-gap-b-s {
-  margin-bottom: 10px;
+  margin-bottom: variables.$small-gap;
 }
 
 .flex-row {
@@ -233,7 +222,7 @@ body {
 }
 
 .title-gap-b {
-  margin-bottom: 40px;
+  margin-bottom: variables.$xl-gap;
 }
 
 .flex-wrap {
@@ -241,13 +230,13 @@ body {
 }
 
 .play-button, .mute-button {
-  font-size: 20px;
+  font-size: variables.$xl;
   width: 25px;
   height: 25px;
   border: none;
   outline: none;
   background-color: transparent;
-  color: $text-color-light;
+  color: variables.$text-color-light;
   text-decoration: none;
 }
 
@@ -256,34 +245,34 @@ body {
 }
 
 .play-button:hover i {
-  color: $secondary-color-light;
+  color: variables.$secondary-color-light;
 }
 
 .play-button-header:hover i, .mute-button:hover i {
-  color: $secondary-color-light;
+  color: variables.$secondary-color-light;
 }
 
 .play-button-header-disabled {
-  color: $outer-track;
+  color: variables.$outer-track;
 }
 
 .play-button-header-disabled:hover i {
-  color: $outer-track;
+  color: variables.$outer-track;
 }
 
 .outer-highlight-card {
   background: transparent;
-  border: 5px solid $primary-color-lighter;
+  border: 5px solid variables.$primary-color-lighter;
   border-radius: 5px;
   padding: 15px;
 }
 
 .outer-highlight-card a {
-  color: $text-color-light;
+  color: variables.$text-color-light;
 }
 
 .highlight-card {
-  background: $primary-color-lighter;
+  background: variables.$primary-color-lighter;
   border-radius: 5px;
   padding: 15px;
 }
@@ -293,7 +282,7 @@ input, .select {
 }
 
 input, .select, select {
-  background: $primary-color-lighter;
+  background: variables.$primary-color-lighter;
   border-radius: 5px;
   color: white;
   border: none;
@@ -312,14 +301,14 @@ select {
   border: none;
   text-decoration: none;
   outline: none;
-  color: $text-color-light;
+  color: variables.$text-color-light;
   background: none;
 }
 
 
 
 input:focus, .select:focus-within, .select:focus-within select {
-  background: $primary-color-hover;
+  background: variables.$primary-color-hover;
 }
 
 input::placeholder {
@@ -327,7 +316,7 @@ input::placeholder {
 }
 
 .highlight-card p, .highlight-card a {
-  color: $text-color-light;
+  color: variables.$text-color-light;
 }
 
 
@@ -345,7 +334,7 @@ img {
 }
 
 .preview-img-div-outer {
-  border: 3px solid $text-color-light;
+  border: 3px solid variables.$text-color-light;
 }
 
 .movie-poster {
@@ -386,7 +375,7 @@ img {
   object-fit: cover;
   height: 175.5px;
   padding: 0;
-  border: 3px solid $text-color-light;
+  border: 3px solid variables.$text-color-light;
   border-radius: 5px;
   margin: 15px 15px 5px 15px;
 }
@@ -404,11 +393,11 @@ img {
   bottom: 0;
   width: 100%;
   position: absolute;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0), $primary-color);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0), variables.$primary-color);
 }
 
 option:disabled {
-  color: $text-color;
+  color: variables.$text-color;
 }
 
 .review-cover {
@@ -420,12 +409,12 @@ option:disabled {
 
 .review-name {
   font-size: 25px;
-  color: $secondary-color-light;
+  color: variables.$secondary-color-light;
 }
 
 .review-title-text {
   font-size: 20px;
-  color: $text-color-light;
+  color: variables.$text-color-light;
 }
 
 .review-text {
@@ -466,7 +455,7 @@ option:disabled {
 .sotw-next-button button, .sotw-prev-button button {
   text-decoration: none;
   background: transparent;
-  color: $text-color;
+  color: variables.$text-color;
   border: none;
   outline: none;
 }
@@ -479,11 +468,11 @@ option:disabled {
 }
 
 .badge p {
-  color: $text-color-light;
+  color: variables.$text-color-light;
 }
 
 .badge i {
-  color: $text-color;
+  color: variables.$text-color;
   font-size: 14px;
 }
 
@@ -498,14 +487,14 @@ option:disabled {
 
 .modal-inner {
   margin: 10px;
-  box-shadow: 0 0 10px $primary-color-darker;
-  background: $primary-color;
+  box-shadow: 0 0 10px variables.$primary-color-darker;
+  background: variables.$primary-color;
   padding: 20px;
   border-radius: 5px;
 }
 
 .select-selected {
-  background: $primary-color-hover;
+  background: variables.$primary-color-hover;
 }
 
 @media (width < 600px) or (height < 700px) {
@@ -655,14 +644,14 @@ option:disabled {
 
 
 ::-webkit-scrollbar-track {
-  background: $primary-color;
+  background: variables.$primary-color;
   background-size: 400% 100%;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: $primary-color-lighter;
+  background: variables.$primary-color-lighter;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: $primary-color-lighter;
+  background: variables.$primary-color-lighter;
 }

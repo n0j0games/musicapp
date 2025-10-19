@@ -11,7 +11,7 @@ import {Router} from "@angular/router";
 import {AliasList} from "../../albums-of-the-year/models/alias-list";
 import {MotyItem} from "../../shows-of-the-year/models/moty-item";
 import {MotyService} from "../../shows-of-the-year/services/moty.service";
-import {ReviewService} from "./review.service";
+import {ReviewService} from "../../review/services/review.service";
 import {Logger} from "../utils/logger";
 
 @Injectable({

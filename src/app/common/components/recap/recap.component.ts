@@ -5,7 +5,7 @@ import {AsyncPipe, LowerCasePipe, NgClass, NgForOf, NgIf, NgStyle, UpperCasePipe
 import {SongInfo} from "../../utils/songinfo";
 import {AudioService} from "../../services/audio.service";
 import {animate, AnimationBuilder, keyframes, style} from "@angular/animations";
-import {TypewriterService} from "../../services/typewriter.service";
+import {TypewriterHelper} from "../../utils/typewriter-helper";
 import {map, Observable} from "rxjs";
 import {Song} from "../../../songs-of-the-week/models/song";
 import {Logger} from "../../utils/logger";
@@ -58,7 +58,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
 
     private logger: Logger = new Logger("RecapComponent");
 
-    constructor(private audioService: AudioService, private builder: AnimationBuilder, private typeWriterService: TypewriterService, private router: Router) {
+    constructor(private audioService: AudioService, private builder: AnimationBuilder, private router: Router) {
     }
 
     ngOnInit(): void {
@@ -179,8 +179,8 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     updateActiveAlbum(reverse: boolean) {
         this.activeRecapItem = this.recapItems![this.activeAlbumNumber-1];
 
-        this.typedText$ = this.typeWriterService.getTypewriterEffect([this.activeRecapItem!.title.toLowerCase()], 100, 700).pipe(map((text) => text))
-        this.typedArtist$ = this.typeWriterService.getTypewriterEffect([this.activeRecapItem!.artist.toLowerCase()], 100).pipe(map((text) => text))
+        this.typedText$ = TypewriterHelper.getTypewriterEffect([this.activeRecapItem!.title.toLowerCase()], 100, 700).pipe(map((text) => text))
+        this.typedArtist$ = TypewriterHelper.getTypewriterEffect([this.activeRecapItem!.artist.toLowerCase()], 100).pipe(map((text) => text))
         this.playAudio();
         this.makeAnimation(reverse);
     }

@@ -6,7 +6,7 @@ import {RemoveDeluxePipe} from "../common/pipes/remove-deluxe.pipe";
 import {RemoveFeatPipe} from "../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../common/components/vinyl/vinyl.component";
 import {ActivatedRoute} from "@angular/router";
-import {ReviewService} from "../common/services/review.service";
+import {ReviewService} from "./services/review.service";
 import {AotyService} from "../albums-of-the-year/services/aoty.service";
 import {NormalizeHelper} from "../common/utils/normalize-helper";
 

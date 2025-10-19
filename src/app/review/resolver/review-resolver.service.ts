@@ -1,6 +1,6 @@
 import {Injectable} from "@angular/core";
 import {ActivatedRouteSnapshot, MaybeAsync, Resolve, RouterStateSnapshot} from "@angular/router";
-import {DataStorageService} from "../services/data-storage.service";
+import {DataStorageService} from "../../common/services/data-storage.service";
 import {ReviewService} from "../services/review.service";
 
 @Injectable({

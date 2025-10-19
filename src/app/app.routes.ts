@@ -16,7 +16,7 @@ import {AotyRecapComponent} from "./albums-of-the-year/aoty-recap/aoty-recap.com
 import {SotwRecapComponent} from "./songs-of-the-week/sotw-recap/sotw-recap.component";
 import {AllAlbumsRecapComponent} from "./albums-of-the-year/all-albums-recap/all-albums-recap.component";
 import {ReviewComponent} from "./review/review.component";
-import {ReviewResolverService} from "./common/resolver/review-resolver.service";
+import {ReviewResolverService} from "./review/resolver/review-resolver.service";
 import {ShowsOfTheYearComponent} from "./shows-of-the-year/shows-of-the-year.component";
 import {DiscographiesComponent} from "./home/discographies/discographies.component";
 
