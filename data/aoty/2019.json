@@ -887,6 +887,39 @@
       "genre": "Deutschrap",
       "year": 2019,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27386011cee37f1842374d971aa",
+      "title": "MAGDALENE",
+      "artist": "FKA twigs",
+      "songs": [
+        {
+          "title": "sad day",
+          "preview_url": "https://p.scdn.co/mp3-preview/cce511f781e1ec197c002dca239e89d65218efc6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "home with you",
+          "preview_url": "https://p.scdn.co/mp3-preview/2728f201cb4be88e7ef14c422f28632c12f89b18?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "holy terrain",
+          "preview_url": "https://p.scdn.co/mp3-preview/f86ada9eea1ea4a6c4a7d18d6a70ce945fe34f83?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "fallen alien",
+          "preview_url": "https://p.scdn.co/mp3-preview/4ae3baedd1ca6763b3954263954139c27cc336aa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "cellophane",
+          "preview_url": "https://p.scdn.co/mp3-preview/6a3abc530ab9e3c6f8e0ec1ea5ed06d5ae5cc76f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Art Pop",
+      "logged": "2025-10-23",
+      "year": 2019
     }
   ]
 }

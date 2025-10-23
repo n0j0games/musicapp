@@ -722,7 +722,7 @@
       "artist": "d4vd",
       "songs": [
         {
-          "title": "Crashing (with Kali Uchis)",
+          "title": "Crashing",
           "preview_url": "https://p.scdn.co/mp3-preview/115f5da2c2b966f370809edd3d06c04c3c883813?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
@@ -738,7 +738,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/32d5a1fa196007fe2b28f028cb3dee90f7adc668?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.8,
+      "rating": 7.0,
       "playTime": 29,
       "genre": "Pop",
       "year": 2025,
@@ -836,12 +836,13 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1f2ea8c22ccf898dd89ca1990d0fa643ddcf46f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
+      "rating": 9.0,
       "playTime": 495,
       "genre": "Pop Soul",
       "year": 2025,
       "playTime30Days": 6,
-      "onVinyl": true
+      "onVinyl": true,
+      "color": "#855e69"
     },
     {
       "url": "https://open.spotify.com/album/3u952Zxzx60qhCoohKSf5k",
@@ -1471,7 +1472,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/120c3a4ac5754b8e526980d583c7ea395294e61c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
+      "rating": 8.9,
       "playTime": 154,
       "genre": "Folktronica",
       "year": 2025,
@@ -1975,13 +1976,9 @@
         {
           "title": "Quando A Fonte Secar",
           "preview_url": "https://p.scdn.co/mp3-preview/afc488b0b51fccb317c351006be972f6bfe81caf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "Etiópia",
-          "preview_url": "https://p.scdn.co/mp3-preview/1a3bd83b42ecf64ed28f4d0ddd017f317aa88756?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 7,
       "playTime": 17,
       "genre": "Neo-Soul",
       "logged": "2025-10-19",

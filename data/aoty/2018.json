@@ -530,33 +530,6 @@
       "playTime30Days": 0
     },
     {
-      "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq",
-      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f",
-      "title": "El Mal Querer",
-      "artist": "ROSALÍA",
-      "songs": [
-        {
-          "title": "MALAMENTE - Cap.1: Augurio",
-          "preview_url": "https://p.scdn.co/mp3-preview/2192c81582a6f79a90f1a50cd37faf23bd02cebe?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "QUE NO SALGA LA LUNA - Cap.2: Boda",
-          "preview_url": "https://p.scdn.co/mp3-preview/4bc76475001b2e0812fc5d7c37373298359f4c74?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "PIENSO EN TU MIRÁ - Cap.3: Celos",
-          "preview_url": "https://p.scdn.co/mp3-preview/063bd4a20d5035ae360c179dc7706e4643bc91f6?cid=941103e4872f4d3fad60066c677df34f"
-        },
-        {
-          "title": "DE AQUÍ NO SALES - Cap.4: Disputa",
-          "preview_url": "https://p.scdn.co/mp3-preview/2514db85e4c126d65c4cdece164a22a4027ccd90?cid=941103e4872f4d3fad60066c677df34f"
-        }
-      ],
-      "rating": 7.1,
-      "playTime": 27,
-      "playTime30Days": 0
-    },
-    {
       "url": "https://open.spotify.com/album/4iLo2HykYzbHw6MWSTg4vp",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ce2eaf6dab7809d9ecf27a9f",
       "title": "Crumbling",
@@ -1119,6 +1092,39 @@
       "playTime": 47,
       "genre": "Trap",
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f",
+      "title": "El Mal Querer",
+      "artist": "ROSALÍA",
+      "songs": [
+        {
+          "title": "MALAMENTE - Cap.1: Augurio",
+          "preview_url": "https://p.scdn.co/mp3-preview/2192c81582a6f79a90f1a50cd37faf23bd02cebe?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "PIENSO EN TU MIRÁ - Cap.3: Celos",
+          "preview_url": "https://p.scdn.co/mp3-preview/063bd4a20d5035ae360c179dc7706e4643bc91f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "RENIEGO - Cap.5: Lamento",
+          "preview_url": "https://p.scdn.co/mp3-preview/88262404ca4f5ec0c05bcb7e3e10ff1f53b19f60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "BAGDAD - Cap.7: Liturgia",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3a33fc46d75fe7ef6e73bf502df54840901a1d5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "NANA - Cap.9: Concepción",
+          "preview_url": "https://p.scdn.co/mp3-preview/f9063de4d2cd65c63da818d8b70d041c390c8653?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Flamenco Nuevo",
+      "logged": "2025-10-23",
+      "year": 2018
     }
   ]
 }
