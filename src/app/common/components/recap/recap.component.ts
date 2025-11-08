@@ -53,8 +53,9 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     linearGradients: string[] = [];
     destroyCalled = false;
 
-    typedText$ : any;
-    typedArtist$ : any;
+    typedText$ : Observable<string> | undefined;
+    typedArtist$ : Observable<string> | undefined;
+    typedSubInfo$: Observable<string> | undefined;
 
     private logger: Logger = new Logger("RecapComponent");
 

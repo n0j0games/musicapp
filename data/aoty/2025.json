@@ -366,7 +366,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3d00a18f21e943af777dfc9e85b30f3bc92d44e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.2,
       "playTime": 28,
       "genre": "Pop",
       "playTime30Days": 0,
@@ -478,11 +478,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/19713e68c0eca024a73be51de185d34fbeff0810?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.3,
+      "rating": 7.2,
       "playTime": 62,
       "genre": "Deutschrap",
       "playTime30Days": 0,
-      "color": "#72dfa2"
+      "color": "#3d7957"
     },
     {
       "url": "https://open.spotify.com/album/6foNTuvMw56jj6lYOqy7Vc",
@@ -564,7 +564,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.9,
+      "rating": 8.0,
       "playTime": 80,
       "genre": "Deutschrap",
       "playTime30Days": 0,
@@ -608,7 +608,7 @@
       "genre": "Hyperpop",
       "year": 2025,
       "playTime30Days": 0,
-      "color": "#000000"
+      "color": "#2a2a2a"
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -751,7 +751,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/32d5a1fa196007fe2b28f028cb3dee90f7adc668?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 6,
       "playTime": 29,
       "genre": "Pop",
       "year": 2025,
@@ -957,7 +957,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72008ea4560bec3a3e3b02637eb37b25d08a3648?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.4,
       "playTime": 99,
       "genre": "Trip Hop",
       "year": 2025,
@@ -1430,7 +1430,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e67a479de1f61be38efba7feef23aac41adcf7a0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.3,
+      "rating": 7.1,
       "playTime": 105,
       "genre": "Hip-Hop",
       "year": 2025,
@@ -1528,7 +1528,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ade925080e7080454b24068ed4db9c407f9d7045?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.3,
       "playTime": 112,
       "genre": "Southern Hip-Hop",
       "year": 2025,
@@ -1558,7 +1558,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6e67340554830ee8f4523fc913b8c898a21a82b7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.3,
       "playTime": 35,
       "genre": "Dance-Pop",
       "year": 2025,
@@ -1785,7 +1785,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f90913eb9579ef838b46af3e3e2600552b71d7bc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.1,
       "playTime": 34,
       "genre": "Alternative R&B",
       "logged": "2025-09-15",
@@ -2016,7 +2016,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/afc488b0b51fccb317c351006be972f6bfe81caf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.2,
       "playTime": 17,
       "genre": "Neo-Soul",
       "logged": "2025-10-19",
@@ -2170,7 +2170,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c166377542b0372ec64da012198f3e21ada53ae3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.2,
       "playTime": 0,
       "genre": "Experimental Hip-Hop",
       "logged": "2025-11-08",
