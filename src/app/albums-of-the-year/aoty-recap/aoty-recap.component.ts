@@ -35,8 +35,8 @@ export class AotyRecapComponent implements OnInit {
         linearGradients: string[],
         maxAlbums: number
     }|null>(null)
-    allowedYears = ['0', '0000', '2024', '2023', '2022'];
-    maxAlbumsPerAllowedYear = [100, 100, 50, 35, 35]
+    allowedYears = ['0', '0000', '2025', '2024', '2023', '2022'];
+    maxAlbumsPerAllowedYear = [100, 100, 50, 50, 35, 35]
     maxAlbums = 25;
     defaultGradient: string = "#252525";
     linearGradients: string[] = [];
@@ -88,7 +88,7 @@ export class AotyRecapComponent implements OnInit {
         const queryYears = aotyList!.items!.map(value => value.year);
         let albums = this.getAggregatedAlbums(queryYears);
         albums = albums.filter(value => value.rating >= 8);
-        this.albumsOfTheYear = { year : 0, albums : albums, isDecade : false };
+        this.albumsOfTheYear = { year : 0, albums : albums };
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating);
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.splice(0, 100);
     }

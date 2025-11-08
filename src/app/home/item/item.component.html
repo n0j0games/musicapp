@@ -1,4 +1,4 @@
-<div [ngClass]="{ 'highlight-card' : !isDecade, 'outer-highlight-card' : isDecade, 'highlight-card-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }">
+<div class="highlight-card" [ngClass]="{ 'highlight-card-movie' : isAoty === 'MOTY' || isAoty === 'SERIES' || isAoty === 'MLIST' || isAoty === 'SLIST' }">
     <a
             class="flex-column gap-s align-center"
             (click)="navigate()"

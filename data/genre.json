@@ -1,0 +1,9 @@
+{
+  "name" : "Hip-Hop",
+  "aliases" : ["Rap", "hip hop"],
+  "subgenre": [
+    {
+      "name" : "Old-School"
+    }
+  ]
+}

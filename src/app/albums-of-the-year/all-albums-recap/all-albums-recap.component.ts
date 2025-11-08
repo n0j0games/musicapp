@@ -52,7 +52,7 @@ export class AllAlbumsRecapComponent implements OnInit {
         const queryYears = aotyList!.items!.map(value => value.year);
         let albums = this.getAggregatedAlbums(queryYears);
         albums = albums.filter(value => value.rating >= 8);
-        this.albumsOfTheYear = { year : 0, albums : albums, isDecade : false };
+        this.albumsOfTheYear = { year : 0, albums : albums };
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating);
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.splice(0, 100);
     }

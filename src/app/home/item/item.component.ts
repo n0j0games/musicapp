@@ -24,7 +24,6 @@ export class ItemComponent implements OnInit {
   @Input() queryParam! : string;
   @Input() queryParams! : Params;
   @Input() text! : string;
-  @Input() isDecade : boolean = false;
   routerLink : string[] = [];
 
   fridayOfTheWeek! : string;
