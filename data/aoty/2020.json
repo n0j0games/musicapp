@@ -157,7 +157,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1824,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#242914"
     },
     {
@@ -190,7 +190,7 @@
       "rating": 9.9,
       "onVinyl": true,
       "playTime": 320,
-      "playTime30Days": 0,
+      "playTime30Days": 71,
       "color": "#601f30"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rating": 9.9,
       "playTime": 306,
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#006687"
     },
     {

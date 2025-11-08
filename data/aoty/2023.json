@@ -62,7 +62,7 @@
       ],
       "rating": 9.6,
       "playTime": 502,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#687d84"
     },
     {
@@ -258,7 +258,7 @@
       ],
       "rating": 9.7,
       "playTime": 265,
-      "playTime30Days": 11,
+      "playTime30Days": 48,
       "color": "#a28c6a"
     },
     {
@@ -290,7 +290,7 @@
       ],
       "rating": 9.2,
       "playTime": 265,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#434754"
     },
     {

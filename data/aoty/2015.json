@@ -74,7 +74,7 @@
       "onVinyl": false,
       "genre": "Rap",
       "playTime": 1096,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#7c7a79"
     },
     {
@@ -328,7 +328,7 @@
       ],
       "rating": 10,
       "playTime": 223,
-      "playTime30Days": 33,
+      "playTime30Days": 9,
       "color": "#526b6e"
     },
     {
@@ -542,7 +542,7 @@
       "genre": "Hip-Hop",
       "logged": "2025-09-18",
       "year": 2015,
-      "playTime30Days": 11
+      "playTime30Days": 0
     }
   ]
 }

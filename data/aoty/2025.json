@@ -114,7 +114,7 @@
       "rating": 7,
       "playTime": 99,
       "genre": "Electronic",
-      "playTime30Days": 9
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -680,7 +680,7 @@
       "playTime": 149,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -738,7 +738,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/32d5a1fa196007fe2b28f028cb3dee90f7adc668?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 29,
       "genre": "Pop",
       "year": 2025,
@@ -836,7 +836,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1f2ea8c22ccf898dd89ca1990d0fa643ddcf46f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "playTime": 495,
       "genre": "Pop Soul",
       "year": 2025,
@@ -980,7 +980,7 @@
       "playTime": 241,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -1144,7 +1144,7 @@
       "playTime": 169,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1173,7 +1173,7 @@
       "playTime": 150,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 54
+      "playTime30Days": 29
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1203,7 +1203,7 @@
       "genre": "Synthpop",
       "year": 2025,
       "color": "#044057",
-      "playTime30Days": 7
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1443,7 +1443,7 @@
       "playTime": 62,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1476,7 +1476,7 @@
       "playTime": 154,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 13,
+      "playTime30Days": 20,
       "color": "#1b2435"
     },
     {
@@ -1506,7 +1506,7 @@
       "playTime": 112,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1535,7 +1535,7 @@
       "playTime": 35,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1597,7 +1597,7 @@
       "playTime": 110,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 14
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
@@ -1641,7 +1641,7 @@
       "playTime": 291,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 48
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr",
@@ -1697,7 +1697,7 @@
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
-      "playTime30Days": 29
+      "playTime30Days": 41
     },
     {
       "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d",
@@ -1791,7 +1791,7 @@
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 93
+      "playTime30Days": 60
     },
     {
       "url": "https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt",
@@ -1919,7 +1919,7 @@
       "genre": "Dancepop",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 18
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98",
@@ -1953,7 +1953,7 @@
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 107
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK",
@@ -2009,7 +2009,7 @@
       "genre": "Dance-Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 89
+      "playTime30Days": 106
     },
     {
       "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI",
@@ -2035,7 +2035,7 @@
       "genre": "Dance Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 20
+      "playTime30Days": 67
     },
     {
       "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg",
@@ -2069,7 +2069,71 @@
       "genre": "EDM / R&B",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 67
+      "playTime30Days": 161
+    },
+    {
+      "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27369e839af80d5622d3f503717",
+      "title": "MALPORTADA",
+      "artist": "NATHY PELUSO",
+      "songs": [
+        {
+          "title": "MALPORTADA",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd93db14a7b566055423351b5d9bbd1c69c5c863?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "ÁNGEL",
+          "preview_url": "https://p.scdn.co/mp3-preview/251cf5da64adfd56f2779122dacbaa96fae7c000?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "A CABALLO",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1d0a253f6f31c46b1b7f313c55b7a20152604fe?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "INSENSATA",
+          "preview_url": "https://p.scdn.co/mp3-preview/8928986b2f074aebe5b3d46fd3865389429e765f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "QUE LLUEVAN FLORES",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3e42d80c44f3c204a31e963d7e2c551bba144cc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 0,
+      "genre": "Salsa",
+      "logged": "2025-11-08",
+      "year": 2025,
+      "playTime30Days": 135
+    },
+    {
+      "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273772613c0749e97abf3b9d035",
+      "title": "Stardust",
+      "artist": "Danny Brown",
+      "songs": [
+        {
+          "title": "Starburst",
+          "preview_url": "https://p.scdn.co/mp3-preview/c946c5aab1a36e678ea94cc18008caaaff2cbe09?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Book of Daniel",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7aed32958664ad92af63efeae41d81547cc0ffd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Copycats",
+          "preview_url": "https://p.scdn.co/mp3-preview/c36d85558fe16df8fb9145a3bc915b13b22709f0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The End",
+          "preview_url": "https://p.scdn.co/mp3-preview/c166377542b0372ec64da012198f3e21ada53ae3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Experimental Hip-Hop",
+      "logged": "2025-11-08",
+      "year": 2025,
+      "playTime30Days": 14
     }
   ]
 }

@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Soul",
       "playTime": 344,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -677,7 +677,7 @@
       "playTime": 42,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 0,
+      "playTime30Days": 11,
       "color": "#b23837"
     },
     {
@@ -1153,7 +1153,7 @@
       "genre": "Disco",
       "logged": "2025-10-19",
       "year": 1979,
-      "playTime30Days": 40
+      "playTime30Days": 38
     },
     {
       "url": "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7",
@@ -1200,6 +1200,96 @@
       "logged": "2025-10-19",
       "year": 1977,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dadce998f88dba71c98adf88",
+      "title": "Funkentelechy Vs. The Placebo Syndrome",
+      "artist": "Parliament",
+      "songs": [
+        {
+          "title": "Flash Light",
+          "preview_url": "https://p.scdn.co/mp3-preview/30bfc1fa40741750054ab3be0772159d2bb7e4aa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bop Gun (Endangered Species)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a66045cec35b0e31ca9c6c262144a08196437886?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sir Nose D Voidoffunk",
+          "preview_url": "https://p.scdn.co/mp3-preview/052288637207f46d1928d399d03adde93d469f3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wizard Of Finance",
+          "preview_url": "https://p.scdn.co/mp3-preview/31b88e46a7f0d5864f62d57824af86432b9c884e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 18,
+      "genre": "P-Funk",
+      "logged": "2025-11-08",
+      "year": 1977,
+      "playTime30Days": 6
+    },
+    {
+      "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
+      "title": "Take The Heat Off Me",
+      "artist": "Boney M.",
+      "songs": [
+        {
+          "title": "Daddy Cool",
+          "preview_url": "https://p.scdn.co/mp3-preview/03e2b60a6a5c101dc0d41866f2e079d8de4a663b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sunny",
+          "preview_url": "https://p.scdn.co/mp3-preview/dd07d16b7a206e52cb678355c9a061e20bc62c5e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Take the Heat off Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/42e130070e96c1920e98a4501bb4fa6f41626513?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Baby Do You Wanna Bump",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf0e6400572e88e5a388f705a21102215f8db860?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fever",
+          "preview_url": "https://p.scdn.co/mp3-preview/4fb66777b52a336565aa57184745430bbf3f4f51?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 0,
+      "genre": "Disco",
+      "logged": "2025-11-08",
+      "year": 1976,
+      "playTime30Days": 21
+    },
+    {
+      "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739e77d65619f80436b5cc9d12",
+      "title": "Nightflight to Venus",
+      "artist": "Boney M.",
+      "songs": [
+        {
+          "title": "Rasputin",
+          "preview_url": "https://p.scdn.co/mp3-preview/f6d6eb8dabae0e8fa8aa7f93743bc2067daac97c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "He Was a Steppenwolf",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ec98ab3e0d4dedb831acc0a35a2cfb3a0bccd54?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Rivers of Babylon",
+          "preview_url": "https://p.scdn.co/mp3-preview/addfdddfafa878b2cc807d7a1f171400e0e10d91?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Disco",
+      "logged": "2025-11-08",
+      "year": 1978,
+      "playTime30Days": 10
     }
   ]
 }

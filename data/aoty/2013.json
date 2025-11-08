@@ -170,7 +170,7 @@
       ],
       "rating": 8.5,
       "playTime": 189,
-      "playTime30Days": 84
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -294,7 +294,7 @@
         }
       ],
       "rating": 8,
-      "playTime30Days": 39,
+      "playTime30Days": 14,
       "playTime": 195
     },
     {
@@ -426,7 +426,7 @@
       "playTime": 67,
       "genre": "Alternative R&B",
       "year": 2013,
-      "playTime30Days": 5
+      "playTime30Days": 9
     }
   ]
 }
