@@ -14,7 +14,7 @@ export class Album {
                 public color? : string,
                 public year? : number,
                 public review? : string,
-                public type?: string,
+                public type?: 'Reissue' | 'Deluxe' | 'EP' | 'LP',
                 public logged?: string) {
     }
 

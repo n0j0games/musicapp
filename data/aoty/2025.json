@@ -111,10 +111,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3f3546a00b524a0048f7072491f4c26fbe330a1c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.8,
       "playTime": 99,
       "genre": "Electronic",
-      "playTime30Days": 11
+      "playTime30Days": 11,
+      "color": "#6e5042"
     },
     {
       "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
@@ -146,7 +147,8 @@
       "rating": 8,
       "playTime": 684,
       "genre": "Synthpop",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#c49e5d"
     },
     {
       "url": "https://open.spotify.com/album/2yfWk6UDgZWQxffTVauaHl",
@@ -162,7 +164,8 @@
       "rating": 7,
       "playTime": 0,
       "genre": "Deutschrap",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#0e00eb"
     },
     {
       "url": "https://open.spotify.com/album/2J9JB2YUWO8o6AljnHVSop",
@@ -265,10 +268,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e2be76ebf1a145b8d45b52fc5e14644bf1bbb2ec?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.6,
       "playTime": 49,
       "genre": "Art Pop",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#73877d"
     },
     {
       "url": "https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk",
@@ -340,7 +344,8 @@
       "rating": 7,
       "playTime": 13,
       "genre": "Rap",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#c67a9d"
     },
     {
       "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ",
@@ -361,10 +366,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f3d00a18f21e943af777dfc9e85b30f3bc92d44e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6,
+      "rating": 7,
       "playTime": 28,
       "genre": "Pop",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#565656"
     },
     {
       "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a",
@@ -399,10 +405,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/51d6fca63fdb4061f2a462e9da1651357b33b30a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.5,
       "playTime": 0,
       "genre": "Shoegaze",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#ba2038"
     },
     {
       "url": "https://open.spotify.com/album/1ERr4Pwe08NrMDB9CIFDxA",
@@ -471,10 +478,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/19713e68c0eca024a73be51de185d34fbeff0810?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.7,
+      "rating": 7.3,
       "playTime": 62,
       "genre": "Deutschrap",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#72dfa2"
     },
     {
       "url": "https://open.spotify.com/album/6foNTuvMw56jj6lYOqy7Vc",
@@ -530,7 +538,8 @@
       "rating": 8.3,
       "playTime": 190,
       "genre": "Deutschpop",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#2150b4"
     },
     {
       "url": "https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX",
@@ -555,10 +564,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 7.9,
       "playTime": 80,
       "genre": "Deutschrap",
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#6a6c6d"
     },
     {
       "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8",
@@ -597,7 +607,8 @@
       "playTime": 49,
       "genre": "Hyperpop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#000000"
     },
     {
       "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t",
@@ -680,7 +691,8 @@
       "playTime": 149,
       "genre": "Folk",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#87564a"
     },
     {
       "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K",
@@ -709,11 +721,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2e482278db392589a41362203918d28d5bfda0a8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 8.4,
       "playTime": 163,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#bf6357"
     },
     {
       "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf",
@@ -803,11 +816,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9ecbbb11bc5dd42d98b794c6cec04ef3c63ee0a7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.8,
       "playTime": 26,
       "genre": "Chamber Jazz",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#341b15"
     },
     {
       "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb",
@@ -917,7 +931,8 @@
       "playTime": 46,
       "genre": "Deutschpop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#8198b0"
     },
     {
       "url": "https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50",
@@ -947,7 +962,8 @@
       "genre": "Trip Hop",
       "year": 2025,
       "playTime30Days": 0,
-      "onVinyl": "true"
+      "onVinyl": "true",
+      "color": "#222222"
     },
     {
       "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ",
@@ -976,11 +992,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72f4c3e7219a47839daeef730832fdba8e0b5573?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
+      "rating": 8.7,
       "playTime": 241,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#4c3732"
     },
     {
       "url": "https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs",
@@ -988,6 +1005,10 @@
       "title": "Only Dust Remains",
       "artist": "Backxwash",
       "songs": [
+        {
+          "title": "Stairway To Heaven",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c79a65c6088a6c01225eca53166e3244931606d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
         {
           "title": "Black Lazarus",
           "preview_url": "https://p.scdn.co/mp3-preview/58174b1953e4223da6bf1d6ef789110a8cd78a1d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
@@ -1001,10 +1022,6 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f0dd945ecc7b5652dae8f038f413b22185595c7a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "Stairway To Heaven",
-          "preview_url": "https://p.scdn.co/mp3-preview/9c79a65c6088a6c01225eca53166e3244931606d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "Only Dust Remains",
           "preview_url": "https://p.scdn.co/mp3-preview/5c806ec704ea6f5d4855dd974c843bd5798a5a89?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
@@ -1013,7 +1030,8 @@
       "playTime": 11,
       "genre": "Experimental Rap",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#353531"
     },
     {
       "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X",
@@ -1046,7 +1064,8 @@
       "playTime": 152,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#383838"
     },
     {
       "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU",
@@ -1071,11 +1090,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/6e9670f68b0e12b0d070c3f4014b01b261898501?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.5,
+      "rating": 7.2,
       "playTime": 30,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#285b59"
     },
     {
       "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4",
@@ -1100,11 +1120,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cc8cfead653f317850f7efac23f3d76c8017792a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.7,
+      "rating": 7.4,
       "playTime": 71,
       "genre": "Synthpop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#f5812c"
     },
     {
       "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ",
@@ -1140,11 +1161,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ba74b54fecd75f96115505dfd6d914080b968251?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.8,
+      "rating": 8.2,
       "playTime": 169,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#5f5f5f"
     },
     {
       "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y",
@@ -1169,11 +1191,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/076b5c1b98596b021d91aebc8a27671438e0f26d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.1,
+      "rating": 8.6,
       "playTime": 150,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 29
+      "playTime30Days": 29,
+      "color": "#3f1312"
     },
     {
       "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ",
@@ -1202,7 +1225,7 @@
       "playTime": 115,
       "genre": "Synthpop",
       "year": 2025,
-      "color": "#044057",
+      "color": "#0791c7",
       "playTime30Days": 5
     },
     {
@@ -1356,11 +1379,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/14e13a94e10175ecc695b5c66cd067ec50b90877?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.2,
+      "rating": 8.5,
       "playTime": 200,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#825b63"
     },
     {
       "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B",
@@ -1406,11 +1430,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e67a479de1f61be38efba7feef23aac41adcf7a0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.8,
+      "rating": 7.3,
       "playTime": 105,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#942a27"
     },
     {
       "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f",
@@ -1443,7 +1468,8 @@
       "playTime": 62,
       "genre": "UK Rap",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#2c2e1e"
     },
     {
       "url": "https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u",
@@ -1472,12 +1498,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/120c3a4ac5754b8e526980d583c7ea395294e61c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.9,
+      "rating": 8.6,
       "playTime": 154,
       "genre": "Folktronica",
       "year": 2025,
       "playTime30Days": 20,
-      "color": "#1b2435"
+      "color": "#1a2334"
     },
     {
       "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3",
@@ -1506,7 +1532,8 @@
       "playTime": 112,
       "genre": "Southern Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#bf7e3d"
     },
     {
       "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV",
@@ -1515,12 +1542,12 @@
       "artist": "Amaarae",
       "songs": [
         {
-          "title": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
-          "preview_url": "https://p.scdn.co/mp3-preview/865cd7c0e496e84deeaad8d134708bd2b3248c7b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "S.M.O.",
           "preview_url": "https://p.scdn.co/mp3-preview/35163fd5184094e88a9a4fed77630b0042776211?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Kiss Me Thru The Phone pt 2 (with PinkPantheress)",
+          "preview_url": "https://p.scdn.co/mp3-preview/865cd7c0e496e84deeaad8d134708bd2b3248c7b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
           "title": "Stuck Up",
@@ -1535,7 +1562,8 @@
       "playTime": 35,
       "genre": "Dance-Pop",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#012d1c"
     },
     {
       "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ",
@@ -1564,7 +1592,8 @@
       "playTime": 16,
       "genre": "EDM",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#63704a"
     },
     {
       "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm",
@@ -1593,11 +1622,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cb40e96d910b822bac8f74631963f8e5da81777a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.2,
+      "rating": 8.5,
       "playTime": 110,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 7
+      "playTime30Days": 7,
+      "color": "#2e2418"
     },
     {
       "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8",
@@ -1641,7 +1671,8 @@
       "playTime": 291,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 12
+      "playTime30Days": 12,
+      "color": "#b84a42"
     },
     {
       "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr",
@@ -1697,7 +1728,8 @@
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
-      "playTime30Days": 41
+      "playTime30Days": 41,
+      "color": "#293529"
     },
     {
       "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d",
@@ -1727,7 +1759,8 @@
       "logged": "2025-08-28",
       "genre": "Pop Rock",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#314a54"
     },
     {
       "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel",
@@ -1757,7 +1790,8 @@
       "genre": "Alternative R&B",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#865c54"
     },
     {
       "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj",
@@ -1791,7 +1825,8 @@
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 60
+      "playTime30Days": 60,
+      "color": "#370e05"
     },
     {
       "url": "https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt",
@@ -1825,7 +1860,8 @@
       "genre": "Deutschpop",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#698c9e"
     },
     {
       "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB",
@@ -1855,7 +1891,8 @@
       "genre": "Indie Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#3d59d6"
     },
     {
       "url": "https://open.spotify.com/album/0HkhtRJ9b1DfrYCGn3ra7R",
@@ -1953,7 +1990,8 @@
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 0,
+      "color": "#3d4043"
     },
     {
       "url": "https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK",
@@ -1983,7 +2021,8 @@
       "genre": "Neo-Soul",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 17
+      "playTime30Days": 17,
+      "color": "#00175d"
     },
     {
       "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF",
@@ -2064,12 +2103,13 @@
           "preview_url": "https://p.scdn.co/mp3-preview/91d18e63b6495384224a86c7fc3bf67b6ab8b2ac?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.3,
+      "rating": 8.1,
       "playTime": 67,
       "genre": "EDM / R&B",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 161
+      "playTime30Days": 161,
+      "color": "#cb281c"
     },
     {
       "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG",
@@ -2103,7 +2143,9 @@
       "genre": "Salsa",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 135
+      "playTime30Days": 135,
+      "color": "#58241a",
+      "type": "EP"
     },
     {
       "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X",
@@ -2133,7 +2175,8 @@
       "genre": "Experimental Hip-Hop",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 14
+      "playTime30Days": 14,
+      "color": "#90999e"
     }
   ]
 }

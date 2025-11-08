@@ -79,7 +79,7 @@ export class AotyRecapComponent implements OnInit {
             }
         }
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.slice();
-        this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.filter(aoty => !aoty.type);
+        this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.filter(aoty => !aoty.type || aoty.type === 'LP' || aoty.type === 'Reissue');
         this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating);
     }
 
