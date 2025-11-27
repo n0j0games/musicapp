@@ -29,8 +29,8 @@
         }
       ],
       "rating": 11.3,
-      "playTime": 560,
-      "playTime30Days": 24,
+      "playTime": 591,
+      "playTime30Days": 31,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 159,
+      "playTime": 160,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 868,
+      "playTime": 871,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -137,7 +137,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 372,
+      "playTime": 373,
       "playTime30Days": 0,
       "color": "#0e3258"
     },
@@ -169,7 +169,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 104,
+      "playTime": 105,
       "playTime30Days": 0,
       "color": "#6a9bac"
     },
@@ -201,7 +201,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 289,
+      "playTime": 290,
       "playTime30Days": 0
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rating": 8.9,
       "color": "#7d3b21",
-      "playTime": 188,
+      "playTime": 189,
       "playTime30Days": 0
     },
     {
@@ -264,7 +264,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 258,
+      "playTime": 260,
       "playTime30Days": 0,
       "color": "#933010"
     },
@@ -409,7 +409,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 75,
+      "playTime": 76,
       "playTime30Days": 0
     },
     {
@@ -463,8 +463,8 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 77,
-      "playTime30Days": 14
+      "playTime": 92,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj",
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 828,
+      "playTime": 836,
       "genre": "Live",
-      "playTime30Days": 24,
+      "playTime30Days": 0,
       "color": "#88888a"
     },
     {
@@ -787,7 +787,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 156,
+      "playTime": 157,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -916,11 +916,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 15,
+      "playTime": 71,
       "genre": "Art Pop",
       "logged": "2025-10-23",
       "year": 2019,
-      "playTime30Days": 49
+      "playTime30Days": 18
     }
   ]
 }

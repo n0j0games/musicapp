@@ -112,9 +112,9 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 99,
+      "playTime": 124,
       "genre": "Electronic",
-      "playTime30Days": 11,
+      "playTime30Days": 24,
       "color": "#6e5042"
     },
     {
@@ -145,7 +145,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 684,
+      "playTime": 685,
       "genre": "Synthpop",
       "playTime30Days": 0,
       "color": "#c49e5d"
@@ -564,8 +564,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.0,
-      "playTime": 80,
+      "rating": 8,
+      "playTime": 81,
       "genre": "Deutschrap",
       "playTime30Days": 0,
       "color": "#6a6c6d"
@@ -722,10 +722,10 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 163,
+      "playTime": 181,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 18,
       "color": "#bf6357"
     },
     {
@@ -817,7 +817,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 26,
+      "playTime": 29,
       "genre": "Chamber Jazz",
       "year": 2025,
       "playTime30Days": 0,
@@ -851,10 +851,10 @@
         }
       ],
       "rating": 9,
-      "playTime": 495,
+      "playTime": 501,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#855e69"
     },
@@ -993,10 +993,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 241,
+      "playTime": 255,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 14,
       "color": "#4c3732"
     },
     {
@@ -1192,10 +1192,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 150,
+      "playTime": 229,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 29,
+      "playTime30Days": 70,
       "color": "#3f1312"
     },
     {
@@ -1222,11 +1222,11 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 115,
+      "playTime": 120,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#0791c7",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1499,10 +1499,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 154,
+      "playTime": 173,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 20,
+      "playTime30Days": 0,
       "color": "#1a2334"
     },
     {
@@ -1589,7 +1589,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 16,
+      "playTime": 18,
       "genre": "EDM",
       "year": 2025,
       "playTime30Days": 0,
@@ -1623,10 +1623,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 110,
+      "playTime": 115,
       "genre": "Singer-Songwriter",
       "year": 2025,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#2e2418"
     },
     {
@@ -1668,10 +1668,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 291,
+      "playTime": 302,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 12,
+      "playTime30Days": 8,
       "color": "#b84a42"
     },
     {
@@ -1724,11 +1724,11 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 188,
+      "playTime": 231,
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
-      "playTime30Days": 41,
+      "playTime30Days": 39,
       "color": "#293529"
     },
     {
@@ -1821,11 +1821,11 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 164,
+      "playTime": 183,
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 60,
+      "playTime30Days": 12,
       "color": "#370e05"
     },
     {
@@ -1986,11 +1986,11 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 107,
+      "playTime": 112,
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#3d4043"
     },
     {
@@ -2021,7 +2021,7 @@
       "genre": "Neo-Soul",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 17,
+      "playTime30Days": 0,
       "color": "#00175d"
     },
     {
@@ -2044,11 +2044,11 @@
         }
       ],
       "rating": 6,
-      "playTime": 89,
+      "playTime": 108,
       "genre": "Dance-Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 106
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI",
@@ -2070,11 +2070,11 @@
         }
       ],
       "rating": 6,
-      "playTime": 20,
+      "playTime": 71,
       "genre": "Dance Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 67
+      "playTime30Days": 25
     },
     {
       "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg",
@@ -2104,11 +2104,11 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 67,
+      "playTime": 165,
       "genre": "EDM / R&B",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 161,
+      "playTime30Days": 34,
       "color": "#cb281c"
     },
     {
@@ -2139,11 +2139,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 0,
+      "playTime": 145,
       "genre": "Salsa",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 135,
+      "playTime30Days": 123,
       "color": "#58241a",
       "type": "EP"
     },
@@ -2171,12 +2171,142 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 0,
+      "playTime": 16,
       "genre": "Experimental Hip-Hop",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 14,
+      "playTime30Days": 16,
       "color": "#90999e"
+    },
+    {
+      "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27393ee2e2f2dfb7de9befcc164",
+      "title": "LUX",
+      "artist": "ROSALÍA",
+      "songs": [
+        {
+          "title": "Berghain",
+          "preview_url": "https://p.scdn.co/mp3-preview/5e4392849e9249bebf8fdf718e3227edc3a5cd79?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Dios Es Un Stalker",
+          "preview_url": "https://p.scdn.co/mp3-preview/3fabcfc89592e14f511a7b968864ba1cdc21aab0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "De Madrugá",
+          "preview_url": "https://p.scdn.co/mp3-preview/e60f092d8148d1caef385d8e8dfc5033e9b6ea00?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sexo, Violencia y Llantas",
+          "preview_url": "https://p.scdn.co/mp3-preview/65e4bc1012d0a42f7b67e377fdd7fdda959710e1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sauvignon Blanc",
+          "preview_url": "https://p.scdn.co/mp3-preview/a61e0e5bb3cc4fbb903af43dd6f47b4324c6d39b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9,
+      "playTime": 422,
+      "genre": "Orchestral",
+      "color": "#7a90a2",
+      "logged": "2025-11-06",
+      "year": 2025,
+      "playTime30Days": 422
+    },
+    {
+      "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dea455846b0633093676c60",
+      "title": "EUSEXUA Afterglow",
+      "artist": "FKA twigs",
+      "songs": [
+        {
+          "title": "Sushi",
+          "preview_url": "https://p.scdn.co/mp3-preview/0da585d2a3efa6e86cccc7a114142f9267266d41?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love Crimes",
+          "preview_url": "https://p.scdn.co/mp3-preview/95622c41463f2420498124fff665e158501b6d8f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wild And Alone (feat. PinkPantheress)",
+          "preview_url": "https://p.scdn.co/mp3-preview/61623493d8518c5e3fe68536598c626c1e8273b9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "HARD",
+          "preview_url": "https://p.scdn.co/mp3-preview/9aa730d63f257d148272b573df046a4ad5f7733e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Cheap Hotel",
+          "preview_url": "https://p.scdn.co/mp3-preview/164414a336f5b2a0a9f2d677f722318f7a267faa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 134,
+      "genre": "Art Pop",
+      "logged": "2025-11-17",
+      "year": 2025,
+      "playTime30Days": 134
+    },
+    {
+      "url": "https://open.spotify.com/album/5RJCMNarnHDGJisvJ0s2rv",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731acdd54ec7c0e23a971c8389",
+      "title": "Rider Music 2",
+      "artist": "fliggsy",
+      "songs": [
+        {
+          "title": "Fliggsy Neutron",
+          "preview_url": "https://p.scdn.co/mp3-preview/c6642734e8a947ff677721feba1d1f0f73f229ee?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Self Fulfilling Prophecy",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d37385d4fd6ee3d58d445296c990625a9c41e17?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ride 4 U Freestyle",
+          "preview_url": "https://p.scdn.co/mp3-preview/80e6c31fa0d690160673f24618aaee1cbbd8e2e4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "logged": "2025-11-27",
+      "year": 2025,
+      "playTime30Days": 5
+    },
+    {
+      "url": "https://open.spotify.com/album/6Ud07gmj5Nfm2ip6bhL5Rl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734d7bdcf111f45a474faaed04",
+      "title": "Hamburger Aufstand",
+      "artist": "Disarstar",
+      "songs": [
+        {
+          "title": "Saint-Tropez",
+          "preview_url": "https://p.scdn.co/mp3-preview/d869a031c98373d1f302f663cba1f80b8fe56246?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Meine Söhne geb` ich nicht",
+          "preview_url": "https://p.scdn.co/mp3-preview/ee929fba7363ae2144929d7e5ea47e7dfab96a64?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ambilight",
+          "preview_url": "https://p.scdn.co/mp3-preview/4896e3053e6764bce22ee93d1a5584ef8b0e518b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Alles Gute kommt von unten",
+          "preview_url": "https://p.scdn.co/mp3-preview/2bd1542130f40e3763f19f42cda08f2c33c63833?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Panzer unterm Cape",
+          "preview_url": "https://p.scdn.co/mp3-preview/67174bba7771e1216a1487f5e49a7e5bbff8bd94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.7,
+      "playTime": 142,
+      "genre": "Deutschrap",
+      "color": "#4b5a00",
+      "logged": "2025-11-27",
+      "year": 2025,
+      "playTime30Days": 142
     }
   ]
 }

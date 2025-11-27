@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 157,
+      "playTime": 158,
       "playTime30Days": 0,
       "color": "#622d00"
     },
@@ -318,7 +318,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 144,
+      "playTime": 146,
       "playTime30Days": 0
     },
     {
@@ -350,7 +350,7 @@
       ],
       "rating": 8,
       "playTime": 224,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
@@ -623,7 +623,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 28,
+      "playTime": 29,
       "playTime30Days": 0
     },
     {
@@ -1147,6 +1147,36 @@
       "rating": 7,
       "playTime": 29,
       "genre": "Pop",
+      "year": 2021,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273deac4655e6e52b549c6bf3cb",
+      "title": "Ice Melt",
+      "artist": "Crumb",
+      "songs": [
+        {
+          "title": "L.A.",
+          "preview_url": "https://p.scdn.co/mp3-preview/ae92b9fd01a66331dae7da27e4a13e68660bfd44?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Gone",
+          "preview_url": "https://p.scdn.co/mp3-preview/d884b25c59650efa2236f03d614afd12685e774d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Trophy",
+          "preview_url": "https://p.scdn.co/mp3-preview/7c34a0820cb4c819b33c929307b3ce2c98052f20?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Balloon",
+          "preview_url": "https://p.scdn.co/mp3-preview/40deee98d7b4d9e2cf948bcbabf89418ddd8103c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 20,
+      "genre": "Psychadelic Pop",
+      "logged": "2025-11-13",
       "year": 2021,
       "playTime30Days": 0
     }

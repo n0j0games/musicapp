@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 910,
-      "playTime30Days": 31,
+      "playTime": 942,
+      "playTime30Days": 0,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -364,7 +364,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 182,
+      "playTime": 184,
       "playTime30Days": 0,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
@@ -828,8 +828,8 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 479,
-      "playTime30Days": 7,
+      "playTime": 489,
+      "playTime30Days": 10,
       "color": "#7d716f",
       "review": "og-keemo--fieber"
     },
@@ -1468,7 +1468,7 @@
       ],
       "rating": 5,
       "genre": "Deutschrap",
-      "playTime": 13,
+      "playTime": 15,
       "playTime30Days": 0
     },
     {
@@ -1694,7 +1694,7 @@
       ],
       "rating": 6,
       "genre": "R&B",
-      "playTime": 56,
+      "playTime": 57,
       "playTime30Days": 0
     },
     {
@@ -2064,7 +2064,7 @@
       ],
       "rating": 7.5,
       "genre": "Deutschrap",
-      "playTime": 118,
+      "playTime": 119,
       "playTime30Days": 0,
       "color": "#000000"
     },
@@ -2336,7 +2336,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 642,
+      "playTime": 643,
       "genre": "Wiener Pop",
       "playTime30Days": 0,
       "color": "#c51919"

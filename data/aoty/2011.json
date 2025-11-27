@@ -29,8 +29,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 420,
-      "playTime30Days": 17,
+      "playTime": 438,
+      "playTime30Days": 0,
       "color": "#81202d"
     },
     {
@@ -94,7 +94,7 @@
         }
       ],
       "rating": 10.6,
-      "playTime": 213,
+      "playTime": 214,
       "playTime30Days": 0,
       "color": "#406e22",
       "onVinyl": true
@@ -127,7 +127,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 446,
+      "playTime": 448,
       "playTime30Days": 0
     },
     {
@@ -191,7 +191,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 164,
+      "playTime": 166,
       "playTime30Days": 0,
       "color": "#872001"
     },
@@ -306,7 +306,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 41,
+      "playTime": 42,
       "playTime30Days": 0
     },
     {
@@ -347,7 +347,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 22,
+      "playTime": 23,
       "genre": "Pop",
       "year": 2011,
       "playTime30Days": 0

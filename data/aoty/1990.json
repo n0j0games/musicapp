@@ -30,8 +30,8 @@
       ],
       "rating": 9.7,
       "genre": "Alternative Rock",
-      "playTime": 452,
-      "playTime30Days": 6,
+      "playTime": 455,
+      "playTime30Days": 0,
       "year": 1997,
       "color": "#194d64"
     },
@@ -67,7 +67,7 @@
         }
       ],
       "rating": 10.7,
-      "playTime": 183,
+      "playTime": 184,
       "playTime30Days": 0,
       "year": 1992,
       "color": "#3a322d"
@@ -100,7 +100,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 175,
+      "playTime": 178,
       "playTime30Days": 0,
       "year": 1999,
       "color": "#001743"
@@ -133,7 +133,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 142,
+      "playTime": 143,
       "playTime30Days": 0,
       "year": 1998,
       "color": "#933a2b"
@@ -166,8 +166,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 107,
-      "playTime30Days": 13,
+      "playTime": 122,
+      "playTime30Days": 14,
       "year": 1997,
       "color": "#43495f"
     },
@@ -215,7 +215,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 150,
+      "playTime": 151,
       "playTime30Days": 0,
       "year": 1990,
       "color": "#3c456e"
@@ -281,7 +281,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 74,
+      "playTime": 75,
       "playTime30Days": 0,
       "year": 1994
     },
@@ -313,7 +313,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0,
       "year": 1992
     },
@@ -345,7 +345,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 88,
+      "playTime": 89,
       "playTime30Days": 0,
       "year": 1990
     },
@@ -748,10 +748,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 38,
+      "playTime": 50,
       "genre": "Art Pop",
       "year": 1995,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI",

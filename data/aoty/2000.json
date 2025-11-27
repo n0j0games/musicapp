@@ -35,8 +35,8 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 839,
-      "playTime30Days": 0,
+      "playTime": 844,
+      "playTime30Days": 5,
       "year": 2007,
       "color": "#873912"
     },
@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 390,
+      "playTime": 392,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -204,7 +204,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 553,
+      "playTime": 554,
       "playTime30Days": 0,
       "year": 2005,
       "color": "#001621"
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 354,
+      "playTime": 358,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,7 +332,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 109,
+      "playTime": 113,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#4c4c4c"
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 200,
+      "playTime": 202,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -648,7 +648,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 141,
+      "playTime": 142,
       "playTime30Days": 0,
       "year": 2003
     },
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 75,
+      "playTime": 77,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -999,10 +999,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 69,
+      "playTime": 74,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1185,7 +1185,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 66,
+      "playTime": 68,
       "genre": "Art Pop",
       "year": 2008,
       "playTime30Days": 0
@@ -1268,7 +1268,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 67,
+      "playTime": 72,
       "genre": "Dance-Pop",
       "year": 2006,
       "playTime30Days": 0

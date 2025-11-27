@@ -61,7 +61,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 502,
+      "playTime": 503,
       "playTime30Days": 0,
       "color": "#687d84"
     },
@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 185,
+      "playTime": 186,
       "playTime30Days": 0,
       "color": "#3b5a22"
     },
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 265,
-      "playTime30Days": 48,
+      "playTime": 331,
+      "playTime30Days": 19,
       "color": "#a28c6a"
     },
     {
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 642,
+      "playTime": 644,
       "playTime30Days": 0,
       "color": "#4c4559"
     },
@@ -516,7 +516,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 108,
+      "playTime": 109,
       "playTime30Days": 0,
       "color": "#3c5b80"
     },
@@ -1483,7 +1483,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 69,
+      "playTime": 72,
       "playTime30Days": 0
     },
     {
@@ -1738,7 +1738,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 19,
+      "playTime": 20,
       "playTime30Days": 0
     },
     {
@@ -2237,10 +2237,44 @@
         }
       ],
       "rating": 6,
-      "playTime": 49,
+      "playTime": 52,
       "genre": "Electronic",
       "year": 2023,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0mQPq9INcTC48siErksOrl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f03fa3edc4db4b145655550d",
+      "title": "Wallsocket",
+      "artist": "underscores",
+      "songs": [
+        {
+          "title": "Cops and robbers",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c56467cffa15b1f6a94c04e1db510f2f645114f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Locals (Girls like us) [with gabby start]",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1f86356b5cbdac7ed36276af71f3aa0a3e573fa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Johnny johnny johnny",
+          "preview_url": "https://p.scdn.co/mp3-preview/7abec2deef038749de5b9d4d7ae900263f61b364?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Old money bitch",
+          "preview_url": "https://p.scdn.co/mp3-preview/fc4716d5f37b899f7223ed083dd3d9b128236cca?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Good luck final girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/af87f7d76febba2260954e8fe37634cd9e3be57d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.8,
+      "playTime": 123,
+      "genre": "Electropop",
+      "logged": "2025-11-27",
+      "year": 2023,
+      "playTime30Days": 99
     }
   ]
 }

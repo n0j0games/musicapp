@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1286,
-      "playTime30Days": 292,
+      "playTime": 1590,
+      "playTime30Days": 162,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 693,
+      "playTime": 695,
       "playTime30Days": 0,
       "color": "#1c1613"
     },
@@ -127,8 +127,8 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 524,
-      "playTime30Days": 21,
+      "playTime": 550,
+      "playTime30Days": 25,
       "color": "#61615f"
     },
     {
@@ -161,7 +161,7 @@
       "rating": 9.2,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 951,
+      "playTime": 952,
       "playTime30Days": 0,
       "color": "#123b49"
     },
@@ -194,7 +194,7 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 400,
+      "playTime": 401,
       "playTime30Days": 0,
       "color": "#456338"
     },
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 411,
-      "playTime30Days": 46,
+      "playTime": 458,
+      "playTime30Days": 19,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -292,8 +292,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 743,
-      "playTime30Days": 12,
+      "playTime": 746,
+      "playTime30Days": 0,
       "color": "#183399"
     },
     {
@@ -361,7 +361,7 @@
       ],
       "rating": 8.2,
       "genre": "Rap",
-      "playTime": 870,
+      "playTime": 871,
       "playTime30Days": 0,
       "color": "#0f1a1c"
     },
@@ -650,7 +650,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 291,
+      "playTime": 292,
       "playTime30Days": 0,
       "color": "#c33d15"
     },
@@ -765,7 +765,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 24,
+      "playTime": 25,
       "playTime30Days": 0,
       "color": "#20361e"
     },
@@ -1017,7 +1017,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 81,
+      "playTime": 82,
       "playTime30Days": 0,
       "color": "#272727"
     },
@@ -1491,7 +1491,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 24,
+      "playTime": 26,
       "playTime30Days": 0
     },
     {
@@ -1894,8 +1894,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 65,
-      "playTime30Days": 6,
+      "playTime": 72,
+      "playTime30Days": 0,
       "color": "#755353"
     },
     {
@@ -2054,7 +2054,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 41,
+      "playTime": 42,
       "genre": "Singer-Songwriter",
       "year": 2022,
       "playTime30Days": 0

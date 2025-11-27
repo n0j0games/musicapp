@@ -30,7 +30,7 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 581,
+      "playTime": 582,
       "playTime30Days": 0,
       "color": "#0c3f83",
       "onVinyl": true
@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 299,
+      "playTime": 303,
       "playTime30Days": 0,
       "color": "#926d70"
     },
@@ -130,7 +130,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 673,
+      "playTime": 675,
       "playTime30Days": 0,
       "color": "#b06725"
     },
@@ -293,8 +293,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 221,
-      "playTime30Days": 20
+      "playTime": 242,
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -471,7 +471,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 182,
+      "playTime": 183,
       "playTime30Days": 0
     },
     {
@@ -606,7 +606,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 43,
+      "playTime": 46,
       "playTime30Days": 0
     },
     {
@@ -1031,7 +1031,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 45,
+      "playTime": 46,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -1069,7 +1069,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 46,
+      "playTime": 47,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -1121,11 +1121,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 27,
+      "playTime": 90,
       "genre": "Flamenco Nuevo",
       "logged": "2025-10-23",
       "year": 2018,
-      "playTime30Days": 63
+      "playTime30Days": 9
     }
   ]
 }

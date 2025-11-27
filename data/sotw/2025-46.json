@@ -1,0 +1,40 @@
+{
+  "year": 2025,
+  "week": 46,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/14b809aa489c9b9f119d8687e7aba6eab12742de?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27386fdcefee8497d20ec9c66f5",
+      "title": "Gegenteil von Glück",
+      "artist": "Paula Hartmann, Berq",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/9bb769ee7ccf262523cb1f1b115a5d994520deb8?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731f6cdef5857aeaa8afeb2205",
+      "title": "mein zimmer",
+      "artist": "verifiziert, Domiziana",
+      "rating": 7,
+      "url": "https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/0da585d2a3efa6e86cccc7a114142f9267266d41?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dea455846b0633093676c60",
+      "title": "Sushi",
+      "artist": "FKA twigs",
+      "rating": 8.5,
+      "album": "EUSEXUA Afterglow",
+      "url": "https://open.spotify.com/track/0hHDMvLvoJh8gYbJIi182A"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/61623493d8518c5e3fe68536598c626c1e8273b9?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730dea455846b0633093676c60",
+      "title": "Wild And Alone (feat. PinkPantheress)",
+      "artist": "FKA twigs, PinkPantheress",
+      "rating": 7,
+      "album": "EUSEXUA Afterglow",
+      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
+    }
+  ]
+}
