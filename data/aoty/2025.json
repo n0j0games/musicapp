@@ -38,10 +38,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a3ac094516a56e20f0eae6d56641a25098fcc6f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.1,
-      "playTime": 594,
+      "rating": 9.3,
+      "playTime": 640,
       "genre": "Latin",
-      "playTime30Days": 0,
+      "playTime30Days": 46,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 332,
+      "playTime": 347,
       "genre": "Rap",
-      "playTime30Days": 0,
+      "playTime30Days": 15,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -84,7 +84,7 @@
       "title": "Gesegnet",
       "artist": "Apache 207,\nLuciano",
       "rating": 5,
-      "playTime": 21,
+      "playTime": 22,
       "genre": "Deutschrap",
       "playTime30Days": 0
     },
@@ -114,7 +114,7 @@
       "rating": 7.8,
       "playTime": 124,
       "genre": "Electronic",
-      "playTime30Days": 24,
+      "playTime30Days": 23,
       "color": "#6e5042"
     },
     {
@@ -145,9 +145,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 685,
+      "playTime": 693,
       "genre": "Synthpop",
-      "playTime30Days": 0,
+      "playTime30Days": 9,
       "color": "#c49e5d"
     },
     {
@@ -187,7 +187,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 70,
+      "playTime": 71,
       "genre": "Experimental Rap",
       "playTime30Days": 0
     },
@@ -231,7 +231,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 42,
+      "playTime": 44,
       "genre": "Deutschpop",
       "playTime30Days": 0
     },
@@ -535,10 +535,10 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3e509c77d6abfca0b9438319e60741bb92a7d932?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.3,
-      "playTime": 190,
+      "rating": 8,
+      "playTime": 200,
       "genre": "Deutschpop",
-      "playTime30Days": 0,
+      "playTime30Days": 10,
       "color": "#2150b4"
     },
     {
@@ -721,11 +721,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/2e482278db392589a41362203918d28d5bfda0a8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.4,
-      "playTime": 181,
+      "rating": 8.1,
+      "playTime": 182,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 18,
+      "playTime30Days": 19,
       "color": "#bf6357"
     },
     {
@@ -850,11 +850,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1f2ea8c22ccf898dd89ca1990d0fa643ddcf46f6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
-      "playTime": 501,
+      "rating": 9.2,
+      "playTime": 509,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 10,
       "onVinyl": true,
       "color": "#855e69"
     },
@@ -958,7 +958,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 99,
+      "playTime": 101,
       "genre": "Trip Hop",
       "year": 2025,
       "playTime30Days": 0,
@@ -992,11 +992,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72f4c3e7219a47839daeef730832fdba8e0b5573?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
-      "playTime": 255,
+      "rating": 8.5,
+      "playTime": 257,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 14,
+      "playTime30Days": 16,
       "color": "#4c3732"
     },
     {
@@ -1060,7 +1060,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c04094d2de049f9c206b65626e31ab1873725b60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
+      "rating": 8.2,
       "playTime": 152,
       "genre": "Hip-Hop",
       "year": 2025,
@@ -1161,11 +1161,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ba74b54fecd75f96115505dfd6d914080b968251?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.2,
-      "playTime": 169,
+      "rating": 8.6,
+      "playTime": 187,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 18,
       "color": "#5f5f5f"
     },
     {
@@ -1191,11 +1191,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/076b5c1b98596b021d91aebc8a27671438e0f26d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
-      "playTime": 229,
+      "rating": 9,
+      "playTime": 294,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 70,
+      "playTime30Days": 125,
       "color": "#3f1312"
     },
     {
@@ -1222,7 +1222,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 120,
+      "playTime": 123,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#0791c7",
@@ -1380,10 +1380,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 200,
+      "playTime": 205,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#825b63"
     },
     {
@@ -1431,7 +1431,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 105,
+      "playTime": 108,
       "genre": "Hip-Hop",
       "year": 2025,
       "playTime30Days": 0,
@@ -1464,7 +1464,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3ee2de53a7ded7c99236209de823bbf46642c789?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 8.3,
       "playTime": 62,
       "genre": "UK Rap",
       "year": 2025,
@@ -1498,8 +1498,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/120c3a4ac5754b8e526980d583c7ea395294e61c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
-      "playTime": 173,
+      "rating": 8.4,
+      "playTime": 175,
       "genre": "Folktronica",
       "year": 2025,
       "playTime30Days": 0,
@@ -1622,8 +1622,8 @@
           "preview_url": "https://p.scdn.co/mp3-preview/cb40e96d910b822bac8f74631963f8e5da81777a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.5,
-      "playTime": 115,
+      "rating": 8.2,
+      "playTime": 116,
       "genre": "Singer-Songwriter",
       "year": 2025,
       "playTime30Days": 0,
@@ -1667,11 +1667,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a81d9510946836e96cf06524c1d45a6689935548?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
-      "playTime": 302,
+      "rating": 8.9,
+      "playTime": 308,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 8,
+      "playTime30Days": 9,
       "color": "#b84a42"
     },
     {
@@ -1723,12 +1723,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e68bde0dbc77d60dafe456a258a32ee77eb75cd1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
-      "playTime": 231,
+      "rating": 8.8,
+      "playTime": 232,
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
-      "playTime30Days": 39,
+      "playTime30Days": 7,
       "color": "#293529"
     },
     {
@@ -1820,12 +1820,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/85073d2a7dbc884eb52839af7e33d8111ac2064d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
-      "playTime": 183,
+      "rating": 8.5,
+      "playTime": 221,
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 12,
+      "playTime30Days": 40,
       "color": "#370e05"
     },
     {
@@ -1985,12 +1985,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5929cdcce2582ae6eb9b3761ed19c164b9683950?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.2,
-      "playTime": 112,
+      "rating": 8.5,
+      "playTime": 134,
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 5,
+      "playTime30Days": 27,
       "color": "#3d4043"
     },
     {
@@ -2048,7 +2048,7 @@
       "genre": "Dance-Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI",
@@ -2070,11 +2070,11 @@
         }
       ],
       "rating": 6,
-      "playTime": 71,
+      "playTime": 73,
       "genre": "Dance Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 25
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg",
@@ -2104,11 +2104,11 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 165,
+      "playTime": 180,
       "genre": "EDM / R&B",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 34,
+      "playTime30Days": 19,
       "color": "#cb281c"
     },
     {
@@ -2139,11 +2139,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 145,
+      "playTime": 152,
       "genre": "Salsa",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 123,
+      "playTime30Days": 16,
       "color": "#58241a",
       "type": "EP"
     },
@@ -2171,11 +2171,11 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 16,
+      "playTime": 18,
       "genre": "Experimental Hip-Hop",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 16,
+      "playTime30Days": 0,
       "color": "#90999e"
     },
     {
@@ -2205,13 +2205,13 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a61e0e5bb3cc4fbb903af43dd6f47b4324c6d39b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
-      "playTime": 422,
+      "rating": 9.2,
+      "playTime": 493,
       "genre": "Orchestral",
       "color": "#7a90a2",
       "logged": "2025-11-06",
       "year": 2025,
-      "playTime30Days": 422
+      "playTime30Days": 388
     },
     {
       "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
@@ -2240,12 +2240,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/164414a336f5b2a0a9f2d677f722318f7a267faa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.8,
-      "playTime": 134,
+      "rating": 8.2,
+      "playTime": 161,
       "genre": "Art Pop",
       "logged": "2025-11-17",
       "year": 2025,
-      "playTime30Days": 134
+      "playTime30Days": 161
     },
     {
       "url": "https://open.spotify.com/album/5RJCMNarnHDGJisvJ0s2rv",
@@ -2300,13 +2300,105 @@
           "preview_url": "https://p.scdn.co/mp3-preview/67174bba7771e1216a1487f5e49a7e5bbff8bd94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.7,
-      "playTime": 142,
+      "rating": 8.8,
+      "playTime": 165,
       "genre": "Deutschrap",
       "color": "#4b5a00",
       "logged": "2025-11-27",
       "year": 2025,
-      "playTime30Days": 142
+      "playTime30Days": 165
+    },
+    {
+      "url": "https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273913b65dba0cbd411ffa45809",
+      "title": "Arsenalplatz",
+      "artist": "Jassin",
+      "songs": [
+        {
+          "title": "Ohne Regen keine Blumen",
+          "preview_url": "https://p.scdn.co/mp3-preview/21085c6db8907512d284fc15443bd843a074f900?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Bitte sei vorsichtig",
+          "preview_url": "https://p.scdn.co/mp3-preview/25f1c4dc904019cbe90a4fb29ffabdc9f137bbdd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Simson S51",
+          "preview_url": "https://p.scdn.co/mp3-preview/36f27ae0bb90e243bff6516334f477a20b37f60f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wann trennt ihr euch",
+          "preview_url": "https://p.scdn.co/mp3-preview/3bea37876dfd2243ba0cea26160c7bef1b876388?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.9,
+      "playTime": 17,
+      "genre": "Deutschrap",
+      "logged": "2025-12-09",
+      "year": 2025,
+      "color": "#176188",
+      "playTime30Days": 15
+    },
+    {
+      "url": "https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27382cd01439c783e21898a9f84",
+      "title": "choke enough",
+      "artist": "Oklou",
+      "songs": [
+        {
+          "title": "family and friends",
+          "preview_url": "https://p.scdn.co/mp3-preview/9fbf5cd72e5cd10b5fb706fa3bf26a151f6e6ca4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "obvious",
+          "preview_url": "https://p.scdn.co/mp3-preview/8e02994d0993acc0fc6cbc07df4b0664cd3cfce2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "choke enough",
+          "preview_url": "https://p.scdn.co/mp3-preview/29ce8e431e17c44761f8806d4d03babab32487b0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "harvest sky",
+          "preview_url": "https://p.scdn.co/mp3-preview/b22bec558a5e5ff4f3f3b332ad299cd55d356305?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.9,
+      "playTime": 84,
+      "genre": "Alt-Pop",
+      "logged": "2025-12-09",
+      "year": 2025,
+      "playTime30Days": 9
+    },
+    {
+      "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734eb9559de1a99d358e47794b",
+      "title": "West End Girl",
+      "artist": "Lily Allen",
+      "songs": [
+        {
+          "title": "West End Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/a30904b27759b9d8576d8f58ed0bf7c98a848296?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ruminating",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d59013db6752a26b8314c1975c2bc86b0826ca5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tennis",
+          "preview_url": "https://p.scdn.co/mp3-preview/940652cf1e576ed4c7f38dd5209df6166d28bfc5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Madeline",
+          "preview_url": "https://p.scdn.co/mp3-preview/314fb0ae6e9a77e3e2fb4caa4641c8da9fa715fd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 11,
+      "genre": "Alt-Pop",
+      "logged": "2025-12-09",
+      "year": 2025,
+      "color": "#322b21",
+      "playTime30Days": 11
     }
   ]
 }

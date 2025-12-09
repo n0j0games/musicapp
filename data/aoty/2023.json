@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 119,
+      "playTime": 120,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -258,7 +258,7 @@
       ],
       "rating": 9.7,
       "playTime": 331,
-      "playTime30Days": 19,
+      "playTime30Days": 18,
       "color": "#a28c6a"
     },
     {
@@ -2270,11 +2270,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 123,
+      "playTime": 171,
       "genre": "Electropop",
       "logged": "2025-11-27",
       "year": 2023,
-      "playTime30Days": 99
+      "playTime30Days": 146
     }
   ]
 }

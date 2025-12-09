@@ -1,0 +1,30 @@
+{
+  "year": 2025,
+  "week": 48,
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/28bb339492639190c56547ab883127f15ab8b29a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a7dc3716a96addfd4eea72e7",
+      "title": "Zahl mir Deinen Schmerz heim",
+      "artist": "Paula Hartmann, Berq",
+      "rating": 8.5,
+      "url": "https://open.spotify.com/track/5n5qmGd0uFSTanCk3UWz5g"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/4acd5fba64ea33253b2b9d7e60190a020f9e0cb6?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a7dc3716a96addfd4eea72e7",
+      "title": "Knopf",
+      "artist": "Paula Hartmann, Berq",
+      "rating": 9.4,
+      "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/bede11f7c15f5b68286ad76d8b3b22a9b9452d7d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a7dc3716a96addfd4eea72e7",
+      "title": "Dass Du mich brauchst",
+      "artist": "Paula Hartmann, Berq",
+      "rating": 8,
+      "url": "https://open.spotify.com/track/6CF3EP3MX9uwykjpbZWyq4"
+    }
+  ]
+}

@@ -33,7 +33,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 308,
+      "playTime": 310,
       "playTime30Days": 0,
       "color": "#932e50"
     },
@@ -96,7 +96,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 318,
+      "playTime": 319,
       "playTime30Days": 0
     },
     {
@@ -189,8 +189,8 @@
       ],
       "rating": 10,
       "onVinyl": true,
-      "playTime": 439,
-      "playTime30Days": 100,
+      "playTime": 465,
+      "playTime30Days": 74,
       "color": "#601f30"
     },
     {
@@ -870,7 +870,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 198,
+      "playTime": 199,
       "playTime30Days": 0
     },
     {
@@ -975,7 +975,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 56,
+      "playTime": 57,
       "genre": "Jazz Fusion",
       "playTime30Days": 0
     },
@@ -1101,6 +1101,36 @@
       "genre": "Deutschrap",
       "year": 2020,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27304ce4f370b4d11453a82bc4a",
+      "title": "The Lion King: The Gift",
+      "artist": "Beyoncé",
+      "songs": [
+        {
+          "title": "BIGGER",
+          "preview_url": "https://p.scdn.co/mp3-preview/874505639279a7a90abd3ab27342276bbb8add2e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "NILE",
+          "preview_url": "https://p.scdn.co/mp3-preview/3c94ec66ef62b174ca35e85d063be872e594e5b6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "ALREADY",
+          "preview_url": "https://p.scdn.co/mp3-preview/a30821595843f32731ca8765416834e6b45a1f5c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "BLACK PARADE",
+          "preview_url": "https://p.scdn.co/mp3-preview/f041cc49a481b34149278cfc39bdc673831fbd2a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.2,
+      "playTime": 51,
+      "genre": "Afrobeats",
+      "logged": "2025-12-09",
+      "year": 2020,
+      "playTime30Days": 27
     }
   ]
 }

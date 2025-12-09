@@ -30,7 +30,7 @@
       ],
       "rating": 9.3,
       "genre": "Deutschrap",
-      "playTime": 289,
+      "playTime": 290,
       "playTime30Days": 0,
       "color": "#878787"
     },
@@ -63,8 +63,8 @@
       ],
       "rating": 9.7,
       "genre": "Electropop",
-      "playTime": 625,
-      "playTime30Days": 0,
+      "playTime": 648,
+      "playTime30Days": 23,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
     },
@@ -97,7 +97,7 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 942,
+      "playTime": 943,
       "playTime30Days": 0,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
@@ -164,8 +164,8 @@
       ],
       "rating": 8.9,
       "genre": "Deutscher Indie",
-      "playTime": 497,
-      "playTime30Days": 0,
+      "playTime": 505,
+      "playTime30Days": 8,
       "color": "#8a5e57",
       "review": "paula-hartmann--kleine-feuer"
     },
@@ -198,7 +198,7 @@
       ],
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
-      "playTime": 215,
+      "playTime": 221,
       "playTime30Days": 0,
       "color": "#9a6c1f"
     },
@@ -231,7 +231,7 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 348,
+      "playTime": 349,
       "playTime30Days": 0,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
@@ -364,7 +364,7 @@
       ],
       "rating": 8.4,
       "genre": "Neo Psychadelia",
-      "playTime": 184,
+      "playTime": 186,
       "playTime30Days": 0,
       "color": "#66260e",
       "review": "st-vincent--all-born-screaming"
@@ -828,8 +828,8 @@
       ],
       "rating": 7.7,
       "genre": "Deutschrap",
-      "playTime": 489,
-      "playTime30Days": 10,
+      "playTime": 490,
+      "playTime30Days": 0,
       "color": "#7d716f",
       "review": "og-keemo--fieber"
     },
@@ -1032,7 +1032,7 @@
       ],
       "rating": 7.5,
       "genre": "Experimental Rap",
-      "playTime": 70,
+      "playTime": 71,
       "playTime30Days": 0,
       "color": "#453f32"
     },
@@ -1670,7 +1670,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 74,
+      "playTime": 76,
       "playTime30Days": 0
     },
     {
@@ -1982,8 +1982,8 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 132,
-      "playTime30Days": 0
+      "playTime": 138,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2035,7 +2035,7 @@
       ],
       "rating": 7.8,
       "genre": "Deutschrap",
-      "playTime": 100,
+      "playTime": 101,
       "playTime30Days": 0,
       "color": "#55351c"
     },
@@ -2064,7 +2064,7 @@
       ],
       "rating": 7.5,
       "genre": "Deutschrap",
-      "playTime": 119,
+      "playTime": 120,
       "playTime30Days": 0,
       "color": "#000000"
     },
@@ -2117,8 +2117,8 @@
       ],
       "rating": 9,
       "genre": "Deutscher Indie",
-      "playTime": 224,
-      "playTime30Days": 0,
+      "playTime": 250,
+      "playTime30Days": 26,
       "onVinyl": true,
       "color": "#4c6c8c"
     },
@@ -2147,7 +2147,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 385,
+      "playTime": 386,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2238,7 +2238,7 @@
       ],
       "rating": 7.9,
       "genre": "R&B",
-      "playTime": 112,
+      "playTime": 113,
       "playTime30Days": 0,
       "color": "#6c2222"
     },
@@ -2271,7 +2271,7 @@
       ],
       "rating": 8.4,
       "genre": "Art Pop",
-      "playTime": 277,
+      "playTime": 279,
       "playTime30Days": 0,
       "color": "#332737"
     },
@@ -2303,7 +2303,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 359,
+      "playTime": 362,
       "genre": "West Coast Hip Hop",
       "playTime30Days": 0,
       "color": "#6c6c6c"
@@ -2336,7 +2336,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 643,
+      "playTime": 644,
       "genre": "Wiener Pop",
       "playTime30Days": 0,
       "color": "#c51919"
@@ -2582,7 +2582,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 21,
+      "playTime": 22,
       "genre": "Deutschrap",
       "year": 2024,
       "playTime30Days": 0

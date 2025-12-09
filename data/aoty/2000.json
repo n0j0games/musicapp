@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Alt Rock",
       "playTime": 844,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
     },
@@ -332,7 +332,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 113,
+      "playTime": 116,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#4c4c4c"
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 74,
+      "playTime": 76,
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 0
@@ -1239,7 +1239,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 56,
+      "playTime": 57,
       "genre": "Pop",
       "year": 2003,
       "playTime30Days": 0

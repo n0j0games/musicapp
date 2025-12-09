@@ -293,8 +293,8 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 242,
-      "playTime30Days": 11
+      "playTime": 243,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -526,8 +526,8 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 315,
-      "playTime30Days": 0
+      "playTime": 329,
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/4iLo2HykYzbHw6MWSTg4vp",
@@ -1125,7 +1125,7 @@
       "genre": "Flamenco Nuevo",
       "logged": "2025-10-23",
       "year": 2018,
-      "playTime30Days": 9
+      "playTime30Days": 0
     }
   ]
 }

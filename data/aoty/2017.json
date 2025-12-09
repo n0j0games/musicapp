@@ -95,7 +95,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 183,
+      "playTime": 184,
       "playTime30Days": 0,
       "color": "#8884ba"
     },
@@ -217,8 +217,8 @@
         }
       ],
       "rating": 10.7,
-      "playTime": 559,
-      "playTime30Days": 0,
+      "playTime": 571,
+      "playTime30Days": 14,
       "color": "#064cb7",
       "onVinyl": true
     },
