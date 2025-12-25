@@ -59,9 +59,10 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737cc78ec62b7af6f609d16a9c",
       "title": "Dunkelschwarz",
       "artist": "Blumengarten",
-      "rating": 9.5,
+      "rating": 10.2,
       "album": "Ich liebe dich für immer",
-      "url": "https://open.spotify.com/track/1UR1iweNHkYD3GI1zskMq5"
+      "url": "https://open.spotify.com/track/1UR1iweNHkYD3GI1zskMq5",
+      "color": "#f33a22"
     }
   ]
 }

@@ -1,5 +1,45 @@
 {
   "year": 2025,
   "week": 0,
-  "songs": []
+  "songs": [
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/076b5c1b98596b021d91aebc8a27671438e0f26d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dd4912edb4982f53a381b98e",
+      "title": "Romeo",
+      "artist": "PinkPantheress",
+      "rating": 10.4,
+      "album": "Fancy That",
+      "url": "https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK",
+      "color": "#641616"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/67174bba7771e1216a1487f5e49a7e5bbff8bd94?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734d7bdcf111f45a474faaed04",
+      "title": "Panzer unterm Cape",
+      "artist": "Disarstar",
+      "rating": 10.3,
+      "album": "Hamburger Aufstand",
+      "url": "https://open.spotify.com/track/0kYDlZAfcukuBKX2l2yDB2",
+      "color": "#556703"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/31078ee4e5d1705665fa46d8b68afc297031f54f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "rating": 9.0,
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
+      "color": "#0d341d"
+    },
+    {
+      "previewUrl": "https://p.scdn.co/mp3-preview/37f1e3381490408b74bf4e5b17dbe9680be37eab?cid=bba9a824e2c249d1a89e21c0e2a2e845",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738083c3f2ebd35be8631f7415",
+      "title": "Illegal",
+      "artist": "PinkPantheress",
+      "rating": 8.6,
+      "url": "https://open.spotify.com/track/3ZDH5g8ozIUMdjqONzG6tR",
+      "color": "#2d315f"
+    }
+  ]
 }

@@ -38,7 +38,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a3ac094516a56e20f0eae6d56641a25098fcc6f5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.3,
+      "rating": 9.4,
       "playTime": 640,
       "genre": "Latin",
       "playTime30Days": 46,
@@ -144,7 +144,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/16ba6a81ef0574a9e235e7877af7abced54f2d13?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 8.2,
       "playTime": 693,
       "genre": "Synthpop",
       "playTime30Days": 9,
@@ -603,7 +603,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/477af8324a72fcd204d54c16196468825a00146c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.5,
+      "rating": 7.3,
       "playTime": 49,
       "genre": "Hyperpop",
       "year": 2025,
@@ -687,7 +687,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e761888711e7132ecfe4c73d2872abc4fee56cc6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.4,
+      "rating": 8.1,
       "playTime": 149,
       "genre": "Folk",
       "year": 2025,
@@ -992,7 +992,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/72f4c3e7219a47839daeef730832fdba8e0b5573?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.5,
+      "rating": 8.6,
       "playTime": 257,
       "genre": "Art Pop",
       "year": 2025,
@@ -1161,7 +1161,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ba74b54fecd75f96115505dfd6d914080b968251?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.6,
+      "rating": 8.7,
       "playTime": 187,
       "genre": "Trap",
       "year": 2025,
@@ -1191,7 +1191,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/076b5c1b98596b021d91aebc8a27671438e0f26d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
+      "rating": 9.1,
       "playTime": 294,
       "genre": "Dancepop",
       "year": 2025,
@@ -1667,7 +1667,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a81d9510946836e96cf06524c1d45a6689935548?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.9,
+      "rating": 8.8,
       "playTime": 308,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
@@ -1723,7 +1723,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e68bde0dbc77d60dafe456a258a32ee77eb75cd1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.8,
+      "rating": 8.7,
       "playTime": 232,
       "genre": "Jazz Fusion",
       "year": 2025,
@@ -2016,7 +2016,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/afc488b0b51fccb317c351006be972f6bfe81caf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.2,
+      "rating": 7.5,
       "playTime": 17,
       "genre": "Neo-Soul",
       "logged": "2025-10-19",
@@ -2245,7 +2245,8 @@
       "genre": "Art Pop",
       "logged": "2025-11-17",
       "year": 2025,
-      "playTime30Days": 161
+      "playTime30Days": 161,
+      "color": "#58679c"
     },
     {
       "url": "https://open.spotify.com/album/5RJCMNarnHDGJisvJ0s2rv",
@@ -2367,7 +2368,8 @@
       "genre": "Alt-Pop",
       "logged": "2025-12-09",
       "year": 2025,
-      "playTime30Days": 9
+      "playTime30Days": 9,
+      "color": "#508b9e"
     },
     {
       "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn",

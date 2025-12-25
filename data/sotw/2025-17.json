@@ -7,8 +7,9 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c4f0f90c70b1fcadf9e6cc18",
       "title": "ILYSMIH",
       "artist": "Kali Uchis",
-      "rating": 10,
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
+      "rating": 10.6,
+      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap",
+      "color": "#445042"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/d152fd7c1d95db7811a52506f69fab377e6b03be?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -16,16 +17,18 @@
       "title": "MONDAY",
       "album" : "Vanisher, Horizon Scraper",
       "artist": "Quadeca",
-      "rating": 9.5,
-      "url": "https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5"
+      "rating": 8.9,
+      "url": "https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5",
+      "color": "#baaf9c"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/7df79d60bfa11ef5be914984ad6012ed61e8217e?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273bffc95a2df3dd4505f9ddd4f",
       "title": "What Was That",
       "artist": "Lorde",
-      "rating": 8.5,
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+      "rating": 9,
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz",
+      "color": "#4e100a"
     }
   ]
 }

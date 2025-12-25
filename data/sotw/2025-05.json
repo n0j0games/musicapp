@@ -7,9 +7,10 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
       "title": "Wake Me Up",
       "artist": "The Weeknd",
-      "rating": 9.2,
+      "rating": 8.8,
       "album": "Hurry Up Tomorrow",
-      "url": "https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW"
+      "url": "https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW",
+      "color": "#33220a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/fb7e24baa672c22124391449bdba48d0da63b33d?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -34,18 +35,20 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
       "title": "Big Sleep",
       "artist": "The Weeknd",
-      "rating": 9,
+      "rating": 9.8,
       "album": "Hurry Up Tomorrow",
-      "url": "https://open.spotify.com/track/4sWQbsLLH2NEbO79DSZCL9"
+      "url": "https://open.spotify.com/track/4sWQbsLLH2NEbO79DSZCL9",
+      "color": "#33220a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/dcf7b19ba488d7c234d34dc7a9a5324e9bcece0b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
       "title": "The Abyss",
       "artist": "The Weeknd",
-      "rating": 9,
+      "rating": 8.0,
       "album": "Hurry Up Tomorrow",
-      "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs"
+      "url": "https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs",
+      "color": "#33220a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/6ccc49e74248011ace52386d20ff7532a4ba07f7?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -61,18 +64,20 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
       "title": "Without a Warning",
       "artist": "The Weeknd",
-      "rating": 9,
+      "rating": 8.0,
       "album": "Hurry Up Tomorrow",
-      "url": "https://open.spotify.com/track/6n6GfXu4i22rdsmRKe2eIn"
+      "url": "https://open.spotify.com/track/6n6GfXu4i22rdsmRKe2eIn",
+      "color": "#33220a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/be79470f6a0f3c5aa46bc7db2def3da8f5ea184b?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c1f2696b435053db82f1d0e8",
       "title": "Hurry Up Tomorrow",
       "artist": "The Weeknd",
-      "rating": 10,
+      "rating": 8.9,
       "album": "Hurry Up Tomorrow",
-      "url": "https://open.spotify.com/track/4TDPlp7OSOjuDU3l7PCM04"
+      "url": "https://open.spotify.com/track/4TDPlp7OSOjuDU3l7PCM04",
+      "color": "#33220a"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/52aaeedc1206ab11f503cee63bf986766e2e7e9a?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -178,15 +183,17 @@
       "title": "Abracadabra",
       "artist": "Lady Gaga",
       "rating": 9,
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Lady_Gaga_-_Abracadabra.png",
+      "color": "#202021"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/e0b612ebc697ace7767dad872af5bcf0bd67d71f?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b50168e8cd8fd1c991f9a462",
       "title": "Nosebleeds",
       "artist": "Doechii",
-      "rating": 8.5,
-      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+      "rating": 8.8,
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c",
+      "color": "#211c08"
     }
   ]
 }

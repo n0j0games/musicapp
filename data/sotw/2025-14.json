@@ -7,16 +7,18 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273a1c75ee11ed35cbcc61b81bd",
       "title": "Back To Me",
       "artist": "The Marías",
-      "rating": 8.5,
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+      "rating": 8.6,
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ",
+      "color": "#202020"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/86e84800104ab9833ac9c6b357893793dbb65fa1?cid=bba9a824e2c249d1a89e21c0e2a2e845",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e75079247339fc36e22f12e8",
       "title": "THE LAST TIME",
       "artist": "DESTIN CONRAD, Teezo Touchdown",
-      "rating": 8,
-      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+      "rating": 8.9,
+      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs",
+      "color": "#150c1f"
     },
     {
       "previewUrl": "https://p.scdn.co/mp3-preview/9fd19c517cf7ddf51380838df2ff27e258fe2009?cid=bba9a824e2c249d1a89e21c0e2a2e845",
@@ -31,8 +33,9 @@
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b27346633cc715a6bad2505f2471",
       "title": "2004",
       "artist": "YG, Buddy, The Gang",
-      "rating": 10,
-      "url": "https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ"
+      "rating": 10.8,
+      "url": "https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ",
+      "color": "#021d22"
     }
   ]
 }
