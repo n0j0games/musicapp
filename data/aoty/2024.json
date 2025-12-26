@@ -97,8 +97,8 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 943,
-      "playTime30Days": 0,
+      "playTime": 948,
+      "playTime30Days": 6,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -131,7 +131,7 @@
       ],
       "rating": 8.5,
       "genre": "Indie Pop",
-      "playTime": 136,
+      "playTime": 137,
       "playTime30Days": 0,
       "color": "#5c5212"
     },
@@ -198,8 +198,8 @@
       ],
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
-      "playTime": 221,
-      "playTime30Days": 0,
+      "playTime": 225,
+      "playTime30Days": 5,
       "color": "#9a6c1f"
     },
     {
@@ -974,7 +974,7 @@
       ],
       "rating": 7.7,
       "genre": "Jazz",
-      "playTime": 31,
+      "playTime": 32,
       "playTime30Days": 0,
       "color": "#828282"
     },
@@ -1934,7 +1934,7 @@
       ],
       "rating": 6.1,
       "genre": "Rap",
-      "playTime": 111,
+      "playTime": 113,
       "playTime30Days": 0
     },
     {
@@ -2147,7 +2147,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 386,
+      "playTime": 387,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2303,9 +2303,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 362,
+      "playTime": 380,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 0,
+      "playTime30Days": 21,
       "color": "#6c6c6c"
     },
     {

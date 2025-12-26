@@ -30,7 +30,7 @@
       ],
       "rating": 11.3,
       "playTime": 591,
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#0d4c40"
     },
@@ -264,7 +264,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 260,
+      "playTime": 261,
       "playTime30Days": 0,
       "color": "#933010"
     },
@@ -355,7 +355,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 114,
+      "playTime": 115,
       "playTime30Days": 0
     },
     {
@@ -591,7 +591,7 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 120,
+      "playTime": 121,
       "playTime30Days": 0
     },
     {
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 839,
+      "playTime": 847,
       "genre": "Live",
-      "playTime30Days": 6,
+      "playTime30Days": 11,
       "color": "#88888a"
     },
     {
@@ -863,7 +863,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 68,
+      "playTime": 69,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -916,11 +916,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 90,
+      "playTime": 108,
       "genre": "Art Pop",
       "logged": "2025-10-23",
       "year": 2019,
-      "playTime30Days": 27
+      "playTime30Days": 37
     }
   ]
 }

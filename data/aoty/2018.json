@@ -163,7 +163,7 @@
       ],
       "rating": 8.8,
       "onVinyl": true,
-      "playTime": 448,
+      "playTime": 449,
       "playTime30Days": 0,
       "color": "#608588"
     },
@@ -294,7 +294,7 @@
       ],
       "rating": 8.8,
       "playTime": 243,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc",
@@ -633,7 +633,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 115,
+      "playTime": 117,
       "playTime30Days": 0
     },
     {
@@ -1031,7 +1031,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 46,
+      "playTime": 47,
       "genre": "R&B",
       "playTime30Days": 0
     },

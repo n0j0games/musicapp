@@ -106,7 +106,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 237,
+      "playTime": 238,
       "playTime30Days": 0,
       "color": "#64441f"
     },
@@ -170,7 +170,7 @@
       ],
       "rating": 8.5,
       "playTime": 206,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -223,7 +223,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 35,
+      "playTime": 36,
       "playTime30Days": 0
     },
     {
@@ -294,8 +294,8 @@
         }
       ],
       "rating": 8,
-      "playTime30Days": 10,
-      "playTime": 214
+      "playTime30Days": 16,
+      "playTime": 222
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
@@ -317,7 +317,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 118,
+      "playTime": 119,
       "playTime30Days": 0
     },
     {
@@ -423,10 +423,10 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 77,
+      "playTime": 81,
       "genre": "Alternative R&B",
       "year": 2013,
-      "playTime30Days": 0
+      "playTime30Days": 5
     }
   ]
 }

@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 640,
+      "playTime": 710,
       "genre": "Latin",
-      "playTime30Days": 46,
+      "playTime30Days": 116,
       "color": "#729238"
     },
     {
@@ -72,9 +72,9 @@
         }
       ],
       "rating": 9,
-      "playTime": 347,
+      "playTime": 349,
       "genre": "Rap",
-      "playTime30Days": 15,
+      "playTime30Days": 17,
       "color": "#1f4072",
       "type": "Reissue"
     },
@@ -112,9 +112,9 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 124,
+      "playTime": 163,
       "genre": "Electronic",
-      "playTime30Days": 23,
+      "playTime30Days": 61,
       "color": "#6e5042"
     },
     {
@@ -145,9 +145,9 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 693,
+      "playTime": 707,
       "genre": "Synthpop",
-      "playTime30Days": 9,
+      "playTime30Days": 22,
       "color": "#c49e5d"
     },
     {
@@ -314,7 +314,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 21,
+      "playTime": 22,
       "genre": "Pop",
       "playTime30Days": 0
     },
@@ -536,9 +536,9 @@
         }
       ],
       "rating": 8,
-      "playTime": 200,
+      "playTime": 204,
       "genre": "Deutschpop",
-      "playTime30Days": 10,
+      "playTime30Days": 14,
       "color": "#2150b4"
     },
     {
@@ -725,7 +725,7 @@
       "playTime": 182,
       "genre": "R&B",
       "year": 2025,
-      "playTime30Days": 19,
+      "playTime30Days": 0,
       "color": "#bf6357"
     },
     {
@@ -851,10 +851,10 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 509,
+      "playTime": 521,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 10,
+      "playTime30Days": 20,
       "onVinyl": true,
       "color": "#855e69"
     },
@@ -958,10 +958,10 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 101,
+      "playTime": 106,
       "genre": "Trip Hop",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 7,
       "onVinyl": "true",
       "color": "#222222"
     },
@@ -993,10 +993,10 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 257,
+      "playTime": 265,
       "genre": "Art Pop",
       "year": 2025,
-      "playTime30Days": 16,
+      "playTime30Days": 10,
       "color": "#4c3732"
     },
     {
@@ -1158,10 +1158,10 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 187,
+      "playTime": 206,
       "genre": "Trap",
       "year": 2025,
-      "playTime30Days": 18,
+      "playTime30Days": 37,
       "color": "#5f5f5f"
     },
     {
@@ -1188,10 +1188,10 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 294,
+      "playTime": 321,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 125,
+      "playTime30Days": 94,
       "color": "#3f1312"
     },
     {
@@ -1218,11 +1218,11 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 123,
+      "playTime": 125,
       "genre": "Synthpop",
       "year": 2025,
       "color": "#0791c7",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/7mFneJ7cS78IkCuiGQFjSh",
@@ -1376,10 +1376,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 205,
+      "playTime": 251,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 5,
+      "playTime30Days": 51,
       "color": "#825b63"
     },
     {
@@ -1619,7 +1619,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 116,
+      "playTime": 119,
       "genre": "Singer-Songwriter",
       "year": 2025,
       "playTime30Days": 0,
@@ -1664,10 +1664,10 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 308,
+      "playTime": 315,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 9,
+      "playTime30Days": 13,
       "color": "#b84a42"
     },
     {
@@ -1720,11 +1720,11 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 232,
+      "playTime": 235,
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
-      "playTime30Days": 7,
+      "playTime30Days": 10,
       "color": "#293529"
     },
     {
@@ -1817,11 +1817,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 221,
+      "playTime": 253,
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 40,
+      "playTime30Days": 71,
       "color": "#370e05"
     },
     {
@@ -1982,11 +1982,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 134,
+      "playTime": 146,
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 27,
+      "playTime30Days": 34,
       "color": "#3d4043"
     },
     {
@@ -2070,7 +2070,7 @@
       "genre": "Dance Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg",
@@ -2100,11 +2100,11 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 180,
+      "playTime": 181,
       "genre": "EDM / R&B",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 19,
+      "playTime30Days": 18,
       "color": "#cb281c"
     },
     {
@@ -2135,11 +2135,11 @@
         }
       ],
       "rating": 8,
-      "playTime": 152,
+      "playTime": 156,
       "genre": "Salsa",
       "logged": "2025-11-08",
       "year": 2025,
-      "playTime30Days": 16,
+      "playTime30Days": 14,
       "color": "#58241a",
       "type": "EP"
     },
@@ -2167,7 +2167,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 18,
+      "playTime": 19,
       "genre": "Experimental Hip-Hop",
       "logged": "2025-11-08",
       "year": 2025,
@@ -2202,12 +2202,12 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 493,
+      "playTime": 574,
       "genre": "Orchestral",
       "color": "#7a90a2",
       "logged": "2025-11-06",
       "year": 2025,
-      "playTime30Days": 388
+      "playTime30Days": 163
     },
     {
       "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
@@ -2237,11 +2237,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 161,
+      "playTime": 245,
       "genre": "Art Pop",
       "logged": "2025-11-17",
       "year": 2025,
-      "playTime30Days": 161,
+      "playTime30Days": 124,
       "color": "#58679c"
     },
     {
@@ -2268,7 +2268,7 @@
       "genre": "Deutschrap",
       "logged": "2025-11-27",
       "year": 2025,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6Ud07gmj5Nfm2ip6bhL5Rl",
@@ -2298,12 +2298,12 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 165,
+      "playTime": 183,
       "genre": "Deutschrap",
       "color": "#4b5a00",
       "logged": "2025-11-27",
       "year": 2025,
-      "playTime30Days": 165
+      "playTime30Days": 43
     },
     {
       "url": "https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j",
@@ -2360,11 +2360,11 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 84,
+      "playTime": 85,
       "genre": "Alt-Pop",
       "logged": "2025-12-09",
       "year": 2025,
-      "playTime30Days": 9,
+      "playTime30Days": 8,
       "color": "#508b9e"
     },
     {
@@ -2426,11 +2426,12 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 0,
+      "playTime": 35,
       "genre": "Deutscher Indie",
       "logged": "2025-12-26",
       "year": 2025,
-      "color": "#aea06d"
+      "color": "#aea06d",
+      "playTime30Days": 35
     },
     {
       "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC",
@@ -2456,22 +2457,24 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 0,
+      "playTime": 11,
       "genre": "Art Rock",
       "logged": "2025-12-26",
       "year": 2025,
-      "color": "#275b85"
+      "color": "#275b85",
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o",
       "imgUrl": "https://i.scdn.co/image/ab67616d0000b273819578d6529880615ce5692b",
       "title": "WHAT HAPPENED TO THE STREETS?",
       "artist": "21 Savage",
-      "rating": 30,
-      "playTime": 0,
+      "rating": 3.0,
+      "playTime": 12,
       "genre": "Trap",
       "logged": "2025-12-26",
-      "year": 2025
+      "year": 2025,
+      "playTime30Days": 12
     },
     {
       "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE",
@@ -2497,11 +2500,12 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 0,
+      "playTime": 27,
       "genre": "Latin",
       "logged": "2025-12-26",
       "year": 2025,
-      "color": "#646875"
+      "color": "#646875",
+      "playTime30Days": 27
     }
   ]
 }

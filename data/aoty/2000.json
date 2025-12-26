@@ -204,7 +204,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 554,
+      "playTime": 555,
       "playTime30Days": 0,
       "year": 2005,
       "color": "#001621"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 116,
-      "playTime30Days": 0,
+      "playTime": 120,
+      "playTime30Days": 6,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 202,
+      "playTime": 203,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -717,7 +717,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 110,
+      "playTime": 111,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -999,10 +999,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 76,
+      "playTime": 79,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1218,7 +1218,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 75,
+      "playTime": 76,
       "genre": "Dance Pop",
       "year": 2005,
       "playTime30Days": 0
