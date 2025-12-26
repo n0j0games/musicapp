@@ -12,7 +12,7 @@
             <p class="p-b-i fs-recap-title">{{ typedText$ | async }}</p>
         </div>
     </div>
-    <div class="mobile lower flex-column align-center justify-center gap-l">
+    <div class="mobile lower flex-column align-center justify-center gap-l" *ngIf="showControls">
         <div class="lower-in flex-row align-center justify-center gap-l">
             <button
                     [ngClass]="{'next-button-disabled' : activeAlbumNumber >= maxAlbums }"
@@ -27,7 +27,7 @@
         </div>
     </div>
 </div>
-<div class="non-mobile lower flex-row align-center justify-center gap-l">
+<div class="non-mobile lower flex-row align-center justify-center gap-l" *ngIf="showControls">
     <div class="lower-in flex-row align-center justify-center gap-l">
         <button
                 [ngClass]="{'next-button-disabled' : activeAlbumNumber >= maxAlbums }"

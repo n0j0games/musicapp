@@ -2374,16 +2374,16 @@
       "artist": "Lily Allen",
       "songs": [
         {
+          "title": "Ruminating",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d59013db6752a26b8314c1975c2bc86b0826ca5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
           "title": "Madeline",
           "preview_url": "https://p.scdn.co/mp3-preview/314fb0ae6e9a77e3e2fb4caa4641c8da9fa715fd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
           "title": "West End Girl",
           "preview_url": "https://p.scdn.co/mp3-preview/a30904b27759b9d8576d8f58ed0bf7c98a848296?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
-          "title": "Ruminating",
-          "preview_url": "https://p.scdn.co/mp3-preview/3d59013db6752a26b8314c1975c2bc86b0826ca5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
           "title": "Tennis",
@@ -2461,6 +2461,47 @@
       "logged": "2025-12-26",
       "year": 2025,
       "color": "#275b85"
+    },
+    {
+      "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273819578d6529880615ce5692b",
+      "title": "WHAT HAPPENED TO THE STREETS?",
+      "artist": "21 Savage",
+      "rating": 30,
+      "playTime": 0,
+      "genre": "Trap",
+      "logged": "2025-12-26",
+      "year": 2025
+    },
+    {
+      "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737ae4d78852e406eff2f4eef6",
+      "title": "Coisas Naturais",
+      "artist": "Marina Sena",
+      "songs": [
+        {
+          "title": "Coisas Naturais",
+          "preview_url": "https://p.scdn.co/mp3-preview/e2a9c17338d377c6851eae345f3d6d57f6aed976?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Numa Ilha",
+          "preview_url": "https://p.scdn.co/mp3-preview/60d43ae8fbc2558e6321661055540f125c13dbd2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Desmitificar",
+          "preview_url": "https://p.scdn.co/mp3-preview/a6d678873a996b5719dee7ab8fa9cb513476317d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ouro de Tolo",
+          "preview_url": "https://p.scdn.co/mp3-preview/21d365776fd39aab12f570f2b6f1cc3cab718032?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.2,
+      "playTime": 0,
+      "genre": "Latin",
+      "logged": "2025-12-26",
+      "year": 2025,
+      "color": "#646875"
     }
   ]
 }

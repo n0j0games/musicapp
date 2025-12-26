@@ -35,7 +35,7 @@ export class SotwRecapComponent implements OnInit {
         linearGradients: string[],
         maxAlbums: number
     }|null>(null)
-    allowedYears = ['2024','ALL TIME','0','0000'];
+    allowedYears = ['2025','2024','ALL TIME','0','0000'];
     maxAlbums = 50;
     activeSongNumber = this.maxAlbums;
     defaultGradient: string = "#252525";

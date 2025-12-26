@@ -36,7 +36,7 @@ export class AotyRecapComponent implements OnInit {
         maxAlbums: number
     }|null>(null)
     allowedYears = ['0', '0000', '2025', '2024', '2023', '2022'];
-    maxAlbumsPerAllowedYear = [100, 100, 40, 50, 35, 35]
+    maxAlbumsPerAllowedYear = [100, 100, 50, 50, 35, 35]
     maxAlbums = 25;
     defaultGradient: string = "#252525";
     linearGradients: string[] = [];

@@ -40,6 +40,7 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     @Input() routeParams!: Params;
     maxAlbums! : number;
     recapItems!: Album[] | Song[];
+    showControls : boolean = true;
 
     activeRecapItem: Album | Song | null = null;
     activeAlbumNumber = 0;
