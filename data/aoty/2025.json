@@ -111,7 +111,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3f3546a00b524a0048f7072491f4c26fbe330a1c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.8,
+      "rating": 8.1,
       "playTime": 124,
       "genre": "Electronic",
       "playTime30Days": 23,
@@ -341,7 +341,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/9115c0f4ab71eedb265c6451d21c3ed6b618b66d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.1,
       "playTime": 13,
       "genre": "Rap",
       "playTime30Days": 0,
@@ -564,7 +564,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/3cf43a6c0b011875a72b9212a379f66be52d3464?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 7.5,
       "playTime": 81,
       "genre": "Deutschrap",
       "playTime30Days": 0,
@@ -927,7 +927,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b41134f573227a50b770749ea192225e9c273e74?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.1,
       "playTime": 46,
       "genre": "Deutschpop",
       "year": 2025,
@@ -1060,7 +1060,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c04094d2de049f9c206b65626e31ab1873725b60?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.2,
+      "rating": 8.3,
       "playTime": 152,
       "genre": "Hip-Hop",
       "year": 2025,
@@ -1082,15 +1082,11 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f16c832a76f22a05f7808ee7d5c28d315d6d2ac2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         },
         {
-          "title": "METALLIC STALLION",
-          "preview_url": "https://p.scdn.co/mp3-preview/29ce67df3eea70cf312266f2b98c682149bc8ef0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
-        },
-        {
           "title": "FINAL BOSS",
           "preview_url": "https://p.scdn.co/mp3-preview/6e9670f68b0e12b0d070c3f4014b01b261898501?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.2,
+      "rating": 6,
       "playTime": 30,
       "genre": "Dancepop",
       "year": 2025,
@@ -1430,7 +1426,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/e67a479de1f61be38efba7feef23aac41adcf7a0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.1,
+      "rating": 7,
       "playTime": 108,
       "genre": "Hip-Hop",
       "year": 2025,
@@ -1855,7 +1851,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d91bc04e402fc8585e9d5142791f3da615708777?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7,
+      "rating": 7.1,
       "playTime": 11,
       "genre": "Deutschpop",
       "logged": "2025-09-15",
@@ -2103,7 +2099,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/91d18e63b6495384224a86c7fc3bf67b6ab8b2ac?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.1,
+      "rating": 8.2,
       "playTime": 180,
       "genre": "EDM / R&B",
       "logged": "2025-10-19",
@@ -2240,7 +2236,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/164414a336f5b2a0a9f2d677f722318f7a267faa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.2,
+      "rating": 8.5,
       "playTime": 161,
       "genre": "Art Pop",
       "logged": "2025-11-17",
@@ -2401,6 +2397,70 @@
       "year": 2025,
       "color": "#322b21",
       "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/1shEZK864ykHq771TdWVPF",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730397b06a07035790a1ca4983",
+      "title": "2002",
+      "artist": "Schlotte,\nlaurin",
+      "songs": [
+        {
+          "title": "Andy Warhol",
+          "preview_url": "https://p.scdn.co/mp3-preview/f6828c313c4c5b196e7b8eff4050c593b7d50830?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "neue Notiz",
+          "preview_url": "https://p.scdn.co/mp3-preview/7c196d35d6af30c31f7cf2409275863064559fe8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mohnfelder (skit)",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ad01aecf07ebc294d483b715f0cafaeefa75d19?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Leben ist grad gut",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d204a066bd5a664c455490eeee4825753784ca7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "lange nicht geweint",
+          "preview_url": "https://p.scdn.co/mp3-preview/4d60f500eacde1e17a68bc7a04cb642ddf8e3398?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.1,
+      "playTime": 0,
+      "genre": "Deutscher Indie",
+      "logged": "2025-12-26",
+      "year": 2025,
+      "color": "#aea06d"
+    },
+    {
+      "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+      "title": "Getting Killed",
+      "artist": "Geese",
+      "songs": [
+        {
+          "title": "Trinidad",
+          "preview_url": "https://p.scdn.co/mp3-preview/68a394ac5e708dd1583cce292b8643c7e30eb9a9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Getting Killed",
+          "preview_url": "https://p.scdn.co/mp3-preview/b4990a3f2b1ae6bdd630b4327a42e5994cfc18f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Taxes",
+          "preview_url": "https://p.scdn.co/mp3-preview/cc73f3b1dc1e210d12fa9a0068cb6d307636f06b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Long Island City Here I Come",
+          "preview_url": "https://p.scdn.co/mp3-preview/80cf243e78869c0593864133c7aacef3a895b5be?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.1,
+      "playTime": 0,
+      "genre": "Art Rock",
+      "logged": "2025-12-26",
+      "year": 2025,
+      "color": "#275b85"
     }
   ]
 }
