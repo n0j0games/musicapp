@@ -38,6 +38,7 @@ import {LoggedBadgeComponent} from "../../common/components/logged-badge/logged-
 })
 export class AlbumDetailComponent implements OnInit {
 
+  showMeta = true;
   isPlaying = false;
   previewUrls : string[] = [];
 

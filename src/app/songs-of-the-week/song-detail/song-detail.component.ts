@@ -23,6 +23,7 @@ import {RemoveDeluxePipe} from "../../common/pipes/remove-deluxe.pipe";
 })
 export class SongDetailComponent implements OnInit {
 
+    showMeta = true;
     isPlaying = false;
 
     @Input() song! : Song;

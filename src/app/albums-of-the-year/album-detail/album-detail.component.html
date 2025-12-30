@@ -12,7 +12,7 @@
                 {{ album.title | removeDeluxe }}
             </a>
             <app-play-button
-                    *ngIf="album.songs"
+                    *ngIf="showMeta && album.songs"
                     [url]="songinfo"
                     [isPlaying]="isPlaying"
             ></app-play-button>
@@ -25,7 +25,7 @@
                 <span *ngIf="album.genre"> - <span class="p-b-i">{{ album.genre }}</span></span>
             </p>
         </div>
-        <div class="flex-row align-center gap-s flex-wrap">
+        <div class="flex-row align-center gap-s flex-wrap" *ngIf="showMeta">
             <app-rating [rating]="album.rating"></app-rating>
             <app-review-button *ngIf="album.review"  [album]="album"></app-review-button>
             <app-logged-badge *ngIf="album.logged" [rawDate]="album.logged"/>
