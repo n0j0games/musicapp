@@ -30,8 +30,8 @@
       ],
       "rating": 9.9,
       "genre": "Pop Rap",
-      "playTime": 762,
-      "playTime30Days": 0,
+      "playTime": 780,
+      "playTime30Days": 15,
       "color": "#965f0f"
     },
     {
@@ -63,8 +63,8 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 440,
-      "playTime30Days": 0,
+      "playTime": 447,
+      "playTime30Days": 6,
       "color": "#213f28"
     },
     {
@@ -95,7 +95,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 185,
+      "playTime": 187,
       "playTime30Days": 0,
       "color": "#8884ba"
     },
@@ -127,7 +127,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 199,
+      "playTime": 200,
       "playTime30Days": 0,
       "color": "#c1818f"
     },
@@ -155,7 +155,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 195,
+      "playTime": 199,
       "playTime30Days": 0
     },
     {
@@ -186,7 +186,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 65,
+      "playTime": 66,
       "playTime30Days": 0
     },
     {
@@ -217,8 +217,8 @@
         }
       ],
       "rating": 10.7,
-      "playTime": 589,
-      "playTime30Days": 30,
+      "playTime": 607,
+      "playTime30Days": 5,
       "color": "#064cb7",
       "onVinyl": true
     },
@@ -250,7 +250,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 90,
+      "playTime": 92,
       "playTime30Days": 0
     },
     {
@@ -282,7 +282,7 @@
       ],
       "rating": 8.6,
       "genre": "Rap",
-      "playTime": 655,
+      "playTime": 657,
       "playTime30Days": 0
     },
     {
@@ -372,7 +372,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 39,
+      "playTime": 40,
       "playTime30Days": 0
     },
     {
@@ -399,7 +399,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 60,
+      "playTime": 61,
       "playTime30Days": 0
     },
     {
@@ -426,7 +426,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 53,
+      "playTime": 56,
       "playTime30Days": 0
     },
     {
@@ -489,7 +489,7 @@
       "title": "Huncho Jack, Jack Huncho",
       "artist": "Huncho Jack,\nTravis Scott,\nQuavo",
       "rating": 5,
-      "playTime": 103,
+      "playTime": 104,
       "playTime30Days": 0
     },
     {
@@ -634,7 +634,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 12,
+      "playTime": 13,
       "playTime30Days": 0
     },
     {
@@ -681,7 +681,7 @@
       ],
       "rating": 6.5,
       "genre": "Pop Rap",
-      "playTime": 175,
+      "playTime": 176,
       "playTime30Days": 0
     },
     {
@@ -755,7 +755,7 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 161,
+      "playTime": 167,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -783,7 +783,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 57,
+      "playTime": 58,
       "genre": "Rap",
       "playTime30Days": 0
     },

@@ -30,8 +30,8 @@
       ],
       "rating": 10.5,
       "genre": "R&B",
-      "playTime": 582,
-      "playTime30Days": 0,
+      "playTime": 592,
+      "playTime30Days": 9,
       "color": "#0c3f83",
       "onVinyl": true
     },
@@ -65,7 +65,7 @@
       "rating": 9.8,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1151,
+      "playTime": 1154,
       "playTime30Days": 0,
       "color": "#4683b1"
     },
@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 303,
+      "playTime": 304,
       "playTime30Days": 0,
       "color": "#926d70"
     },
@@ -130,7 +130,7 @@
       ],
       "rating": 9.1,
       "genre": "Rap",
-      "playTime": 675,
+      "playTime": 681,
       "playTime30Days": 0,
       "color": "#b06725"
     },
@@ -195,7 +195,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 220,
+      "playTime": 221,
       "playTime30Days": 0,
       "color": "#8a7877"
     },
@@ -227,7 +227,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 185,
+      "playTime": 186,
       "playTime30Days": 0
     },
     {
@@ -262,7 +262,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 148,
+      "playTime": 150,
       "playTime30Days": 0
     },
     {
@@ -293,7 +293,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 243,
+      "playTime": 246,
       "playTime30Days": 0
     },
     {
@@ -324,7 +324,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 202,
+      "playTime": 205,
       "playTime30Days": 0
     },
     {
@@ -355,7 +355,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 79,
+      "playTime": 80,
       "playTime30Days": 0
     },
     {
@@ -413,7 +413,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 170,
+      "playTime": 172,
       "playTime30Days": 0
     },
     {
@@ -526,8 +526,8 @@
       ],
       "rating": 7.7,
       "genre": "Rap",
-      "playTime": 329,
-      "playTime30Days": 14
+      "playTime": 348,
+      "playTime30Days": 18
     },
     {
       "url": "https://open.spotify.com/album/4iLo2HykYzbHw6MWSTg4vp",
@@ -579,7 +579,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 73,
+      "playTime": 75,
       "playTime30Days": 0
     },
     {
@@ -633,8 +633,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 117,
-      "playTime30Days": 0
+      "playTime": 133,
+      "playTime30Days": 16
     },
     {
       "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O",
@@ -687,7 +687,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 33,
+      "playTime": 34,
       "playTime30Days": 0
     },
     {
@@ -757,7 +757,7 @@
       "artist": "Drake",
       "rating": 5,
       "genre": "Rap",
-      "playTime": 275,
+      "playTime": 278,
       "playTime30Days": 0
     },
     {
@@ -795,7 +795,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0
     },
     {
@@ -841,7 +841,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 63,
+      "playTime": 64,
       "playTime30Days": 0
     },
     {
@@ -864,7 +864,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 50,
+      "playTime": 51,
       "playTime30Days": 0
     },
     {
@@ -887,7 +887,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 42,
+      "playTime": 43,
       "playTime30Days": 0
     },
     {
@@ -910,7 +910,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 32,
+      "playTime": 36,
       "playTime30Days": 0
     },
     {
@@ -919,7 +919,7 @@
       "title": "Culture II",
       "artist": "Migos",
       "rating": 5,
-      "playTime": 46,
+      "playTime": 47,
       "playTime30Days": 0
     },
     {
@@ -1069,7 +1069,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 47,
+      "playTime": 48,
       "genre": "Trap",
       "playTime30Days": 0
     },

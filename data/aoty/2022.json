@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1649,
-      "playTime30Days": 66,
+      "playTime": 1708,
+      "playTime30Days": 56,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 695,
+      "playTime": 701,
       "playTime30Days": 0,
       "color": "#1c1613"
     },
@@ -95,7 +95,7 @@
       ],
       "rating": 9.4,
       "playTime": 374,
-      "playTime30Days": 11,
+      "playTime30Days": 0,
       "color": "#576351"
     },
     {
@@ -161,8 +161,8 @@
       "rating": 9.2,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 952,
-      "playTime30Days": 0,
+      "playTime": 1000,
+      "playTime30Days": 8,
       "color": "#123b49"
     },
     {
@@ -194,8 +194,8 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 416,
-      "playTime30Days": 15,
+      "playTime": 417,
+      "playTime30Days": 0,
       "color": "#456338"
     },
     {
@@ -227,7 +227,7 @@
       ],
       "rating": 9.6,
       "genre": "Rap",
-      "playTime": 1022,
+      "playTime": 1032,
       "playTime30Days": 0,
       "color": "#4e270c"
     },
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 459,
-      "playTime30Days": 0,
+      "playTime": 466,
+      "playTime30Days": 6,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -292,7 +292,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 746,
+      "playTime": 748,
       "playTime30Days": 0,
       "color": "#183399"
     },
@@ -361,7 +361,7 @@
       ],
       "rating": 8.2,
       "genre": "Rap",
-      "playTime": 872,
+      "playTime": 873,
       "playTime30Days": 0,
       "color": "#0f1a1c"
     },
@@ -425,7 +425,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 278,
+      "playTime": 279,
       "playTime30Days": 0,
       "color": "#28251b"
     },
@@ -457,7 +457,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 216,
+      "playTime": 217,
       "playTime30Days": 0,
       "color": "#008165"
     },
@@ -489,7 +489,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 263,
+      "playTime": 269,
       "playTime30Days": 0,
       "color": "#8d410d"
     },
@@ -521,7 +521,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 259,
+      "playTime": 262,
       "playTime30Days": 0,
       "color": "#141c36"
     },
@@ -553,7 +553,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 170,
+      "playTime": 174,
       "playTime30Days": 0,
       "color": "#0676c1"
     },
@@ -586,7 +586,7 @@
       ],
       "rating": 8.4,
       "onVinyl": true,
-      "playTime": 227,
+      "playTime": 228,
       "playTime30Days": 0,
       "color": "#394e0a"
     },
@@ -618,7 +618,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 427,
+      "playTime": 429,
       "playTime30Days": 0,
       "color": "#001732"
     },
@@ -650,7 +650,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 292,
+      "playTime": 294,
       "playTime30Days": 0,
       "color": "#c33d15"
     },
@@ -682,7 +682,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 122,
+      "playTime": 123,
       "playTime30Days": 0,
       "color": "#3d7a77"
     },
@@ -849,7 +849,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 154,
+      "playTime": 155,
       "playTime30Days": 0,
       "color": "#8b7f69"
     },
@@ -877,7 +877,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 41,
+      "playTime": 42,
       "playTime30Days": 0,
       "color": "#7d70c8"
     },
@@ -933,7 +933,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 85,
+      "playTime": 86,
       "playTime30Days": 0,
       "color": "#ad911b"
     },
@@ -961,7 +961,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 212,
+      "playTime": 213,
       "playTime30Days": 0,
       "color": "#921515"
     },
@@ -989,7 +989,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 21,
+      "playTime": 22,
       "playTime30Days": 0,
       "color": "#2c3d3c"
     },
@@ -1159,7 +1159,7 @@
       "title": "Come Home The Kids Miss You",
       "artist": "Jack Harlow",
       "rating": 3,
-      "playTime": 45,
+      "playTime": 46,
       "playTime30Days": 0
     },
     {
@@ -1203,7 +1203,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 415,
+      "playTime": 416,
       "playTime30Days": 0
     },
     {
@@ -1353,7 +1353,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 169,
+      "playTime": 172,
       "playTime30Days": 0,
       "color": "#5d3939"
     },
@@ -1614,7 +1614,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 75,
+      "playTime": 78,
       "playTime30Days": 0
     },
     {
@@ -1637,7 +1637,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 36,
+      "playTime": 37,
       "playTime30Days": 0
     },
     {
@@ -1706,7 +1706,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0
     },
     {
@@ -1844,7 +1844,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 35,
+      "playTime": 36,
       "playTime30Days": 0
     },
     {
@@ -1922,7 +1922,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 57,
+      "playTime": 59,
       "genre": "Hyperpop",
       "playTime30Days": 0
     },
@@ -1950,7 +1950,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 61,
+      "playTime": 64,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -1974,7 +1974,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 52,
+      "playTime": 53,
       "genre": "Deutschrap",
       "playTime30Days": 0
     },
@@ -1998,7 +1998,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 91,
+      "playTime": 92,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -2022,7 +2022,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 55,
+      "playTime": 56,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -2054,10 +2054,36 @@
         }
       ],
       "rating": 8,
-      "playTime": 42,
+      "playTime": 43,
       "genre": "Singer-Songwriter",
       "year": 2022,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+      "title": "Un Verano Sin Ti",
+      "artist": "Bad Bunny",
+      "songs": [
+        {
+          "title": "Tití Me Preguntó",
+          "preview_url": "https://p.scdn.co/mp3-preview/53a6217761f8fdfcff92189cafbbd1cc21fdb813?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Party",
+          "preview_url": "https://p.scdn.co/mp3-preview/c8d2983c0dbd872db6467308122c8c3652ae31c2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Otro Atardecer",
+          "preview_url": "https://p.scdn.co/mp3-preview/99bed6e8ce1a8ea16c626c6734b007fc526d90d5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 49,
+      "genre": "Latin Rap",
+      "logged": "2026-02-12",
+      "year": 2022,
+      "playTime30Days": 42
     }
   ]
 }

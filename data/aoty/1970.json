@@ -35,7 +35,7 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 345,
+      "playTime": 350,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 136,
+      "playTime": 140,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -205,7 +205,7 @@
       ],
       "rating": 8.2,
       "genre": "Jazz",
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0,
       "year": 1979
     },
@@ -271,7 +271,7 @@
       ],
       "rating": 8.8,
       "genre": "Country",
-      "playTime": 26,
+      "playTime": 27,
       "playTime30Days": 0,
       "year": 1970,
       "color": "#a4935f"
@@ -334,7 +334,7 @@
       ],
       "rating": 7,
       "genre": "Rock",
-      "playTime": 14,
+      "playTime": 15,
       "playTime30Days": 0,
       "year": 1976
     },
@@ -363,7 +363,7 @@
       ],
       "rating": 7.3,
       "genre": "Disco",
-      "playTime": 20,
+      "playTime": 22,
       "playTime30Days": 0,
       "year": 1976
     },
@@ -458,7 +458,7 @@
       ],
       "rating": 9.3,
       "genre": "Disco",
-      "playTime": 45,
+      "playTime": 59,
       "playTime30Days": 0,
       "year": 1978,
       "color": "#aa546d"
@@ -520,7 +520,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 51,
+      "playTime": 54,
       "genre": "Soul",
       "year": 1971,
       "color": "#4b796b",
@@ -551,7 +551,7 @@
       ],
       "year": 1977,
       "rating": 7.7,
-      "playTime": 45,
+      "playTime": 47,
       "genre": "Art Rock",
       "playTime30Days": 0
     },
@@ -579,10 +579,10 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 44,
+      "playTime": 53,
       "genre": "Funk",
       "year": 1971,
-      "playTime30Days": 0
+      "playTime30Days": 9
     },
     {
       "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",
@@ -608,7 +608,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 44,
+      "playTime": 45,
       "genre": "Funk",
       "year": 1975,
       "playTime30Days": 0
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 55,
+      "playTime": 57,
       "genre": "Latin",
       "year": 1973,
       "playTime30Days": 0,
@@ -742,7 +742,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 18,
+      "playTime": 20,
       "genre": "Progressive Soul",
       "year": 1971,
       "playTime30Days": 0
@@ -920,7 +920,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 20,
+      "playTime": 21,
       "genre": "Philly Soul",
       "year": 1972,
       "playTime30Days": 0,
@@ -1115,7 +1115,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 11,
+      "playTime": 12,
       "genre": "P-Funk",
       "logged": "2025-09-15",
       "year": 1974,
@@ -1149,7 +1149,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 55,
+      "playTime": 63,
       "genre": "Disco",
       "logged": "2025-10-19",
       "year": 1979,
@@ -1183,7 +1183,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 18,
+      "playTime": 22,
       "genre": "Smooth Soul",
       "logged": "2025-10-19",
       "year": 1976,
@@ -1225,7 +1225,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 25,
+      "playTime": 27,
       "genre": "P-Funk",
       "logged": "2025-11-08",
       "year": 1977,
@@ -1259,7 +1259,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 25,
+      "playTime": 33,
       "genre": "Disco",
       "logged": "2025-11-08",
       "year": 1976,
@@ -1290,6 +1290,126 @@
       "logged": "2025-11-08",
       "year": 1978,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27307ec89e91af9c2688471d6ba",
+      "title": "Life Is A Song Worth Singing (Expanded Edition)",
+      "artist": "Teddy Pendergrass",
+      "songs": [
+        {
+          "title": "Cold, Cold World",
+          "preview_url": "https://p.scdn.co/mp3-preview/33a007b78c44293467b55067c7c1559a23166bd9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "When Somebody Loves You Back",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e06bf22e5e22865f1dc77730be15e2accf9ff06?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Only You - Single Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/2deea0a14d2e152479dfa5349340394574b602e8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Get Down, Get Funky - Disco Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/9a511db91b2e524b19d27a567d4ea2cda8058cf8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Philly Soul",
+      "logged": "2026-02-12",
+      "year": 1978,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f7df3a0af7ca14690e7578c3",
+      "title": "Bustin' Loose",
+      "artist": "Chuck Brown and the Soul Searchers",
+      "songs": [
+        {
+          "title": "Bustin' Loose",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef6b444b956767ca5e41b14703a239fe176a5b88?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Never Gonna Give You Up",
+          "preview_url": "https://p.scdn.co/mp3-preview/936733041c73617e96bd46553374c7f86e490e94?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "If It Ain't Funky",
+          "preview_url": "https://p.scdn.co/mp3-preview/9dbdb6385280c5cea28a2ad84599709a422168fb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Gotcha Now",
+          "preview_url": "https://p.scdn.co/mp3-preview/eca9d517050a4294f709f4a1fdb2814a0a056c96?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Go-Go",
+      "logged": "2026-02-12",
+      "year": 1979,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/6nugwf8R0ojxx14K82SbBd",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273493a25e6ea970342acc1b4ad",
+      "title": "Midnight Express (Original Motion Picture Soundtrack)",
+      "artist": "Giorgio Moroder",
+      "songs": [
+        {
+          "title": "Chase",
+          "preview_url": "https://p.scdn.co/mp3-preview/57725e159c7aba3f81413eaa4eef40255b1f4f71?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "(Theme From) Midnight Express",
+          "preview_url": "https://p.scdn.co/mp3-preview/fa2392cb8c3b2db51fe3a759d884b25f419f708f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love's Theme",
+          "preview_url": "https://p.scdn.co/mp3-preview/736618bea880675a6793cef67fb54a457f44320d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Istanbul Blues",
+          "preview_url": "https://p.scdn.co/mp3-preview/6e9201d333dacaee32e73f9b456330775377e501?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Soundtrack",
+      "logged": "2026-02-12",
+      "year": 1978,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dfda0715a34f49501dfc97a0",
+      "title": "I Remember Yesterday",
+      "artist": "Donna Summer",
+      "songs": [
+        {
+          "title": "I Feel Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/c51861e40651d6139329e2d9fb92896a9462764e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Remember Yesterday",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a4ebc83afeaf6838376054a68a469e71609c6b5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love's Unkind",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e496eb56bb721bfe9dc963fa0083c4f45e33204?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Back In Love Again",
+          "preview_url": "https://p.scdn.co/mp3-preview/f026b986f34e79f07b066a2e69794e35eadf8592?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 10,
+      "genre": "Disco",
+      "logged": "2026-02-12",
+      "year": 1977,
+      "playTime30Days": 10
     }
   ]
 }

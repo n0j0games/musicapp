@@ -1,6 +1,11 @@
 {
   "artists" : [
     {
+      "name" : "Lady Gaga",
+      "albums" : 10,
+      "icon" : "https://assets.glamour.de/photos/67c9a44279347a92a95291cd/1:1/w_2000,h_2000,c_limit/060325-lady-gaga-neu-GettyImages-2200068552.jpg"
+    },
+    {
       "name" : "Beyoncé",
       "albums" : 9,
       "icon" : "https://i1.sndcdn.com/artworks-000148622753-c6qezd-t500x500.jpg"

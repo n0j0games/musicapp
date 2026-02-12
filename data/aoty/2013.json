@@ -40,8 +40,8 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 560,
-      "playTime30Days": 0,
+      "playTime": 576,
+      "playTime30Days": 5,
       "color": "#25714c",
       "review": "the-weeknd--kiss-land"
     },
@@ -106,8 +106,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 238,
-      "playTime30Days": 0,
+      "playTime": 247,
+      "playTime30Days": 5,
       "color": "#64441f"
     },
     {
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 315,
+      "playTime": 318,
       "playTime30Days": 0
     },
     {
@@ -169,7 +169,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 206,
+      "playTime": 220,
       "playTime30Days": 0
     },
     {
@@ -196,7 +196,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 89,
+      "playTime": 90,
       "playTime30Days": 0
     },
     {
@@ -263,7 +263,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 88,
+      "playTime": 89,
       "playTime30Days": 0
     },
     {
@@ -294,8 +294,8 @@
         }
       ],
       "rating": 8,
-      "playTime30Days": 16,
-      "playTime": 222
+      "playTime30Days": 28,
+      "playTime": 252
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
@@ -363,7 +363,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 41,
+      "playTime": 43,
       "genre": "French Pop",
       "playTime30Days": 0
     },
@@ -423,10 +423,44 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 81,
+      "playTime": 83,
       "genre": "Alternative R&B",
       "year": 2013,
-      "playTime30Days": 5
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+      "title": "ARTPOP",
+      "artist": "Lady Gaga",
+      "songs": [
+        {
+          "title": "Aura",
+          "preview_url": "https://p.scdn.co/mp3-preview/14fd1b550e516d90a9e79daf9e6797cfdd6b66b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "G.U.Y.",
+          "preview_url": "https://p.scdn.co/mp3-preview/ba2eb6747851ed64b9e0e93e84bf126b4f4e6601?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "MANiCURE",
+          "preview_url": "https://p.scdn.co/mp3-preview/ad0d1079258b21591a02d32dac153fd28031d18c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Donatella",
+          "preview_url": "https://p.scdn.co/mp3-preview/d6182ab67e629c47ee283452067a4e21be6c5fa0?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Applause",
+          "preview_url": "https://p.scdn.co/mp3-preview/b8c840f3b4d07e6021e0a2028f5c3c6e08af7f3a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.3,
+      "playTime": 75,
+      "genre": "Electropop",
+      "logged": "2026-02-12",
+      "year": 2013,
+      "playTime30Days": 75
     }
   ]
 }

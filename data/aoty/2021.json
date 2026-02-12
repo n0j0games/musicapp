@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 160,
+      "playTime": 164,
       "playTime30Days": 0,
       "color": "#622d00"
     },
@@ -95,7 +95,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 163,
+      "playTime": 167,
       "playTime30Days": 0
     },
     {
@@ -126,7 +126,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 125,
+      "playTime": 129,
       "playTime30Days": 0
     },
     {
@@ -157,7 +157,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 264,
+      "playTime": 266,
       "playTime30Days": 0
     },
     {
@@ -188,7 +188,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 204,
+      "playTime": 206,
       "playTime30Days": 0,
       "color": "#9a4542"
     },
@@ -224,7 +224,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 146,
+      "playTime": 151,
       "playTime30Days": 0
     },
     {
@@ -255,7 +255,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 120,
+      "playTime": 123,
       "playTime30Days": 0
     },
     {
@@ -286,7 +286,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 541,
+      "playTime": 542,
       "playTime30Days": 0,
       "color": "#a36f12"
     },
@@ -318,7 +318,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 147,
+      "playTime": 148,
       "playTime30Days": 0
     },
     {
@@ -377,8 +377,8 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 610,
-      "playTime30Days": 0
+      "playTime": 630,
+      "playTime30Days": 17
     },
     {
       "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
@@ -404,7 +404,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 252,
+      "playTime": 253,
       "playTime30Days": 0
     },
     {
@@ -596,7 +596,7 @@
       ],
       "rating": 7.3,
       "genre": "Pop",
-      "playTime": 89,
+      "playTime": 90,
       "playTime30Days": 0
     },
     {
@@ -623,7 +623,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 29,
+      "playTime": 30,
       "playTime30Days": 0
     },
     {
@@ -640,7 +640,7 @@
       "title": "Fighting Demons (Deluxe)",
       "artist": "Juice WRLD",
       "rating": 4,
-      "playTime": 12,
+      "playTime": 14,
       "playTime30Days": 0
     },
     {
@@ -649,7 +649,7 @@
       "title": "Faith",
       "artist": "Pop Smoke",
       "rating": 4,
-      "playTime": 152,
+      "playTime": 155,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -678,7 +678,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 44,
+      "playTime": 45,
       "playTime30Days": 0
     },
     {
@@ -721,7 +721,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 280,
+      "playTime": 282,
       "playTime30Days": 0
     },
     {
@@ -793,7 +793,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 31,
+      "playTime": 32,
       "playTime30Days": 0
     },
     {
@@ -816,7 +816,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 57,
+      "playTime": 58,
       "playTime30Days": 0
     },
     {
@@ -895,7 +895,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 73,
+      "playTime": 74,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -923,7 +923,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 76,
+      "playTime": 80,
       "genre": "Alt-Pop",
       "playTime30Days": 0
     },
@@ -955,7 +955,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 15,
+      "playTime": 16,
       "genre": "Ambient",
       "playTime30Days": 0
     },
@@ -975,7 +975,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 53,
+      "playTime": 54,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 56,
+      "playTime": 60,
       "genre": "Pop",
       "playTime30Days": 0
     },
@@ -1027,7 +1027,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 199,
+      "playTime": 200,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },
@@ -1120,7 +1120,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 12,
+      "playTime": 13,
       "genre": "Deutschrap",
       "year": 2021,
       "playTime30Days": 0
@@ -1145,7 +1145,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 29,
+      "playTime": 33,
       "genre": "Pop",
       "year": 2021,
       "playTime30Days": 0

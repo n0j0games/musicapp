@@ -1,0 +1,100 @@
+{
+  "year": 2026,
+  "albums": [
+    {
+      "url": "https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27327b7133c976e8ae6c3add683",
+      "title": "Don't Be Dumb",
+      "artist": "A$AP Rocky",
+      "songs": [
+        {
+          "title": "ROBBERY (feat. Doechii)",
+          "preview_url": "https://p.scdn.co/mp3-preview/10e8eab64805fb8b02064fed165bf1369c756508?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "FLACKITO JODYE (feat. Tokischa)",
+          "preview_url": "https://p.scdn.co/mp3-preview/b64aeb2206237a5c785f7d8c1089a8981fac49c3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "PUNK ROCKY",
+          "preview_url": "https://p.scdn.co/mp3-preview/7b37d7c9e051e984e1704ebbdce1b9c9b1841ee2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+          "preview_url": "https://p.scdn.co/mp3-preview/7ed2db08a3ba81c94ffcbcf224e0b9b3f3f656d7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Trap",
+      "logged": "2026-02-12",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/3tfR2tgOn3lTdlDh4NbNmk",
+      "imgUrl": "https://images.genius.com/07b2153c4ef2357ce610c5fcdaf2255f.1000x1000x1.png",
+      "title": "BEWARE",
+      "artist": "Ufo361",
+      "songs": [],
+      "rating": 4,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "logged": "2026-02-12",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27303e5418a461e60d5a6ac1d59",
+      "title": "Moth Music",
+      "artist": "Souly",
+      "songs": [
+        {
+          "title": "Motte",
+          "preview_url": "https://p.scdn.co/mp3-preview/c4747e6252e730a7e0b24caebd53aff36cc856fd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Oxygen",
+          "preview_url": "https://p.scdn.co/mp3-preview/123d0a91386147e78f7f86c5430a45ae836ceef9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lonely",
+          "preview_url": "https://p.scdn.co/mp3-preview/8470b60038976ed3eca97d190bda7be84bb6d8f9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Igotthisfeeling",
+          "preview_url": "https://p.scdn.co/mp3-preview/66d15f3f0ebb3279f42a1df70ab5d3ae129e35cc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "logged": "2026-02-12",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
+      "title": "The Fall-Off",
+      "artist": "J. Cole",
+      "songs": [
+        {
+          "title": "Two Six",
+          "preview_url": "https://p.scdn.co/mp3-preview/7d5105fe5a49e225a9d7884f53865decf4f841c4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "SAFETY",
+          "preview_url": "https://p.scdn.co/mp3-preview/308690e405febc55314317ff98c12f3310579176?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lonely at the Top (Bonus)",
+          "preview_url": "https://p.scdn.co/mp3-preview/c787cc8269db693309616a03462835a55c068b36?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Southern Hip-Hop",
+      "logged": "2026-02-12",
+      "year": 2026
+    }
+  ]
+}

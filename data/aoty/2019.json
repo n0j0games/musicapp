@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 160,
+      "playTime": 162,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 871,
+      "playTime": 882,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -137,7 +137,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 373,
+      "playTime": 378,
       "playTime30Days": 0,
       "color": "#0e3258"
     },
@@ -169,7 +169,7 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 105,
+      "playTime": 110,
       "playTime30Days": 0,
       "color": "#6a9bac"
     },
@@ -201,7 +201,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 290,
+      "playTime": 291,
       "playTime30Days": 0
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rating": 8.9,
       "color": "#7d3b21",
-      "playTime": 189,
+      "playTime": 190,
       "playTime30Days": 0
     },
     {
@@ -264,7 +264,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 261,
+      "playTime": 262,
       "playTime30Days": 0,
       "color": "#933010"
     },
@@ -296,7 +296,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 112,
+      "playTime": 113,
       "playTime30Days": 0
     },
     {
@@ -331,7 +331,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 110,
+      "playTime": 111,
       "playTime30Days": 0,
       "color": "#251c16"
     },
@@ -409,7 +409,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 76,
+      "playTime": 79,
       "playTime30Days": 0
     },
     {
@@ -436,7 +436,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 24,
+      "playTime": 25,
       "playTime30Days": 0
     },
     {
@@ -494,7 +494,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 40,
+      "playTime": 42,
       "playTime30Days": 0
     },
     {
@@ -591,7 +591,7 @@
         }
       ],
       "rating": 6.5,
-      "playTime": 121,
+      "playTime": 125,
       "playTime30Days": 0
     },
     {
@@ -683,7 +683,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 13,
+      "playTime": 14,
       "playTime30Days": 0
     },
     {
@@ -730,7 +730,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 95,
+      "playTime": 96,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 847,
+      "playTime": 927,
       "genre": "Live",
-      "playTime30Days": 11,
+      "playTime30Days": 33,
       "color": "#88888a"
     },
     {
@@ -787,9 +787,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 157,
+      "playTime": 164,
       "genre": "R&B",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
@@ -811,7 +811,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 47,
+      "playTime": 49,
       "genre": "Pop",
       "playTime30Days": 0
     },
@@ -839,7 +839,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 75,
+      "playTime": 77,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -916,11 +916,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 108,
+      "playTime": 143,
       "genre": "Art Pop",
       "logged": "2025-10-23",
       "year": 2019,
-      "playTime30Days": 37
+      "playTime30Days": 26
     }
   ]
 }

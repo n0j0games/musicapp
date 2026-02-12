@@ -94,7 +94,7 @@
         }
       ],
       "rating": 10.6,
-      "playTime": 214,
+      "playTime": 216,
       "playTime30Days": 0,
       "color": "#406e22",
       "onVinyl": true
@@ -127,7 +127,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 448,
+      "playTime": 451,
       "playTime30Days": 0
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rating": 8.7,
       "genre": "R&B",
-      "playTime": 428,
+      "playTime": 430,
       "playTime30Days": 0,
       "color": "#633316"
     },
@@ -223,8 +223,8 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 303,
-      "playTime30Days": 0,
+      "playTime": 316,
+      "playTime30Days": 13,
       "color": "#857e5b"
     },
     {
@@ -280,7 +280,7 @@
       ],
       "rating": 6,
       "playTime30Days": 0,
-      "playTime": 239
+      "playTime": 240
     },
     {
       "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5",
@@ -306,7 +306,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 42,
+      "playTime": 43,
       "playTime30Days": 0
     },
     {

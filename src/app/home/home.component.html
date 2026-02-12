@@ -13,12 +13,12 @@
                         [queryParam]="'recent'"
                         [text]="'my rotation'"
                 ></app-item>
-                <app-item
+              <!--  <app-item
                         [item]="{year: 0, week: 0, preview : currentYearList}"
                         [isAoty]="'LIST'"
                         [queryParams]="{ s: Sorting.RATING, y: 2025, d: 2020 }"
                         [text]="'fav albums of 2025'"
-                ></app-item>
+                ></app-item> -->
             </div>
             <div class="flex-column gap-xl align-center justify-center">
                 <app-item
@@ -27,7 +27,7 @@
                         [queryParams]="{ s: Sorting.RECENTLY_LOGGED }"
                         [text]="'recently logged'"
                 ></app-item>
-                <app-item
+               <!-- <app-item
                         [item]="{year: currentYear, week: 0, preview : [
                     'https://i.scdn.co/image/ab67616d0000b27346633cc715a6bad2505f2471',
                     'https://milla-club.de/files/2024/09/boondawg-pressebild-2-source-carbonara-management--e1727171095103.jpeg',
@@ -36,18 +36,18 @@
                     ]}"
                         [isAoty]="'SOTY'"
                         [text]="'fav songs of 2025'"
-                ></app-item>
+                ></app-item> -->
             </div>
         </div>
         <div class="flex-column gap-xl flex-wrap justify-center">
-            <div class="outer-highlight-card">
+            <!--<div class="outer-highlight-card">
                 <a
                         class="flex-column gap-s align-center"
                         [routerLink]="['/sotw',currentYear + currentWeek]"
                 >
                     <span class="fs-xl p-b">fav song of week #{{currentWeek}} ({{WeekHelper.getFridayOfWeek(currentWeek, currentYear)}})</span>
                 </a>
-            </div>
+            </div>-->
             <div class="outer-highlight-card">
                 <a
                   class="flex-column gap-s align-center"

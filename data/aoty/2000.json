@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 844,
+      "playTime": 846,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 392,
+      "playTime": 398,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -136,8 +136,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 183,
-      "playTime30Days": 0,
+      "playTime": 189,
+      "playTime30Days": 6,
       "year": 2007,
       "color": "#006082"
     },
@@ -204,7 +204,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 555,
+      "playTime": 558,
       "playTime30Days": 0,
       "year": 2005,
       "color": "#001621"
@@ -237,7 +237,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 358,
+      "playTime": 360,
       "playTime30Days": 0,
       "year": 2004,
       "color": "#ba5d2c"
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 358,
+      "playTime": 361,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 120,
-      "playTime30Days": 6,
+      "playTime": 137,
+      "playTime30Days": 12,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 203,
+      "playTime": 206,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -431,7 +431,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 169,
+      "playTime": 170,
       "playTime30Days": 0,
       "year": 2008,
       "color": "#588535"
@@ -528,7 +528,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 28,
+      "playTime": 31,
       "playTime30Days": 0,
       "year": 2004
     },
@@ -560,7 +560,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 39,
+      "playTime": 41,
       "playTime30Days": 0,
       "year": 2002
     },
@@ -592,7 +592,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 94,
+      "playTime": 95,
       "playTime30Days": 0,
       "year": 2001
     },
@@ -620,7 +620,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 55,
+      "playTime": 57,
       "playTime30Days": 0,
       "year": 2005
     },
@@ -648,7 +648,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 142,
+      "playTime": 145,
       "playTime30Days": 0,
       "year": 2003
     },
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 77,
+      "playTime": 82,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -717,7 +717,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 111,
+      "playTime": 112,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -746,7 +746,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 24,
+      "playTime": 26,
       "playTime30Days": 0,
       "year": 2009
     },
@@ -906,9 +906,9 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 52,
+      "playTime": 57,
       "genre": "Folk",
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "year": 2007,
       "color": "#5a552c"
     },
@@ -940,10 +940,10 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 74,
+      "playTime": 81,
       "genre": "French House",
       "year": 2007,
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#20190a"
     },
     {
@@ -999,10 +999,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 79,
+      "playTime": 81,
       "genre": "Neo Soul",
       "year": 2000,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N",
@@ -1090,7 +1090,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 63,
+      "playTime": 64,
       "genre": "Hip-Hop",
       "year": 2003,
       "playTime30Days": 0
@@ -1123,7 +1123,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 67,
+      "playTime": 68,
       "genre": "Hip-Hop",
       "year": 2000,
       "playTime30Days": 0
@@ -1185,10 +1185,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 68,
+      "playTime": 75,
       "genre": "Art Pop",
       "year": 2008,
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr",
@@ -1218,7 +1218,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 76,
+      "playTime": 82,
       "genre": "Dance Pop",
       "year": 2005,
       "playTime30Days": 0
@@ -1239,7 +1239,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 57,
+      "playTime": 60,
       "genre": "Pop",
       "year": 2003,
       "playTime30Days": 0
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 72,
+      "playTime": 94,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 0
+      "playTime30Days": 19
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
@@ -1289,10 +1289,40 @@
         }
       ],
       "rating": 5.9,
-      "playTime": 30,
+      "playTime": 34,
       "genre": "Pop",
       "year": 2008,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+      "title": "The Fame",
+      "artist": "Lady Gaga",
+      "songs": [
+        {
+          "title": "Just Dance",
+          "preview_url": "https://p.scdn.co/mp3-preview/95cc6f61db841d49e062c94e68a62a89da0c46c4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "LoveGame",
+          "preview_url": "https://p.scdn.co/mp3-preview/c20e999d7df1103e0a9a047b088b40cdff5943d8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Paparazzi",
+          "preview_url": "https://p.scdn.co/mp3-preview/769475c6a0156d8458fa41b1110860d8ff41a3cf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Poker Face",
+          "preview_url": "https://p.scdn.co/mp3-preview/36abf77572983417d63a3aed8923d00e07167efa?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 43,
+      "genre": "Pop",
+      "logged": "2026-02-12",
+      "year": 2008,
+      "playTime30Days": 24
     }
   ]
 }

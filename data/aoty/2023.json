@@ -61,7 +61,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 503,
+      "playTime": 504,
       "playTime30Days": 0,
       "color": "#687d84"
     },
@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 186,
+      "playTime": 190,
       "playTime30Days": 0,
       "color": "#3b5a22"
     },
@@ -129,7 +129,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 258,
+      "playTime": 260,
       "playTime30Days": 0,
       "color": "#8c8f95"
     },
@@ -161,7 +161,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 176,
+      "playTime": 177,
       "playTime30Days": 0,
       "color": "#4f717b"
     },
@@ -193,7 +193,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 421,
+      "playTime": 423,
       "playTime30Days": 0,
       "color": "#a30a02"
     },
@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 120,
+      "playTime": 121,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 340,
-      "playTime30Days": 21,
+      "playTime": 344,
+      "playTime30Days": 0,
       "color": "#a28c6a"
     },
     {
@@ -325,7 +325,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 247,
+      "playTime": 253,
       "playTime30Days": 0,
       "color": "#872550"
     },
@@ -358,7 +358,7 @@
       ],
       "rating": 8.9,
       "genre": "Rap",
-      "playTime": 1207,
+      "playTime": 1208,
       "playTime30Days": 0,
       "color": "#513a39",
       "review": "travis-scott--utopia"
@@ -391,7 +391,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 124,
+      "playTime": 125,
       "playTime30Days": 0,
       "color": "#353630"
     },
@@ -456,8 +456,8 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 644,
-      "playTime30Days": 0,
+      "playTime": 653,
+      "playTime30Days": 8,
       "color": "#4c4559"
     },
     {
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 84,
+      "playTime": 96,
       "playTime30Days": 0,
       "color": "#a96f63"
     },
@@ -516,7 +516,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 110,
+      "playTime": 112,
       "playTime30Days": 0,
       "color": "#3c5b80"
     },
@@ -634,7 +634,7 @@
       ],
       "rating": 7.1,
       "genre": "Live Performance",
-      "playTime": 690,
+      "playTime": 692,
       "playTime30Days": 0
     },
     {
@@ -745,7 +745,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 55,
+      "playTime": 57,
       "playTime30Days": 0,
       "color": "#6a9294"
     },
@@ -800,7 +800,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 30,
+      "playTime": 33,
       "playTime30Days": 0,
       "color": "#32169e"
     },
@@ -886,7 +886,7 @@
       "rating": 7.6,
       "playTime30Days": 0,
       "color": "#87827a",
-      "playTime": 129
+      "playTime": 130
     },
     {
       "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y",
@@ -912,7 +912,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 207,
+      "playTime": 209,
       "playTime30Days": 0
     },
     {
@@ -939,8 +939,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 68,
-      "playTime30Days": 0,
+      "playTime": 78,
+      "playTime30Days": 9,
       "color": "#967354"
     },
     {
@@ -967,7 +967,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 107,
+      "playTime": 108,
       "playTime30Days": 0,
       "color": "#0151d8"
     },
@@ -1078,8 +1078,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 58,
-      "playTime30Days": 0,
+      "playTime": 71,
+      "playTime30Days": 12,
       "color": "#66639e"
     },
     {
@@ -1160,7 +1160,7 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 165,
+      "playTime": 167,
       "playTime30Days": 0,
       "color": "#251c2d"
     },
@@ -1314,7 +1314,7 @@
       "title": "BUSINESS IS BUSINESS",
       "artist": "Young Thug",
       "rating": 4,
-      "playTime": 53,
+      "playTime": 54,
       "playTime30Days": 0
     },
     {
@@ -1646,7 +1646,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 201,
+      "playTime": 203,
       "playTime30Days": 0
     },
     {
@@ -1669,7 +1669,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 112,
+      "playTime": 113,
       "playTime30Days": 0
     },
     {
@@ -1738,7 +1738,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 20,
+      "playTime": 22,
       "playTime30Days": 0
     },
     {
@@ -1853,7 +1853,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 54,
+      "playTime": 55,
       "playTime30Days": 0
     },
     {
@@ -1945,7 +1945,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 88,
+      "playTime": 90,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -1975,7 +1975,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 82,
+      "playTime": 85,
       "genre": "Dance Pop",
       "playTime30Days": 0
     },
@@ -2101,7 +2101,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 147,
+      "playTime": 149,
       "genre": "Latin Rap",
       "playTime30Days": 0
     },
@@ -2125,7 +2125,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 43,
+      "playTime": 44,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -2153,7 +2153,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 59,
+      "playTime": 61,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -2181,7 +2181,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 78,
+      "playTime": 80,
       "genre": "Hyperpop",
       "playTime30Days": 0
     },
@@ -2237,7 +2237,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 52,
+      "playTime": 54,
       "genre": "Electronic",
       "year": 2023,
       "playTime30Days": 0
@@ -2270,11 +2270,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 178,
+      "playTime": 282,
       "genre": "Electropop",
       "logged": "2025-11-27",
       "year": 2023,
-      "playTime30Days": 52
+      "playTime30Days": 86
     }
   ]
 }

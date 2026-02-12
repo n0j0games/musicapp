@@ -35,7 +35,7 @@
       "rating": 11.9,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1106,
+      "playTime": 1110,
       "playTime30Days": 0,
       "color": "#291c13"
     },
@@ -73,8 +73,8 @@
       "rating": 11.6,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 1097,
-      "playTime30Days": 0,
+      "playTime": 1103,
+      "playTime30Days": 6,
       "color": "#7c7a79"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rating": 9.9,
       "genre": "Synthpop",
-      "playTime": 878,
+      "playTime": 879,
       "playTime30Days": 0,
       "color": "#443152"
     },
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 275,
+      "playTime": 276,
       "playTime30Days": 0,
       "color": "#52050d"
     },
@@ -171,7 +171,7 @@
       ],
       "rating": 8.7,
       "genre": "Rap",
-      "playTime": 297,
+      "playTime": 299,
       "playTime30Days": 0
     },
     {
@@ -203,7 +203,7 @@
       ],
       "rating": 8.2,
       "genre": "R&B",
-      "playTime": 458,
+      "playTime": 463,
       "playTime30Days": 0
     },
     {
@@ -234,7 +234,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 236,
+      "playTime": 237,
       "playTime30Days": 0
     },
     {
@@ -265,7 +265,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 175,
+      "playTime": 177,
       "playTime30Days": 0
     },
     {
@@ -359,7 +359,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 99,
+      "playTime": 100,
       "playTime30Days": 0
     },
     {
@@ -462,7 +462,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 106,
+      "playTime": 108,
       "genre": "Art Pop",
       "playTime30Days": 0
     },

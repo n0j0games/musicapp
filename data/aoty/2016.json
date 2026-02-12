@@ -30,7 +30,7 @@
       ],
       "rating": 9.5,
       "onVinyl": true,
-      "playTime": 737,
+      "playTime": 742,
       "genre": "Alternative R&B",
       "playTime30Days": 0,
       "color": "#2f3f28"
@@ -63,8 +63,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 401,
-      "playTime30Days": 14,
+      "playTime": 402,
+      "playTime30Days": 0,
       "color": "#99999d"
     },
     {
@@ -95,7 +95,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 245,
+      "playTime": 249,
       "playTime30Days": 0,
       "color": "#437b76"
     },
@@ -123,7 +123,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 22,
+      "playTime": 24,
       "playTime30Days": 0,
       "color": "#494a66"
     },
@@ -182,7 +182,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 97,
+      "playTime": 98,
       "playTime30Days": 0
     },
     {
@@ -214,7 +214,7 @@
       ],
       "rating": 8.5,
       "genre": "Pop",
-      "playTime": 712,
+      "playTime": 717,
       "playTime30Days": 0
     },
     {
@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 131,
+      "playTime": 132,
       "playTime30Days": 0
     },
     {
@@ -277,7 +277,7 @@
       ],
       "rating": 8,
       "genre": "Rap",
-      "playTime": 424,
+      "playTime": 425,
       "playTime30Days": 0
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 169,
+      "playTime": 171,
       "playTime30Days": 0,
       "color": "#9194cb"
     },
@@ -434,7 +434,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 288,
+      "playTime": 290,
       "playTime30Days": 0
     },
     {
@@ -515,7 +515,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 118,
+      "playTime": 120,
       "playTime30Days": 0
     },
     {
@@ -542,7 +542,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 73,
+      "playTime": 78,
       "playTime30Days": 0
     },
     {
@@ -569,7 +569,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 34,
+      "playTime": 35,
       "playTime30Days": 0
     },
     {
@@ -711,7 +711,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 132,
+      "playTime": 135,
       "playTime30Days": 0
     },
     {
@@ -742,7 +742,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 279,
+      "playTime": 284,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },
@@ -774,7 +774,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 29,
+      "playTime": 30,
       "genre": "Alt Rock",
       "year": 2016,
       "playTime30Days": 0
