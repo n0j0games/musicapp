@@ -27,11 +27,11 @@ import {WeekHelper} from "../common/utils/week-helper";
 export class HomeComponent implements OnInit {
 
   rotationList : string[] = [];
-  currentYearList : string[] = [];
+  //currentYearList : string[] = [];
   recentlyAddedList: string[] = [];
-  currentWeek = 0;
-  currentYear = 2025;
-  currentWeekItems : string[] = [];
+  //currentWeek = 0;
+  //currentYear = 2025;
+  //currentWeekItems : string[] = [];
 
   private logger: Logger = new Logger(this);
 
@@ -40,7 +40,7 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
 
-    this.sotwListChangedListener();
+    //this.sotwListChangedListener();
     const aotyList = this.aotyService.getAotyList();
     const queryYears = aotyList!.items!.map(value => value.year);
     const aggAlbums = this.getAggregatedAlbums(queryYears);
@@ -53,7 +53,7 @@ export class HomeComponent implements OnInit {
         .map(value => value.imgUrl)
         .slice(0, 4);
 
-    this.currentYearList = this.aotyService.getAlbumsOfTheYear(2025)!.albums.sort((a, b) => b.rating - a.rating).map(value => value.imgUrl).slice(0, 4);
+    //this.currentYearList = this.aotyService.getAlbumsOfTheYear(2025)!.albums.sort((a, b) => b.rating - a.rating).map(value => value.imgUrl).slice(0, 4);
   }
 
   private getAggregatedAlbums(queryYears : number[]) : Album[] {
@@ -67,7 +67,7 @@ export class HomeComponent implements OnInit {
     return albums;
   }
 
-  private sotwListChangedListener() {
+  /* private sotwListChangedListener() {
     const sotwList = this.sotwService.getSotwList();
     if (sotwList === null || sotwList.items === undefined) {
       this.sotwService.sotwListChanged$.subscribe({
@@ -84,11 +84,11 @@ export class HomeComponent implements OnInit {
   private setCurrentWeek(sotwList : SotwList) {
     if (sotwList.items !== undefined) {
       const sotwItems = sotwList.items.sort((a, b) => b.year - a.year || b.week - a.week);
-      this.currentWeek = sotwItems[0].week;
-      this.currentYear = sotwItems[0].year;
-      this.currentWeekItems = sotwItems[0].preview!;
+      //this.currentWeek = sotwItems[0].week;
+      //this.currentYear = sotwItems[0].year;
+      //this.currentWeekItems = sotwItems[0].preview!;
     }
-  }
+  } */
 
   protected readonly Sorting = Sorting;
   protected readonly WeekHelper = WeekHelper;

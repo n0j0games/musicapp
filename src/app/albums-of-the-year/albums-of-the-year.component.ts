@@ -234,18 +234,18 @@ export class AlbumsOfTheYearComponent implements OnInit {
     if (this.queryParams.search === null) {
       return true;
     }
+    const qString = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
     if (this.queryParams.searchCategory === SearchCategory.ALL || this.queryParams.searchCategory === SearchCategory.ALBUMS) {
       const title = NormalizeHelper.fromNormalToQueryString(album.title);
-      if (this.queryParams.isStrict && title === this.queryParams.search) {
+      if (this.queryParams.isStrict && title === qString) {
         return true;
       }
-      if (title.startsWith(this.queryParams.search)) {
+      if (title.startsWith(qString)) {
         return true;
       }
     }
     if (this.queryParams.searchCategory === SearchCategory.ALL || this.queryParams.searchCategory === SearchCategory.ARTISTS) {
-      const qArtist = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
-      return GroupAliasHelper.artistFilter(qArtist, this.queryParams.isStrict, this.queryParams.searchCategory != SearchCategory.ARTISTS, album, this.aliasList!);
+      return GroupAliasHelper.artistFilter(qString, this.queryParams.isStrict, this.queryParams.searchCategory != SearchCategory.ARTISTS, album, this.aliasList!);
     }
     return false;
   }

@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {WeekHelper} from "../common/utils/week-helper";
-import {NavigationEnd, Router, RouterLink} from "@angular/router";
+import {ActivatedRoute, NavigationEnd, Router, RouterLink} from "@angular/router";
 import {SotwService} from "../songs-of-the-week/services/sotw.service";
 import {SotwList} from "../songs-of-the-week/models/sotw-list";
 import {PlayButtonComponent} from "../common/components/play-button/play-button.component";
@@ -10,6 +10,9 @@ import {SongInfo} from "../common/utils/songinfo";
 import {NgClass, NgIf} from "@angular/common";
 import {MuteButtonComponent} from "../common/components/mute-button/mute-button.component";
 import {Logger} from "../common/utils/logger";
+import {NormalizeHelper} from "../common/utils/normalize-helper";
+import {Sorting} from "../common/utils/sorting.enum";
+import {SearchCategory} from "../common/utils/search-category.enum";
 
 @Component({
   selector: 'app-header',
@@ -29,7 +32,8 @@ export class HeaderComponent implements OnInit {
 
   constructor(private router : Router,
               private sotwService : SotwService,
-              private audioService : AudioService) {
+              private audioService : AudioService,
+              private route: ActivatedRoute) {
   }
 
   currentWeek : number = WeekHelper.getCurrentDateWeek();
@@ -74,5 +78,22 @@ export class HeaderComponent implements OnInit {
       const sotwItems = sotwList.items.sort((a, b) => b.week - a.week);
       this.currentWeek = sotwItems[0].week;
     }
+  }
+
+  routeToAlbums() {
+    this.router.navigate(
+        ['/aoty'],
+        {
+          queryParams: {
+            s: Sorting.RATING,
+            y: 2026,
+            d: 2020,
+            sc: SearchCategory.ALL
+          },
+          queryParamsHandling: 'merge'
+        }
+    ).then(_ => {
+      this.logger.log("Refreshed params")
+    });
   }
 }

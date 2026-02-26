@@ -15,6 +15,8 @@ import {ReviewButtonComponent} from "../../common/components/review-button/revie
 import {Logger} from "../../common/utils/logger";
 import {LastfmBadgeComponent} from "../../common/components/lastfm-badge/lastfm-badge.component";
 import {LoggedBadgeComponent} from "../../common/components/logged-badge/logged-badge.component";
+import {Sorting} from "../../common/utils/sorting.enum";
+import {SearchCategory} from "../../common/utils/search-category.enum";
 
 @Component({
   selector: 'app-album-detail',
@@ -81,13 +83,21 @@ export class AlbumDetailComponent implements OnInit {
   }
 
   routeToArtist() {
-      this.router.navigate(
-          [],
-          {
-              relativeTo: this.route,
-              queryParams: { q: NormalizeHelper.fromNormalToQueryString(this.album.artist), sc: 'artists' },
-              queryParamsHandling: 'merge'
-          }
-      ).then(_ => {this.logger.log("Refreshed params")});
+    this.router.navigate(
+        [],
+        {
+          relativeTo: this.route,
+          queryParams: {
+            q: NormalizeHelper.fromNormalToQueryString(this.album.artist),
+            s: Sorting.RELEASE_DATE,
+            sc: SearchCategory.ARTISTS,
+            y: undefined,
+            d: undefined,
+          },
+          queryParamsHandling: 'merge'
+        }
+    ).then(_ => {
+      this.logger.log("Refreshed params")
+    });
   }
 }
