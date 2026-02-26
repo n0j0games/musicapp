@@ -119,11 +119,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5f49b900a36c59aa1160de73d0b4ba0fcc57508b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 0,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 11,
       "genre": "Contemporary R&B",
       "logged": "2026-02-26",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e",
@@ -149,10 +150,11 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 66,
       "genre": "Alt-Pop",
       "logged": "2026-02-26",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 66
     },
     {
       "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
@@ -178,10 +180,11 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 0,
+      "playTime": 30,
       "genre": "Trap",
       "logged": "2026-02-26",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 30
     },
     {
       "url": "https://open.spotify.com/album/7bTdRjxIibLtPgYibpANiw",
@@ -211,10 +214,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 0,
+      "playTime": 84,
       "genre": "Post Punk",
       "logged": "2026-02-26",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 84
     }
   ]
 }

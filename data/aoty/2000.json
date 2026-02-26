@@ -1347,11 +1347,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/d019a045131d3a6a7104b33ea4c7685ca5d78fd3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
+      "rating": 7,
+      "playTime": 18,
       "genre": "Dance-Pop",
       "logged": "2026-02-26",
-      "year": 2001
+      "year": 2001,
+      "playTime30Days": 16
     }
   ]
 }

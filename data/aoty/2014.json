@@ -325,11 +325,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/5dd45ef8fec9860407d3646c82944039f65a71b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
+      "rating": 7,
+      "playTime": 34,
       "genre": "Art Pop",
       "logged": "2026-02-26",
-      "year": 2014
+      "year": 2014,
+      "playTime30Days": 0
     }
   ]
 }

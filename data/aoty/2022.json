@@ -2109,11 +2109,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/14dfdb3c95cba611c810b1aa5b3aa1e6c7af1919?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
-      "playTime": 0,
+      "rating": 7,
+      "playTime": 44,
       "genre": "Alternative R&B",
       "logged": "2026-02-26",
-      "year": 2022
+      "year": 2022,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/6LDbtKcOVi86no0eJK4eN9",
@@ -2134,11 +2135,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/71956f32f201dab39ee776021afca63e1f8e92f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 18,
       "genre": "Deutschrap",
       "logged": "2026-02-26",
-      "year": 2022
+      "year": 2022,
+      "playTime30Days": 0
     }
   ]
 }

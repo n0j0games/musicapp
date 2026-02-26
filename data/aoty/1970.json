@@ -1439,10 +1439,11 @@
         }
       ],
       "rating": 0,
-      "playTime": 0,
+      "playTime": 13,
       "genre": "Jazz",
       "logged": "2026-02-26",
-      "year": 1976
+      "year": 1976,
+      "playTime30Days": 12
     },
     {
       "url": "https://www.albumoftheyear.org/album/802867-eruption-eruption.php",
@@ -1454,7 +1455,8 @@
       "genre": "Disco",
       "logged": "2026-02-26",
       "onVinyl": true,
-      "year": 1977
+      "year": 1977,
+      "playTime30Days": 0
     }
   ]
 }
