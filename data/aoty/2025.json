@@ -148,6 +148,7 @@
       "rating": 8.2,
       "playTime": 723,
       "genre": "Synthpop",
+      "onVinyl": true,
       "playTime30Days": 0,
       "color": "#c49e5d"
     },
@@ -166,6 +167,7 @@
       "playTime": 0,
       "genre": "Deutschrap",
       "playTime30Days": 0,
+      "onVinyl": true,
       "color": "#0e00eb"
     },
     {
@@ -1432,6 +1434,7 @@
       "genre": "Hip-Hop",
       "year": 2025,
       "playTime30Days": 0,
+      "onVinyl": true,
       "color": "#942a27"
     },
     {
@@ -2207,6 +2210,7 @@
       "genre": "Orchestral",
       "color": "#7a90a2",
       "logged": "2025-11-06",
+      "onVinyl": true,
       "year": 2025,
       "playTime30Days": 10
     },
