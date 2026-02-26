@@ -35,7 +35,7 @@
       "rating": 11.8,
       "onVinyl": true,
       "genre": "Alt Rock",
-      "playTime": 846,
+      "playTime": 847,
       "playTime30Days": 0,
       "year": 2007,
       "color": "#873912"
@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 398,
+      "playTime": 399,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -136,8 +136,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 189,
-      "playTime30Days": 6,
+      "playTime": 191,
+      "playTime30Days": 5,
       "year": 2007,
       "color": "#006082"
     },
@@ -204,7 +204,7 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 558,
+      "playTime": 561,
       "playTime30Days": 0,
       "year": 2005,
       "color": "#001621"
@@ -237,7 +237,7 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 360,
+      "playTime": 361,
       "playTime30Days": 0,
       "year": 2004,
       "color": "#ba5d2c"
@@ -299,7 +299,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 361,
+      "playTime": 362,
       "playTime30Days": 0,
       "year": 2001,
       "color": "#453c35"
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 137,
-      "playTime30Days": 12,
+      "playTime": 142,
+      "playTime30Days": 16,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 206,
+      "playTime": 207,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -431,7 +431,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 170,
+      "playTime": 172,
       "playTime30Days": 0,
       "year": 2008,
       "color": "#588535"
@@ -528,7 +528,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 31,
+      "playTime": 32,
       "playTime30Days": 0,
       "year": 2004
     },
@@ -560,7 +560,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 41,
+      "playTime": 43,
       "playTime30Days": 0,
       "year": 2002
     },
@@ -592,7 +592,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 95,
+      "playTime": 96,
       "playTime30Days": 0,
       "year": 2001
     },
@@ -676,7 +676,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0,
       "year": 2000
     },
@@ -940,10 +940,10 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 81,
+      "playTime": 82,
       "genre": "French House",
       "year": 2007,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#20190a"
     },
     {
@@ -999,7 +999,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 81,
+      "playTime": 82,
       "genre": "Neo Soul",
       "year": 2000,
       "playTime30Days": 0
@@ -1185,10 +1185,10 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 75,
+      "playTime": 76,
       "genre": "Art Pop",
       "year": 2008,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr",
@@ -1239,7 +1239,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 60,
+      "playTime": 62,
       "genre": "Pop",
       "year": 2003,
       "playTime30Days": 0
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 94,
+      "playTime": 98,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 19
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
@@ -1318,11 +1318,40 @@
         }
       ],
       "rating": 7,
-      "playTime": 43,
+      "playTime": 45,
       "genre": "Pop",
       "logged": "2026-02-12",
       "year": 2008,
-      "playTime30Days": 24
+      "playTime30Days": 26
+    },
+    {
+      "url": "https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fca7dfcbc3a0dde809ffbaac",
+      "title": "Fever",
+      "artist": "Kylie Minogue",
+      "songs": [
+        {
+          "title": "Can't Get You out of My Head",
+          "preview_url": "https://p.scdn.co/mp3-preview/80a42bfd505424a41c3e43b66b4e64571e36d49c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Fever",
+          "preview_url": "https://p.scdn.co/mp3-preview/f32f687c6717ac6805ed6ee9ed60db6744ad22e3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "More More More",
+          "preview_url": "https://p.scdn.co/mp3-preview/12209d8bece9e92d0d777f1e75e0e2a2b8af6845?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Love at First Sight",
+          "preview_url": "https://p.scdn.co/mp3-preview/d019a045131d3a6a7104b33ea4c7685ca5d78fd3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Dance-Pop",
+      "logged": "2026-02-26",
+      "year": 2001
     }
   ]
 }

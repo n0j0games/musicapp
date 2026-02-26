@@ -29,7 +29,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 439,
+      "playTime": 440,
       "playTime30Days": 0,
       "color": "#81202d"
     },
@@ -61,7 +61,7 @@
         }
       ],
       "rating": 11.7,
-      "playTime": 437,
+      "playTime": 438,
       "genre": "Alternative R&B",
       "playTime30Days": 0,
       "color": "#aaacac"
@@ -94,7 +94,7 @@
         }
       ],
       "rating": 10.6,
-      "playTime": 216,
+      "playTime": 218,
       "playTime30Days": 0,
       "color": "#406e22",
       "onVinyl": true
@@ -159,7 +159,7 @@
       ],
       "rating": 8.7,
       "genre": "R&B",
-      "playTime": 430,
+      "playTime": 431,
       "playTime30Days": 0,
       "color": "#633316"
     },
@@ -191,7 +191,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 166,
+      "playTime": 169,
       "playTime30Days": 0,
       "color": "#872001"
     },
@@ -223,8 +223,8 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 316,
-      "playTime30Days": 13,
+      "playTime": 317,
+      "playTime30Days": 0,
       "color": "#857e5b"
     },
     {

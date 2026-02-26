@@ -117,7 +117,7 @@
     },
     {
       "name" : "Charli XCX",
-      "albums" : 11,
+      "albums" : 12,
       "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cf/Charli_XCX-4059.jpg"
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "name" : "ROSALÍA",
-      "albums" : 3,
+      "albums" : 4,
       "icon" : "https://taz.de/picture/5468501/1200/Wide-Use-3-1.jpeg"
     },
     {
@@ -386,19 +386,44 @@
       "icon" : "https://trinitymusic.de/wp-content/uploads/2025/06/quadeca-berlin.webp"
     },
     {
-      "name" : "Mariah Carey",
-      "albums" : 12,
-      "icon" : "https://cdn-images.dzcdn.net/images/artist/818c27b3e5a6179d4cd2f053df9abaf1/1900x1900-000000-80-0-0.jpg"
-    },
-    {
-      "name" : "Prince",
-      "albums" : 41,
-      "icon" : "https://cdn.britannica.com/68/244068-050-A2A955CF/singer-Prince-publicity-still-Purple-Rain-1984.jpg"
-    },
-    {
       "name" : "Stevie Wonder",
       "albums" : 22,
       "icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Stevie_Wonder_1994.jpg/250px-Stevie_Wonder_1994.jpg"
+    },
+    {
+      "name" : "Slayyyter",
+      "albums" : 3,
+      "icon" : "https://loveyourartist.imgix.net//public/spotifyArtist/4QM5QCHicznALtX885CnZC?pjpg=format&w=960&dpr=2.625"
+    },
+    {
+      "name" : "underscores",
+      "albums" : 2,
+      "icon" : "https://www.nme.com/wp-content/uploads/2025/03/NME-PLAYLIST-STORY-HERO-UNDERSCORES-CREDIT-ALEXA-VISCIUS@2000x1270.jpg"
+    },
+    {
+      "name" : "FKA twigs",
+      "albums" : 5,
+      "icon" : "https://www.hhv-mag.com/wp-content/uploads/2022/04/12_03_35_356_FKA_twigs_Jamie_James_Medina-800x533.jpg"
+    },
+    {
+      "name" : "Maruja",
+      "albums" : 1,
+      "icon" : "https://i.scdn.co/image/ab676161000051746fa4a5426cdfe6b32531ee3f"
+    },
+    {
+      "name" : "Rochelle Jordan",
+      "albums" : 3,
+      "icon" : "https://i.scdn.co/image/ab676161000051746fa4a5426cdfe6b32531ee3f"
+    },
+    {
+      "name" : "Souly",
+      "albums" : 5,
+      "icon" : "https://i.scdn.co/image/ab676161000051746fa4a5426cdfe6b32531ee3f"
+    },
+    {
+      "name": "Sudan Archives",
+      "albums": 3,
+      "icon": "https://i1.sndcdn.com/avatars-000326493502-wvz03k-t1080x1080.jpg"
     }
   ],
   "groups" : [

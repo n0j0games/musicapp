@@ -172,7 +172,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 297,
+      "playTime": 300,
       "playTime30Days": 0
     },
     {
@@ -191,7 +191,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 21,
+      "playTime": 22,
       "playTime30Days": 0
     },
     {
@@ -301,6 +301,35 @@
       "genre": "Hip-Hop",
       "year": 2014,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/25PQxi9SR1OODB5XG6m48J",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27377a39a4e1d5d0f24dac1130a",
+      "title": "LP1",
+      "artist": "FKA twigs",
+      "songs": [
+        {
+          "title": "Two Weeks",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7fc532ea6918d7ffb0e59a0765ff4ce50f32bb3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Video Girl",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9eb65b66645c537c1c7e5332f31907e4b15bb70?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Kicks",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3e258da91cf14c10b57a805a1625d4ed292bab8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Preface",
+          "preview_url": "https://p.scdn.co/mp3-preview/5dd45ef8fec9860407d3646c82944039f65a71b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Art Pop",
+      "logged": "2026-02-26",
+      "year": 2014
     }
   ]
 }

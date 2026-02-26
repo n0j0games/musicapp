@@ -30,7 +30,7 @@
       ],
       "rating": 9.5,
       "playTime30Days": 0,
-      "playTime": 117,
+      "playTime": 118,
       "year": 1983,
       "color": "#00598e"
     },
@@ -97,7 +97,7 @@
       "rating": 8.5,
       "onVinyl": true,
       "playTime30Days": 0,
-      "playTime": 16,
+      "playTime": 17,
       "year": 1987
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 119,
+      "playTime": 121,
       "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
@@ -162,7 +162,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 27,
+      "playTime": 28,
       "playTime30Days": 0,
       "year": 1983
     },
@@ -315,10 +315,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 137,
+      "playTime": 145,
       "genre": "Soul",
       "year": 1984,
-      "playTime30Days": 125
+      "playTime30Days": 38
     },
     {
       "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX",
@@ -483,6 +483,39 @@
       "logged": "2026-02-12",
       "year": 1989,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97",
+      "title": "Promise",
+      "artist": "Sade",
+      "songs": [
+        {
+          "title": "Is It a Crime",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ea8b9dba77020acd4a076ff4f52dbfbd9f88297?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Sweetest Taboo",
+          "preview_url": "https://p.scdn.co/mp3-preview/9feec41c32eba1ec45b01400f95a306c0034f80f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "You're Not the Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/afe8c1107389c99773ef7eb0a9b2b23107922116?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Jezebel",
+          "preview_url": "https://p.scdn.co/mp3-preview/5760dba75c7a1cffaf07cba78635e29c47030a1f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Maureen",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e0280a1ca418e9ea8642b5696d45ab9fd6211ba?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.0,
+      "playTime": 0,
+      "genre": "Soul",
+      "logged": "2026-02-26",
+      "year": 1985
     }
   ]
 }

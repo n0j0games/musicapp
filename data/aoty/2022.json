@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1708,
-      "playTime30Days": 56,
+      "playTime": 1757,
+      "playTime30Days": 72,
       "color": "#465b6b"
     },
     {
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 701,
+      "playTime": 703,
       "playTime30Days": 0,
       "color": "#1c1613"
     },
@@ -127,7 +127,7 @@
       ],
       "rating": 9.9,
       "onVinyl": true,
-      "playTime": 553,
+      "playTime": 554,
       "playTime30Days": 0,
       "color": "#61615f"
     },
@@ -161,8 +161,8 @@
       "rating": 9.2,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 1000,
-      "playTime30Days": 8,
+      "playTime": 1006,
+      "playTime30Days": 6,
       "color": "#123b49"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rating": 10.3,
       "onVinyl": true,
-      "playTime": 417,
+      "playTime": 419,
       "playTime30Days": 0,
       "color": "#456338"
     },
@@ -227,7 +227,7 @@
       ],
       "rating": 9.6,
       "genre": "Rap",
-      "playTime": 1032,
+      "playTime": 1034,
       "playTime30Days": 0,
       "color": "#4e270c"
     },
@@ -259,8 +259,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 466,
-      "playTime30Days": 6,
+      "playTime": 500,
+      "playTime30Days": 39,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -292,7 +292,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 748,
+      "playTime": 750,
       "playTime30Days": 0,
       "color": "#183399"
     },
@@ -361,7 +361,7 @@
       ],
       "rating": 8.2,
       "genre": "Rap",
-      "playTime": 873,
+      "playTime": 874,
       "playTime30Days": 0,
       "color": "#0f1a1c"
     },
@@ -393,7 +393,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 111,
+      "playTime": 112,
       "playTime30Days": 0,
       "color": "#076435"
     },
@@ -425,7 +425,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 279,
+      "playTime": 281,
       "playTime30Days": 0,
       "color": "#28251b"
     },
@@ -489,8 +489,9 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 269,
+      "playTime": 271,
       "playTime30Days": 0,
+      "onVinyl": true,
       "color": "#8d410d"
     },
     {
@@ -553,8 +554,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 174,
-      "playTime30Days": 0,
+      "playTime": 177,
+      "playTime30Days": 6,
       "color": "#0676c1"
     },
     {
@@ -618,7 +619,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 429,
+      "playTime": 430,
       "playTime30Days": 0,
       "color": "#001732"
     },
@@ -1017,7 +1018,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0,
       "color": "#272727"
     },
@@ -1353,7 +1354,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 172,
+      "playTime": 173,
       "playTime30Days": 0,
       "color": "#5d3939"
     },
@@ -1430,7 +1431,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 114,
+      "playTime": 116,
       "playTime30Days": 0
     },
     {
@@ -1798,7 +1799,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 129,
+      "playTime": 130,
       "playTime30Days": 0
     },
     {
@@ -1844,7 +1845,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 36,
+      "playTime": 37,
       "playTime30Days": 0
     },
     {
@@ -1922,7 +1923,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 59,
+      "playTime": 62,
       "genre": "Hyperpop",
       "playTime30Days": 0
     },
@@ -1950,7 +1951,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 64,
+      "playTime": 65,
       "genre": "R&B",
       "playTime30Days": 0
     },
@@ -1998,7 +1999,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 92,
+      "playTime": 93,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -2054,7 +2055,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 43,
+      "playTime": 44,
       "genre": "Singer-Songwriter",
       "year": 2022,
       "playTime30Days": 0
@@ -2079,11 +2080,65 @@
         }
       ],
       "rating": 6,
-      "playTime": 49,
+      "playTime": 52,
       "genre": "Latin Rap",
       "logged": "2026-02-12",
       "year": 2022,
-      "playTime30Days": 42
+      "playTime30Days": 45
+    },
+    {
+      "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273da500ca98cc1971375daab32",
+      "title": "CAPRISONGS",
+      "artist": "FKA twigs",
+      "songs": [
+        {
+          "title": "honda (feat. pa salieu)",
+          "preview_url": "https://p.scdn.co/mp3-preview/016b47143ec9de7825d386583837a9b147565be6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "tears in the club (feat. the weeknd)",
+          "preview_url": "https://p.scdn.co/mp3-preview/086458cb259dbb900707742c06a7ddfe57828acb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "jealousy (feat. rema)",
+          "preview_url": "https://p.scdn.co/mp3-preview/a3dce123c60b2cc6c51b29199ca7cfd60297df91?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "careless (feat. daniel caesar)",
+          "preview_url": "https://p.scdn.co/mp3-preview/14dfdb3c95cba611c810b1aa5b3aa1e6c7af1919?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "Alternative R&B",
+      "logged": "2026-02-26",
+      "year": 2022
+    },
+    {
+      "url": "https://open.spotify.com/album/6LDbtKcOVi86no0eJK4eN9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730d15e3da157b6d9768016721",
+      "title": "Teufel Fallen",
+      "artist": "Souly",
+      "songs": [
+        {
+          "title": "Nie wieder",
+          "preview_url": "https://p.scdn.co/mp3-preview/632303cc5b7d32f2f3a5aed1103ea99b3c1ce0c3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mörder",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c2c6971dd841b2916c23e35b5f0d12844d4f190?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Most Underrated Playa",
+          "preview_url": "https://p.scdn.co/mp3-preview/71956f32f201dab39ee776021afca63e1f8e92f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6.0,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "logged": "2026-02-26",
+      "year": 2022
     }
   ]
 }

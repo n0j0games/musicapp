@@ -40,8 +40,8 @@
       "rating": 9.7,
       "onVinyl": true,
       "genre": "Alternative R&B",
-      "playTime": 576,
-      "playTime30Days": 5,
+      "playTime": 578,
+      "playTime30Days": 0,
       "color": "#25714c",
       "review": "the-weeknd--kiss-land"
     },
@@ -106,8 +106,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 247,
-      "playTime30Days": 5,
+      "playTime": 249,
+      "playTime30Days": 0,
       "color": "#64441f"
     },
     {
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 318,
+      "playTime": 320,
       "playTime30Days": 0
     },
     {
@@ -169,8 +169,8 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 220,
-      "playTime30Days": 0
+      "playTime": 225,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -294,8 +294,8 @@
         }
       ],
       "rating": 8,
-      "playTime30Days": 28,
-      "playTime": 252
+      "playTime30Days": 29,
+      "playTime": 255
     },
     {
       "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA",
@@ -317,7 +317,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 119,
+      "playTime": 122,
       "playTime30Days": 0
     },
     {
@@ -456,11 +456,11 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 75,
+      "playTime": 107,
       "genre": "Electropop",
       "logged": "2026-02-12",
       "year": 2013,
-      "playTime30Days": 75
+      "playTime30Days": 107
     }
   ]
 }

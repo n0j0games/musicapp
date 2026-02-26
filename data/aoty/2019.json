@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 162,
+      "playTime": 164,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 882,
+      "playTime": 883,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -169,8 +169,8 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 110,
-      "playTime30Days": 0,
+      "playTime": 113,
+      "playTime30Days": 5,
       "color": "#6a9bac"
     },
     {
@@ -201,7 +201,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 291,
+      "playTime": 293,
       "playTime30Days": 0
     },
     {
@@ -264,7 +264,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 262,
+      "playTime": 263,
       "playTime30Days": 0,
       "color": "#933010"
     },
@@ -296,7 +296,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 113,
+      "playTime": 114,
       "playTime30Days": 0
     },
     {
@@ -568,7 +568,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 67,
+      "playTime": 68,
       "playTime30Days": 0
     },
     {
@@ -637,7 +637,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 76,
+      "playTime": 77,
       "playTime30Days": 0
     },
     {
@@ -730,9 +730,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 96,
+      "playTime": 100,
       "genre": "Trap",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x",
@@ -758,9 +758,9 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 927,
+      "playTime": 928,
       "genre": "Live",
-      "playTime30Days": 33,
+      "playTime30Days": 0,
       "color": "#88888a"
     },
     {
@@ -787,9 +787,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 164,
+      "playTime": 168,
       "genre": "R&B",
-      "playTime30Days": 5
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
@@ -811,9 +811,9 @@
         }
       ],
       "rating": 6,
-      "playTime": 49,
+      "playTime": 52,
       "genre": "Pop",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/5UVpPKPFL23UdaGafo0S9w",
@@ -863,7 +863,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 69,
+      "playTime": 70,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -916,11 +916,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 143,
+      "playTime": 159,
       "genre": "Art Pop",
       "logged": "2025-10-23",
       "year": 2019,
-      "playTime30Days": 26
+      "playTime30Days": 41
     }
   ]
 }

@@ -35,7 +35,7 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 350,
+      "playTime": 352,
       "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 140,
+      "playTime": 141,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -205,7 +205,7 @@
       ],
       "rating": 8.2,
       "genre": "Jazz",
-      "playTime": 83,
+      "playTime": 84,
       "playTime30Days": 0,
       "year": 1979
     },
@@ -238,7 +238,7 @@
       ],
       "rating": 8.7,
       "genre": "Rock",
-      "playTime": 20,
+      "playTime": 21,
       "playTime30Days": 0,
       "year": 1971
     },
@@ -363,7 +363,7 @@
       ],
       "rating": 7.3,
       "genre": "Disco",
-      "playTime": 22,
+      "playTime": 23,
       "playTime30Days": 0,
       "year": 1976
     },
@@ -458,7 +458,7 @@
       ],
       "rating": 9.3,
       "genre": "Disco",
-      "playTime": 59,
+      "playTime": 61,
       "playTime30Days": 0,
       "year": 1978,
       "color": "#aa546d"
@@ -582,7 +582,7 @@
       "playTime": 53,
       "genre": "Funk",
       "year": 1971,
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",
@@ -674,10 +674,10 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 57,
+      "playTime": 62,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#b23837"
     },
     {
@@ -1149,11 +1149,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 63,
+      "playTime": 69,
       "genre": "Disco",
       "logged": "2025-10-19",
       "year": 1979,
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7",
@@ -1225,7 +1225,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 27,
+      "playTime": 28,
       "genre": "P-Funk",
       "logged": "2025-11-08",
       "year": 1977,
@@ -1259,7 +1259,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 33,
+      "playTime": 34,
       "genre": "Disco",
       "logged": "2025-11-08",
       "year": 1976,
@@ -1405,11 +1405,56 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 10,
+      "playTime": 11,
       "genre": "Disco",
       "logged": "2026-02-12",
       "year": 1977,
-      "playTime30Days": 10
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5Uny0mkKiVGDat7H6SNDyS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b752bbaa0dd7578b736f7cc1",
+      "title": "シーナリィ",
+      "artist": "Ryo Fukui",
+      "songs": [
+        {
+          "title": "It Could Happen To You",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a20a5a38b91c533a64c292a0f8c12d8a64b3529?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Want To Talk About You",
+          "preview_url": "https://p.scdn.co/mp3-preview/ff207bc8dd629173859c0214a22c417f93dc8a9e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Early Summer",
+          "preview_url": "https://p.scdn.co/mp3-preview/83a01ca502c658ad0b4701d40ebba6f82eefa214?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Willow Weep For Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/ecc77c79c603adcfb8dfde83e91fd424a8530d3f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Autumn Leaves",
+          "preview_url": "https://p.scdn.co/mp3-preview/d95e6756f794332dc8e75c9b34d90e5b946bb4a2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Jazz",
+      "logged": "2026-02-26",
+      "year": 1976
+    },
+    {
+      "url": "https://www.albumoftheyear.org/album/802867-eruption-eruption.php",
+      "imgUrl": "https://m.media-amazon.com/images/I/71AhFIKxtYL._UF894,1000_QL80_.jpg",
+      "title": "Eruption",
+      "artist": "Eruption",
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Disco",
+      "logged": "2026-02-26",
+      "onVinyl": true,
+      "year": 1977
     }
   ]
 }

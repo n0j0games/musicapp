@@ -33,7 +33,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 318,
+      "playTime": 321,
       "playTime30Days": 0,
       "color": "#932e50"
     },
@@ -96,8 +96,8 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 324,
-      "playTime30Days": 0
+      "playTime": 326,
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m",
@@ -156,7 +156,7 @@
       "rating": 10.8,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 1837,
+      "playTime": 1839,
       "playTime30Days": 0,
       "color": "#242914"
     },
@@ -189,7 +189,7 @@
       ],
       "rating": 10,
       "onVinyl": true,
-      "playTime": 468,
+      "playTime": 469,
       "playTime30Days": 0,
       "color": "#601f30"
     },
@@ -221,8 +221,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 313,
-      "playTime30Days": 0,
+      "playTime": 321,
+      "playTime30Days": 9,
       "color": "#006687"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rating": 8.7,
       "genre": "Rap",
-      "playTime": 489,
+      "playTime": 490,
       "playTime30Days": 0
     },
     {
@@ -347,7 +347,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 82,
+      "playTime": 83,
       "playTime30Days": 0
     },
     {
@@ -440,7 +440,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 209,
+      "playTime": 210,
       "playTime30Days": 0
     },
     {
@@ -471,8 +471,8 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 125,
-      "playTime30Days": 6
+      "playTime": 126,
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5",
@@ -502,7 +502,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 198,
+      "playTime": 199,
       "playTime30Days": 0
     },
     {
@@ -533,7 +533,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 180,
+      "playTime": 184,
       "playTime30Days": 0,
       "color": "#9d9d9d"
     },
@@ -562,7 +562,7 @@
       ],
       "rating": 7.5,
       "genre": "Rap",
-      "playTime": 224,
+      "playTime": 225,
       "playTime30Days": 0
     },
     {
@@ -647,7 +647,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 38,
+      "playTime": 39,
       "playTime30Days": 0
     },
     {
@@ -674,7 +674,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 242,
+      "playTime": 244,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -870,7 +870,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 205,
+      "playTime": 207,
       "playTime30Days": 0
     },
     {
@@ -920,7 +920,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 77,
+      "playTime": 78,
       "playTime30Days": 0
     },
     {
@@ -947,7 +947,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 66,
+      "playTime": 70,
       "genre": "Deutschrap",
       "playTime30Days": 0
     },
@@ -975,9 +975,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 73,
+      "playTime": 74,
       "genre": "Jazz Fusion",
-      "playTime30Days": 11
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/1fSr7CMs4ewhuylB6NZCPo",
@@ -1126,7 +1126,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 54,
+      "playTime": 55,
       "genre": "Afrobeats",
       "logged": "2025-12-09",
       "year": 2020,

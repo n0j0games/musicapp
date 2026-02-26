@@ -63,7 +63,7 @@
       ],
       "rating": 9.7,
       "genre": "Electropop",
-      "playTime": 650,
+      "playTime": 651,
       "playTime30Days": 0,
       "color": "#5b8801",
       "review": "charli-xcx--brat"
@@ -97,7 +97,7 @@
       ],
       "rating": 8.4,
       "genre": "Country Pop",
-      "playTime": 951,
+      "playTime": 952,
       "playTime30Days": 0,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
@@ -199,7 +199,7 @@
       "rating": 8.6,
       "genre": "Hardcore Hip Hop",
       "playTime": 233,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "color": "#9a6c1f"
     },
     {
@@ -231,8 +231,8 @@
       ],
       "rating": 9.2,
       "genre": "Synthpop",
-      "playTime": 353,
-      "playTime30Days": 0,
+      "playTime": 358,
+      "playTime30Days": 7,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -398,7 +398,7 @@
       ],
       "rating": 8.7,
       "genre": "Dreampop",
-      "playTime": 118,
+      "playTime": 119,
       "playTime30Days": 0,
       "color": "#104e73"
     },
@@ -526,7 +526,7 @@
       ],
       "rating": 8.7,
       "genre": "Rock",
-      "playTime": 190,
+      "playTime": 191,
       "playTime30Days": 0,
       "color": "#357a31"
     },
@@ -592,7 +592,7 @@
       ],
       "rating": 8.2,
       "genre": "Indie Rock",
-      "playTime": 71,
+      "playTime": 73,
       "playTime30Days": 0,
       "color": "#57574a"
     },
@@ -625,7 +625,7 @@
       ],
       "rating": 7,
       "genre": "Experimental Rap",
-      "playTime": 85,
+      "playTime": 86,
       "playTime30Days": 0,
       "color": "#4b534a"
     },
@@ -654,7 +654,7 @@
       ],
       "rating": 8.1,
       "genre": "Synthpop",
-      "playTime": 222,
+      "playTime": 223,
       "playTime30Days": 0,
       "color": "#376893"
     },
@@ -799,7 +799,7 @@
       ],
       "rating": 7.5,
       "genre": "French Electro",
-      "playTime": 101,
+      "playTime": 103,
       "playTime30Days": 0,
       "color": "#872d11"
     },
@@ -975,7 +975,7 @@
       "rating": 7.7,
       "genre": "Jazz",
       "playTime": 41,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#828282"
     },
     {
@@ -1061,7 +1061,7 @@
       ],
       "rating": 7.3,
       "genre": "Rap",
-      "playTime": 72,
+      "playTime": 74,
       "playTime30Days": 0,
       "color": "#2b4742"
     },
@@ -1235,7 +1235,7 @@
       ],
       "rating": 7,
       "genre": "Synthpop",
-      "playTime": 93,
+      "playTime": 94,
       "playTime30Days": 0,
       "color": "#2f676a"
     },
@@ -1573,7 +1573,7 @@
       ],
       "rating": 7.9,
       "genre": "Rap",
-      "playTime": 119,
+      "playTime": 120,
       "playTime30Days": 0,
       "color": "#092508"
     },
@@ -1814,7 +1814,7 @@
       ],
       "rating": 6.1,
       "genre": "Rap",
-      "playTime": 124,
+      "playTime": 125,
       "playTime30Days": 0
     },
     {
@@ -1886,8 +1886,8 @@
       ],
       "rating": 6.1,
       "genre": "Electronic",
-      "playTime": 69,
-      "playTime30Days": 8
+      "playTime": 70,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO",
@@ -1982,7 +1982,7 @@
       ],
       "rating": 6,
       "genre": "Synthpop",
-      "playTime": 140,
+      "playTime": 142,
       "playTime30Days": 0
     },
     {
@@ -2117,7 +2117,7 @@
       ],
       "rating": 9,
       "genre": "Deutscher Indie",
-      "playTime": 250,
+      "playTime": 251,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#4c6c8c"
@@ -2147,7 +2147,7 @@
       ],
       "rating": 7.9,
       "genre": "Experimental Rap",
-      "playTime": 388,
+      "playTime": 391,
       "playTime30Days": 0,
       "onVinyl": true,
       "color": "#158836FF"
@@ -2238,8 +2238,8 @@
       ],
       "rating": 7.9,
       "genre": "R&B",
-      "playTime": 119,
-      "playTime30Days": 0,
+      "playTime": 124,
+      "playTime30Days": 7,
       "color": "#6c2222"
     },
     {
@@ -2303,9 +2303,9 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 387,
+      "playTime": 388,
       "genre": "West Coast Hip Hop",
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#6c6c6c"
     },
     {
@@ -2394,7 +2394,7 @@
         }
       ],
       "rating": 6.9,
-      "playTime": 178,
+      "playTime": 180,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },
@@ -2457,7 +2457,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 37,
+      "playTime": 38,
       "genre": "Alt Rock",
       "color": "#7e6403",
       "playTime30Days": 0
@@ -2510,7 +2510,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 47,
+      "playTime": 48,
       "genre": "Rock",
       "playTime30Days": 0
     },

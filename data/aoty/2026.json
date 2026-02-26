@@ -24,11 +24,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/7ed2db08a3ba81c94ffcbcf224e0b9b3f3f656d7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 0,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 153,
       "genre": "Trap",
       "logged": "2026-02-12",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 48
     },
     {
       "url": "https://open.spotify.com/album/3tfR2tgOn3lTdlDh4NbNmk",
@@ -37,10 +38,11 @@
       "artist": "Ufo361",
       "songs": [],
       "rating": 4,
-      "playTime": 0,
+      "playTime": 15,
       "genre": "Deutschrap",
       "logged": "2026-02-12",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 15
     },
     {
       "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp",
@@ -66,10 +68,11 @@
         }
       ],
       "rating": 7,
-      "playTime": 0,
+      "playTime": 31,
       "genre": "Deutschrap",
       "logged": "2026-02-12",
-      "year": 2026
+      "year": 2026,
+      "playTime30Days": 31
     },
     {
       "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
@@ -90,10 +93,127 @@
           "preview_url": "https://p.scdn.co/mp3-preview/c787cc8269db693309616a03462835a55c068b36?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 6.0,
-      "playTime": 0,
+      "rating": 6,
+      "playTime": 28,
       "genre": "Southern Hip-Hop",
       "logged": "2026-02-12",
+      "year": 2026,
+      "playTime30Days": 28
+    },
+    {
+      "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dc56575f4083f8ff10a6981d",
+      "title": "Icon",
+      "artist": "Brent Faiyaz",
+      "songs": [
+        {
+          "title": "white noise.",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3d691de68656eacf1d643d34b4958730ab4b37f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "wrong faces.",
+          "preview_url": "https://p.scdn.co/mp3-preview/8e2c8d8366e512ab99ed3faadaa85a2d9f09cb66?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "have to.",
+          "preview_url": "https://p.scdn.co/mp3-preview/5f49b900a36c59aa1160de73d0b4ba0fcc57508b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Contemporary R&B",
+      "logged": "2026-02-26",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+      "title": "Wuthering Heights",
+      "artist": "Charli xcx",
+      "songs": [
+        {
+          "title": "Eyes of the World featuring Sky Ferreira",
+          "preview_url": "https://p.scdn.co/mp3-preview/13ea2d0858406a77fd6a8338a5021a58f915089f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "House featuring John Cale",
+          "preview_url": "https://p.scdn.co/mp3-preview/0090f96832558130db08e276ad94340b3bc662f7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wall of Sound",
+          "preview_url": "https://p.scdn.co/mp3-preview/c44c2ef3f8822de857e83cd796fb43f34185dbb4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Chains of Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/421ee63ddb138e0f86cf7f0d4144269d317eb02d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Alt-Pop",
+      "logged": "2026-02-26",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27308a27a15cf37664f0dab6ab7",
+      "title": "Ca$ino",
+      "artist": "Baby Keem",
+      "songs": [
+        {
+          "title": "No Security",
+          "preview_url": "https://p.scdn.co/mp3-preview/3d0820a028ce649daa978c8a1bba4cf2314973e5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+          "preview_url": "https://p.scdn.co/mp3-preview/68785327a1c5225e438adbf8548da049f72c91a8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I am not a Lyricist",
+          "preview_url": "https://p.scdn.co/mp3-preview/5d047f08cb16c344a891e0994150fcab1634ac44?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Highway 95 pt.2",
+          "preview_url": "https://p.scdn.co/mp3-preview/a95f51a3e43ee5bbc8da900d7d95701497b3d59d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Trap",
+      "logged": "2026-02-26",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/7bTdRjxIibLtPgYibpANiw",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c2ba316076bfc481bea78f52",
+      "title": "Super Sonic Youth",
+      "artist": "NILS KEPPEL",
+      "songs": [
+        {
+          "title": "Platzangst",
+          "preview_url": "https://p.scdn.co/mp3-preview/a07e797f52fecafb1fd24dddb5e4d99141ffcb15?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Keine Zukunft",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d5784cff43f6394d57f93a712b7bc0d8c815bdc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Super Sonic Youth",
+          "preview_url": "https://p.scdn.co/mp3-preview/82a6c57e7c2260ffe1930eeb20baab543ebea516?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Du, mein Soldat",
+          "preview_url": "https://p.scdn.co/mp3-preview/65bdc020b523c22d9b3f2e68d423ef0629319243?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Rebell",
+          "preview_url": "https://p.scdn.co/mp3-preview/682c361ad48555cfb9359f8b4a35ce13f3a8032a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.8,
+      "playTime": 0,
+      "genre": "Post Punk",
+      "logged": "2026-02-26",
       "year": 2026
     }
   ]

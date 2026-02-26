@@ -30,7 +30,7 @@
       ],
       "rating": 9.2,
       "onVinyl": true,
-      "playTime": 628,
+      "playTime": 630,
       "genre": "Rap",
       "playTime30Days": 0,
       "color": "#90a692"
@@ -63,7 +63,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 164,
+      "playTime": 165,
       "playTime30Days": 0,
       "color": "#622d00"
     },
@@ -126,7 +126,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 129,
+      "playTime": 132,
       "playTime30Days": 0
     },
     {
@@ -255,7 +255,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 123,
+      "playTime": 124,
       "playTime30Days": 0
     },
     {
@@ -377,8 +377,8 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 630,
-      "playTime30Days": 17
+      "playTime": 645,
+      "playTime30Days": 31
     },
     {
       "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
@@ -404,7 +404,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 253,
+      "playTime": 255,
       "playTime30Days": 0
     },
     {
@@ -540,7 +540,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 101,
+      "playTime": 102,
       "playTime30Days": 0
     },
     {
@@ -623,7 +623,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 30,
+      "playTime": 31,
       "playTime30Days": 0
     },
     {
@@ -649,7 +649,7 @@
       "title": "Faith",
       "artist": "Pop Smoke",
       "rating": 4,
-      "playTime": 155,
+      "playTime": 157,
       "genre": "Rap",
       "playTime30Days": 0
     },
@@ -721,7 +721,7 @@
       ],
       "rating": 6,
       "genre": "Rap",
-      "playTime": 282,
+      "playTime": 283,
       "playTime30Days": 0
     },
     {
@@ -895,7 +895,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 74,
+      "playTime": 75,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -923,7 +923,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 80,
+      "playTime": 81,
       "genre": "Alt-Pop",
       "playTime30Days": 0
     },
@@ -1145,7 +1145,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 33,
+      "playTime": 34,
       "genre": "Pop",
       "year": 2021,
       "playTime30Days": 0
