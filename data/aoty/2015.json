@@ -543,6 +543,35 @@
       "logged": "2025-09-18",
       "year": 2015,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27388d3a2c03886b0c034c7eb8f",
+      "title": "Por Vida",
+      "artist": "Kali Uchis",
+      "songs": [
+        {
+          "title": "Loner",
+          "preview_url": "https://p.scdn.co/mp3-preview/a600534c2ae575dfe52e72e0c4f5871d5dce3d6e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Melting",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7d7967d35565bf454ab8dc8b40593e2b1ca3e9c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Lottery",
+          "preview_url": "https://p.scdn.co/mp3-preview/a7bf6ab2901785821d1490c42879f6a98590a5c9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Sycamore Tree",
+          "preview_url": "https://p.scdn.co/mp3-preview/273a63a0a391fcf10b4729020c9fb9cb2fcb266d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.0,
+      "playTime": 0,
+      "genre": "R&B",
+      "logged": "2026-02-26",
+      "year": 2015
     }
   ]
 }
