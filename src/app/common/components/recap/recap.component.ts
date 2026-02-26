@@ -48,15 +48,12 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
     urls!: SongInfo[];
     interruptExpected = false;
 
-    // background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-
     defaultGradient: string = "#252525";
     linearGradients: string[] = [];
     destroyCalled = false;
 
     typedText$ : Observable<string> | undefined;
     typedArtist$ : Observable<string> | undefined;
-    typedSubInfo$: Observable<string> | undefined;
 
     private logger: Logger = new Logger("RecapComponent");
 
@@ -166,16 +163,6 @@ export class RecapComponent implements OnInit, OnDestroy, AfterViewInit {
         }
         this.activeAlbumNumber = this.activeAlbumNumber - 1;
         this.updateActiveAlbum(false);
-    }
-
-    pause() {
-        this.interruptExpected = true;
-        this.audioService.pause();
-        this.interruptExpected = false;
-    }
-
-    mute() {
-        this.audioService.mute();
     }
 
     updateActiveAlbum(reverse: boolean) {

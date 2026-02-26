@@ -10,7 +10,6 @@ import {SongInfo} from "../common/utils/songinfo";
 import {NgClass, NgIf} from "@angular/common";
 import {MuteButtonComponent} from "../common/components/mute-button/mute-button.component";
 import {Logger} from "../common/utils/logger";
-import {NormalizeHelper} from "../common/utils/normalize-helper";
 import {Sorting} from "../common/utils/sorting.enum";
 import {SearchCategory} from "../common/utils/search-category.enum";
 
@@ -32,8 +31,7 @@ export class HeaderComponent implements OnInit {
 
   constructor(private router : Router,
               private sotwService : SotwService,
-              private audioService : AudioService,
-              private route: ActivatedRoute) {
+              private audioService : AudioService) {
   }
 
   currentWeek : number = WeekHelper.getCurrentDateWeek();

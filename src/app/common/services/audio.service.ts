@@ -39,10 +39,6 @@ export class AudioService {
         })
     }
 
-    getVolume() {
-        return this.volume;
-    }
-
     getUrl() {
         return this.audio.src;
     }
