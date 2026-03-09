@@ -25,11 +25,11 @@
         }
       ],
       "rating": 6,
-      "playTime": 153,
+      "playTime": 183,
       "genre": "Trap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 48
+      "playTime30Days": 53
     },
     {
       "url": "https://open.spotify.com/album/3tfR2tgOn3lTdlDh4NbNmk",
@@ -42,7 +42,7 @@
       "genre": "Deutschrap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 15
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp",
@@ -68,11 +68,11 @@
         }
       ],
       "rating": 7,
-      "playTime": 31,
+      "playTime": 42,
       "genre": "Deutschrap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 31
+      "playTime30Days": 20
     },
     {
       "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
@@ -98,7 +98,7 @@
       "genre": "Southern Hip-Hop",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 28
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q",
@@ -150,11 +150,11 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 66,
+      "playTime": 107,
       "genre": "Alt-Pop",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 66
+      "playTime30Days": 107
     },
     {
       "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
@@ -180,11 +180,11 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 30,
+      "playTime": 61,
       "genre": "Trap",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 30
+      "playTime30Days": 61
     },
     {
       "url": "https://open.spotify.com/album/7bTdRjxIibLtPgYibpANiw",
@@ -214,11 +214,150 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 84,
+      "playTime": 253,
       "genre": "Post Punk",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 84
+      "playTime30Days": 253
+    },
+    {
+      "url": "https://open.spotify.com/album/2L19StaGk2Ni59e5gtZxYS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2739a1d1c7a700965166d61b78e",
+      "title": "HYPERYOUTH (afterparty)",
+      "artist": "Joey Valence & Brae",
+      "songs": [
+        {
+          "title": "friends",
+          "preview_url": "https://p.scdn.co/mp3-preview/d77a79f646e9e90a0c50cd4af1d199e8567f08a3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "bustamove",
+          "preview_url": "https://p.scdn.co/mp3-preview/fbcbeef8cce1e47b8e133d6e4438b4ca1090013d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "push the pipe",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd75139089aa33a998d43a691c240afc5ddca4d9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "how does it feel to be young",
+          "preview_url": "https://p.scdn.co/mp3-preview/c1b60cb30a43accbfb1eea6fd5f7c181abee66a7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 376,
+      "genre": "Hardcore Hip-Hop",
+      "logged": "2026-03-09",
+      "year": 2026,
+      "type": "Deluxe",
+      "playTime30Days": 58
+    },
+    {
+      "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
+      "title": "The Mountain",
+      "artist": "Gorillaz",
+      "songs": [
+        {
+          "title": "The Happy Dictator",
+          "preview_url": "https://p.scdn.co/mp3-preview/a4c85492356d3ecc06411ccd8ac9168585b5137a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Hardest Thing",
+          "preview_url": "https://p.scdn.co/mp3-preview/55fae3ca1648633dee0f7ec7a03c3d57d2f07a22?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Mountain",
+          "preview_url": "https://p.scdn.co/mp3-preview/910ddc5ae0450fe382bda0ca4b2e3ba6a618029e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Moon Cave",
+          "preview_url": "https://p.scdn.co/mp3-preview/9239db193262938015bbdc3ee75c4b0900767afd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 18,
+      "genre": "Art Pop",
+      "logged": "2026-03-09",
+      "year": 2026,
+      "playTime30Days": 18
+    },
+    {
+      "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731cc6f24606517f854014ca69",
+      "title": "The Romantic",
+      "artist": "Bruno Mars",
+      "songs": [
+        {
+          "title": "I Just Might",
+          "preview_url": "https://p.scdn.co/mp3-preview/25ec622e08fbe9588c7fca6e6b7203a3382ee490?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Risk It All",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf9fabe5127c58030e18aa85e70cd3f31bc43bb4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Pop",
+      "logged": "2026-03-09",
+      "year": 2026,
+      "playTime30Days": 9
+    },
+    {
+      "url": "https://open.spotify.com/album/0D5Js6PSJm4xsy872qRBgf",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b867e7d73b546ab78b987195",
+      "title": "Atlanta",
+      "artist": "Gnarls Barkley,\nCeeLo Green,\nDanger Mouse",
+      "songs": [
+        {
+          "title": "Cyberbully (Yayo)",
+          "preview_url": "https://p.scdn.co/mp3-preview/dbeb7baece5c8d19139d3c386f0709c80348af89?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Tomorrow Died Today",
+          "preview_url": "https://p.scdn.co/mp3-preview/4578b9868698c3580edb47e0c99ea4483995dbea?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Pictures",
+          "preview_url": "https://p.scdn.co/mp3-preview/54578fe5750846e0fe302142fa7a4f9799aeeb49?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 14,
+      "genre": "Neo Soul",
+      "logged": "2026-03-09",
+      "year": 2026,
+      "playTime30Days": 14
+    },
+    {
+      "url": "https://open.spotify.com/album/4vhZKLj3AB4e64DF1r6hTG",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734b839f399b19b3e996619fcc",
+      "title": "Strictly 4 The Scythe",
+      "artist": "Denzel Curry,\nThe Scythe",
+      "songs": [
+        {
+          "title": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
+          "preview_url": "https://p.scdn.co/mp3-preview/65d658868f56504e9e5fa906b1433d7906c550dd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "HOOPTY [Feat. TiaCorine & Smino]",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e601be5d8d1469ca65c3c0af43fb2c668928e7b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "TAN [Feat. Bktherula & TiaCorine]",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddf0280f73f8cd9d5493b19794241bd7c1daa571?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "UP [Feat. Rich The Kid, A$AP Ferg & SadBoi]",
+          "preview_url": "https://p.scdn.co/mp3-preview/442f00d946f3e83dd6660a070b912386b5d90287?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 13,
+      "genre": "Trap",
+      "logged": "2026-03-09",
+      "year": 2026,
+      "playTime30Days": 13
     }
   ]
 }

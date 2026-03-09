@@ -30,7 +30,7 @@
       ],
       "rating": 9.5,
       "playTime30Days": 0,
-      "playTime": 118,
+      "playTime": 119,
       "year": 1983,
       "color": "#00598e"
     },
@@ -129,8 +129,8 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 121,
-      "playTime30Days": 0,
+      "playTime": 124,
+      "playTime30Days": 5,
       "year": 1985,
       "color": "#716f6e"
     },
@@ -251,7 +251,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 18,
+      "playTime": 19,
       "playTime30Days": 0,
       "year": 1980
     },
@@ -283,7 +283,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 42,
+      "playTime": 43,
       "genre": "New Wave",
       "playTime30Days": 0
     },
@@ -319,7 +319,7 @@
       "genre": "Soul",
       "year": 1984,
       "color": "#366169",
-      "playTime30Days": 38
+      "playTime30Days": 22
     },
     {
       "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX",
@@ -517,7 +517,7 @@
       "genre": "Soul",
       "logged": "2026-02-26",
       "year": 1985,
-      "playTime30Days": 25
+      "playTime30Days": 0
     }
   ]
 }

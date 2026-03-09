@@ -131,7 +131,7 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 47,
+      "playTime": 48,
       "playTime30Days": 0,
       "year": 1965
     },
@@ -254,7 +254,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 61,
+      "playTime": 64,
       "genre": "Southern Soul",
       "year": 1964,
       "playTime30Days": 0
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 10,
-      "playTime": 308,
+      "playTime": 324,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 60,
+      "playTime30Days": 51,
       "color": "#b20a57"
     },
     {
@@ -524,7 +524,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 50,
+      "playTime": 51,
       "genre": "Motown Sound",
       "year": 1967,
       "playTime30Days": 0
@@ -582,11 +582,11 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 37,
+      "playTime": 41,
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",
-      "playTime30Days": 0
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
@@ -670,10 +670,40 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 32,
+      "playTime": 34,
       "genre": "Early Funk",
       "year": 1969,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0B6BbyElOe4bwziJrunOTe",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fdb85e117008b8f7d5add502",
+      "title": "James Brown Live At The Apollo, 1962",
+      "artist": "James Brown",
+      "songs": [
+        {
+          "title": "I'll Go Crazy",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf025d94e443c1584e516270e8099523f962b360?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Try Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/07a18b7a4646cbb7366176f9e567f7908dfed126?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Think",
+          "preview_url": "https://p.scdn.co/mp3-preview/b71ebbc302e8c29487a4d21dafd2679a04501714?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Night Train",
+          "preview_url": "https://p.scdn.co/mp3-preview/18123df642b6271272b9a327478c1699065c7a67?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 0,
+      "playTime": 0,
+      "genre": "Live",
+      "logged": "2026-03-09",
+      "year": 1963,
+      "playTime30Days": 8
     }
   ]
 }

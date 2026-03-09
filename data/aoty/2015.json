@@ -35,8 +35,8 @@
       "rating": 11.9,
       "onVinyl": true,
       "genre": "Rap",
-      "playTime": 1113,
-      "playTime30Days": 5,
+      "playTime": 1116,
+      "playTime30Days": 6,
       "color": "#291c13"
     },
     {
@@ -73,8 +73,8 @@
       "rating": 11.6,
       "onVinyl": false,
       "genre": "Rap",
-      "playTime": 1103,
-      "playTime30Days": 6,
+      "playTime": 1105,
+      "playTime30Days": 0,
       "color": "#7c7a79"
     },
     {
@@ -106,8 +106,8 @@
       ],
       "rating": 9.9,
       "genre": "Synthpop",
-      "playTime": 881,
-      "playTime30Days": 0,
+      "playTime": 884,
+      "playTime30Days": 5,
       "color": "#443152"
     },
     {
@@ -138,7 +138,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 278,
+      "playTime": 279,
       "playTime30Days": 0,
       "color": "#52050d"
     },
@@ -567,11 +567,12 @@
           "preview_url": "https://p.scdn.co/mp3-preview/273a63a0a391fcf10b4729020c9fb9cb2fcb266d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "playTime": 0,
       "genre": "R&B",
       "logged": "2026-02-26",
-      "year": 2015
+      "year": 2015,
+      "playTime30Days": 0
     }
   ]
 }

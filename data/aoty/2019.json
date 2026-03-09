@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 164,
+      "playTime": 165,
       "playTime30Days": 0,
       "color": "#001e28"
     },
@@ -100,7 +100,7 @@
       "rating": 10.4,
       "onVinyl": true,
       "genre": "Neo Soul",
-      "playTime": 883,
+      "playTime": 884,
       "playTime30Days": 0,
       "color": "#73535b"
     },
@@ -137,7 +137,7 @@
       ],
       "rating": 11.5,
       "onVinyl": true,
-      "playTime": 378,
+      "playTime": 381,
       "playTime30Days": 0,
       "color": "#0e3258"
     },
@@ -169,8 +169,8 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 113,
-      "playTime30Days": 5,
+      "playTime": 114,
+      "playTime30Days": 0,
       "color": "#6a9bac"
     },
     {
@@ -494,7 +494,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 42,
+      "playTime": 44,
       "playTime30Days": 0
     },
     {
@@ -732,7 +732,7 @@
       "rating": 7,
       "playTime": 100,
       "genre": "Trap",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x",
@@ -758,7 +758,7 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 928,
+      "playTime": 930,
       "genre": "Live",
       "playTime30Days": 0,
       "color": "#88888a"
@@ -787,9 +787,9 @@
         }
       ],
       "rating": 7,
-      "playTime": 168,
+      "playTime": 171,
       "genre": "R&B",
-      "playTime30Days": 6
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
@@ -813,7 +813,7 @@
       "rating": 6,
       "playTime": 52,
       "genre": "Pop",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5UVpPKPFL23UdaGafo0S9w",
@@ -839,7 +839,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 77,
+      "playTime": 78,
       "genre": "Trap",
       "playTime30Days": 0
     },
@@ -916,11 +916,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 159,
+      "playTime": 180,
       "genre": "Art Pop",
       "logged": "2025-10-23",
       "year": 2019,
-      "playTime30Days": 41
+      "playTime30Days": 61
     }
   ]
 }

@@ -41,7 +41,7 @@
       "rating": 9.4,
       "playTime": 753,
       "genre": "Latin",
-      "playTime30Days": 39,
+      "playTime30Days": 38,
       "onVinyl": true,
       "color": "#729238"
     },
@@ -73,7 +73,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 349,
+      "playTime": 350,
       "genre": "Rap",
       "playTime30Days": 0,
       "color": "#1f4072",
@@ -113,9 +113,9 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 230,
+      "playTime": 238,
       "genre": "Electronic",
-      "playTime30Days": 7,
+      "playTime30Days": 11,
       "color": "#6e5042"
     },
     {
@@ -854,10 +854,10 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 522,
+      "playTime": 538,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 16,
       "onVinyl": true,
       "color": "#855e69"
     },
@@ -996,7 +996,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 268,
+      "playTime": 269,
       "genre": "Art Pop",
       "year": 2025,
       "playTime30Days": 0,
@@ -1191,10 +1191,10 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 344,
+      "playTime": 348,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 20,
+      "playTime30Days": 8,
       "color": "#3f1312"
     },
     {
@@ -1430,7 +1430,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 108,
+      "playTime": 109,
       "genre": "Hip-Hop",
       "year": 2025,
       "playTime30Days": 0,
@@ -1499,10 +1499,10 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 181,
+      "playTime": 182,
       "genre": "Folktronica",
       "year": 2025,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#1a2334"
     },
     {
@@ -1668,10 +1668,10 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 319,
+      "playTime": 376,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 58,
       "color": "#b84a42"
     },
     {
@@ -1724,7 +1724,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 239,
+      "playTime": 240,
       "genre": "Jazz Fusion",
       "year": 2025,
       "logged": "2025-08-28",
@@ -1821,11 +1821,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 318,
+      "playTime": 330,
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 22,
+      "playTime30Days": 26,
       "color": "#370e05"
     },
     {
@@ -1986,11 +1986,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 234,
+      "playTime": 244,
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 84,
+      "playTime30Days": 75,
       "color": "#3d4043"
     },
     {
@@ -2044,7 +2044,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 108,
+      "playTime": 109,
       "genre": "Dance-Pop",
       "logged": "2025-10-19",
       "year": 2025,
@@ -2212,7 +2212,7 @@
       "logged": "2025-11-06",
       "onVinyl": true,
       "year": 2025,
-      "playTime30Days": 10
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
@@ -2242,7 +2242,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 369,
+      "playTime": 375,
       "genre": "Art Pop",
       "logged": "2025-11-17",
       "year": 2025,

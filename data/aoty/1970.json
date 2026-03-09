@@ -35,8 +35,8 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 352,
-      "playTime30Days": 0,
+      "playTime": 355,
+      "playTime30Days": 5,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 141,
+      "playTime": 144,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -520,7 +520,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 54,
+      "playTime": 55,
       "genre": "Soul",
       "year": 1971,
       "color": "#4b796b",
@@ -674,10 +674,10 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 62,
+      "playTime": 64,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 5,
+      "playTime30Days": 7,
       "color": "#b23837"
     },
     {
@@ -742,7 +742,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 20,
+      "playTime": 22,
       "genre": "Progressive Soul",
       "year": 1971,
       "playTime30Days": 0
@@ -771,7 +771,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 17,
+      "playTime": 18,
       "genre": "Progressive Soul",
       "year": 1971,
       "playTime30Days": 0
@@ -920,7 +920,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 21,
+      "playTime": 22,
       "genre": "Philly Soul",
       "year": 1972,
       "playTime30Days": 0,
@@ -983,7 +983,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 22,
+      "playTime": 24,
       "genre": "Early Funk",
       "year": 1973,
       "playTime30Days": 0,
@@ -1153,7 +1153,7 @@
       "genre": "Disco",
       "logged": "2025-10-19",
       "year": 1979,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0EM4Q0JUVZ8FNqmT5CI2E7",
@@ -1183,7 +1183,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 22,
+      "playTime": 25,
       "genre": "Smooth Soul",
       "logged": "2025-10-19",
       "year": 1976,
@@ -1225,7 +1225,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 28,
+      "playTime": 30,
       "genre": "P-Funk",
       "logged": "2025-11-08",
       "year": 1977,

@@ -97,7 +97,7 @@
         }
       ],
       "rating": 9,
-      "playTime": 192,
+      "playTime": 193,
       "playTime30Days": 0,
       "color": "#3b5a22"
     },
@@ -129,7 +129,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 260,
+      "playTime": 261,
       "playTime30Days": 0,
       "color": "#8c8f95"
     },
@@ -225,7 +225,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 121,
+      "playTime": 122,
       "playTime30Days": 0,
       "color": "#b8260f"
     },
@@ -257,7 +257,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 345,
+      "playTime": 348,
       "playTime30Days": 0,
       "color": "#a28c6a"
     },
@@ -289,8 +289,8 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 268,
-      "playTime30Days": 0,
+      "playTime": 270,
+      "playTime30Days": 5,
       "color": "#434754"
     },
     {
@@ -325,8 +325,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 256,
-      "playTime30Days": 0,
+      "playTime": 260,
+      "playTime30Days": 7,
       "color": "#872550"
     },
     {
@@ -456,8 +456,8 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 655,
-      "playTime30Days": 6,
+      "playTime": 660,
+      "playTime30Days": 7,
       "color": "#4c4559"
     },
     {
@@ -488,7 +488,7 @@
         }
       ],
       "rating": 8.4,
-      "playTime": 98,
+      "playTime": 100,
       "playTime30Days": 0,
       "color": "#a96f63"
     },
@@ -634,7 +634,7 @@
       ],
       "rating": 7.1,
       "genre": "Live Performance",
-      "playTime": 693,
+      "playTime": 694,
       "playTime30Days": 0
     },
     {
@@ -745,7 +745,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 57,
+      "playTime": 59,
       "playTime30Days": 0,
       "color": "#6a9294"
     },
@@ -800,7 +800,7 @@
         }
       ],
       "rating": 7.4,
-      "playTime": 33,
+      "playTime": 34,
       "playTime30Days": 0,
       "color": "#32169e"
     },
@@ -939,8 +939,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 82,
-      "playTime30Days": 6,
+      "playTime": 85,
+      "playTime30Days": 7,
       "color": "#967354"
     },
     {
@@ -1078,8 +1078,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 102,
-      "playTime30Days": 38,
+      "playTime": 106,
+      "playTime30Days": 39,
       "color": "#66639e"
     },
     {
@@ -1738,7 +1738,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 22,
+      "playTime": 23,
       "playTime30Days": 0
     },
     {
@@ -1975,7 +1975,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 85,
+      "playTime": 87,
       "genre": "Dance Pop",
       "playTime30Days": 0
     },
@@ -2237,7 +2237,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 56,
+      "playTime": 57,
       "genre": "Electronic",
       "year": 2023,
       "playTime30Days": 0
@@ -2269,12 +2269,13 @@
           "preview_url": "https://p.scdn.co/mp3-preview/af87f7d76febba2260954e8fe37634cd9e3be57d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8.8,
+      "rating": 9.1,
       "playTime": 317,
       "genre": "Electropop",
       "logged": "2025-11-27",
       "year": 2023,
-      "playTime30Days": 110
+      "playTime30Days": 64,
+      "color": "#45678e"
     }
   ]
 }
