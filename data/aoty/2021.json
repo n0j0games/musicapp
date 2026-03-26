@@ -95,8 +95,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 167,
-      "playTime30Days": 0
+      "playTime": 173,
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR",
@@ -126,8 +126,8 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 133,
-      "playTime30Days": 5
+      "playTime": 136,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7kHYB1VwzhCvT1gzKZTnKB",
@@ -224,8 +224,8 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 152,
-      "playTime30Days": 0
+      "playTime": 161,
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX",
@@ -255,7 +255,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 124,
+      "playTime": 125,
       "playTime30Days": 0
     },
     {
@@ -286,8 +286,8 @@
         }
       ],
       "rating": 9,
-      "playTime": 588,
-      "playTime30Days": 46,
+      "playTime": 615,
+      "playTime30Days": 73,
       "color": "#a36f12"
     },
     {
@@ -377,8 +377,8 @@
       ],
       "rating": 7.8,
       "genre": "Rap",
-      "playTime": 645,
-      "playTime30Days": 15
+      "playTime": 647,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4OqaUmBOmOV31pDghIN9KO",
@@ -540,7 +540,7 @@
         }
       ],
       "rating": 7.1,
-      "playTime": 102,
+      "playTime": 103,
       "playTime30Days": 0
     },
     {
@@ -895,7 +895,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 75,
+      "playTime": 76,
       "genre": "Synthpop",
       "playTime30Days": 0
     },
@@ -1027,7 +1027,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 200,
+      "playTime": 203,
       "genre": "Soundtrack",
       "playTime30Days": 0
     },
@@ -1145,10 +1145,10 @@
         }
       ],
       "rating": 7,
-      "playTime": 34,
+      "playTime": 55,
       "genre": "Pop",
       "year": 2021,
-      "playTime30Days": 0
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb",

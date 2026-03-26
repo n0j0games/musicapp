@@ -35,8 +35,8 @@
       "rating": 11.4,
       "onVinyl": true,
       "genre": "Soul",
-      "playTime": 355,
-      "playTime30Days": 5,
+      "playTime": 356,
+      "playTime30Days": 0,
       "year": 1976,
       "color": "#f58e39"
     },
@@ -69,7 +69,7 @@
       ],
       "rating": 11.2,
       "genre": "Rock",
-      "playTime": 144,
+      "playTime": 145,
       "playTime30Days": 0,
       "year": 1975,
       "color": "#546071"
@@ -205,7 +205,7 @@
       ],
       "rating": 8.2,
       "genre": "Jazz",
-      "playTime": 84,
+      "playTime": 85,
       "playTime30Days": 0,
       "year": 1979
     },
@@ -363,7 +363,7 @@
       ],
       "rating": 7.3,
       "genre": "Disco",
-      "playTime": 23,
+      "playTime": 27,
       "playTime30Days": 0,
       "year": 1976
     },
@@ -458,7 +458,7 @@
       ],
       "rating": 9.3,
       "genre": "Disco",
-      "playTime": 61,
+      "playTime": 63,
       "playTime30Days": 0,
       "year": 1978,
       "color": "#aa546d"
@@ -674,10 +674,10 @@
         }
       ],
       "rating": 9.3,
-      "playTime": 64,
+      "playTime": 65,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 7,
+      "playTime30Days": 5,
       "color": "#b23837"
     },
     {
@@ -708,7 +708,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 53,
+      "playTime": 56,
       "genre": "Smooth Soul",
       "year": 1970,
       "playTime30Days": 0,
@@ -1149,7 +1149,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 69,
+      "playTime": 73,
       "genre": "Disco",
       "logged": "2025-10-19",
       "year": 1979,
@@ -1259,11 +1259,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 34,
+      "playTime": 41,
       "genre": "Disco",
       "logged": "2025-11-08",
       "year": 1976,
-      "playTime30Days": 0
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd",
@@ -1444,7 +1444,7 @@
       "genre": "Jazz",
       "logged": "2026-02-26",
       "year": 1976,
-      "playTime30Days": 12
+      "playTime30Days": 0
     },
     {
       "url": "https://www.albumoftheyear.org/album/802867-eruption-eruption.php",

@@ -25,11 +25,11 @@
         }
       ],
       "rating": 6,
-      "playTime": 183,
+      "playTime": 198,
       "genre": "Trap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 53
+      "playTime30Days": 45
     },
     {
       "url": "https://open.spotify.com/album/3tfR2tgOn3lTdlDh4NbNmk",
@@ -72,7 +72,7 @@
       "genre": "Deutschrap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 20
+      "playTime30Days": 11
     },
     {
       "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
@@ -124,7 +124,7 @@
       "genre": "Contemporary R&B",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 11
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e",
@@ -150,11 +150,11 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 107,
+      "playTime": 116,
       "genre": "Alt-Pop",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 107
+      "playTime30Days": 57
     },
     {
       "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
@@ -180,11 +180,11 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 61,
+      "playTime": 80,
       "genre": "Trap",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 61
+      "playTime30Days": 56
     },
     {
       "url": "https://open.spotify.com/album/7bTdRjxIibLtPgYibpANiw",
@@ -214,11 +214,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 253,
+      "playTime": 326,
       "genre": "Post Punk",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 253
+      "playTime30Days": 282
     },
     {
       "url": "https://open.spotify.com/album/2L19StaGk2Ni59e5gtZxYS",
@@ -244,12 +244,12 @@
         }
       ],
       "rating": 8,
-      "playTime": 376,
+      "playTime": 406,
       "genre": "Hardcore Hip-Hop",
       "logged": "2026-03-09",
       "year": 2026,
       "type": "Deluxe",
-      "playTime30Days": 58
+      "playTime30Days": 84
     },
     {
       "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD",
@@ -358,6 +358,98 @@
       "logged": "2026-03-09",
       "year": 2026,
       "playTime30Days": 13
+    },
+    {
+      "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273cab898cdda3ee7d1e9b25646",
+      "title": "U",
+      "artist": "underscores",
+      "songs": [
+        {
+          "title": "Tell Me (U Want It)",
+          "preview_url": "https://p.scdn.co/mp3-preview/0f8ee362fb23b7f54b8ca93bd955d7cb246cfb24?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Music",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9fdf108e96a8d6d0d0a8833244751fd56ec69e7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hollywood Forever",
+          "preview_url": "https://p.scdn.co/mp3-preview/6e66b3dfdf31ea0a72a88faba5d4b222297ffc50?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Innuendo (I Get U)",
+          "preview_url": "https://p.scdn.co/mp3-preview/d8d6c7187d0da0ce55c14b1bc1d64bae990469bb?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Do It",
+          "preview_url": "https://p.scdn.co/mp3-preview/bff00890cb1d3d8d901b31dd71d64d8ef68f4082?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 38,
+      "genre": "Electropop",
+      "logged": "2026-03-26",
+      "year": 2026,
+      "playTime30Days": 38
+    },
+    {
+      "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27331646844acc328f1aac59fea",
+      "title": "Monica",
+      "artist": "Jack Harlow",
+      "rating": 4,
+      "playTime": 0,
+      "genre": "R&B",
+      "logged": "2026-03-26",
+      "year": 2026,
+      "playTime30Days": 6
+    },
+    {
+      "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273884dd01508605dca727d8993",
+      "title": "Trying Times",
+      "artist": "James Blake",
+      "songs": [
+        {
+          "title": "Death of Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/5534d3f077275c3fd1f64288772f890a310308a4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Had a Dream She Took My Hand",
+          "preview_url": "https://p.scdn.co/mp3-preview/151e8c487882f5b8c19fe57b3f3013bab4a63a77?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Walk Out Music",
+          "preview_url": "https://p.scdn.co/mp3-preview/ff600b2185c7641cdac3257a2d4de1cd5a85f24c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Trying Times",
+          "preview_url": "https://p.scdn.co/mp3-preview/0c45dcc8e274d3c1ceb7a7bdbcece49c2bc06563?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Just A Little Higher",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9ecff018cf4fae97ebffebfa7bf38d8cf4657f9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 54,
+      "genre": "Art Pop",
+      "logged": "2026-03-26",
+      "year": 2026,
+      "playTime30Days": 54
+    },
+    {
+      "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ba4fa604f046ff824331f4f4",
+      "title": "ARIRANG",
+      "artist": "BTS",
+      "rating": 4,
+      "playTime": 0,
+      "genre": "K-Pop",
+      "logged": "2026-03-26",
+      "year": 2026,
+      "playTime30Days": 0
     }
   ]
 }

@@ -102,7 +102,7 @@
         }
       ],
       "rating": 11.1,
-      "playTime": 400,
+      "playTime": 403,
       "playTime30Days": 0,
       "onVinyl": true,
       "year": 2001,
@@ -136,8 +136,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 192,
-      "playTime30Days": 5,
+      "playTime": 193,
+      "playTime30Days": 0,
       "year": 2007,
       "color": "#006082"
     },
@@ -204,8 +204,8 @@
         }
       ],
       "rating": 10.1,
-      "playTime": 563,
-      "playTime30Days": 5,
+      "playTime": 571,
+      "playTime30Days": 12,
       "year": 2005,
       "color": "#001621"
     },
@@ -299,8 +299,8 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 365,
-      "playTime30Days": 0,
+      "playTime": 366,
+      "playTime30Days": 5,
       "year": 2001,
       "color": "#453c35"
     },
@@ -332,8 +332,8 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 144,
-      "playTime30Days": 11,
+      "playTime": 149,
+      "playTime30Days": 8,
       "year": 2009,
       "color": "#4c4c4c"
     },
@@ -365,7 +365,7 @@
         }
       ],
       "rating": 9.6,
-      "playTime": 208,
+      "playTime": 212,
       "playTime30Days": 0,
       "year": 2009,
       "color": "#ad4362"
@@ -464,7 +464,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 25,
+      "playTime": 26,
       "playTime30Days": 0,
       "year": 2007
     },
@@ -940,7 +940,7 @@
         }
       ],
       "rating": 9.5,
-      "playTime": 82,
+      "playTime": 85,
       "genre": "French House",
       "year": 2007,
       "playTime30Days": 0,
@@ -1090,7 +1090,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 64,
+      "playTime": 66,
       "genre": "Hip-Hop",
       "year": 2003,
       "playTime30Days": 0
@@ -1185,7 +1185,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 78,
+      "playTime": 80,
       "genre": "Art Pop",
       "year": 2008,
       "playTime30Days": 0
@@ -1218,10 +1218,10 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 82,
+      "playTime": 89,
       "genre": "Dance Pop",
       "year": 2005,
-      "playTime30Days": 0
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y",
@@ -1239,10 +1239,10 @@
         }
       ],
       "rating": 6,
-      "playTime": 62,
+      "playTime": 68,
       "genre": "Pop",
       "year": 2003,
-      "playTime30Days": 0
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO",
@@ -1268,10 +1268,10 @@
         }
       ],
       "rating": 8,
-      "playTime": 98,
+      "playTime": 104,
       "genre": "Dance-Pop",
       "year": 2006,
-      "playTime30Days": 0
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU",
@@ -1318,11 +1318,11 @@
         }
       ],
       "rating": 7,
-      "playTime": 45,
+      "playTime": 52,
       "genre": "Pop",
       "logged": "2026-02-12",
       "year": 2008,
-      "playTime30Days": 8
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t",
@@ -1348,11 +1348,11 @@
         }
       ],
       "rating": 7,
-      "playTime": 18,
+      "playTime": 25,
       "genre": "Dance-Pop",
       "logged": "2026-02-26",
       "year": 2001,
-      "playTime30Days": 16
+      "playTime30Days": 7
     }
   ]
 }

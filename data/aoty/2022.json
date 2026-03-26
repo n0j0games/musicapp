@@ -30,8 +30,8 @@
       ],
       "rating": 11.8,
       "genre": "Dance Pop",
-      "playTime": 1760,
-      "playTime30Days": 53,
+      "playTime": 1789,
+      "playTime30Days": 32,
       "color": "#465b6b"
     },
     {
@@ -62,8 +62,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 706,
-      "playTime30Days": 0,
+      "playTime": 710,
+      "playTime30Days": 5,
       "color": "#1c1613"
     },
     {
@@ -161,7 +161,7 @@
       "rating": 9.2,
       "onVinyl": true,
       "genre": "Synthpop",
-      "playTime": 1006,
+      "playTime": 1012,
       "playTime30Days": 5,
       "color": "#123b49"
     },
@@ -227,7 +227,7 @@
       ],
       "rating": 9.6,
       "genre": "Rap",
-      "playTime": 1034,
+      "playTime": 1036,
       "playTime30Days": 0,
       "color": "#4e270c"
     },
@@ -258,9 +258,9 @@
           "preview_url": "https://p.scdn.co/mp3-preview/ec39acb4ea235e6e8d8c6011fc86a1bd6f16f212?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.9,
-      "playTime": 503,
-      "playTime30Days": 40,
+      "rating": 10,
+      "playTime": 505,
+      "playTime30Days": 6,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -490,7 +490,7 @@
       ],
       "rating": 8.6,
       "playTime": 275,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#8d410d"
     },
@@ -522,7 +522,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 262,
+      "playTime": 263,
       "playTime30Days": 0,
       "color": "#141c36"
     },
@@ -555,7 +555,7 @@
       ],
       "rating": 8.4,
       "playTime": 180,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#0676c1"
     },
     {
@@ -619,7 +619,7 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 431,
+      "playTime": 433,
       "playTime30Days": 0,
       "color": "#001732"
     },
@@ -711,7 +711,7 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 46,
+      "playTime": 47,
       "playTime30Days": 0
     },
     {
@@ -1355,7 +1355,7 @@
       ],
       "rating": 6.9,
       "playTime": 179,
-      "playTime30Days": 7,
+      "playTime30Days": 6,
       "color": "#5d3939"
     },
     {
@@ -1431,7 +1431,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 116,
+      "playTime": 117,
       "playTime30Days": 0
     },
     {
@@ -1923,7 +1923,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 62,
+      "playTime": 65,
       "genre": "Hyperpop",
       "playTime30Days": 0
     },
@@ -2080,11 +2080,11 @@
         }
       ],
       "rating": 6,
-      "playTime": 52,
+      "playTime": 54,
       "genre": "Latin Rap",
       "logged": "2026-02-12",
       "year": 2022,
-      "playTime30Days": 45
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM",
@@ -2110,7 +2110,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 44,
+      "playTime": 47,
       "genre": "Alternative R&B",
       "logged": "2026-02-26",
       "year": 2022,

@@ -67,8 +67,8 @@
         }
       ],
       "rating": 10.7,
-      "playTime": 224,
-      "playTime30Days": 20,
+      "playTime": 225,
+      "playTime30Days": 0,
       "year": 1992,
       "color": "#3a322d"
     },
@@ -100,8 +100,8 @@
         }
       ],
       "rating": 9.9,
-      "playTime": 185,
-      "playTime30Days": 5,
+      "playTime": 186,
+      "playTime30Days": 0,
       "year": 1999,
       "color": "#001743"
     },
@@ -133,7 +133,7 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 151,
+      "playTime": 153,
       "playTime30Days": 0,
       "year": 1998,
       "color": "#933a2b"
@@ -166,7 +166,7 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 128,
+      "playTime": 130,
       "playTime30Days": 0,
       "year": 1997,
       "color": "#43495f"
@@ -281,7 +281,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 85,
+      "playTime": 86,
       "playTime30Days": 0,
       "year": 1994
     },
@@ -345,7 +345,7 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 91,
+      "playTime": 93,
       "playTime30Days": 0,
       "year": 1990
     },
@@ -373,7 +373,7 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 43,
+      "playTime": 44,
       "playTime30Days": 0,
       "year": 1993
     },
@@ -401,8 +401,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 11,
-      "playTime30Days": 0,
+      "playTime": 19,
+      "playTime30Days": 8,
       "year": 1991
     },
     {
@@ -659,7 +659,7 @@
       "playTime": 157,
       "genre": "Jazz-Fusion",
       "year": 1998,
-      "playTime30Days": 19,
+      "playTime30Days": 0,
       "color": "#7a1511"
     },
     {
@@ -719,7 +719,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 15,
+      "playTime": 16,
       "genre": "Hip-Hop",
       "year": 1999,
       "playTime30Days": 0

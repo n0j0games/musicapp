@@ -172,8 +172,8 @@
         }
       ],
       "rating": 7.9,
-      "playTime": 302,
-      "playTime30Days": 5
+      "playTime": 303,
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd",
@@ -297,7 +297,7 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 31,
+      "playTime": 33,
       "genre": "Hip-Hop",
       "year": 2014,
       "playTime30Days": 0
@@ -326,7 +326,7 @@
         }
       ],
       "rating": 7,
-      "playTime": 34,
+      "playTime": 36,
       "genre": "Art Pop",
       "logged": "2026-02-26",
       "year": 2014,

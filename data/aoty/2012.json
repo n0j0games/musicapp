@@ -62,8 +62,8 @@
         }
       ],
       "rating": 9.8,
-      "playTime": 529,
-      "playTime30Days": 0,
+      "playTime": 534,
+      "playTime30Days": 6,
       "color": "#51aab9"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rating": 9.8,
       "genre": "Alternative R&B",
-      "playTime": 618,
+      "playTime": 620,
       "playTime30Days": 0,
       "color": "#8d4313"
     },
@@ -190,8 +190,8 @@
         }
       ],
       "rating": 8,
-      "playTime": 77,
-      "playTime30Days": 0
+      "playTime": 100,
+      "playTime30Days": 23
     },
     {
       "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI",
@@ -217,7 +217,7 @@
         }
       ],
       "rating": 7.3,
-      "playTime": 44,
+      "playTime": 45,
       "playTime30Days": 0
     },
     {

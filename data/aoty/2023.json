@@ -129,8 +129,8 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 261,
-      "playTime30Days": 0,
+      "playTime": 266,
+      "playTime30Days": 6,
       "color": "#8c8f95"
     },
     {
@@ -257,8 +257,8 @@
         }
       ],
       "rating": 9.7,
-      "playTime": 348,
-      "playTime30Days": 0,
+      "playTime": 354,
+      "playTime30Days": 9,
       "color": "#a28c6a"
     },
     {
@@ -290,7 +290,7 @@
       ],
       "rating": 9.2,
       "playTime": 270,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#434754"
     },
     {
@@ -456,7 +456,7 @@
       ],
       "rating": 8.8,
       "genre": "Psychadelic Rock",
-      "playTime": 660,
+      "playTime": 661,
       "playTime30Days": 7,
       "color": "#4c4559"
     },
@@ -939,8 +939,8 @@
         }
       ],
       "rating": 7.8,
-      "playTime": 85,
-      "playTime30Days": 7,
+      "playTime": 87,
+      "playTime30Days": 0,
       "color": "#967354"
     },
     {
@@ -1078,8 +1078,8 @@
         }
       ],
       "rating": 7.5,
-      "playTime": 106,
-      "playTime30Days": 39,
+      "playTime": 114,
+      "playTime30Days": 28,
       "color": "#66639e"
     },
     {
@@ -1160,8 +1160,8 @@
         }
       ],
       "rating": 7.6,
-      "playTime": 172,
-      "playTime30Days": 5,
+      "playTime": 173,
+      "playTime30Days": 0,
       "color": "#251c2d"
     },
     {
@@ -1558,7 +1558,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 134,
+      "playTime": 135,
       "playTime30Days": 0
     },
     {
@@ -1646,7 +1646,7 @@
         }
       ],
       "rating": 6.1,
-      "playTime": 205,
+      "playTime": 208,
       "playTime30Days": 0
     },
     {
@@ -1975,9 +1975,9 @@
         }
       ],
       "rating": 5,
-      "playTime": 87,
+      "playTime": 90,
       "genre": "Dance Pop",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/7hCDEPx9vObaxVQi8UJQx0",
@@ -2237,7 +2237,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 57,
+      "playTime": 58,
       "genre": "Electronic",
       "year": 2023,
       "playTime30Days": 0
@@ -2270,11 +2270,11 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 317,
+      "playTime": 322,
       "genre": "Electropop",
       "logged": "2025-11-27",
       "year": 2023,
-      "playTime30Days": 64,
+      "playTime30Days": 0,
       "color": "#45678e"
     }
   ]

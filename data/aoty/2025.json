@@ -39,9 +39,9 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 753,
+      "playTime": 755,
       "genre": "Latin",
-      "playTime30Days": 38,
+      "playTime30Days": 0,
       "onVinyl": true,
       "color": "#729238"
     },
@@ -113,9 +113,9 @@
         }
       ],
       "rating": 8.1,
-      "playTime": 238,
+      "playTime": 277,
       "genre": "Electronic",
-      "playTime30Days": 11,
+      "playTime30Days": 47,
       "color": "#6e5042"
     },
     {
@@ -146,7 +146,7 @@
         }
       ],
       "rating": 8.2,
-      "playTime": 723,
+      "playTime": 727,
       "genre": "Synthpop",
       "onVinyl": true,
       "playTime30Days": 0,
@@ -317,9 +317,9 @@
         }
       ],
       "rating": 5,
-      "playTime": 36,
+      "playTime": 43,
       "genre": "Pop",
-      "playTime30Days": 0
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB",
@@ -370,9 +370,9 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 30,
+      "playTime": 37,
       "genre": "Pop",
-      "playTime30Days": 0,
+      "playTime30Days": 7,
       "color": "#565656"
     },
     {
@@ -454,7 +454,7 @@
         }
       ],
       "rating": 5,
-      "playTime": 10,
+      "playTime": 11,
       "genre": "Pop",
       "playTime30Days": 0
     },
@@ -854,10 +854,10 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 538,
+      "playTime": 540,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 16,
+      "playTime30Days": 18,
       "onVinyl": true,
       "color": "#855e69"
     },
@@ -996,7 +996,7 @@
         }
       ],
       "rating": 8.6,
-      "playTime": 269,
+      "playTime": 270,
       "genre": "Art Pop",
       "year": 2025,
       "playTime30Days": 0,
@@ -1064,7 +1064,7 @@
         }
       ],
       "rating": 8.3,
-      "playTime": 153,
+      "playTime": 154,
       "genre": "Hip-Hop",
       "year": 2025,
       "playTime30Days": 0,
@@ -1191,10 +1191,10 @@
         }
       ],
       "rating": 9.1,
-      "playTime": 348,
+      "playTime": 369,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 8,
+      "playTime30Days": 25,
       "color": "#3f1312"
     },
     {
@@ -1668,10 +1668,10 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 376,
+      "playTime": 406,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 58,
+      "playTime30Days": 84,
       "color": "#b84a42"
     },
     {
@@ -1825,7 +1825,7 @@
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 26,
+      "playTime30Days": 13,
       "color": "#370e05"
     },
     {
@@ -1952,7 +1952,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 18,
+      "playTime": 19,
       "genre": "Dancepop",
       "logged": "2025-09-29",
       "year": 2025,
@@ -1986,11 +1986,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 244,
+      "playTime": 246,
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 75,
+      "playTime30Days": 13,
       "color": "#3d4043"
     },
     {
@@ -2139,7 +2139,7 @@
         }
       ],
       "rating": 8,
-      "playTime": 160,
+      "playTime": 161,
       "genre": "Salsa",
       "logged": "2025-11-08",
       "year": 2025,
@@ -2171,7 +2171,7 @@
         }
       ],
       "rating": 7.2,
-      "playTime": 20,
+      "playTime": 21,
       "genre": "Experimental Hip-Hop",
       "logged": "2025-11-08",
       "year": 2025,
@@ -2206,13 +2206,13 @@
         }
       ],
       "rating": 9.2,
-      "playTime": 671,
+      "playTime": 685,
       "genre": "Orchestral",
       "color": "#7a90a2",
       "logged": "2025-11-06",
       "onVinyl": true,
       "year": 2025,
-      "playTime30Days": 5
+      "playTime30Days": 14
     },
     {
       "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
@@ -2242,11 +2242,11 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 375,
+      "playTime": 383,
       "genre": "Art Pop",
       "logged": "2025-11-17",
       "year": 2025,
-      "playTime30Days": 17,
+      "playTime30Days": 14,
       "color": "#58679c"
     },
     {

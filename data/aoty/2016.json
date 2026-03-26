@@ -30,9 +30,9 @@
       ],
       "rating": 9.5,
       "onVinyl": true,
-      "playTime": 748,
+      "playTime": 749,
       "genre": "Alternative R&B",
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#2f3f28"
     },
     {
@@ -95,7 +95,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 252,
+      "playTime": 253,
       "playTime30Days": 0,
       "color": "#437b76"
     },
@@ -123,7 +123,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 25,
+      "playTime": 27,
       "playTime30Days": 0,
       "color": "#494a66"
     },
@@ -182,7 +182,7 @@
         }
       ],
       "rating": 8.5,
-      "playTime": 99,
+      "playTime": 101,
       "playTime30Days": 0
     },
     {
@@ -214,7 +214,7 @@
       ],
       "rating": 8.5,
       "genre": "Pop",
-      "playTime": 719,
+      "playTime": 721,
       "playTime30Days": 0
     },
     {
@@ -245,7 +245,7 @@
         }
       ],
       "rating": 8.7,
-      "playTime": 132,
+      "playTime": 133,
       "playTime30Days": 0
     },
     {
@@ -277,7 +277,7 @@
       ],
       "rating": 8,
       "genre": "Rap",
-      "playTime": 426,
+      "playTime": 427,
       "playTime30Days": 0
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "rating": 8.9,
-      "playTime": 172,
+      "playTime": 173,
       "playTime30Days": 0,
       "color": "#9194cb"
     },
@@ -542,7 +542,7 @@
         }
       ],
       "rating": 7.7,
-      "playTime": 80,
+      "playTime": 81,
       "playTime30Days": 0
     },
     {
@@ -711,7 +711,7 @@
         }
       ],
       "rating": 6,
-      "playTime": 137,
+      "playTime": 138,
       "playTime30Days": 0
     },
     {

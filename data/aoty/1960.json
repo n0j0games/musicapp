@@ -131,7 +131,7 @@
       ],
       "rating": 8.2,
       "genre": "Soul",
-      "playTime": 48,
+      "playTime": 49,
       "playTime30Days": 0,
       "year": 1965
     },
@@ -378,10 +378,10 @@
         }
       ],
       "rating": 10,
-      "playTime": 324,
+      "playTime": 326,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 51,
+      "playTime30Days": 18,
       "color": "#b20a57"
     },
     {
@@ -586,7 +586,7 @@
       "genre": "Progressive Soul",
       "year": 1969,
       "color": "#2e1e11",
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",

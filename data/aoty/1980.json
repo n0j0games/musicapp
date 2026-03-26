@@ -30,7 +30,7 @@
       ],
       "rating": 9.5,
       "playTime30Days": 0,
-      "playTime": 119,
+      "playTime": 121,
       "year": 1983,
       "color": "#00598e"
     },
@@ -62,7 +62,7 @@
         }
       ],
       "rating": 9.4,
-      "playTime": 18,
+      "playTime": 21,
       "playTime30Days": 0,
       "year": 1982,
       "color": "#637371"
@@ -97,7 +97,7 @@
       "rating": 8.5,
       "onVinyl": true,
       "playTime30Days": 0,
-      "playTime": 17,
+      "playTime": 20,
       "year": 1987
     },
     {
@@ -129,8 +129,8 @@
       ],
       "rating": 8.7,
       "onVinyl": true,
-      "playTime": 124,
-      "playTime30Days": 5,
+      "playTime": 129,
+      "playTime30Days": 0,
       "year": 1985,
       "color": "#716f6e"
     },
@@ -283,9 +283,9 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 43,
+      "playTime": 47,
       "genre": "New Wave",
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0",
@@ -319,7 +319,7 @@
       "genre": "Soul",
       "year": 1984,
       "color": "#366169",
-      "playTime30Days": 22
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX",
@@ -445,11 +445,11 @@
         }
       ],
       "rating": 8.8,
-      "playTime": 52,
+      "playTime": 73,
       "genre": "Gothic Rock",
       "logged": "2026-02-12",
       "year": 1989,
-      "playTime30Days": 0
+      "playTime30Days": 21
     },
     {
       "url": "https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx",
