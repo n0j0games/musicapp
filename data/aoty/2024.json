@@ -98,7 +98,7 @@
       "rating": 8.4,
       "genre": "Country Pop",
       "playTime": 956,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#40469e",
       "review": "beyonce--cowboy-carter"
     },
@@ -232,7 +232,7 @@
       "rating": 9.2,
       "genre": "Synthpop",
       "playTime": 408,
-      "playTime30Days": 50,
+      "playTime30Days": 13,
       "color": "#12497e",
       "review": "billie-eilish--hit-me-hard-and-soft"
     },
@@ -266,7 +266,7 @@
       "rating": 8.6,
       "genre": "Latin",
       "playTime": 347,
-      "playTime30Days": 7,
+      "playTime30Days": 11,
       "color": "#a065b1"
     },
     {
@@ -527,7 +527,7 @@
       "rating": 8.7,
       "genre": "Rock",
       "playTime": 191,
-      "playTime30Days": 0,
+      "playTime30Days": 10,
       "color": "#357a31"
     },
     {
@@ -655,7 +655,7 @@
       "rating": 8.1,
       "genre": "Synthpop",
       "playTime": 223,
-      "playTime30Days": 0,
+      "playTime30Days": 17,
       "color": "#376893"
     },
     {
@@ -1409,7 +1409,7 @@
       "rating": 5,
       "genre": "Pop",
       "playTime": 19,
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0xM2TyPQPu48u1xugvZShI",
@@ -1983,7 +1983,7 @@
       "rating": 6,
       "genre": "Synthpop",
       "playTime": 150,
-      "playTime30Days": 8
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5zv6GeFdyPwiCZ73nUzHmh",
@@ -2239,7 +2239,7 @@
       "rating": 7.9,
       "genre": "R&B",
       "playTime": 126,
-      "playTime30Days": 0,
+      "playTime30Days": 7,
       "color": "#6c2222"
     },
     {
@@ -2338,7 +2338,7 @@
       "rating": 9.3,
       "playTime": 667,
       "genre": "Wiener Pop",
-      "playTime30Days": 22,
+      "playTime30Days": 0,
       "color": "#c51919"
     },
     {

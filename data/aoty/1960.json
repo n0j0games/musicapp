@@ -381,7 +381,7 @@
       "playTime": 326,
       "genre": "Soul-Jazz",
       "year": 1966,
-      "playTime30Days": 18,
+      "playTime30Days": 7,
       "color": "#b20a57"
     },
     {
@@ -703,7 +703,33 @@
       "genre": "Live",
       "logged": "2026-03-09",
       "year": 1963,
-      "playTime30Days": 8
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+      "title": "Diana Ross Presents The Jackson 5",
+      "artist": "The Jackson 5",
+      "songs": [
+        {
+          "title": "I Want You Back",
+          "preview_url": "https://p.scdn.co/mp3-preview/504a5a3f9e28a41907c91d82a811017559e3c0d4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Zip A Dee Doo Dah",
+          "preview_url": "https://p.scdn.co/mp3-preview/a10abcba65c282755e753af0e678ffa3e8c4d1b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nobody",
+          "preview_url": "https://p.scdn.co/mp3-preview/4b9b2ef282171adb38cafec8b924005347c30221?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Pop Soul",
+      "logged": "2026-04-24",
+      "year": 1969,
+      "playTime30Days": 14
     }
   ]
 }

@@ -31,7 +31,7 @@
       "rating": 11.8,
       "genre": "Dance Pop",
       "playTime": 1789,
-      "playTime30Days": 32,
+      "playTime30Days": 19,
       "color": "#465b6b"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rating": 9.7,
       "playTime": 710,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#1c1613"
     },
     {
@@ -162,7 +162,7 @@
       "onVinyl": true,
       "genre": "Synthpop",
       "playTime": 1012,
-      "playTime30Days": 5,
+      "playTime30Days": 8,
       "color": "#123b49"
     },
     {
@@ -260,7 +260,7 @@
       ],
       "rating": 10,
       "playTime": 505,
-      "playTime30Days": 6,
+      "playTime30Days": 36,
       "color": "#ea3840",
       "onVinyl": true
     },
@@ -1355,7 +1355,7 @@
       ],
       "rating": 6.9,
       "playTime": 179,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#5d3939"
     },
     {
@@ -1925,7 +1925,7 @@
       "rating": 7.5,
       "playTime": 65,
       "genre": "Hyperpop",
-      "playTime30Days": 0
+      "playTime30Days": 10
     },
     {
       "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv",
@@ -2058,7 +2058,7 @@
       "playTime": 44,
       "genre": "Singer-Songwriter",
       "year": 2022,
-      "playTime30Days": 0
+      "playTime30Days": 7
     },
     {
       "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",

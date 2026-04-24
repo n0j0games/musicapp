@@ -29,7 +29,7 @@
       "genre": "Trap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 45
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/3tfR2tgOn3lTdlDh4NbNmk",
@@ -72,7 +72,7 @@
       "genre": "Deutschrap",
       "logged": "2026-02-12",
       "year": 2026,
-      "playTime30Days": 11
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
@@ -154,7 +154,7 @@
       "genre": "Alt-Pop",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 57
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b",
@@ -184,7 +184,7 @@
       "genre": "Trap",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 56
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7bTdRjxIibLtPgYibpANiw",
@@ -218,7 +218,7 @@
       "genre": "Post Punk",
       "logged": "2026-02-26",
       "year": 2026,
-      "playTime30Days": 282
+      "playTime30Days": 55
     },
     {
       "url": "https://open.spotify.com/album/2L19StaGk2Ni59e5gtZxYS",
@@ -249,7 +249,7 @@
       "logged": "2026-03-09",
       "year": 2026,
       "type": "Deluxe",
-      "playTime30Days": 84
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD",
@@ -279,7 +279,7 @@
       "genre": "Art Pop",
       "logged": "2026-03-09",
       "year": 2026,
-      "playTime30Days": 18
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1",
@@ -301,7 +301,7 @@
       "genre": "Pop",
       "logged": "2026-03-09",
       "year": 2026,
-      "playTime30Days": 9
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/0D5Js6PSJm4xsy872qRBgf",
@@ -327,7 +327,7 @@
       "genre": "Neo Soul",
       "logged": "2026-03-09",
       "year": 2026,
-      "playTime30Days": 14
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/4vhZKLj3AB4e64DF1r6hTG",
@@ -357,7 +357,7 @@
       "genre": "Trap",
       "logged": "2026-03-09",
       "year": 2026,
-      "playTime30Days": 13
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk",
@@ -391,7 +391,7 @@
       "genre": "Electropop",
       "logged": "2026-03-26",
       "year": 2026,
-      "playTime30Days": 38
+      "playTime30Days": 30
     },
     {
       "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES",
@@ -403,7 +403,7 @@
       "genre": "R&B",
       "logged": "2026-03-26",
       "year": 2026,
-      "playTime30Days": 6
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc",
@@ -437,7 +437,7 @@
       "genre": "Art Pop",
       "logged": "2026-03-26",
       "year": 2026,
-      "playTime30Days": 54
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN",
@@ -450,6 +450,216 @@
       "logged": "2026-03-26",
       "year": 2026,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+      "title": "THIS MUSIC MAY CONTAIN HOPE.",
+      "artist": "RAYE",
+      "songs": [
+        {
+          "title": "Click Clack Symphony. (feat. Hans Zimmer)",
+          "preview_url": "https://p.scdn.co/mp3-preview/9b5878a6552680da5da4036c21f09c0c51e40ee8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The WhatsApp Shakespeare.",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf88c3bfc4765af9d45ad643b682f9f2c2961fc7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Nightingale Lane.",
+          "preview_url": "https://p.scdn.co/mp3-preview/d8b907a2d82b9ce6dac447452f7fdce8464deaf3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "WHERE IS MY HUSBAND!",
+          "preview_url": "https://p.scdn.co/mp3-preview/0409bea2cede38d2a230bf42538417bceeab21e9?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Joy.",
+          "preview_url": "https://p.scdn.co/mp3-preview/f1050dd79eea54a2fe008ace3ddbcd88de482acc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.2,
+      "playTime": 0,
+      "color": "#5f6828",
+      "genre": "Pop Soul",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 278
+    },
+    {
+      "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f",
+      "title": "WOR$T GIRL IN AMERICA",
+      "artist": "Slayyyter",
+      "songs": [
+        {
+          "title": "BEAT UP CHANEL$",
+          "preview_url": "https://p.scdn.co/mp3-preview/44e82aa62b98fae589228795a394aa94777b847d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "DANCE...",
+          "preview_url": "https://p.scdn.co/mp3-preview/b7874479acf02f58d6284fcfa114da074311e654?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "OLD TECHNOLOGY",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3396ca7c06a26a5348bb831e54a81549b213279?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "CRANK",
+          "preview_url": "https://p.scdn.co/mp3-preview/2915576f4ee933464237336ee754feff047bfb96?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I'M ACTUALLY KINDA FAMOUS",
+          "preview_url": "https://p.scdn.co/mp3-preview/936b6eee86bf617c9bc5d77844be7c82bf07ddaf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9,
+      "playTime": 0,
+      "color": "#23657d",
+      "genre": "Electroclash",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 146
+    },
+    {
+      "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27395184f6a953569b683ca9a0d",
+      "title": "BULLY",
+      "artist": "Kanye West",
+      "rating": 2,
+      "playTime": 0,
+      "genre": "Pop Rap",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2737d4c51c8870e33279962f9a3",
+      "title": "HADES",
+      "artist": "Melanie Martinez",
+      "rating": 4,
+      "playTime": 0,
+      "genre": "Alt-Pop",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5c7Et33y3c2hsFCuISXyJR",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27369e16aecfc257de4c2ec4695",
+      "title": "xoxo, Ceren",
+      "artist": "Ceren",
+      "songs": [
+        {
+          "title": "Fashion Killa",
+          "preview_url": "https://p.scdn.co/mp3-preview/4798c58ed9e0735780d0b437489bbfa3a70eb97a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Damals",
+          "preview_url": "https://p.scdn.co/mp3-preview/177b40497df9490c0e8b7b2f1177a44679006432?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "So wie Nie",
+          "preview_url": "https://p.scdn.co/mp3-preview/46e159fdf74f0f50cf71199b6714d2b1e31f6377?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Spring Luv",
+          "preview_url": "https://p.scdn.co/mp3-preview/89d494efbc296e42ae5c317f1ad832f1e2e3602d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Deutschpop",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 38
+    },
+    {
+      "url": "https://open.spotify.com/album/3ngAeljzM9FgIYl7K7cFgg",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2735632bd6fae9a91de8dd7542e",
+      "title": "FAG LIFE",
+      "artist": "Baran Kok",
+      "songs": [
+        {
+          "title": "FAG LIFE",
+          "preview_url": "https://p.scdn.co/mp3-preview/57022a2bf72062834c1133de8ca440afd2a63bc4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "EASY WHITE CHOCOLATE",
+          "preview_url": "https://p.scdn.co/mp3-preview/d1c50159377d2efce1ce5a161590fcf25b4661bd?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "SCHEIß AUF HIPHOP",
+          "preview_url": "https://p.scdn.co/mp3-preview/849d8dae2c6e9b643a240ca79c5a061150bbae32?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "SAMENBANK FLAVOUR",
+          "preview_url": "https://p.scdn.co/mp3-preview/5cb4f502b3653aaf988d062ed56490650b1b81b4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 9
+    },
+    {
+      "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273fc729e4f9d5e6d9a65f974c9",
+      "title": "Superbloom",
+      "artist": "Jessie Ware",
+      "songs": [
+        {
+          "title": "Sauna",
+          "preview_url": "https://p.scdn.co/mp3-preview/c087f5ea0af886886b141321a40512de04b848a6?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ride",
+          "preview_url": "https://p.scdn.co/mp3-preview/01ff3c435ab1ad670d044ebb271f9b301a19f832?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Garden Prelude",
+          "preview_url": "https://p.scdn.co/mp3-preview/1e6e273507a2c5a5caaeb54f25ed6427cf3c35c7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "I Could Get Used To This",
+          "preview_url": "https://p.scdn.co/mp3-preview/67c3cbeda71fc47ff235505f2db31dd7eb842d73?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Disco",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 28
+    },
+    {
+      "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738173497b91977fea7e2937cc",
+      "title": "EQUILIBRIVM",
+      "artist": "Anitta",
+      "songs": [
+        {
+          "title": "Mandinga",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7e85b863ab3af12cf819745bbbb658726546bdf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Desgraça",
+          "preview_url": "https://p.scdn.co/mp3-preview/0dd228cff2cd504d83c5c383f6560afbbcac5bd2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Caminhador",
+          "preview_url": "https://p.scdn.co/mp3-preview/04e8838c3a3d74211270ff7d2e4666b38931fbdc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 6,
+      "playTime": 0,
+      "genre": "Latin Pop",
+      "logged": "2026-04-24",
+      "year": 2026,
+      "playTime30Days": 36
     }
   ]
 }

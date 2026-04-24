@@ -364,7 +364,7 @@
       "rating": 7.3,
       "genre": "Disco",
       "playTime": 27,
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "year": 1976
     },
     {
@@ -677,7 +677,7 @@
       "playTime": 65,
       "genre": "Latin",
       "year": 1973,
-      "playTime30Days": 5,
+      "playTime30Days": 0,
       "color": "#b23837"
     },
     {
@@ -803,7 +803,7 @@
       "playTime": 30,
       "genre": "Chicago Soul",
       "year": 1971,
-      "playTime30Days": 0
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8",
@@ -1229,7 +1229,7 @@
       "genre": "P-Funk",
       "logged": "2025-11-08",
       "year": 1977,
-      "playTime30Days": 0
+      "playTime30Days": 6
     },
     {
       "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4",
@@ -1263,7 +1263,7 @@
       "genre": "Disco",
       "logged": "2025-11-08",
       "year": 1976,
-      "playTime30Days": 7
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd",
@@ -1457,6 +1457,100 @@
       "logged": "2026-02-26",
       "onVinyl": true,
       "year": 1977,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27330d2b883196a6d50c5af952e",
+      "title": "There's A Riot Goin' On",
+      "artist": "Sly & The Family Stone",
+      "songs": [
+        {
+          "title": "Luv N' Haight",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf658ec64677974d260abf36dbccd8ddda479619?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Family Affair",
+          "preview_url": "https://p.scdn.co/mp3-preview/13de15311b5b55046a499b24b1c2fa184c4db8c7?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Just Like a Baby",
+          "preview_url": "https://p.scdn.co/mp3-preview/8377314e9b499791c682a4744c0c3b7fa67aa3d3?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Poet",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9635c071245a3d29e68b69036db482556c2bd8b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 12,
+      "genre": "Funk",
+      "logged": "2026-04-24",
+      "year": 1971,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/2T2ZNRXES8QKeFxGdYKpTW",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2734bc5c600748aaf6a90751d7a",
+      "title": "Black Moses",
+      "artist": "Isaac Hayes",
+      "songs": [
+        {
+          "title": "Going In Circles",
+          "preview_url": "https://p.scdn.co/mp3-preview/3218b6decda397829d28744f8b1e8df74f224f3b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Medley: Ike's Rap II / Help Me Love",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0fa163ec6083c972af8f0c32975c2d59dd90457?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Medley: Ike's Rap IV / A Brand New Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/a0dd8a0b65255fef1bd11cff8387bbe7e89d8f83?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Never Can Say Goodbye",
+          "preview_url": "https://p.scdn.co/mp3-preview/91b9474097e38d4f339397f8c903dad6f623a73f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "(They Long To Be) Close To You",
+          "preview_url": "https://p.scdn.co/mp3-preview/09e3871698f47c033197945b80b6465145273c63?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.5,
+      "playTime": 54,
+      "genre": "Psychadelic Soul",
+      "logged": "2026-04-24",
+      "year": 1971,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273b4a8d262fe6a7f114a242ffb",
+      "title": "Teddy",
+      "artist": "Teddy Pendergrass",
+      "songs": [
+        {
+          "title": "Turn off the Lights",
+          "preview_url": "https://p.scdn.co/mp3-preview/b014dd6b9183eb85c31f142fe3cf570f49e69f8d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Do Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/421ee00c2eb4ed251104a6462ecbfcb26675ea4d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Set Me Free",
+          "preview_url": "https://p.scdn.co/mp3-preview/1498c4a76cee58ce3ea48543f7ffd14c21c3bc84?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Life Is a Circle",
+          "preview_url": "https://p.scdn.co/mp3-preview/afa6f366dacf333b75564604f726d77669523753?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Philly Soul",
+      "logged": "2026-04-24",
+      "year": 1979,
       "playTime30Days": 0
     }
   ]

@@ -41,7 +41,7 @@
       "rating": 9.4,
       "playTime": 755,
       "genre": "Latin",
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "onVinyl": true,
       "color": "#729238"
     },
@@ -115,7 +115,7 @@
       "rating": 8.1,
       "playTime": 277,
       "genre": "Electronic",
-      "playTime30Days": 47,
+      "playTime30Days": 10,
       "color": "#6e5042"
     },
     {
@@ -319,7 +319,7 @@
       "rating": 5,
       "playTime": 43,
       "genre": "Pop",
-      "playTime30Days": 7
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB",
@@ -372,7 +372,7 @@
       "rating": 7.2,
       "playTime": 37,
       "genre": "Pop",
-      "playTime30Days": 7,
+      "playTime30Days": 0,
       "color": "#565656"
     },
     {
@@ -857,7 +857,7 @@
       "playTime": 540,
       "genre": "Pop Soul",
       "year": 2025,
-      "playTime30Days": 18,
+      "playTime30Days": 17,
       "onVinyl": true,
       "color": "#855e69"
     },
@@ -1194,7 +1194,7 @@
       "playTime": 369,
       "genre": "Dancepop",
       "year": 2025,
-      "playTime30Days": 25,
+      "playTime30Days": 0,
       "color": "#3f1312"
     },
     {
@@ -1382,7 +1382,7 @@
       "playTime": 257,
       "genre": "Hip-Hop",
       "year": 2025,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#825b63"
     },
     {
@@ -1671,7 +1671,7 @@
       "playTime": 406,
       "genre": "Hardcore Hip-Hop",
       "year": 2025,
-      "playTime30Days": 84,
+      "playTime30Days": 0,
       "color": "#b84a42"
     },
     {
@@ -1825,7 +1825,7 @@
       "genre": "Post-Rock",
       "logged": "2025-09-15",
       "year": 2025,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "color": "#370e05"
     },
     {
@@ -1990,7 +1990,7 @@
       "genre": "House",
       "logged": "2025-09-29",
       "year": 2025,
-      "playTime30Days": 13,
+      "playTime30Days": 0,
       "color": "#3d4043"
     },
     {
@@ -2074,7 +2074,7 @@
       "genre": "Dance Pop",
       "logged": "2025-10-19",
       "year": 2025,
-      "playTime30Days": 0
+      "playTime30Days": 5
     },
     {
       "url": "https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg",
@@ -2205,14 +2205,14 @@
           "preview_url": "https://p.scdn.co/mp3-preview/a61e0e5bb3cc4fbb903af43dd6f47b4324c6d39b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.2,
+      "rating": 8.9,
       "playTime": 685,
       "genre": "Orchestral",
       "color": "#7a90a2",
       "logged": "2025-11-06",
       "onVinyl": true,
       "year": 2025,
-      "playTime30Days": 14
+      "playTime30Days": 53
     },
     {
       "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM",
@@ -2246,7 +2246,7 @@
       "genre": "Art Pop",
       "logged": "2025-11-17",
       "year": 2025,
-      "playTime30Days": 14,
+      "playTime30Days": 0,
       "color": "#58679c"
     },
     {
@@ -2561,6 +2561,36 @@
       "playTime": 18,
       "genre": "Deutschrap",
       "logged": "2026-02-12",
+      "year": 2025,
+      "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
+      "title": "Sinners (Original Motion Picture Soundtrack)",
+      "artist": "Sinners Movie",
+      "songs": [
+        {
+          "title": "I Lied to You",
+          "preview_url": "https://p.scdn.co/mp3-preview/806c1c7eff59f8f85d93f0827196d4032ff69f7a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "This Little Light of Mine",
+          "preview_url": "https://p.scdn.co/mp3-preview/9a50f3d45c9cf4ef005005371483a3f3cc02a0f8?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Flames of Fortune",
+          "preview_url": "https://p.scdn.co/mp3-preview/7122e242ee2267569249a194b9c9a7e927b37d6a?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Wang Dang Doodle",
+          "preview_url": "https://p.scdn.co/mp3-preview/6c5182e5058fc4726170feeafdcbbadc5e6b0173?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8,
+      "playTime": 0,
+      "genre": "Soundtrack",
+      "logged": "2026-04-24",
       "year": 2025,
       "playTime30Days": 0
     }

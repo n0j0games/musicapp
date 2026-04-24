@@ -101,7 +101,7 @@
       "onVinyl": true,
       "genre": "Neo Soul",
       "playTime": 887,
-      "playTime30Days": 0,
+      "playTime30Days": 7,
       "color": "#73535b"
     },
     {
@@ -138,7 +138,7 @@
       "rating": 11.5,
       "onVinyl": true,
       "playTime": 382,
-      "playTime30Days": 0,
+      "playTime30Days": 6,
       "color": "#0e3258"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "rating": 8.9,
       "playTime": 117,
-      "playTime30Days": 6,
+      "playTime30Days": 0,
       "color": "#251c16"
     },
     {
@@ -760,7 +760,7 @@
       "rating": 9.2,
       "playTime": 959,
       "genre": "Live",
-      "playTime30Days": 31,
+      "playTime30Days": 0,
       "color": "#88888a"
     },
     {
@@ -789,7 +789,7 @@
       "rating": 7,
       "playTime": 172,
       "genre": "R&B",
-      "playTime30Days": 5
+      "playTime30Days": 0
     },
     {
       "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
@@ -920,7 +920,7 @@
       "genre": "Art Pop",
       "logged": "2025-10-23",
       "year": 2019,
-      "playTime30Days": 42,
+      "playTime30Days": 30,
       "color": "#b55626"
     }
   ]

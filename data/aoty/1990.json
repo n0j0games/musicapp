@@ -31,7 +31,7 @@
       "rating": 9.7,
       "genre": "Alternative Rock",
       "playTime": 464,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "year": 1997,
       "color": "#194d64"
     },
@@ -68,7 +68,7 @@
       ],
       "rating": 10.7,
       "playTime": 225,
-      "playTime30Days": 0,
+      "playTime30Days": 10,
       "year": 1992,
       "color": "#3a322d"
     },
@@ -402,7 +402,7 @@
       ],
       "rating": 7.5,
       "playTime": 19,
-      "playTime30Days": 8,
+      "playTime30Days": 0,
       "year": 1991
     },
     {
@@ -784,7 +784,7 @@
       "playTime": 140,
       "genre": "Art Pop",
       "year": 1998,
-      "playTime30Days": 0,
+      "playTime30Days": 12,
       "onVinyl": true,
       "color": "#458d97"
     },

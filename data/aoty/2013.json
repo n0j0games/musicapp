@@ -107,7 +107,7 @@
       ],
       "rating": 9.6,
       "playTime": 258,
-      "playTime30Days": 9,
+      "playTime30Days": 7,
       "color": "#64441f"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rating": 8.5,
       "playTime": 231,
-      "playTime30Days": 6
+      "playTime30Days": 8
     },
     {
       "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb",
@@ -294,7 +294,7 @@
         }
       ],
       "rating": 8,
-      "playTime30Days": 15,
+      "playTime30Days": 0,
       "playTime": 270
     },
     {
@@ -461,7 +461,7 @@
       "color": "#c72b96",
       "logged": "2026-02-12",
       "year": 2013,
-      "playTime30Days": 34
+      "playTime30Days": 9
     }
   ]
 }

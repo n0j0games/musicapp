@@ -36,7 +36,7 @@
       "onVinyl": true,
       "genre": "Rap",
       "playTime": 1117,
-      "playTime30Days": 0,
+      "playTime30Days": 5,
       "color": "#291c13"
     },
     {
@@ -74,7 +74,7 @@
       "onVinyl": false,
       "genre": "Rap",
       "playTime": 1126,
-      "playTime30Days": 23,
+      "playTime30Days": 0,
       "color": "#7c7a79"
     },
     {
@@ -107,7 +107,7 @@
       "rating": 9.9,
       "genre": "Synthpop",
       "playTime": 889,
-      "playTime30Days": 9,
+      "playTime30Days": 29,
       "color": "#443152"
     },
     {
@@ -328,7 +328,7 @@
       ],
       "rating": 10,
       "playTime": 260,
-      "playTime30Days": 16,
+      "playTime30Days": 0,
       "color": "#526b6e"
     },
     {
@@ -573,6 +573,36 @@
       "logged": "2026-02-26",
       "year": 2015,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273e77ecae9169e22bbe544e479",
+      "title": "PRODUCT",
+      "artist": "SOPHIE",
+      "songs": [
+        {
+          "title": "LEMONADE",
+          "preview_url": "https://p.scdn.co/mp3-preview/0e6aa93d4131efadd4341a25948411d88e71ac4d?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "BIPP",
+          "preview_url": "https://p.scdn.co/mp3-preview/88d04bd3fb052aa7caf0b53ec72d96386066a8c4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "HARD",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f9fb366bf5ffd88b78a0aa07a8c57de5f8ed4f2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "VYZEE",
+          "preview_url": "https://p.scdn.co/mp3-preview/1bafa8cb237cda4b1282f1ad3996bbf1ee8f34b5?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.8,
+      "playTime": 19,
+      "genre": "Bubblegum Bass",
+      "logged": "2026-04-24",
+      "year": 2015,
+      "playTime30Days": 10
     }
   ]
 }
