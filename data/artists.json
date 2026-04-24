@@ -167,7 +167,7 @@
     },
     {
       "name" : "Kanye West",
-      "albums" : 14,
+      "albums" : 15,
       "icon" : "https://www.newstream.cz/uploads/article/660x464_fit/05bajvhgF202202170616901.jpeg"
     },
     {
@@ -424,6 +424,11 @@
       "name": "Sudan Archives",
       "albums": 3,
       "icon": "https://i1.sndcdn.com/avatars-000326493502-wvz03k-t1080x1080.jpg"
+    },
+    {
+      "name": "RAYE",
+      "albums": 3,
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqRUoRaZoKyfKmZxXP_uweYDyYPVvpx1Yrg&s"
     }
   ],
   "groups" : [
