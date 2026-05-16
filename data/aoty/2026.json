@@ -386,7 +386,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/bff00890cb1d3d8d901b31dd71d64d8ef68f4082?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 8,
+      "rating": 7,
       "playTime": 38,
       "genre": "Electropop",
       "logged": "2026-03-26",
@@ -478,7 +478,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/f1050dd79eea54a2fe008ace3ddbcd88de482acc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.0,
+      "rating": 9,
       "playTime": 0,
       "color": "#5f6828",
       "genre": "Pop Soul",
@@ -513,7 +513,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/936b6eee86bf617c9bc5d77844be7c82bf07ddaf?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9,
+      "rating": 9.1,
       "playTime": 0,
       "color": "#23657d",
       "genre": "Electroclash",
@@ -660,6 +660,100 @@
       "logged": "2026-04-24",
       "year": 2026,
       "playTime30Days": 36
+    },
+    {
+      "url": "https://open.spotify.com/album/07MFwmTo5CPShbTK60jPUl",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731612c122af2460bc8d0b3fd1",
+      "title": "Dorian Electra",
+      "artist": "Dorian Electra",
+      "songs": [
+        {
+          "title": "Feel Good Inc.",
+          "preview_url": "https://p.scdn.co/mp3-preview/f67f41f354d96c575d58ef2c3ee72be4083a6130?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "The Model",
+          "preview_url": "https://p.scdn.co/mp3-preview/f2d7613618057d5c40e6f11df2f5c9c1b0db953e?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 5,
+      "playTime": 0,
+      "genre": "Electropop",
+      "logged": "2026-05-16",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/4U3ebyKTFeWVFrhfai4v8X",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273c4d29228c78241ffc342be4a",
+      "title": "BERSERKER +",
+      "artist": "OG Keemo",
+      "songs": [
+        {
+          "title": "Chaos",
+          "preview_url": "https://p.scdn.co/mp3-preview/0940734694b3812357b6f01419937b49a0ff6526?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Mehr",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9b7aa344cd1187ec7d35d6f758f4e4d9a97767f?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Hass",
+          "preview_url": "https://p.scdn.co/mp3-preview/14be894294a46c6411d85a656fe9442d9719fbfc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Auge",
+          "preview_url": "https://p.scdn.co/mp3-preview/33f8aef3a683a7c5cae2f78469ae7b61b701ab4b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Blind",
+          "preview_url": "https://p.scdn.co/mp3-preview/28f098c50b9006aeecb911cac3c7fa5f65ec1d86?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 8.8,
+      "playTime": 0,
+      "genre": "Deutschrap",
+      "logged": "2026-05-16",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736f132439022034a2f724aa19",
+      "title": "HOSHI",
+      "artist": "Bratty",
+      "songs": [
+        {
+          "title": "no te olvides de mí",
+          "preview_url": "https://p.scdn.co/mp3-preview/3f31bdd88712c025a2b6d00022e3f47640f3d529?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "tu nombre",
+          "preview_url": "https://p.scdn.co/mp3-preview/cca852dbdbfa1444f9ae9f128d0acdb2e0b998c2?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "siempre quiero +",
+          "preview_url": "https://p.scdn.co/mp3-preview/422457142ac461a764ee7d5b0956fbae9da5d6cc?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "otro día más",
+          "preview_url": "https://p.scdn.co/mp3-preview/b9038ef9d9c5f076635856aefadafad38d11cb36?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7,
+      "playTime": 0,
+      "genre": "Alt-Pop",
+      "logged": "2026-05-16",
+      "year": 2026
+    },
+    {
+      "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2738e76f09489ebfa31ac920f08",
+      "title": "ICEMAN",
+      "artist": "Drake",
+      "rating": 3.0,
+      "playTime": 0,
+      "genre": "Trap",
+      "logged": "2026-05-16",
+      "year": 2026
     }
   ]
 }

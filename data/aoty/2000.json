@@ -67,7 +67,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/4e7c3cece7c9ee0d47c381cde116f93c0b1aea99?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.6,
+      "rating": 9.2,
       "playTime": 387,
       "genre": "Rap",
       "playTime30Days": 0,
@@ -168,7 +168,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/1c58b393f5118beeccbd64f49f9db1f2c5d124a4?cid=941103e4872f4d3fad60066c677df34f"
         }
       ],
-      "rating": 9.7,
+      "rating": 9.5,
       "genre": "Rap",
       "playTime": 603,
       "playTime30Days": 0,
@@ -331,7 +331,7 @@
           "preview_url": "https://p.scdn.co/mp3-preview/b8c51ceaf95a1f32516ca8bf1b03bddf5e884150?cid=bba9a824e2c249d1a89e21c0e2a2e845"
         }
       ],
-      "rating": 9.5,
+      "rating": 9.3,
       "playTime": 149,
       "playTime30Days": 8,
       "year": 2009,
@@ -1353,6 +1353,39 @@
       "logged": "2026-02-26",
       "year": 2001,
       "playTime30Days": 11
+    },
+    {
+      "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273d0a8bfe18f25429d76886b1e",
+      "title": "Blackout",
+      "artist": "Britney Spears",
+      "songs": [
+        {
+          "title": "Gimme More",
+          "preview_url": "https://p.scdn.co/mp3-preview/c69be559ed82a4259f047ad29f2acdcbec09cde4?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Piece of Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/1812b3efe4564787c7e7f58c5537af9add2ea94b?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Radar",
+          "preview_url": "https://p.scdn.co/mp3-preview/4cc8c4116e719934db5a583a02714a64181e4698?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Break the Ice",
+          "preview_url": "https://p.scdn.co/mp3-preview/e9305ea462e0147d41cd5871f5588f276d6cb2b1?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Ooh Ooh Baby",
+          "preview_url": "https://p.scdn.co/mp3-preview/27bb1c858b854d3898812fe267709a84c1eac9ad?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 9.2,
+      "playTime": 0,
+      "genre": "Electropop",
+      "logged": "2026-05-16",
+      "year": 2007
     }
   ]
 }

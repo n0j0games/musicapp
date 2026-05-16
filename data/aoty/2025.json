@@ -2593,6 +2593,35 @@
       "logged": "2026-04-24",
       "year": 2025,
       "playTime30Days": 0
+    },
+    {
+      "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2730b4c75d5dde5ed7ca003e27d",
+      "title": "FEMME FATALE",
+      "artist": "Mon Laferte",
+      "songs": [
+        {
+          "title": "La Tirana",
+          "preview_url": "https://p.scdn.co/mp3-preview/4771fd1afc32ab168b304e217b155b9dbefcf968?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "My One And Only Love (feat. Natália Lafourcade & Silvana Estrada)",
+          "preview_url": "https://p.scdn.co/mp3-preview/6d1c6318403f33de6fb835e269dfec5c7c959086?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Femme Fatale",
+          "preview_url": "https://p.scdn.co/mp3-preview/27e7a0edd75ec87b010d6b16e32b24218e975379?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        },
+        {
+          "title": "Vida Normal",
+          "preview_url": "https://p.scdn.co/mp3-preview/0061e34a7ede2dc05b2415d982e03081a25b593c?cid=bba9a824e2c249d1a89e21c0e2a2e845"
+        }
+      ],
+      "rating": 7.5,
+      "playTime": 0,
+      "genre": "Cancion Melodica",
+      "logged": "2026-05-16",
+      "year": 2025
     }
   ]
 }
