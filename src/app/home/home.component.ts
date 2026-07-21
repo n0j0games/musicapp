@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {NgForOf} from "@angular/common";
 import {RouterLink} from "@angular/router";
-import {AotyService} from "../albums-of-the-year/services/aoty.service";
+import {AotyService} from "../albums-of-the-year/services/old-aoty.service";
 import {Album} from "../albums-of-the-year/models/album";
 import {ItemComponent} from "./item/item.component";
 import {HighlightCardComponent} from "../common/components/highlight-card/highlight-card.component";

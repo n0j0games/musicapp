@@ -1,7 +1,7 @@
 import {Injectable} from "@angular/core";
 import {ActivatedRouteSnapshot, MaybeAsync, Resolve, RouterStateSnapshot} from "@angular/router";
 import {DataStorageService} from "../../common/services/data-storage.service";
-import {AotyService} from "../services/aoty.service";
+import {AotyService} from "../services/old-aoty.service";
 import {AliasList} from "../models/alias-list";
 
 @Injectable({

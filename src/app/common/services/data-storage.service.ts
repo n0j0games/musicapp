@@ -4,7 +4,7 @@ import {catchError, forkJoin, map, Observable, of, tap} from "rxjs";
 import {SotwList} from "../../songs-of-the-week/models/sotw-list";
 import {SotwItem} from "../../songs-of-the-week/models/sotw-item";
 import {SotwService} from "../../songs-of-the-week/services/sotw.service";
-import {AotyService} from "../../albums-of-the-year/services/aoty.service";
+import {AotyService} from "../../albums-of-the-year/services/old-aoty.service";
 import {AotyItem} from "../../albums-of-the-year/models/aoty-item";
 import {AotyList} from "../../albums-of-the-year/models/aoty-list";
 import {Router} from "@angular/router";

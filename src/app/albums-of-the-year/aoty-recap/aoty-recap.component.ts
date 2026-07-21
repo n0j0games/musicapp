@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
-import {AotyService} from "../services/aoty.service";
+import {AotyService} from "../services/old-aoty.service";
 import {AotyItem} from "../models/aoty-item";
 import {Album} from "../models/album";
 import {SongInfo} from "../../common/utils/songinfo";

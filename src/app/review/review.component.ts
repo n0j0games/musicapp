@@ -7,7 +7,7 @@ import {RemoveFeatPipe} from "../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../common/components/vinyl/vinyl.component";
 import {ActivatedRoute} from "@angular/router";
 import {ReviewService} from "./services/review.service";
-import {AotyService} from "../albums-of-the-year/services/aoty.service";
+import {AotyService} from "../albums-of-the-year/services/old-aoty.service";
 import {NormalizeHelper} from "../common/utils/normalize-helper";
 
 @Component({

@@ -1,6 +1,6 @@
 <app-list-header
-        [title]="title"
-        [subtitle]="sortingTitle"
+        [title]="loading ? 'Loading...' : title"
+        [subtitle]="loading ? '' : sortingTitle"
         [sortingOptions]="sortingOptions"
         [yearOptions]="yearOptions"
         [decadeOptions]="decadeOptions"
@@ -10,7 +10,8 @@
         (onItemReset)="resetItem($event)"
         [artistIcon]="artistIcon"
 ></app-list-header>
-<div *ngIf="albumsOfTheYear !== null" class="list gap-xl">
+@if (albumsOfTheYear != null && albumsOfTheYear.length > 0) {
+    <div class="list gap-xl">
         <app-album-detail
                 *ngFor="let album of albumsOfTheYear; index as i"
                 [album]="album"
@@ -19,7 +20,7 @@
         ></app-album-detail>
         <p class="p-b fs-l" *ngIf="this.albumsOfTheYear?.length === 0">No albums found for the selected query</p>
         <a *ngIf="this.albumsOfTheYearWithoutMaxCap && this.maxCap < this.albumsOfTheYearWithoutMaxCap.length" class="p-b fs-l" (click)="loadMore()">Load More</a>
-</div>
-<div *ngIf="albumsOfTheYear === null">
-    <p> Something went wrong! </p>
-</div>
+    </div>
+} @else {
+    <p>Loading...</p>
+}

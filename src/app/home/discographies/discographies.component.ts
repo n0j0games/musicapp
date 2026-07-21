@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {AotyService} from "../../albums-of-the-year/services/aoty.service";
+import {AotyService} from "../../albums-of-the-year/services/old-aoty.service";
 import {Artist} from "../../albums-of-the-year/models/artist";
 import {Logger} from "../../common/utils/logger";
 import {NormalizeHelper} from "../../common/utils/normalize-helper";

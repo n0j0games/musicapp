@@ -1,6 +1,5 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Params, Router} from "@angular/router";
-import {AotyService} from "./services/aoty.service";
 import {NgForOf, NgIf} from "@angular/common";
 import {AlbumDetailComponent} from "./album-detail/album-detail.component";
 import {Album} from "./models/album";
@@ -15,6 +14,9 @@ import {Logger} from "../common/utils/logger";
 import {AggregateTitleHelper} from "../common/utils/aggregate-title-helper";
 import {GroupAliasHelper} from "../common/utils/group-alias-helper";
 import {SearchCategory} from "../common/utils/search-category.enum";
+import {AotyService} from "./services/aoty.service";
+import {concatMap, first, map} from "rxjs";
+import {AotyResponse} from "./models/aoty-response";
 
 const MAX_CAP_DEFAULT = 70;
 
@@ -31,12 +33,13 @@ const MAX_CAP_DEFAULT = 70;
   ],
   templateUrl: './albums-of-the-year.component.html'
 })
-export class AlbumsOfTheYearComponent implements OnInit {
+export class AlbumsOfTheYearComponent {
 
   albumsOfTheYear! : Album[] | null;
   albumsOfTheYearWithoutMaxCap! : Album[] | null;
-  rawAlbumsOfTheYear! : Album[] | null;
   aliasList!: AliasList | null;
+
+  loading: boolean = true;
 
   queryParams: QueryParams = QueryParamHelper.DEFAULT_PARAMS;
   maxCap = MAX_CAP_DEFAULT;
@@ -60,18 +63,24 @@ export class AlbumsOfTheYearComponent implements OnInit {
 
   private logger: Logger = new Logger(this);
 
-  constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {}
-
-  ngOnInit(): void {
-
+  constructor(private route: ActivatedRoute, private router: Router, private aotyService : AotyService) {
     this.route.queryParams.subscribe(params => {
+      this.reset();
       this.updateParams(params);
+      this.albumsOfTheYear = [];
+      this.aotyService.getAliasList().pipe(
+          first(),
+          concatMap(alias => {
+            return this.aotyService.searchAotyItems(this.queryParams).pipe(
+                map((albums): [AliasList, AotyResponse] => [alias, albums])
+            );
+          }),
+      ).subscribe(([alias, albums]) => {
+        this.aliasList = alias;
+        this.refreshAlbums(albums);
+        this.loading = false;
+      });
     });
-
-    this.aliasList = this.aotyService.getAliasList()!;
-    this.rawAlbumsOfTheYear = this.getAggregatedAlbums();
-    this.albumsOfTheYearWithoutMaxCap = [...this.rawAlbumsOfTheYear];
-    this.refreshAlbums();
   }
 
   get yearOptions() {
@@ -131,7 +140,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
     } else {
       this.formGroup.controls.year.disable();
     }
-    this.refreshAlbums();
   }
 
   private cutAlbums(): void {
@@ -142,69 +150,51 @@ export class AlbumsOfTheYearComponent implements OnInit {
     this.albumsOfTheYear = [...this.albumsOfTheYearWithoutMaxCap].slice(0, this.maxCap < this.albumsOfTheYearWithoutMaxCap.length ? this.maxCap : this.albumsOfTheYearWithoutMaxCap.length);
   }
 
-  private refreshAlbums(): void {
-    if (!this.rawAlbumsOfTheYear || this.rawAlbumsOfTheYear.length === 0) {
-      this.cutAlbums();
-      return;
-    }
-    this.title = "";
-    const albumCopy : Album[] = [...this.rawAlbumsOfTheYear];
-    const filteredAlbums = this.filterAlbums(albumCopy);
-    this.albumsOfTheYearWithoutMaxCap = this.sortAlbums(filteredAlbums);
+  private reset(): void {
+    this.albumsOfTheYear = [];
+    this.albumsOfTheYearWithoutMaxCap = [];
+    this.loading = true;
     this.cutAlbums();
   }
 
-  private sortAlbums(albums: Album[]): Album[] {
+  private refreshAlbums(aotyResponse: AotyResponse): void {
+    if (aotyResponse.albums.length === 0) {
+      this.cutAlbums();
+      return;
+    }
+    this.updateMeta(aotyResponse);
+    this.albumsOfTheYearWithoutMaxCap = aotyResponse.albums;
+    this.cutAlbums();
+  }
+
+  private updateSubtitle(): void {
     this.sortingTitle = AggregateTitleHelper.updateSubTitle(this.queryParams);
-    albums = albums.sort((a, b) => b.rating - a.rating);
     switch (this.queryParams.sorting) {
       case Sorting.ALPHABETICAL:
         this.sortingTitle = "sorted alphabetically by title";
-        return albums.sort((a, b) => a.title.localeCompare(b.title));
+        break;
       case Sorting.ARTIST:
         this.sortingTitle = "sorted alphabetically by artist";
-        return albums.sort((a, b) => a.artist.localeCompare(b.artist));
+        break;
       case Sorting.PlAY_TIME:
         this.sortingTitle = "sorted by playtime";
-        return albums.filter(a => a.playTime !== undefined && a.playTime !== 0).sort((a, b) => b.playTime! - a.playTime!);
+        break;
       case Sorting.RECENT:
         this.sortingTitle = "sorted by recent playtime";
-        return albums.filter(a => a.playTime30Days !== undefined && a.playTime30Days !== 0).sort((a, b) => b.playTime30Days! - a.playTime30Days!).slice(0, 20);
-      case Sorting.RATING:
-        return albums.sort((a, b) => b.rating - a.rating);
-      case Sorting.RELEASE_DATE:
-        return albums.sort((a, b) => (a.year ? a.year : 9999) - (b.year ? b.year : 9999));
-      case Sorting.RECENTLY_LOGGED:
-        return albums.filter(a => a.logged !== undefined && a.logged).sort((a, b) => b.logged!.localeCompare(a.logged!)).slice(0, 20);
+        break;
       default:
-        return albums;
+        break;
     }
   }
 
-  private filterAlbums(albums: Album[]): Album[] {
+  private updateMeta(aotyResponse: AotyResponse): void {
     this.title = "all albums i've listened to";
     this.artistIcon = undefined;
-    if (this.queryParams.year === null &&
-        this.queryParams.decade === null &&
-        this.queryParams.search === null &&
-        this.queryParams.rating === null &&
-        !this.queryParams.isReviewsOnly) {
-      return albums;
+    if (aotyResponse.artist) {
+      this.artistIcon = aotyResponse.artist.icon;
     }
     this.updateTitle();
-    this.updateArtistImage();
-    const filteredAlbums: Album[] = [];
-    for (const album of albums) {
-      const isAlbumValid = QueryFilterHelper.passYearFilter(this.queryParams, album.year!) &&
-          QueryFilterHelper.passDecadeFilter(this.queryParams, album.year!) &&
-          QueryFilterHelper.passRatingFilter(this.queryParams, album.rating) &&
-          QueryFilterHelper.passReviewOnlyFilter(this.queryParams, album.review) &&
-          this.passQueryFilter(album);
-      if (isAlbumValid) {
-        filteredAlbums.push(album);
-      }
-    }
-    return filteredAlbums;
+    this.updateSubtitle();
   }
 
   private updateTitle() {
@@ -215,60 +205,6 @@ export class AlbumsOfTheYearComponent implements OnInit {
         this.title = " albums matching '" + NormalizeHelper.fromQueryStringToNormal(this.queryParams.search) + "'";
       }
     }
-  }
-
-  private updateArtistImage() {
-    if (this.queryParams.search === null || this.queryParams.searchCategory != SearchCategory.ARTISTS) {
-      this.artistIcon = undefined;
-      return;
-    }
-    for (const artist of this.aliasList!.artists) {
-      if (NormalizeHelper.normalize(artist.name) === NormalizeHelper.normalize(this.queryParams.search)) {
-        this.artistIcon = artist.icon
-        return;
-      }
-    }
-  }
-
-  private passQueryFilter(album: Album): boolean {
-    if (this.queryParams.search === null) {
-      return true;
-    }
-    const qString = NormalizeHelper.fromNormalToQueryString(this.queryParams.search);
-    if (this.queryParams.searchCategory === SearchCategory.ALL || this.queryParams.searchCategory === SearchCategory.ALBUMS) {
-      const title = NormalizeHelper.fromNormalToQueryString(album.title);
-      if (this.queryParams.isStrict && title === qString) {
-        return true;
-      }
-      if (title.startsWith(qString)) {
-        return true;
-      }
-    }
-    if (this.queryParams.searchCategory === SearchCategory.ALL || this.queryParams.searchCategory === SearchCategory.ARTISTS) {
-      return GroupAliasHelper.artistFilter(qString, this.queryParams.isStrict, this.queryParams.searchCategory != SearchCategory.ARTISTS, album, this.aliasList!);
-    }
-    return false;
-  }
-
-  private getAggregatedAlbums() : Album[] {
-    let aotyList = this.aotyService.getAotyList();
-    const queryYears = aotyList!.items!.map(value => value.year);
-    let aotyItems = this.aotyService.getAggregatedAlbums(queryYears);
-    if (aotyItems == null) {
-      this.router.navigate(['**']).then(() => this.logger.error("Empty, routed to 404"));
-      return [];
-    }
-    let albums : Album[] = [];
-    for (const item of aotyItems) {
-      const albums_ = item.albums.slice();
-      for (const album of albums_) {
-        if (album.year === undefined) {
-          album.year = item.year;
-        }
-      }
-      albums = albums.concat(albums_);
-    }
-    return albums;
   }
 
   protected readonly Object = Object;
