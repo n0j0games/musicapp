@@ -1,161 +1,166 @@
-<div class="flex-row m-flex-column gap-xxl flex-wrap align-start mobile-align-center">
-    <div class="flex-column gap-xxl flex-wrap justify-center">
-        <div class="flex-column align-center justify-center">
-            <img class="favicon" alt="favicon" src="assets/favicon.png">
-            <p class="p-b-i fs-xl text-title">rankings of my favorite albums & songs</p>
-        </div>
-        <div class="flex-row m-flex-column gap-xl align-center justify-center">
-            <div class="flex-column gap-xl align-center justify-center">
-                <app-item
-                        [item]="{year: 0, week: 0, preview : rotationList}"
-                        [isAoty]="'LIST'"
-                        [queryParams]="{ s: Sorting.RECENT }"
-                        [queryParam]="'recent'"
-                        [text]="'my rotation'"
-                ></app-item>
+@if (loading) {
+    <p>Loading...</p>
+} @else {
+    <div class="flex-row m-flex-column gap-xxl flex-wrap align-start mobile-align-center">
+        <div class="flex-column gap-xxl flex-wrap justify-center">
+            <div class="flex-column align-center justify-center">
+                <img class="favicon" alt="favicon" src="assets/favicon.png">
+                <p class="p-b-i fs-xl text-title">rankings of my favorite albums & songs</p>
             </div>
-            <div class="flex-column gap-xl align-center justify-center">
-                <app-item
-                        [item]="{year: 0, week: 0, preview : recentlyAddedList}"
-                        [isAoty]="'LIST'"
-                        [queryParams]="{ s: Sorting.RECENTLY_LOGGED }"
-                        [text]="'recently logged'"
-                ></app-item>
+            <div class="flex-row m-flex-column gap-xl align-center justify-center">
+                <div class="flex-column gap-xl align-center justify-center">
+                    <app-item
+                            [item]="{year: 0, week: 0, preview : rotationList}"
+                            [isAoty]="'LIST'"
+                            [queryParams]="{ s: Sorting.RECENT }"
+                            [queryParam]="'recent'"
+                            [text]="'my rotation'"
+                    ></app-item>
+                </div>
+                <div class="flex-column gap-xl align-center justify-center">
+                    <app-item
+                            [item]="{year: 0, week: 0, preview : recentlyAddedList}"
+                            [isAoty]="'LIST'"
+                            [queryParams]="{ s: Sorting.RECENTLY_LOGGED }"
+                            [text]="'recently logged'"
+                    ></app-item>
+                </div>
             </div>
-        </div>
-        <div class="flex-column gap-xl flex-wrap justify-center">
-            <div class="outer-highlight-card">
-                <a
-                  class="flex-column gap-s align-center"
-                  [routerLink]="['/aoty']"
+            <div class="flex-column gap-xl flex-wrap justify-center">
+                <div class="outer-highlight-card">
+                    <a
+                            class="flex-column gap-s align-center"
+                            [routerLink]="['/aoty']"
+                    >
+                        <span class="fs-xl p-b">show all albums</span>
+                    </a>
+                </div>
+                <div class="outer-highlight-card">
+                    <a
+                            class="flex-column gap-s align-center"
+                            [routerLink]="['/home/discographies']"
+                    >
+                        <span class="fs-xl p-b">show discographies</span>
+                    </a>
+                </div>
+            </div>
+            <div class="flex-column gap-xl flex-wrap justify-center">
+                <app-highlight-card
+                        [outerStyle]="'background: #4aaeee'"
+                        [innerStyle]="'background: linear-gradient(90deg, #6f8b25 0%, #4aaeee 70%, rgb(67, 137, 181, 0) 80%);'"
+                        [href]="'/aoty/recap/2025'"
+                        [thumbnailSrc]="'https://i.imgur.com/jrcib8w.png'"
                 >
-                  <span class="fs-xl p-b">show all albums</span>
-                </a>
-            </div>
-            <div class="outer-highlight-card">
-                <a
-                  class="flex-column gap-s align-center"
-                  [routerLink]="['/home/discographies']"
+                    <span class="fs-xl p-b">RECAP: AOTY 2025</span>
+                    <span class="fs-l">my fav albums of 2025</span>
+                </app-highlight-card>
+                <app-highlight-card
+                        [outerStyle]="'background: #851008'"
+                        [innerStyle]="'background: linear-gradient(90deg, #141925 0%, #851008 70%, rgba(118, 13, 10, 0) 80%);'"
+                        [href]="'/soty/recap/2025'"
+                        [thumbnailSrc]="'https://media.pitchfork.com/photos/68a77c46a06ec4bdbd5e1491/16:9/w_1280,c_limit/Maruja:%20Pain%20to%20Power.jpg'"
                 >
-                  <span class="fs-xl p-b">show discographies</span>
-                </a>
+                    <span class="fs-xl p-b">RECAP: SOTY 2025</span>
+                    <span class="fs-l">my fav songs of 2025</span>
+                </app-highlight-card>
+            </div>
+            <div class="flex-column gap-xl flex-wrap justify-center">
+                <app-highlight-card
+                        [outerStyle]="'background: #333738'"
+                        [innerStyle]="'background: linear-gradient(90deg, #6e5343 0%, #333738 70%, rgba(255, 255, 255, 0) 80%);'"
+                        [href]="'/aoty/recap/all'"
+                        [thumbnailSrc]="'https://i.redd.it/rgkjdhd6msjz.jpg'"
+                >
+                    <span class="fs-xl p-b">TOP 100 ALBUMS</span>
+                    <span class="fs-l">my fav albums of all time</span>
+                </app-highlight-card>
+                <app-highlight-card
+                        [outerStyle]="'background: #e4e3de'"
+                        [innerStyle]="'background: linear-gradient(90deg, #5a7779 0%, #e4e3de 70%, rgba(255, 255, 255, 0) 80%);'"
+                        [href]="'/soty/recap/0'"
+                        [thumbnailSrc]="'https://64.media.tumblr.com/3fafc7bae1615ff3deb07ebfeaebaf5c/46a3494adefc7da7-b4/s1280x1920/920d0c081a6a02b8af673cb866c56d43ace69245.jpg'"
+                >
+                    <span class="fs-xl p-b">TOP 100 SONGS</span>
+                    <span class="fs-l">some of my fav songs of all time</span>
+                </app-highlight-card>
+            </div>
+            <div class="flex-column gap-xl flex-wrap justify-center">
+                <app-highlight-card
+                        [outerStyle]="'background: rgb(139, 200, 0)'"
+                        [innerStyle]="'background: linear-gradient(90deg, #d077ad 0%, rgb(139, 200, 0) 50%, rgba(255, 255, 255, 0) 100%);'"
+                        [href]="'/aoty/recap/2024'"
+                        [thumbnailSrc]="'https://qnews.com.au/wp-content/uploads/2024/10/24-10-12-charli-xcx-brat-composite-photo.jpg'"
+                >
+                    <span class="fs-xl p-b">RECAP: AOTY 2024</span>
+                    <span class="fs-l">my fav albums of 2024</span>
+                </app-highlight-card>
+                <app-highlight-card
+                        [outerStyle]="'background: #0c355f'"
+                        [innerStyle]="'background: linear-gradient(90deg, #7d706e 0%, #0c355f 70%, rgba(255, 255, 255, 0) 80%);'"
+                        [href]="'/soty/recap/2024'"
+                        [thumbnailSrc]="'https://www.sueddeutsche.de/2024/05/17/c815ae20-c984-4520-a3d9-b7433b2b4580.jpeg?q=60&fm=jpeg&width=1000&rect=0%2C0%2C1349%2C759'"
+                >
+                    <span class="fs-xl p-b">RECAP: SOTY 2024</span>
+                    <span class="fs-l">my fav songs of 2024</span>
+                </app-highlight-card>
+                <app-highlight-card
+                        [outerStyle]="'background: #435d81'"
+                        [innerStyle]="'background: linear-gradient(90deg, #a0896a 0%, #435d81 60%, rgba(255, 255, 255, 0) 80%);'"
+                        [href]="'/aoty/recap/2023'"
+                        [thumbnailSrc]="'https://www.byte.fm/blog/wp-content/uploads/2023/08/SufjanStevens_Javelin_885.jpg'"
+                >
+                    <span class="fs-xl p-b">RECAP: AOTY 2023</span>
+                    <span class="fs-l">my fav albums of 2023</span>
+                </app-highlight-card>
+                <app-highlight-card
+                        [outerStyle]="'background: #000000'"
+                        [innerStyle]="'background: linear-gradient(90deg, #a5bcda 0%, #000000 70%, rgba(255, 255, 255, 0) 80%);'"
+                        [href]="'/aoty/recap/2022'"
+                        [thumbnailSrc]="'https://cvhsnews.org/wp-content/uploads/2024/01/bfc96cc7-7a7e-4fe2-976f-d7b29c6bc6a8-Screenshot-2023-02-03-105026-1024x563-1.webp'"
+                >
+                    <span class="fs-xl p-b">RECAP: AOTY 2022</span>
+                    <span class="fs-l">my fav albums of 2022</span>
+                </app-highlight-card>
             </div>
         </div>
-        <div class="flex-column gap-xl flex-wrap justify-center">
-            <app-highlight-card
-              [outerStyle]="'background: #4aaeee'"
-              [innerStyle]="'background: linear-gradient(90deg, #6f8b25 0%, #4aaeee 70%, rgb(67, 137, 181, 0) 80%);'"
-              [href]="'/aoty/recap/2025'"
-              [thumbnailSrc]="'https://i.imgur.com/jrcib8w.png'"
-            >
-                <span class="fs-xl p-b">RECAP: AOTY 2025</span>
-                <span class="fs-l">my fav albums of 2025</span>
-            </app-highlight-card>
-            <app-highlight-card
-              [outerStyle]="'background: #851008'"
-              [innerStyle]="'background: linear-gradient(90deg, #141925 0%, #851008 70%, rgba(118, 13, 10, 0) 80%);'"
-              [href]="'/soty/recap/2025'"
-              [thumbnailSrc]="'https://media.pitchfork.com/photos/68a77c46a06ec4bdbd5e1491/16:9/w_1280,c_limit/Maruja:%20Pain%20to%20Power.jpg'"
-            >
-                <span class="fs-xl p-b">RECAP: SOTY 2025</span>
-                <span class="fs-l">my fav songs of 2025</span>
-            </app-highlight-card>
-        </div>
-        <div class="flex-column gap-xl flex-wrap justify-center">
-            <app-highlight-card
-              [outerStyle]="'background: #333738'"
-              [innerStyle]="'background: linear-gradient(90deg, #6e5343 0%, #333738 70%, rgba(255, 255, 255, 0) 80%);'"
-              [href]="'/aoty/recap/all'"
-              [thumbnailSrc]="'https://i.redd.it/rgkjdhd6msjz.jpg'"
-            >
-                <span class="fs-xl p-b">TOP 100 ALBUMS</span>
-                <span class="fs-l">my fav albums of all time</span>
-            </app-highlight-card>
-            <app-highlight-card
-              [outerStyle]="'background: #e4e3de'"
-              [innerStyle]="'background: linear-gradient(90deg, #5a7779 0%, #e4e3de 70%, rgba(255, 255, 255, 0) 80%);'"
-              [href]="'/soty/recap/0'"
-              [thumbnailSrc]="'https://64.media.tumblr.com/3fafc7bae1615ff3deb07ebfeaebaf5c/46a3494adefc7da7-b4/s1280x1920/920d0c081a6a02b8af673cb866c56d43ace69245.jpg'"
-            >
-                <span class="fs-xl p-b">TOP 100 SONGS</span>
-                <span class="fs-l">some of my fav songs of all time</span>
-            </app-highlight-card>
-        </div>
-        <div class="flex-column gap-xl flex-wrap justify-center">
-            <app-highlight-card
-                    [outerStyle]="'background: rgb(139, 200, 0)'"
-                    [innerStyle]="'background: linear-gradient(90deg, #d077ad 0%, rgb(139, 200, 0) 50%, rgba(255, 255, 255, 0) 100%);'"
-                    [href]="'/aoty/recap/2024'"
-                    [thumbnailSrc]="'https://qnews.com.au/wp-content/uploads/2024/10/24-10-12-charli-xcx-brat-composite-photo.jpg'"
-            >
-                <span class="fs-xl p-b">RECAP: AOTY 2024</span>
-                <span class="fs-l">my fav albums of 2024</span>
-            </app-highlight-card>
-            <app-highlight-card
-                    [outerStyle]="'background: #0c355f'"
-                    [innerStyle]="'background: linear-gradient(90deg, #7d706e 0%, #0c355f 70%, rgba(255, 255, 255, 0) 80%);'"
-                    [href]="'/soty/recap/2024'"
-                    [thumbnailSrc]="'https://www.sueddeutsche.de/2024/05/17/c815ae20-c984-4520-a3d9-b7433b2b4580.jpeg?q=60&fm=jpeg&width=1000&rect=0%2C0%2C1349%2C759'"
-            >
-                <span class="fs-xl p-b">RECAP: SOTY 2024</span>
-                <span class="fs-l">my fav songs of 2024</span>
-            </app-highlight-card>
-            <app-highlight-card
-              [outerStyle]="'background: #435d81'"
-              [innerStyle]="'background: linear-gradient(90deg, #a0896a 0%, #435d81 60%, rgba(255, 255, 255, 0) 80%);'"
-              [href]="'/aoty/recap/2023'"
-              [thumbnailSrc]="'https://www.byte.fm/blog/wp-content/uploads/2023/08/SufjanStevens_Javelin_885.jpg'"
-            >
-                <span class="fs-xl p-b">RECAP: AOTY 2023</span>
-                <span class="fs-l">my fav albums of 2023</span>
-            </app-highlight-card>
-            <app-highlight-card
-              [outerStyle]="'background: #000000'"
-              [innerStyle]="'background: linear-gradient(90deg, #a5bcda 0%, #000000 70%, rgba(255, 255, 255, 0) 80%);'"
-              [href]="'/aoty/recap/2022'"
-              [thumbnailSrc]="'https://cvhsnews.org/wp-content/uploads/2024/01/bfc96cc7-7a7e-4fe2-976f-d7b29c6bc6a8-Screenshot-2023-02-03-105026-1024x563-1.webp'"
-            >
-                <span class="fs-xl p-b">RECAP: AOTY 2022</span>
-                <span class="fs-l">my fav albums of 2022</span>
-            </app-highlight-card>
-        </div>
-    </div>
-    <div class="flex-column gap-xxl flex-wrap justify-center">
-        <div class="flex-column align-center justify-center">
-            <img alt="favicon" class="favicon" src="assets/favicon-movies.png">
-            <p class="p-b-i fs-xl text-title">rankings of my favorite movies & shows</p>
-        </div>
-        <div class="flex-row m-flex-column gap-xl align-center justify-center">
-            <app-item
-                    [item]="{year: 0, week: 0, preview : [
+        <div class="flex-column gap-xxl flex-wrap justify-center">
+            <div class="flex-column align-center justify-center">
+                <img alt="favicon" class="favicon" src="assets/favicon-movies.png">
+                <p class="p-b-i fs-xl text-title">rankings of my favorite movies & shows</p>
+            </div>
+            <div class="flex-row m-flex-column gap-xl align-center justify-center">
+                <app-item
+                        [item]="{year: 0, week: 0, preview : [
                 'https://a.ltrbxd.com/resized/sm/upload/mp/pz/lf/2i/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg?v=27c6c6fba7',
                 'https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-230-0-345-crop.jpg?v=053670ff84',
                 'https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-230-0-345-crop.jpg?v=1ed5878cce',
                 'https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4',
                 ]}"
-                    [isAoty]="'SLIST'"
-                    [queryParams]="{ c: 'movies', s: 'rating'  }"
-                    [text]="'all movies by rating'"
-            ></app-item>
-            <app-item
-                    [item]="{year: 0, week: 0, preview : [
+                        [isAoty]="'SLIST'"
+                        [queryParams]="{ c: 'movies', s: 'rating'  }"
+                        [text]="'all movies by rating'"
+                ></app-item>
+                <app-item
+                        [item]="{year: 0, week: 0, preview : [
                 'https://serializd-tmdb-images.b-cdn.net/t/p/w500/h38CNkWBKfYHucKgzCvvbBPlJ3c.jpg',
                 'https://serializd-tmdb-images.b-cdn.net/t/p/w500/zT2mVz7FH0mgNmD812EkK1W8GQ1.jpg',
                 'https://serializd-tmdb-images.b-cdn.net/t/p/w500/tqVsG9NLd50JxbthieI9EoojtTh.jpg',
                 'https://serializd-tmdb-images.b-cdn.net/t/p/w500/p3NB75PVMctDhRtLuwK4dDWWXLJ.jpg'
                 ]}"
-                    [isAoty]="'SLIST'"
-                    [queryParams]="{ c: 'shows', s: 'rating' }"
-                    [text]="'all shows by rating'"
-            ></app-item>
-        </div>
-        <div class="outer-highlight-card outer-highlight-card-movie">
-            <a
-                    class="flex-column gap-s align-center"
-                    [routerLink]="['/shows']"
-            >
-                <span class="fs-xl p-b">show all movies & shows</span>
-            </a>
+                        [isAoty]="'SLIST'"
+                        [queryParams]="{ c: 'shows', s: 'rating' }"
+                        [text]="'all shows by rating'"
+                ></app-item>
+            </div>
+            <div class="outer-highlight-card outer-highlight-card-movie">
+                <a
+                        class="flex-column gap-s align-center"
+                        [routerLink]="['/shows']"
+                >
+                    <span class="fs-xl p-b">show all movies & shows</span>
+                </a>
+            </div>
         </div>
     </div>
-</div>
+
+}

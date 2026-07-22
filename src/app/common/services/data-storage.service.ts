@@ -4,11 +4,7 @@ import {catchError, forkJoin, map, Observable, of, tap} from "rxjs";
 import {SotwList} from "../../songs-of-the-week/models/sotw-list";
 import {SotwItem} from "../../songs-of-the-week/models/sotw-item";
 import {SotwService} from "../../songs-of-the-week/services/sotw.service";
-import {AotyService} from "../../albums-of-the-year/services/old-aoty.service";
-import {AotyItem} from "../../albums-of-the-year/models/aoty-item";
-import {AotyList} from "../../albums-of-the-year/models/aoty-list";
 import {Router} from "@angular/router";
-import {AliasList} from "../../albums-of-the-year/models/alias-list";
 import {MotyItem} from "../../shows-of-the-year/models/moty-item";
 import {MotyService} from "../../shows-of-the-year/services/moty.service";
 import {ReviewService} from "../../review/services/review.service";
@@ -23,27 +19,9 @@ export class DataStorageService {
 
     constructor(private http: HttpClient,
                 private sotwService: SotwService,
-                private aotyService: AotyService,
                 private motyService : MotyService,
                 private router: Router,
                 private reviewService: ReviewService) {
-    }
-
-    fetchAliasList(): Observable<AliasList> {
-        return this.http.get<AliasList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/artists.json',
-        ).pipe(
-            tap((value: AliasList) => {
-                if (value != null) {
-                    this.logger.log("Requested ALIAS list");
-                    this.aotyService.setAliasList(value);
-                }
-            }),
-            catchError((err, _) => {
-                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
-                return of(err);
-            })
-        );
     }
 
     fetchSotwList(): Observable<SotwList> {
@@ -112,41 +90,6 @@ export class DataStorageService {
         )
     }
 
-    fetchAotyList(): Observable<AotyList> {
-        return this.http.get<AotyList>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty-list.json',
-        ).pipe(
-            tap((value: AotyList) => {
-                if (value != null) {
-                    this.logger.log("Requested AOTY list");
-                    this.aotyService.setAotyList(value);
-                }
-            }),
-            catchError((err, _) => {
-                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
-                return of(err);
-            })
-        );
-    }
-
-    fetchAotyItem(year: number): Observable<AotyItem> {
-        return this.http.get<AotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
-        ).pipe(
-            tap((value: AotyItem) => {
-                if (value != null) {
-                    this.logger.log("Requested AOTY item", value)
-                    this.aotyService.setAlbumsOfTheYear(value);
-                }
-            }),
-            catchError((err, _) => {
-                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
-                return of(err);
-            })
-        );
-    }
-
-
     fetchMotyItems(): Observable<(MotyItem | HttpErrorResponse)[]> {
         const movieUrls = [1976, 1977, 1980, 1983, 1988, 1990, 1992, 1993, 1994, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
         const seriesUrls = [1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025];
@@ -173,35 +116,6 @@ export class DataStorageService {
     fetchSingleMotyItem(url: number, type: string): Observable<MotyItem | HttpErrorResponse> {
         return this.http.get<MotyItem>(
             'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/' + type + '/' + url + '.json',
-        ).pipe(
-            catchError((err, _) => of(err))
-        );
-    }
-
-    fetchAggregatedAotyItems(validYears: number[]): Observable<(AotyItem | HttpErrorResponse)[]> {
-        const urls = validYears.map(year => this.fetchSingleAggregatedAotyItem(year));
-        return forkJoin<(AotyItem | HttpErrorResponse)[]>(urls).pipe(
-            map((value: (AotyItem | HttpErrorResponse)[]) => {
-                const res: (AotyItem | HttpErrorResponse)[] = [];
-                for (const item of value) {
-                    if (!(item instanceof HttpErrorResponse)) {
-                        res.push(item)
-                    }
-                }
-                return res;
-            }),
-            tap((value: (AotyItem | HttpErrorResponse)[]) => {
-                if (value != null) {
-                    this.logger.log("Requested AOTY-AGGREGATE item", value)
-                    this.aotyService.setAggregatedAlbums(value);
-                }
-            })
-        )
-    }
-
-    fetchSingleAggregatedAotyItem(year: number): Observable<AotyItem | HttpErrorResponse> {
-        return this.http.get<AotyItem>(
-            'https://raw.githubusercontent.com/n0j0games/musicapp/refs/heads/main/data/aoty/' + year + '.json',
         ).pipe(
             catchError((err, _) => of(err))
         );

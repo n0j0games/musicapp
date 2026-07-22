@@ -1,5 +1,4 @@
 import {Injectable} from "@angular/core";
-import {AotyItem} from "../models/aoty-item";
 import {AotyRequest} from "../models/aoty-request";
 import {Observable} from "rxjs";
 import {AotyResponse} from "../models/aoty-response";
@@ -13,6 +12,10 @@ import {QueryParams} from "../../common/utils/query-param-helper";
 export class AotyService {
 
     constructor(private http: HttpService) {
+    }
+
+    public searchAndMapAotyItems(request: AotyRequest) {
+        return this.http.searchAlbums(request);
     }
 
     public searchAotyItems(params: QueryParams): Observable<AotyResponse> {
@@ -45,7 +48,7 @@ export class AotyService {
             req.searchCategory = params.searchCategory;
         }
         if (params.rating) {
-            req.rating = params.rating;
+            req.rating = [params.rating];
         }
         return req;
     }

@@ -1,5 +1,4 @@
 import {Component, OnInit} from '@angular/core';
-import {AotyService} from "../../albums-of-the-year/services/old-aoty.service";
 import {Artist} from "../../albums-of-the-year/models/artist";
 import {Logger} from "../../common/utils/logger";
 import {NormalizeHelper} from "../../common/utils/normalize-helper";
@@ -10,6 +9,9 @@ import {Router} from "@angular/router";
 import {Sorting} from "../../common/utils/sorting.enum";
 import {ProgressBarComponent} from "../../common/components/progress-bar/progress-bar.component";
 import {SearchCategory} from "../../common/utils/search-category.enum";
+import {AotyService} from "../../albums-of-the-year/services/aoty.service";
+import {forkJoin} from "rxjs";
+import {Album} from "../../albums-of-the-year/models/album";
 
 @Component({
     selector: 'app-discographies',
@@ -24,6 +26,7 @@ import {SearchCategory} from "../../common/utils/search-category.enum";
 export class DiscographiesComponent implements OnInit {
 
     aliasList: AliasList | null = null;
+    loading: boolean = true;
 
     constructor(private aotyService: AotyService, private router: Router) {
     }
@@ -31,39 +34,29 @@ export class DiscographiesComponent implements OnInit {
     private logger: Logger = new Logger(this);
 
     ngOnInit() {
-        const aliasList = this.aotyService.getAliasList();
-        if (aliasList == undefined) {
-            this.logger.error("Alias list is empty");
-            return;
-        }
-        this.aliasList = aliasList;
-        this.calculateListenedToAlbums();
-        this.logger.debug(this.aliasList);
+        forkJoin([
+            this.aotyService.getAliasList(),
+            this.aotyService.searchAndMapAotyItems({}),
+        ]).subscribe(([al, a]) => {
+            this.aliasList = al;
+            this.calculateListenedToAlbums(a.albums);
+            this.loading = false;
+        });
     }
 
-    private calculateListenedToAlbums(): void {
-        let aotyList = this.aotyService.getAotyList();
-        const queryYears = aotyList!.items!.map(value => value.year);
-        let aotyItems = this.aotyService.getAggregatedAlbums(queryYears);
-        if (aotyItems == null) {
-            this.logger.error("Aoty list is empty");
-            return;
-        }
+    private calculateListenedToAlbums(albums: Album[]): void {
         const artists: Artist[] = [];
         for (const artist of this.aliasList!.artists) {
             let count = 0;
             let countFromOther = 0;
-            for (const item of aotyItems) {
-                const albums_ = item.albums.slice();
-                for (const album of albums_) {
-                    const normArtistName = NormalizeHelper.fromNormalToQueryString(artist.name);
-                    if (GroupAliasHelper.artistFilter(normArtistName, true, false, album, this.aliasList!)) {
-                        count += 1;
-                        this.logger.debug("Added 1 to " + artist.name, album.title);
-                    } else if (GroupAliasHelper.artistFilter(normArtistName, false, false, album, this.aliasList!)) {
-                        countFromOther += 1;
-                        this.logger.debug("Lazy Added 1 to " + artist.name, album.title);
-                    }
+            for (const album of albums) {
+                const normArtistName = NormalizeHelper.fromNormalToQueryString(artist.name);
+                if (GroupAliasHelper.artistFilter(normArtistName, true, false, album, this.aliasList!)) {
+                    count += 1;
+                    this.logger.debug("Added 1 to " + artist.name, album.title);
+                } else if (GroupAliasHelper.artistFilter(normArtistName, false, false, album, this.aliasList!)) {
+                    countFromOther += 1;
+                    this.logger.debug("Lazy Added 1 to " + artist.name, album.title);
                 }
             }
             artists.push({

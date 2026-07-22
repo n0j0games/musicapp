@@ -1,12 +1,11 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from "@angular/router";
-import {AotyService} from "../services/old-aoty.service";
-import {AotyItem} from "../models/aoty-item";
 import {Album} from "../models/album";
 import {SongInfo} from "../../common/utils/songinfo";
 import {RecapComponent} from "../../common/components/recap/recap.component";
 import {BehaviorSubject} from "rxjs";
 import {Logger} from "../../common/utils/logger";
+import {AotyService} from "../services/aoty.service";
 
 @Component({
     selector: 'app-all-albums-recap',
@@ -23,7 +22,6 @@ export class AllAlbumsRecapComponent implements OnInit {
     constructor(private route: ActivatedRoute, private router: Router, private aotyService: AotyService) {
     }
 
-    albumsOfTheYear!: AotyItem | null;
     playTracks!: SongInfo[][];
     albumsOfTheYear$: BehaviorSubject<{
         items: Album[],
@@ -43,42 +41,27 @@ export class AllAlbumsRecapComponent implements OnInit {
 
     ngOnInit(): void {
         this.getAllFavs();
-        this.playTracks = this.aggregateSongs();
-        this.albumsOfTheYear$.next({ items : this.albumsOfTheYear!.albums, playTracks : this.playTracks, linearGradients: this.linearGradients, maxAlbums: this.maxAlbums });
     }
 
     private getAllFavs() {
-        let aotyList = this.aotyService.getAotyList();
-        const queryYears = aotyList!.items!.map(value => value.year);
-        let albums = this.getAggregatedAlbums(queryYears);
-        albums = albums.filter(value => value.rating >= 8);
-        this.albumsOfTheYear = { year : 0, albums : albums };
-        this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.sort((a, b) => b.rating - a.rating);
-        this.albumsOfTheYear.albums = this.albumsOfTheYear.albums.splice(0, 100);
-    }
-
-    private getAggregatedAlbums(queryYears : number[]) : Album[] {
-        let aotyItems = this.aotyService.getAggregatedAlbums(queryYears);
-        if (aotyItems == null) {
-            this.router.navigate(['**']).then(() => this.logger.error("Empty query, routed to 404"));
-            return [];
-        }
-        aotyItems = aotyItems.sort((a, b) => a.year - b.year);
-        let albums : Album[] = [];
-        for (const item of aotyItems) {
-            const albums_ = item.albums.slice();
-            for (const album of albums_) {
-                if (album.year === undefined) {
-                    album.year = item.year;
-                }
+        this.aotyService.searchAndMapAotyItems({ rating: [9, 10] }).subscribe(p => {
+            if (p.albums.length == 0) {
+                this.router.navigate(['**']).then(() => this.logger.error("No data, routed to 404"));
+                return;
             }
-            albums = albums.concat(albums_);
-        }
-        return albums;
+            const albums = p.albums.slice()
+                .sort((a, b) => b.rating - a.rating)
+                .splice(0, 100);
+            this.initializePlayTracksAndAoty(albums);
+        });
     }
 
-    private aggregateSongs() {
-        const albums: Album[] = <Album[]>this.albumsOfTheYear!.albums;
+    private initializePlayTracksAndAoty(albums: Album[]) {
+        this.playTracks = this.aggregateSongs(albums);
+        this.albumsOfTheYear$.next({ items : albums, playTracks : this.playTracks, linearGradients: this.linearGradients, maxAlbums: this.maxAlbums });
+    }
+
+    private aggregateSongs(albums: Album[]) {
         this.logger.debug(albums, "albums")
         const aggregatedSongs: SongInfo[][] = [];
         for (let album of albums) {

@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, ElementRef, OnInit, ViewChild} from '@angular/core';
+import {AfterViewInit, Component, ElementRef, EventEmitter, OnInit, ViewChild} from '@angular/core';
 import {NgIf} from "@angular/common";
 import {PlayButtonComponent} from "../common/components/play-button/play-button.component";
 import {RatingComponent} from "../common/components/rating/rating.component";
@@ -7,8 +7,9 @@ import {RemoveFeatPipe} from "../common/pipes/remove-feat.pipe";
 import {VinylComponent} from "../common/components/vinyl/vinyl.component";
 import {ActivatedRoute} from "@angular/router";
 import {ReviewService} from "./services/review.service";
-import {AotyService} from "../albums-of-the-year/services/old-aoty.service";
 import {NormalizeHelper} from "../common/utils/normalize-helper";
+import {AotyService} from "../albums-of-the-year/services/aoty.service";
+import {Observable} from "rxjs";
 
 @Component({
   selector: 'app-review',
@@ -29,7 +30,7 @@ export class ReviewComponent implements OnInit, AfterViewInit {
 
     coverImg : string | undefined;
     name: string | undefined;
-    reviewHtml!: string;
+    reviewHtml$ = new EventEmitter<string | undefined>(undefined);
     title: string | undefined;
 
     constructor(private route : ActivatedRoute, private reviewService: ReviewService, private aotyService: AotyService) {
@@ -44,22 +45,24 @@ export class ReviewComponent implements OnInit, AfterViewInit {
         const artist = path.split("--")[0].replaceAll("-", " ")
         const albumName = path.split("--")[1].replaceAll("-", " ");
         this.name = artist + " - " + albumName;
-        const album = this.aotyService.getAlbumByName(NormalizeHelper.normalize(artist), NormalizeHelper.normalize(albumName));
-        if (album != null) {
-          this.coverImg = album.imgUrl;
-        } else {
-          console.error("Could not load cover image");
-        }
+        this.aotyService.searchAndMapAotyItems({ artist: NormalizeHelper.normalize(artist), title: NormalizeHelper.normalize(albumName) }).subscribe(p => {
+            const album = p.albums.length == 1 ? p.albums[0] : undefined;
+            if (!album) {
+                console.error("Could not load album");
+                return;
+            }
+            this.coverImg = album.imgUrl;
+            const rawReview = this.reviewService.getReview(path);
+            const splitted = rawReview.split("\n");
+            this.title = splitted[0];
+            const remaining = splitted.slice(1, splitted.length - 1);
 
-        const rawReview = this.reviewService.getReview(path);
-        const splitted = rawReview.split("\n");
-        this.title = splitted[0];
-        const remaining = splitted.slice(1, splitted.length - 1);
-
-        this.reviewHtml = remaining.join("<br>").replaceAll("-!--", "<span class='p-b-i'>").replaceAll("---","</span>");
+            this.reviewHtml$.emit(remaining.join("<br>").replaceAll("-!--", "<span class='p-b-i'>").replaceAll("---","</span>"));
+        });
     }
 
     ngAfterViewInit() {
-        this.reviewEl.nativeElement.innerHTML = this.reviewHtml;
+        this.reviewEl.nativeElement.innerHTML = "";
+        this.reviewHtml$.subscribe(e => this.reviewEl.nativeElement.innerHTML = e)
     }
 }

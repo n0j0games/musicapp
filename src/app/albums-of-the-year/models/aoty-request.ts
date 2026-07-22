@@ -5,7 +5,9 @@ export interface AotyRequest {
     year?: number;
     decade?: number;
     search?: string;
-    rating?: number;
+    rating?: number[];
+    artist?: string;
+    title?: string;
     isStrict?: boolean;
     isReviewsOnly?: boolean;
     searchCategory?: SearchCategory;
