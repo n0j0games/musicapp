@@ -1,0 +1,98 @@
+<div style="height: 80vh" class="flex-column align-center gap-l">
+    <div class="flex-row gap-s" [formGroup]="searchFormGroup">
+        <input [formControl]="searchFormGroup.controls.searchForm">
+        <button class="select" [disabled]="!searchFormGroup.valid" (click)="onSearchSubmit()">Search</button>
+    </div>
+    @if (options(); as options) {
+        @if (options.length > 0) {
+            <div class="flex-row gap-s" [formGroup]="searchFormGroup2" >
+                <select [formControl]="searchFormGroup2.controls.album">
+                    @for (option of options; track $index) {
+                        <option [ngValue]="option">{{ option.artist + '-' + option.name }}</option>
+                    }
+                </select>
+                <button class="select" [disabled]="!searchFormGroup2.valid" (click)="onSearch2Submit()">Add album</button>
+            </div>
+        }
+    }
+    @if (albumToModify(); as album) {
+        <div [formGroup]="modifyFormGroup" class="flex-column gap-s align-start">
+            <div class="flex-row gap-s align-center">
+                @if (albumToModify()?.imageUrl) {
+                    <img [src]="albumToModify()?.imageUrl" style="height: 100px; width: 100px" alt="album">
+                }
+                <p class="p-b fs-m">{{ albumToModify()?.artist + '-' + albumToModify()?.title }}</p>
+                <p class="p-b fs-m">{{ albumToModify()?.year }}</p>
+            </div>
+
+            <div class="flex-row align-center gap-s">
+                <label class="fs-s" for="rating">Rating</label>
+                <input id="rating" [formControl]="modifyFormGroup.controls.rating"  [type]="'number'" step="0.1" min="0" max="10">
+            </div>
+
+            <div class="flex-row align-center gap-s">
+                <label class="fs-s" for="genre">Genre (optional)</label>
+                <input id="genre" [formControl]="modifyFormGroup.controls.genre">
+            </div>
+
+
+            <div class="flex-row align-center gap-s">
+                <label class="fs-s" for="color">Color (optional)</label>
+                <input id="color" [formControl]="modifyFormGroup.controls.color">
+            </div>
+
+
+            <div class="flex-row align-center gap-s">
+                <label class="fs-s" for="onVinyl">On vinyl?</label>
+                <input id="onVinyl" [formControl]="modifyFormGroup.controls.onVinyl" [type]="'checkbox'">
+            </div>
+
+            <div class="flex-row align-center gap-s">
+                <label class="fs-s" for="type">Type</label>
+                <select id="type" [formControl]="modifyFormGroup.controls.type">
+                    <option [ngValue]="'LP'">{{ 'LP' }}</option>
+                    <option [ngValue]="'EP'">{{ 'LP' }}</option>
+                    <option [ngValue]="'Reissue'">{{ 'Reissue' }}</option>
+                    <option [ngValue]="'Deluxe'">{{ 'Deluxe' }}</option>
+                </select>
+            </div>
+
+            <div class="flex-row align-center gap-s">
+                <label class="fs-s">Songs</label>
+
+                <div class="multiselect">
+                    <button type="button" class="multiselect-toggle" (click)="multiSelectOpen = true">
+                        {{ this.modifyFormGroup.controls.songs.value?.length === 0 ? 'Select songs' : 'Selected: ' + this.modifyFormGroup.controls.songs.value?.join(', ') }}
+                    </button>
+
+                    @if (multiSelectOpen) {
+                        <div class="modal">
+                            <ul class="modal-inner multiselect-panel">
+                                <button type="button" class="multiselect-toggle" (click)="multiSelectOpen = false">
+                                    Close
+                                </button>
+                                @for (song of songsToChooseFrom(); track $index) {
+                                    <li>
+                                        <label class="fs-s">
+                                            <input
+                                                    type="checkbox"
+                                                    [checked]="isSelected(song)"
+                                                    (change)="toggle(song)"
+                                            />
+                                            {{ song.name }}
+                                        </label>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <button class="select" [disabled]="!modifyFormGroup.valid" (click)="modifyAdd()">Add album</button>
+        </div>
+    }
+    @if (albumsToAdd().length > 0) {
+        <button class="select" (click)="submit()">Submit</button>
+    }
+</div>

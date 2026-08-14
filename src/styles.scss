@@ -57,11 +57,24 @@ body {
   background-repeat: no-repeat;
 }
 
-p {
+dialog::backdrop {
+  background: linear-gradient(180deg, variables.$primary-color-lighter 10vh, variables.$primary-color 30vh);
+}
+
+dialog {
+  background: variables.$outer-track;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+
+
+p, label {
   color: variables.$text-color;
 }
 
-p, a, input, review-text {
+p, a, input, review-text, label {
   font-family: "Plus Jakarta Sans Medium", "Noto Sans JP", serif;
   font-size: variables.$medium;
   margin: 0;

@@ -15,8 +15,11 @@ import {ReviewComponent} from "./review/review.component";
 import {ReviewResolverService} from "./review/resolver/review-resolver.service";
 import {ShowsOfTheYearComponent} from "./shows-of-the-year/shows-of-the-year.component";
 import {DiscographiesComponent} from "./home/discographies/discographies.component";
+import {AddAlbumsComponent} from "./admin/add-albums/add-albums.component";
+import {permissionGuard} from "./common/guards/permission.guard";
 
 export const routes: Routes = [
+  { path: 'admin', component: AddAlbumsComponent, canActivate: [permissionGuard] },
   { path: 'home', component: HomeComponent, resolve: [SotwResolverService] },
   { path: 'home/discographies', component: DiscographiesComponent },
   { path: 'review/:path', component: ReviewComponent, resolve: [ReviewResolverService]},

@@ -1,0 +1,14 @@
+<dialog #loginDialog>
+    <form class="flex-row align-center gap-l" (ngSubmit)="submit()" [formGroup]="form">
+        <label>
+            Username
+            <input type="text" formControlName="mail" />
+        </label>
+        <label>
+            Password
+            <input type="password" formControlName="password" />
+        </label>
+        <button class="select" type="submit">Login</button>
+        <button class="select" type="button" (click)="cancel()">Cancel</button>
+    </form>
+</dialog>
