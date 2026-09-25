@@ -1,4 +1,5 @@
 <div style="height: 80vh" class="flex-column align-center gap-l">
+    <p class="p-b-i fs-xl text-title">Add albums</p>
     <div class="flex-row gap-s" [formGroup]="searchFormGroup">
         <input [formControl]="searchFormGroup.controls.searchForm">
         <button class="select" [disabled]="!searchFormGroup.valid" (click)="onSearchSubmit()">Search</button>
@@ -62,7 +63,7 @@
 
                 <div class="multiselect">
                     <button type="button" class="multiselect-toggle" (click)="multiSelectOpen = true">
-                        {{ this.modifyFormGroup.controls.songs.value?.length === 0 ? 'Select songs' : 'Selected: ' + this.modifyFormGroup.controls.songs.value?.join(', ') }}
+                        {{ this.modifyFormGroup.controls.songs.value?.length === 0 ? 'Select songs' : 'Selected: ' + getSelectedSongs() }}
                     </button>
 
                     @if (multiSelectOpen) {
@@ -93,6 +94,7 @@
         </div>
     }
     @if (albumsToAdd().length > 0) {
+        <p>Albums to submit: {{ albumNames().join(', ') }}</p>
         <button class="select" (click)="submit()">Submit</button>
     }
 </div>

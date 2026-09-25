@@ -492,9 +492,10 @@ option:disabled {
 .modal {
   position: absolute;
   z-index: 3;
-  width: 100%;
+  width: 50%;
+  max-width: 300px;
   top: 250px;
-  left: 0;
+  left: 20px;
   right: 0;
 }
 

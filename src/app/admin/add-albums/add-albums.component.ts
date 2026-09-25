@@ -1,4 +1,4 @@
-import {Component, inject, signal} from '@angular/core';
+import {Component, computed, inject, signal} from '@angular/core';
 import {FormControl, FormGroup, ReactiveFormsModule, Validators} from "@angular/forms";
 import {AdminService} from "../services/admin.service";
 import {SpotifySearchItem} from "../models/spotify-search-item";
@@ -59,6 +59,11 @@ export class AddAlbumsComponent {
 
   songsToChooseFrom = signal<SpotifyGetAlbumTrack[]>([]);
 
+  getSelectedSongs() {
+    const value: SpotifyGetAlbumTrack[] | null = this.modifyFormGroup.controls.songs.value;
+    return value ? value.map(p => p.name).join(', ') : undefined;
+  };
+
   multiSelectOpen: boolean = false;
 
   modifyFormGroup = new FormGroup({
@@ -76,7 +81,7 @@ export class AddAlbumsComponent {
 
   toggle(song: SpotifyGetAlbumTrack) {
     const cur = this.modifyFormGroup.controls.songs.value ?? [];
-    const next = this.isSelected(song) ? cur.filter(x => x.name === song.name) : [...cur, song];
+    const next = this.isSelected(song) ? cur.filter(x => x.name !== song.name) : [...cur, song];
     this.modifyFormGroup.patchValue({ songs: next });
   }
 
@@ -121,10 +126,12 @@ export class AddAlbumsComponent {
   // Step 4: Collect albums to add
 
   albumsToAdd = signal<Album[]>([]);
+  albumNames = computed(() => {
+    return this.albumsToAdd().map(p => p.artist + ' - ' +  p.title);
+  });
 
   submit() {
     this.adminService.addAlbums(this.albumsToAdd())
-    console.log(this.albumsToAdd());
   }
 
 }

@@ -44,7 +44,6 @@ export class HttpService {
         return this.http.post<SpotifySearchResponse>(
             this.rootUrl + '/rncl/search-spotify', { query: req }).pipe(
                 catchError((err, _) => {
-                    this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                     return of(err);
         }));
     }
@@ -53,7 +52,6 @@ export class HttpService {
         return this.http.post<SpotifyGetAlbumResponse>(
             this.rootUrl + '/rncl/spotify-get-album', { id: id }).pipe(
             catchError((err, _) => {
-                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             }));
     }
@@ -62,7 +60,6 @@ export class HttpService {
         return this.http.post<AotyResponse>(
             this.rootUrl + '/rncl/aoty/search', req
         ).pipe(catchError((err, _) => {
-                this.router.navigate(['**']).then(() => this.logger.error("Error while loading", err));
                 return of(err);
             }));
     }
